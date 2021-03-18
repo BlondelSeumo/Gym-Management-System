@@ -1,0 +1,3605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GYM - Master\n"
+"POT-Creation-Date: 2019-02-20 15:48+0530\n"
+"PO-Revision-Date: 2020-06-10 10:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
+#: Template/Membership/view_activity.ctp:62
+msgid "Add Activity"
+msgstr "Thêm hoạt động"
+
+#: Controller/ActivityController.php:72
+#: Controller/GymDailyWorkoutController.php:91
+#: Controller/GymDailyWorkoutController.php:194
+#: Controller/GymDailyWorkoutController.php:275
+#: Controller/GymMemberController.php:135
+#: Controller/GymProductController.php:28 Controller/GymStoreController.php:45
+#: Controller/MembershipPaymentController.php:201
+#: Controller/MembershipPaymentController.php:342
+msgid "Success! Record Saved Successfully."
+msgstr "Sự thành công! Lưu hồ sơ thành công."
+
+#: Controller/ActivityController.php:83 Controller/GymGroupController.php:89
+#: Controller/GymReservationController.php:79
+msgid "Success! Record Deleted Successfully"
+msgstr "Sự thành công! Xóa hồ sơ thành công"
+
+#: Controller/ActivityController.php:91
+msgid "Edit Activity"
+msgstr "Chỉnh sửa hoạt động"
+
+#: Controller/ActivityController.php:137
+#: Controller/GymAccountantController.php:90
+#: Controller/GymDailyWorkoutController.php:223
+#: Controller/GymDailyWorkoutController.php:436
+#: Controller/GymMemberController.php:286
+#: Controller/GymProductController.php:46 Controller/GymStoreController.php:89
+#: Controller/MembershipPaymentController.php:155
+#: Controller/MembershipPaymentController.php:246
+#: Controller/MembershipPaymentController.php:368
+#: Controller/StaffMembersController.php:105
+msgid "Success! Record Updated Successfully."
+msgstr "Sự thành công! Cập nhật hồ sơ thành công."
+
+#: Controller/AdminProfileController.php:55
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "Sự thành công! Ghi lại thành công. Vui lòng đăng nhập lại để xem các thay đổi."
+
+#: Controller/AdminProfileController.php:72
+#: Controller/GeneralSettingController.php:99
+#: Controller/GymAccountantController.php:58
+#: Controller/GymAccountantController.php:106
+#: Controller/GymDailyWorkoutController.php:279
+#: Controller/GymDailyWorkoutController.php:440
+#: Controller/GymGroupController.php:43 Controller/GymGroupController.php:76
+#: Controller/GymMemberController.php:162
+#: Controller/GymMemberController.php:315
+#: Controller/MembershipController.php:71
+#: Controller/MembershipController.php:153
+#: Controller/StaffMembersController.php:66
+#: Controller/StaffMembersController.php:121
+msgid "Invalid File Extension, Please Retry."
+msgstr "Mở rộng tệp không hợp lệ, vui lòng thử lại."
+
+#: Controller/ClassScheduleController.php:41
+#: Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "Thêm lịch học"
+
+#: Controller/ClassScheduleController.php:80
+#: Controller/GymReservationController.php:33
+#: Controller/MembershipController.php:64
+msgid "Success! Record Saved Successfully"
+msgstr "Sự thành công! Lưu hồ sơ thành công"
+
+#: Controller/ClassScheduleController.php:83
+#: Controller/MembershipController.php:150
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "Lỗi! Có lỗi trong khi cập nhật, Vui lòng thử lại sau."
+
+#: Controller/ClassScheduleController.php:92
+msgid "Edit Class Schedule"
+msgstr "Chỉnh sửa lịch học"
+
+#: Controller/ClassScheduleController.php:143
+#: Controller/GymGroupController.php:72
+#: Controller/GymReservationController.php:67
+#: Controller/MembershipController.php:147
+msgid "Success! Record Updated Successfully"
+msgstr "Sự thành công! Cập nhật hồ sơ thành công"
+
+#: Controller/ClassScheduleController.php:153
+msgid "Success! Class Deleted Successfully."
+msgstr "Sự thành công! Lớp đã xóa thành công."
+
+#: Controller/Component/GYMFunctionComponent.php:262
+#: Template/GymMember/view_member.ctp:146
+msgid "Weight Report"
+msgstr "Báo cáo cân nặng"
+
+#: Controller/Component/GYMFunctionComponent.php:263
+#: Controller/Component/GYMFunctionComponent.php:269
+#: Controller/Component/GYMFunctionComponent.php:275
+#: Controller/Component/GYMFunctionComponent.php:281
+#: Controller/Component/GYMFunctionComponent.php:287
+#: Controller/Component/GYMFunctionComponent.php:293
+#: Controller/Component/GYMFunctionComponent.php:299
+#: Template/GymMember/view_attendance.ctp:69
+msgid "Day"
+msgstr "ngày"
+
+#: Controller/Component/GYMFunctionComponent.php:268
+#: Template/GymMember/view_member.ctp:196
+msgid "Thigh Report"
+msgstr "Báo cáo đùi"
+
+#: Controller/Component/GYMFunctionComponent.php:274
+#: Template/GymMember/view_member.ctp:246
+msgid "Height Report"
+msgstr "Báo cáo chiều cao"
+
+#: Controller/Component/GYMFunctionComponent.php:280
+#: Template/GymMember/view_member.ctp:270
+msgid "Chest Report"
+msgstr "Báo cáo ngực"
+
+#: Controller/Component/GYMFunctionComponent.php:286
+#: Template/GymMember/view_member.ctp:170
+msgid "Waist Report"
+msgstr "Báo cáo eo"
+
+#: Controller/Component/GYMFunctionComponent.php:292
+#: Template/GymMember/view_member.ctp:220
+msgid "Arms Report"
+msgstr "Báo cáo vũ khí"
+
+#: Controller/Component/GYMFunctionComponent.php:298
+#: Template/GymMember/view_member.ctp:296
+msgid "Fat Report"
+msgstr "Báo cáo chất béo"
+
+#: Controller/Component/GYMFunctionComponent.php:379
+#: View/Helper/GymHelper.php:321
+msgid "Fully Paid"
+msgstr "Trả đầy đủ"
+
+#: Controller/Component/GYMFunctionComponent.php:381
+#: View/Helper/GymHelper.php:323
+msgid "Not Paid"
+msgstr "Không phải trả tiền"
+
+#: Controller/Component/GYMFunctionComponent.php:383
+#: View/Helper/GymHelper.php:325
+msgid "Partially Paid"
+msgstr "Thanh toán một phần"
+
+#: Controller/Component/GYMFunctionComponent.php:586
+msgid "Membership Reminder Alert!"
+msgstr "Thông báo nhắc nhở thành viên!"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "January"
+msgstr "tháng Giêng"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "February"
+msgstr "Tháng hai"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "March"
+msgstr "tháng Ba"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "April"
+msgstr "Tháng tư"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "May"
+msgstr "có thể"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "June"
+msgstr "Tháng sáu"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "July"
+msgstr "Tháng 7"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "August"
+msgstr "tháng Tám"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "September"
+msgstr "Tháng Chín"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "October"
+msgstr "Tháng Mười"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "November"
+msgstr "Tháng 11"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "December"
+msgstr "Tháng 12"
+
+#: Controller/Component/GYMFunctionComponent.php:624
+msgid "You are not authorized to access that location."
+msgstr "Bạn không được phép truy cập vị trí đó."
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:109
+#: Template/Dashboard/dashboard.ctp:215
+#: Template/GymAttendance/attendance.ctp:80
+#: Template/GymMember/add_member.ctp:448 Template/GymNotice/add_notice.ctp:73
+#: Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:266
+#: Template/Reports/attendance_report.ctp:87
+msgid "Class"
+msgstr "Lớp học"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:91
+#: Template/GymAttendance/staff_attendance.ctp:58
+msgid "Present"
+msgstr "Hiện tại"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:93
+#: Template/GymAttendance/staff_attendance.ctp:60
+msgid "Absent"
+msgstr "Vắng mặt"
+
+#: Controller/DashboardController.php:133
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Dashboard/dashboard.ctp:70 Template/Dashboard/dashboard.ctp:269
+#: Template/Dashboard/member_dashboard.ctp:79
+#: Template/Dashboard/staff_acc_dashboard.ctp:89
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:33
+#: Template/GymMember/view_member.ctp:123 Template/GymNotice/add_notice.ctp:67
+#: Template/StaffMembers/add_staff.ctp:47
+#: Template/StaffMembers/staff_list.ctp:31
+msgid "Staff Member"
+msgstr "Thành viên đội ngũ nhân viên"
+
+#: Controller/GeneralSettingController.php:69
+#: Controller/GeneralSettingController.php:93
+msgid "Success! Settings Saved Successfully."
+msgstr "Sự thành công! Cài đặt đã lưu thành công."
+
+#: Controller/GymAccessrightController.php:249
+msgid "Success! Settings Saved successfully."
+msgstr "Sự thành công! Cài đặt đã lưu thành công."
+
+#: Controller/GymAccountantController.php:23
+#: Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "Thêm kế toán"
+
+#: Controller/GymAccountantController.php:42
+#: Controller/GymNoticeController.php:62
+#: Controller/StaffMembersController.php:50
+msgid "Success! Record Successfully Saved."
+msgstr "Sự thành công! Lưu thành công."
+
+#: Controller/GymAccountantController.php:67
+msgid "Edit Accountant"
+msgstr "Chỉnh sửa kế toán"
+
+#: Controller/GymAccountantController.php:117
+#: Controller/MembershipPaymentController.php:380
+msgid "Success! Accountant Deleted Successfully."
+msgstr "Sự thành công! Kế toán đã xóa thành công."
+
+#: Controller/GymAjaxController.php:27 Controller/GymAjaxController1.php:25
+msgid "Add/Remove Category"
+msgstr "Thêm / Xóa danh mục"
+
+#: Controller/GymAjaxController.php:32 Controller/GymAjaxController1.php:30
+msgid "enter category name"
+msgstr "nhập tên danh mục"
+
+#: Controller/GymAjaxController.php:35 Controller/GymAjaxController.php:123
+#: Controller/GymAjaxController1.php:33 Controller/GymAjaxController1.php:121
+#: Template/Activity/add_activity.ctp:52 Template/Membership/add.ctp:93
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "thêm thể loại"
+
+#: Controller/GymAjaxController.php:44 Controller/GymAjaxController.php:216
+#: Controller/GymAjaxController.php:297 Controller/GymAjaxController1.php:42
+#: Controller/GymAjaxController1.php:214 Controller/GymAjaxController1.php:295
+msgid "Category"
+msgstr "thể loại"
+
+#: Controller/GymAjaxController.php:45 Controller/GymAjaxController.php:133
+#: Controller/GymAjaxController.php:217 Controller/GymAjaxController.php:298
+#: Controller/GymAjaxController.php:378 Controller/GymAjaxController.php:456
+#: Controller/GymAjaxController.php:554 Controller/GymAjaxController.php:930
+#: Controller/GymAjaxController.php:1036 Controller/GymAjaxController1.php:43
+#: Controller/GymAjaxController1.php:131 Controller/GymAjaxController1.php:215
+#: Controller/GymAjaxController1.php:296 Controller/GymAjaxController1.php:376
+#: Controller/GymAjaxController1.php:454 Controller/GymAjaxController1.php:551
+#: Controller/GymAjaxController1.php:886 Controller/GymAjaxController1.php:992
+#: Template/Activity/activity_list.ctp:51
+#: Template/Activity/activity_list.ctp:79
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/ClassSchedule/class_list.ctp:67
+#: Template/ClassSchedule/class_list.ctp:101
+#: Template/GymAccountant/accountant_list.ctp:58
+#: Template/GymAccountant/accountant_list.ctp:92
+#: Template/GymAssignWorkout/workout_log.ctp:55
+#: Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:85
+#: Template/GymGroup/group_list.ctp:47 Template/GymGroup/group_list.ctp:78
+#: Template/GymMember/member_list.ctp:62 Template/GymMember/member_list.ctp:115
+#: Template/GymNotice/notice_list.ctp:45 Template/GymNotice/notice_list.ctp:74
+#: Template/GymNutrition/nutrition_list.ctp:55
+#: Template/GymNutrition/nutrition_list.ctp:79
+#: Template/GymProduct/product_list.ctp:51
+#: Template/GymProduct/product_list.ctp:80
+#: Template/GymReservation/reservation_list.ctp:57
+#: Template/GymReservation/reservation_list.ctp:89
+#: Template/GymStore/sell_record.ctp:38 Template/GymStore/sell_record.ctp:65
+#: Template/Membership/membership_list.ctp:59
+#: Template/Membership/membership_list.ctp:107
+#: Template/Membership/view_activity.ctp:76
+#: Template/Membership/view_activity.ctp:100
+#: Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102
+#: Template/StaffMembers/staff_list.ctp:53
+#: Template/StaffMembers/staff_list.ctp:86
+msgid "Action"
+msgstr "Hoạt động"
+
+#: Controller/GymAjaxController.php:55 Controller/GymAjaxController.php:81
+#: Controller/GymAjaxController.php:143 Controller/GymAjaxController.php:170
+#: Controller/GymAjaxController.php:229 Controller/GymAjaxController.php:255
+#: Controller/GymAjaxController.php:310 Controller/GymAjaxController.php:338
+#: Controller/GymAjaxController.php:390 Controller/GymAjaxController.php:416
+#: Controller/GymAjaxController.php:468 Controller/GymAjaxController.php:494
+#: Controller/GymAjaxController.php:566 Controller/GymAjaxController.php:593
+#: Controller/GymAjaxController.php:1048 Controller/GymAjaxController.php:1107
+#: Controller/GymAjaxController1.php:53 Controller/GymAjaxController1.php:79
+#: Controller/GymAjaxController1.php:141 Controller/GymAjaxController1.php:168
+#: Controller/GymAjaxController1.php:227 Controller/GymAjaxController1.php:253
+#: Controller/GymAjaxController1.php:308 Controller/GymAjaxController1.php:336
+#: Controller/GymAjaxController1.php:388 Controller/GymAjaxController1.php:414
+#: Controller/GymAjaxController1.php:466 Controller/GymAjaxController1.php:492
+#: Controller/GymAjaxController1.php:563 Controller/GymAjaxController1.php:590
+#: Controller/GymAjaxController1.php:1004
+#: Controller/GymAjaxController1.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:48
+#: Template/GymMessage/view_message.ctp:47
+#: Template/GymNotice/notice_list.ctp:61
+#: Template/GymProduct/product_list.ctp:67 Template/GymStore/sell_record.ctp:54
+#: Template/Membership/view_activity.ctp:90
+#: Template/MembershipPayment/add_expense.ctp:70
+#: Template/MembershipPayment/add_expense.ctp:92
+#: Template/MembershipPayment/add_income.ctp:85
+#: Template/MembershipPayment/add_income.ctp:107
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:153
+#: Controller/GymAjaxController.php:240 Controller/GymAjaxController.php:321
+#: Controller/GymAjaxController.php:401 Controller/GymAjaxController.php:479
+#: Controller/GymAjaxController.php:577 Controller/GymAjaxController.php:961
+#: Controller/GymAjaxController.php:1059 Controller/GymAjaxController.php:1155
+#: Controller/GymAjaxController.php:1212 Controller/GymAjaxController.php:1368
+#: Controller/GymAjaxController.php:1504 Controller/GymAjaxController.php:1550
+#: Controller/GymAjaxController1.php:63 Controller/GymAjaxController1.php:151
+#: Controller/GymAjaxController1.php:238 Controller/GymAjaxController1.php:319
+#: Controller/GymAjaxController1.php:399 Controller/GymAjaxController1.php:477
+#: Controller/GymAjaxController1.php:574 Controller/GymAjaxController1.php:917
+#: Controller/GymAjaxController1.php:1015
+#: Controller/GymAjaxController1.php:1080
+#: Controller/GymAjaxController1.php:1132
+#: Controller/GymAjaxController1.php:1284
+#: Controller/GymAjaxController1.php:1420
+#: Controller/GymAjaxController1.php:1466
+msgid "Close"
+msgstr "Gần"
+
+#: Controller/GymAjaxController.php:106 Controller/GymAjaxController1.php:104
+msgid "Add/Remove Installment Plan"
+msgstr "Thêm / Xóa gói trả góp"
+
+#: Controller/GymAjaxController.php:111 Controller/GymAjaxController1.php:109
+msgid "Enter Duration Number"
+msgstr "Nhập số thời lượng"
+
+#: Controller/GymAjaxController.php:115 Controller/GymAjaxController1.php:113
+msgid "Select Duration"
+msgstr "Chọn thời lượng"
+
+#: Controller/GymAjaxController.php:116 Controller/GymAjaxController1.php:114
+#: Template/ClassSchedule/add_class.ctp:141
+msgid "Days"
+msgstr "Ngày"
+
+#: Controller/GymAjaxController.php:117 Controller/GymAjaxController1.php:115
+msgid "Week"
+msgstr "Tuần"
+
+#: Controller/GymAjaxController.php:118 Controller/GymAjaxController1.php:116
+#: Template/Dashboard/dashboard.ctp:163
+#: Template/Reports/monthlyworkoutreport.ctp:58
+#: Template/Reports/payment_report.ctp:39
+msgid "Month"
+msgstr "tháng"
+
+#: Controller/GymAjaxController.php:119 Controller/GymAjaxController1.php:117
+msgid "Year"
+msgstr "Năm"
+
+#: Controller/GymAjaxController.php:132 Controller/GymAjaxController1.php:130
+msgid "Plan"
+msgstr "Kế hoạch"
+
+#: Controller/GymAjaxController.php:199 Controller/GymAjaxController1.php:197
+msgid "Add/Remove Role"
+msgstr "Thêm / xóa vai trò"
+
+#: Controller/GymAjaxController.php:204 Controller/GymAjaxController1.php:202
+msgid "Enter Role"
+msgstr "Nhập vai trò"
+
+#: Controller/GymAjaxController.php:207 Controller/GymAjaxController.php:288
+#: Controller/GymAjaxController1.php:205 Controller/GymAjaxController1.php:286
+msgid "Add Role"
+msgstr "Thêm vai trò"
+
+#: Controller/GymAjaxController.php:232 Controller/GymAjaxController1.php:230
+#: Controller/GymAjaxController1.php:311 Controller/GymAjaxController1.php:1007
+msgid "No roles added"
+msgstr "Không có vai trò nào được thêm vào"
+
+#: Controller/GymAjaxController.php:280 Controller/GymAjaxController1.php:278
+msgid "Add/Remove Specialization"
+msgstr "Thêm / Xóa Chuyên ngành"
+
+#: Controller/GymAjaxController.php:285 Controller/GymAjaxController1.php:283
+msgid "Enter Specialization"
+msgstr "Nhập chuyên ngành"
+
+#: Controller/GymAjaxController.php:313
+msgid "No Specialization added"
+msgstr "Không có chuyên môn được thêm vào"
+
+#: Controller/GymAjaxController.php:360 Controller/GymAjaxController1.php:358
+msgid "Add/Remove Interest"
+msgstr "Thêm / Xóa lãi"
+
+#: Controller/GymAjaxController.php:365 Controller/GymAjaxController1.php:363
+msgid "Enter Interest"
+msgstr "Nhập lãi"
+
+#: Controller/GymAjaxController.php:368 Controller/GymAjaxController1.php:366
+msgid "Add Interest"
+msgstr "Thêm lãi"
+
+#: Controller/GymAjaxController.php:377 Controller/GymAjaxController1.php:375
+msgid "Interest"
+msgstr "Quan tâm"
+
+#: Controller/GymAjaxController.php:393 Controller/GymAjaxController.php:471
+#: Controller/GymAjaxController.php:569 Controller/GymAjaxController1.php:391
+#: Controller/GymAjaxController1.php:469 Controller/GymAjaxController1.php:566
+msgid "No record added yet"
+msgstr "Chưa có hồ sơ nào được thêm vào"
+
+#: Controller/GymAjaxController.php:438 Controller/GymAjaxController1.php:436
+msgid "Add/Remove Source"
+msgstr "Thêm / Xóa nguồn"
+
+#: Controller/GymAjaxController.php:443 Controller/GymAjaxController1.php:441
+msgid "Enter Source"
+msgstr "Nhập nguồn"
+
+#: Controller/GymAjaxController.php:446 Controller/GymAjaxController1.php:444
+msgid "Add Source"
+msgstr "Thêm nguồn"
+
+#: Controller/GymAjaxController.php:455 Controller/GymAjaxController1.php:453
+msgid "Source List"
+msgstr "Danh sách nguồn"
+
+#: Controller/GymAjaxController.php:536 Controller/GymAjaxController1.php:533
+msgid "Add/Remove Levels"
+msgstr "Thêm / Xóa cấp"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController1.php:538
+msgid "Enter Level"
+msgstr "Nhập cấp"
+
+#: Controller/GymAjaxController.php:544 Controller/GymAjaxController.php:742
+#: Controller/GymAjaxController1.php:541 Controller/GymAjaxController1.php:726
+#: Template/GymAssignWorkout/assign_workout.ctp:99
+#: Template/GymAssignWorkout/assign_workout1.ctp:78
+msgid "Add Level"
+msgstr "Thêm cấp độ"
+
+#: Controller/GymAjaxController.php:553 Controller/GymAjaxController1.php:550
+msgid "Levels"
+msgstr "Cấp độ"
+
+#: Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:768
+#: Controller/GymAjaxController1.php:673 Controller/GymAjaxController1.php:750
+#: Template/Activity/activity_list.ctp:31 Template/Activity/add_activity.ctp:32
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96
+#: Template/Element/sidebar.ctp:78 Template/GymAccessright/access_right.ctp:153
+#: Template/GymAssignWorkout/assign_workout.ctp:197
+#: Template/GymAssignWorkout/assign_workout1.ctp:175
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:63
+#: Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:699
+#: Controller/GymAjaxController.php:769 Controller/GymAjaxController1.php:674
+#: Controller/GymAjaxController1.php:686 Controller/GymAjaxController1.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:198
+#: Template/GymAssignWorkout/assign_workout1.ctp:176
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:64
+#: Template/GymAssignWorkout/print_workout.ctp:61
+#: Template/Reports/monthlyworkoutreport.ctp:79
+msgid "Sets"
+msgstr "Bộ"
+
+#: Controller/GymAjaxController.php:688 Controller/GymAjaxController.php:700
+#: Controller/GymAjaxController.php:770 Controller/GymAjaxController1.php:675
+#: Controller/GymAjaxController1.php:687 Controller/GymAjaxController1.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:199
+#: Template/GymAssignWorkout/assign_workout1.ctp:177
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:62
+#: Template/Reports/monthlyworkoutreport.ctp:80
+msgid "Reps"
+msgstr "Đại diện"
+
+#: Controller/GymAjaxController.php:689 Controller/GymAjaxController.php:771
+#: Controller/GymAjaxController1.php:676 Controller/GymAjaxController1.php:753
+#: Template/GymAssignWorkout/assign_workout.ctp:200
+#: Template/GymAssignWorkout/assign_workout1.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr "KILÔGAM"
+
+#: Controller/GymAjaxController.php:690 Controller/GymAjaxController.php:772
+#: Controller/GymAjaxController1.php:677 Controller/GymAjaxController1.php:754
+#: Template/GymAssignWorkout/assign_workout.ctp:201
+#: Template/GymAssignWorkout/assign_workout1.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:64
+#: Template/Reports/monthlyworkoutreport.ctp:82
+msgid "Rest Time"
+msgstr "Thời gian nghỉ ngơi"
+
+#: Controller/GymAjaxController.php:701 Controller/GymAjaxController1.php:688
+#: Template/Reports/monthlyworkoutreport.ctp:81
+msgid "Kg"
+msgstr "Kilôgam"
+
+#: Controller/GymAjaxController.php:702 Controller/GymAjaxController1.php:689
+msgid "Min"
+msgstr "Tối thiểu"
+
+#: Controller/GymAjaxController.php:706 Controller/GymAjaxController1.php:693
+msgid "Your Workout"
+msgstr "Tập luyện của bạn"
+
+#: Controller/GymAjaxController.php:713 Controller/GymAjaxController.php:791
+msgid "Note"
+msgstr "chú thích"
+
+#: Controller/GymAjaxController.php:721 Controller/GymAjaxController1.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "Không có bài tập nào được chỉ định cho ngày hôm nay. Bạn có thể thêm dữ liệu từ bên dưới."
+
+#: Controller/GymAjaxController.php:726 Controller/GymAjaxController1.php:710
+#: Template/GymAssignWorkout/assign_workout.ctp:92
+#: Template/GymAssignWorkout/assign_workout1.ctp:71
+msgid "Level"
+msgstr "Cấp độ"
+
+#: Controller/GymAjaxController.php:729 Controller/GymAjaxController1.php:713
+#: Template/GymAssignWorkout/assign_workout.ctp:95
+#: Template/GymAssignWorkout/assign_workout1.ctp:74
+msgid "Select Level"
+msgstr "Chọn cấp độ"
+
+#: Controller/GymAjaxController.php:918 Controller/GymAjaxController1.php:874
+msgid "Edit/Delete Measurement"
+msgstr "Chỉnh sửa / Xóa Đo lường"
+
+#: Controller/GymAjaxController.php:926 Controller/GymAjaxController1.php:882
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: Controller/GymAjaxController.php:927 Controller/GymAjaxController1.php:883
+msgid "Measurement"
+msgstr "Đo lường"
+
+#: Controller/GymAjaxController.php:928 Controller/GymAjaxController1.php:884
+#: Template/GymDailyWorkout/add_measurment.ctp:65
+msgid "Result"
+msgstr "Kết quả"
+
+#: Controller/GymAjaxController.php:929 Controller/GymAjaxController1.php:885
+msgid "Record Date"
+msgstr "Ngày ghi"
+
+#: Controller/GymAjaxController.php:952 Controller/GymAjaxController1.php:908
+msgid "No Data Found."
+msgstr "Không tìm thấy dữ liệu nào."
+
+#: Controller/GymAjaxController.php:1018 Controller/GymAjaxController1.php:974
+msgid "Add/Remove Event Place"
+msgstr "Thêm / Xóa địa điểm tổ chức sự kiện"
+
+#: Controller/GymAjaxController.php:1023 Controller/GymAjaxController1.php:979
+msgid "Enter Place Name"
+msgstr "Nhập tên địa điểm"
+
+#: Controller/GymAjaxController.php:1026 Controller/GymAjaxController1.php:982
+msgid "Add Place"
+msgstr "Thêm địa điểm"
+
+#: Controller/GymAjaxController.php:1035 Controller/GymAjaxController1.php:991
+msgid "Place Name"
+msgstr "Tên địa điểm"
+
+#: Controller/GymAjaxController.php:1051
+msgid "No Event Place added"
+msgstr "Không có địa điểm sự kiện nào được thêm vào"
+
+#: Controller/GymAjaxController.php:1134 Controller/GymAjaxController1.php:1059
+msgid "Group Members"
+msgstr "Thành viên nhóm"
+
+#: Controller/GymAjaxController.php:1149 Controller/GymAjaxController1.php:1074
+msgid "No Members Assigned Yet."
+msgstr "Chưa có thành viên nào được chỉ định."
+
+#: Controller/GymAjaxController.php:1173 Controller/GymAjaxController.php:1207
+#: Controller/GymAjaxController1.php:1093
+#: Controller/GymAjaxController1.php:1127
+msgid "Add Payment"
+msgstr "Thêm thanh toán"
+
+#: Controller/GymAjaxController.php:1181 Controller/GymAjaxController1.php:1101
+#: Template/MembershipPayment/payment_list.ctp:52
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "Số tiền thanh toán"
+
+#: Controller/GymAjaxController.php:1190 Controller/GymAjaxController1.php:1110
+msgid "Payment By"
+msgstr "Thanh toán bằng"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController1.php:1116
+msgid "Paypal"
+msgstr "Paypal"
+
+#: Controller/GymAjaxController.php:1199 Controller/GymAjaxController1.php:1119
+msgid "Cash"
+msgstr "Tiền mặt"
+
+#: Controller/GymAjaxController.php:1200 Controller/GymAjaxController1.php:1120
+msgid "Cheque"
+msgstr "Kiểm tra"
+
+#: Controller/GymAjaxController.php:1201 Controller/GymAjaxController1.php:1121
+msgid "Bank Transfer"
+msgstr "Chuyển khoản ngân hàng"
+
+#: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1399
+#: Controller/GymAjaxController1.php:1166
+#: Controller/GymAjaxController1.php:1315
+msgid "Invoice"
+msgstr "Hóa đơn"
+
+#: Controller/GymAjaxController.php:1260 Controller/GymAjaxController.php:1412
+#: Controller/GymAjaxController1.php:1179
+#: Controller/GymAjaxController1.php:1328
+#: Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "Ngày phát hành"
+
+#: Controller/GymAjaxController.php:1261 Controller/GymAjaxController.php:1413
+#: Controller/GymAjaxController1.php:1180
+#: Controller/GymAjaxController1.php:1329
+#: Template/GymAttendance/attendance.ctp:109
+#: Template/GymAttendance/attendance.ctp:115
+#: Template/GymAttendance/attendance.ctp:118
+#: Template/GymAttendance/staff_attendance.ctp:67
+#: Template/GymAttendance/staff_attendance.ctp:70
+#: Template/GymMember/member_list.ctp:64 Template/GymMember/member_list.ctp:117
+#: Template/GymMember/view_member.ctp:128
+#: Template/MembershipPayment/add_expense.ctp:41
+#: Template/MembershipPayment/add_income.ctp:56
+#: Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "Trạng thái"
+
+#: Controller/GymAjaxController.php:1274 Controller/GymAjaxController.php:1426
+#: Controller/GymAjaxController1.php:1193
+#: Controller/GymAjaxController1.php:1342
+#: Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "Chi trả tiền cho"
+
+#: Controller/GymAjaxController.php:1277 Controller/GymAjaxController.php:1429
+#: Controller/GymAjaxController1.php:1196
+#: Controller/GymAjaxController1.php:1345
+#: Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "Hoa đơn để"
+
+#: Controller/GymAjaxController.php:1308 Controller/GymAjaxController1.php:1227
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:51
+#: Template/Element/sidebar.ctp:33 Template/GymAccessright/access_right.ctp:63
+#: Template/MembershipPayment/print_invoice.ctp:91
+msgid "Membership Type"
+msgstr "Loại thành viên"
+
+#: Controller/GymAjaxController.php:1309 Controller/GymAjaxController1.php:1228
+msgid "Sign Up Fee"
+msgstr "Phí đăng ký"
+
+#: Controller/GymAjaxController.php:1310 Controller/GymAjaxController1.php:1229
+#: Template/MembershipPayment/print_invoice.ctp:92
+msgid "Membership Fee"
+msgstr "Phí thành viên"
+
+#: Controller/GymAjaxController.php:1311 Controller/GymAjaxController1.php:1230
+#: Template/MembershipPayment/print_invoice.ctp:93
+msgid "Total"
+msgstr "Toàn bộ"
+
+#: Controller/GymAjaxController.php:1325 Controller/GymAjaxController1.php:1244
+#: Template/MembershipPayment/print_invoice.ctp:170
+msgid "Subtotal :"
+msgstr "Tổng phụ:"
+
+#: Controller/GymAjaxController.php:1329 Controller/GymAjaxController1.php:1248
+#: Template/MembershipPayment/print_invoice.ctp:174
+msgid "Payment Made :"
+msgstr "Thanh toán:"
+
+#: Controller/GymAjaxController.php:1333 Controller/GymAjaxController1.php:1252
+msgid "Due Amount  :"
+msgstr "Số tiền đến hạn:"
+
+#: Controller/GymAjaxController.php:1341 Controller/GymAjaxController1.php:1260
+#: Template/MembershipPayment/print_invoice.ctp:204
+msgid "Payment History"
+msgstr "Lịch sử thanh toán"
+
+#: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1467
+#: Controller/GymAjaxController1.php:1264
+#: Controller/GymAjaxController1.php:1383
+#: Template/GymAttendance/attendance.ctp:39
+#: Template/GymAttendance/attendance.ctp:81
+#: Template/GymAttendance/staff_attendance.ctp:31
+#: Template/GymDailyWorkout/view_workout.ctp:51
+#: Template/GymMember/view_attendance.ctp:68 Template/GymMessage/inbox.ctp:55
+#: Template/GymMessage/sent.ctp:44 Template/GymStore/sell_product.ctp:54
+#: Template/MembershipPayment/add_expense.ctp:50
+#: Template/MembershipPayment/add_income.ctp:65
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:101
+#: Template/MembershipPayment/print_invoice.ctp:208
+msgid "Date"
+msgstr "Ngày"
+
+#: Controller/GymAjaxController.php:1346 Controller/GymAjaxController1.php:1265
+#: Template/GymMember/view_member.ctp:388
+#: Template/GymMember/view_member.ctp:416
+#: Template/GymSubscriptionHistory/index.ctp:44
+#: Template/GymSubscriptionHistory/index.ctp:74 Template/Membership/add.ctp:152
+#: Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:51
+#: Template/MembershipPayment/payment_list.ctp:96
+#: Template/MembershipPayment/print_invoice.ctp:209
+msgid "Amount"
+msgstr "Số tiền"
+
+#: Controller/GymAjaxController.php:1347 Controller/GymAjaxController1.php:1266
+#: Template/MembershipPayment/print_invoice.ctp:210
+msgid "Method"
+msgstr "phương pháp"
+
+#: Controller/GymAjaxController.php:1366 Controller/GymAjaxController.php:1502
+#: Controller/GymAjaxController1.php:1418
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:55
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "In"
+
+#: Controller/GymAjaxController.php:1462 Controller/GymAjaxController1.php:1378
+#: Template/MembershipPayment/print_invoice.ctp:83
+msgid "Invoice Entries"
+msgstr "Hóa đơn"
+
+#: Controller/GymAjaxController.php:1468 Controller/GymAjaxController1.php:1384
+#: Template/MembershipPayment/print_invoice.ctp:102
+msgid "Entry"
+msgstr "Nhập cảnh"
+
+#: Controller/GymAjaxController.php:1469 Controller/GymAjaxController1.php:1385
+#: Template/MembershipPayment/print_invoice.ctp:103
+msgid "Price"
+msgstr "Giá bán"
+
+#: Controller/GymAjaxController.php:1470 Controller/GymAjaxController1.php:1386
+#: Template/AdminProfile/edit_profile.ctp:62
+#: Template/GymAccountant/add_accountant.ctp:124
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:346
+#: Template/GymMember/view_member.ctp:90
+#: Template/GymProfile/view_profile.ctp:70 Template/Installer/index.ctp:554
+#: Template/MemberRegistration/index.ctp:219
+#: Template/MembershipPayment/print_invoice.ctp:104
+#: Template/StaffMembers/add_staff.ctp:159 Template/Users/login.ctp:21
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+#: Controller/GymAjaxController.php:1493 Controller/GymAjaxController1.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:195
+msgid "Grand Total :"
+msgstr "Tổng cộng :"
+
+#: Controller/GymAjaxController.php:1519 Controller/GymAjaxController1.php:1435
+msgid "Notice Detail"
+msgstr "Chi tiết thông báo"
+
+#: Controller/GymAjaxController.php:1524 Controller/GymAjaxController1.php:1440
+msgid "Notice Title "
+msgstr "Tiêu đề thông báo "
+
+#: Controller/GymAjaxController.php:1529 Controller/GymAjaxController1.php:1445
+#: Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "Bình luận"
+
+#: Controller/GymAjaxController.php:1534 Controller/GymAjaxController1.php:1450
+#: Template/GymNotice/add_notice.ctp:64 Template/GymNotice/notice_list.ctp:43
+#: Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "Thông báo cho"
+
+#: Controller/GymAjaxController.php:1539 Controller/GymAjaxController1.php:1455
+#: Template/GymAssignWorkout/assign_workout.ctp:109
+#: Template/GymAssignWorkout/assign_workout1.ctp:88
+#: Template/GymDailyWorkout/add_workout.ctp:185
+#: Template/GymMember/view_attendance.ctp:48
+#: Template/GymNotice/add_notice.ctp:82
+#: Template/GymNutrition/addnutrition_schedule.ctp:70
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#: Controller/GymAjaxController.php:1544 Controller/GymAjaxController1.php:1460
+msgid "End Date "
+msgstr "Ngày cuối "
+
+#: Controller/GymAjaxController1.php:736
+msgid "Category List"
+msgstr "Danh sách chuyên mục"
+
+#: Controller/GymAssignWorkoutController - copy.php:40
+#: Controller/GymAssignWorkoutController.php:40
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:105
+#: Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:65
+#: Template/GymAssignWorkout/assign_workout1.ctp:46
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36
+#: Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "Chỉ định tập luyện"
+
+#: Controller/GymAssignWorkoutController - copy.php:101 copy.php:293
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:291
+msgid "success! Record Saved Successfully."
+msgstr "sự thành công! Lưu hồ sơ thành công."
+
+#: Controller/GymAssignWorkoutController - copy.php:103
+#: Controller/GymAssignWorkoutController.php:104
+#: Controller/GymAssignWorkoutController.php:294
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "Lỗi! Dữ liệu ngày tập luyện không thể lưu. Vui lòng thử lại."
+
+#: Controller/GymAssignWorkoutController - copy.php:108 copy.php:299
+#: Controller/GymAssignWorkoutController.php:109
+#: Controller/GymAssignWorkoutController.php:297
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "Lỗi! Ghi lại không thể lưu. Vui lòng thử lại."
+
+#: Controller/GymAssignWorkoutController - copy.php:196
+#: Controller/GymAssignWorkoutController.php:197
+#: Template/GymDailyWorkout/view_workout.ctp:33
+msgid "View Workout"
+msgstr "Xem tập luyện"
+
+#: Controller/GymAssignWorkoutController - copy.php:296
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "Lỗi! Ngày tập luyện daya không thể lưu. Vui lòng thử lại."
+
+#: Controller/GymAssignWorkoutController - copy.php:320
+#: Controller/GymAssignWorkoutController.php:318
+#: Controller/GymMemberController.php:326
+#: Controller/GymNutritionController.php:305
+#: Controller/GymProductController.php:61 Controller/GymStoreController.php:111
+#: Controller/MembershipPaymentController.php:258
+msgid "Success! Record Deleted Successfully."
+msgstr "Sự thành công! Xóa hồ sơ thành công."
+
+#: Controller/GymAttendanceController.php:85
+#: Controller/GymAttendanceController.php:149
+msgid "Success! Attendance Saved Successfully."
+msgstr "Sự thành công! Tham dự được lưu thành công."
+
+#: Controller/GymAttendanceController.php:153
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "Lỗi! Vui lòng chọn Thành viên / Nhân viên-Thành viên."
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:29
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "Thêm tập luyện"
+
+#: Controller/GymDailyWorkoutController.php:243
+#: Template/GymDailyWorkout/add_workout.ctp:132
+#: Template/GymDailyWorkout/view_workout.ctp:39
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "Thêm phép đo"
+
+#: Controller/GymDailyWorkoutController.php:410
+msgid "Edit Measurement"
+msgstr "Chỉnh sửa số đo"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "Email thử nghiệm"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:233
+msgid "Add Group"
+msgstr "Thêm nhóm"
+
+#: Controller/GymGroupController.php:39
+msgid "Success! Group Added Successfully."
+msgstr "Sự thành công! Nhóm được thêm thành công."
+
+#: Controller/GymGroupController.php:50
+msgid "Edit Group"
+msgstr "Chỉnh sửa nhóm"
+
+#: Controller/GymMemberController.php:61
+#: Template/GymAssignWorkout/assign_workout.ctp:87
+#: Template/GymAssignWorkout/assign_workout1.ctp:67
+#: Template/GymDailyWorkout/add_workout.ctp:172
+#: Template/GymMember/member_list.ctp:45
+#: Template/GymNutrition/addnutrition_schedule.ctp:65
+msgid "Add Member"
+msgstr "Thêm thành viên"
+
+#: Controller/GymMemberController.php:190
+msgid "Edit Member"
+msgstr "Chỉnh sửa thành viên"
+
+#: Controller/GymMemberController.php:446
+msgid "Success! Member activated successfully."
+msgstr "Sự thành công! Thành viên kích hoạt thành công."
+
+#: Controller/GymMessageController.php:154
+msgid "Success! Message Sent Successfully."
+msgstr "Sự thành công! Tin nhắn được gửi thành công."
+
+#: Controller/GymMessageController.php:156
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "Lỗi! Tin nhắn không thể được gửi, xin vui lòng thử lại."
+
+#: Controller/GymMessageController.php:204
+msgid "Success! Message Deleted Successfully."
+msgstr "Sự thành công! Tin nhắn đã được xóa thành công."
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "Sự thành công! Api Key đã lưu thành công."
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "Sự thành công! Api Key Cập nhật thành công."
+
+#: Controller/GymNewsletterController.php:94
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "Sự thành công! Mail đồng bộ hóa thành công."
+
+#: Controller/GymNewsletterController.php:131
+msgid "Campaign Tests Not Sent!"
+msgstr "Thử nghiệm chiến dịch chưa được gửi!"
+
+#: Controller/GymNewsletterController.php:133
+msgid "Campaign Tests Sent!"
+msgstr "Thử nghiệm chiến dịch đã được gửi!"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:31
+#: Controller/GymStoreController.php:49
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "Lỗi! Bản ghi chưa được lưu. Vui lòng thử lại."
+
+#: Controller/GymNoticeController.php:91
+msgid "Success! Record Successfully Updated."
+msgstr "Sự thành công! Ghi lại thành công cập nhật."
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:49
+#: Controller/GymStoreController.php:93
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "Lỗi! Bản ghi chưa được cập nhật. Vui lòng thử lại."
+
+#: Controller/GymNoticeController.php:105
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "Sự thành công! Bản ghi đã được xóa thành công."
+
+#: Controller/GymNutritionController.php:40
+#: Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "Thêm lịch dinh dưỡng"
+
+#: Controller/GymNutritionController.php:77
+#: Controller/GymNutritionController.php:217
+msgid "Success! Nutrition Added Sucessfully."
+msgstr "Sự thành công! Dinh dưỡng bổ sung thành công."
+
+#: Controller/GymNutritionController.php:81
+#: Controller/GymNutritionController.php:221
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "Lỗi! Dữ liệu dinh dưỡng không thể lưu. Vui lòng thử lại."
+
+#: Controller/GymNutritionController.php:85
+#: Controller/GymNutritionController.php:225
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "Lỗi! Lịch trình dinh dưỡng không thể lưu. Vui lòng thử lại."
+
+#: Controller/GymNutritionController.php:172
+msgid "View Nutrition Schedule"
+msgstr "Xem lịch dinh dưỡng"
+
+#: Controller/GymProfileController.php:30
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr "Lỗi! Mật khẩu mới và xác nhận mật khẩu không khớp. Vui lòng thử lại."
+
+#: Controller/GymProfileController.php:37
+msgid "Success! Password Updated Successfully"
+msgstr "Sự thành công! Đã cập nhật mật khẩu thành công"
+
+#: Controller/GymProfileController.php:41
+msgid "Error! Current password is wrong.Please try again."
+msgstr "Lỗi! Mật khẩu hiện tại bị sai. Vui lòng thử lại."
+
+#: Controller/GymProfileController.php:65
+msgid "Success! Information Updated Successfully"
+msgstr "Sự thành công! Thông tin được cập nhật thành công"
+
+#: Controller/GymProfileController.php:69
+msgid "Error! Not Update.Please try again."
+msgstr "Lỗi! Không cập nhật. Vui lòng thử lại."
+
+#: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
+msgid "Only "
+msgstr "Chỉ có "
+
+#: Controller/MemberRegistrationController.php:108
+msgid "Registration completed successfully. You will get email after activation"
+msgstr "Đăng ký hoàn tất thành công. Bạn sẽ nhận được email sau khi kích hoạt"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:86
+#: Template/GymMember/add_member.ctp:443
+#: Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "Thêm thành viên"
+
+#: Controller/MembershipController.php:67
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "Lỗi! Có lỗi trong khi lưu, Vui lòng thử lại sau."
+
+#: Controller/MembershipController.php:99
+msgid "Edit Membership"
+msgstr "Chỉnh sửa thành viên"
+
+#: Controller/MembershipController.php:198
+msgid "Success! Activity Successfully Assigned."
+msgstr "Sự thành công! Hoạt động được phân công thành công."
+
+#: Controller/MembershipController.php:208
+msgid "Success! Activity Unassigned Successfully."
+msgstr "Sự thành công! Hoạt động chưa được gán thành công."
+
+#: Controller/MembershipPaymentController.php:63
+#: Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "Sự thành công! Thanh toán được thêm thành công."
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "Sự thành công! Hồ sơ thanh toán đã được xóa thành công."
+
+#: Controller/MembershipPaymentController.php:406
+#: Controller/MembershipPaymentController.php:427
+msgid "Success! Payment Successfully Completed."
+msgstr "Sự thành công! Thanh toán hoàn tất thành công."
+
+#: Controller/MembershipPaymentController.php:430
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "Lưu IPN Paypal không thành công với DB."
+
+#: Controller/StaffMembersController.php:22
+#: Template/Activity/add_activity.ctp:74
+#: Template/StaffMembers/staff_list.ctp:37
+msgid "Add Staff Member"
+msgstr "Thêm nhân viên"
+
+#: Controller/StaffMembersController.php:75
+msgid "Edit Staff Member"
+msgstr "Nhân viên chỉnh sửa"
+
+#: Controller/StaffMembersController.php:132
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "Sự thành công! Nhân viên đã xóa thành công."
+
+#: Controller/UsersController.php:56
+msgid "Sorry, Your account is expired."
+msgstr "Xin lỗi, tài khoản của bạn đã hết hạn."
+
+#: Controller/UsersController.php:66
+msgid "Error! Your account not activated yet!"
+msgstr "Lỗi! Tài khoản của bạn chưa được kích hoạt!"
+
+#: Controller/UsersController.php:108
+msgid "Invalid username or password, try again"
+msgstr "Tên người dùng hoặc mật khẩu không hợp lệ, hãy thử lại"
+
+#: View/Helper/GymHelper.php:272
+msgid "Not Taken"
+msgstr "Không được thực hiện"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:80
+#: Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "Các thành viên"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Staff Members"
+msgstr "Nhân viên"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Accountants"
+msgstr "Kế toán"
+
+#: View/Helper/GymHelper.php:309
+msgid "Administrator"
+msgstr "Người quản lý"
+
+#: View/Helper/GymHelper.php:524
+msgid "No data available in table"
+msgstr "không có dữ liệu trong bảng"
+
+#: View/Helper/GymHelper.php:525
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "hiển thị từ đầu đến cuối của tổng số mục"
+
+#: View/Helper/GymHelper.php:526
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Hiển thị 0 đến 0 của 0 mục"
+
+#: View/Helper/GymHelper.php:527
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(được lọc từ tổng số mục tối đa)"
+
+#: View/Helper/GymHelper.php:530
+msgid "Show _MENU_ entries"
+msgstr "hiển thị các mục menu"
+
+#: View/Helper/GymHelper.php:531
+msgid "Loading..."
+msgstr "Tải..."
+
+#: View/Helper/GymHelper.php:532
+msgid "Processing..."
+msgstr "Chế biến..."
+
+#: View/Helper/GymHelper.php:533
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: View/Helper/GymHelper.php:534
+msgid "No matching records found"
+msgstr "Không tìm thấy kết quả"
+
+#: View/Helper/GymHelper.php:536
+msgid "First"
+msgstr "Đầu tiên"
+
+#: View/Helper/GymHelper.php:537
+msgid "Last"
+msgstr "Cuối cùng"
+
+#: View/Helper/GymHelper.php:538
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: View/Helper/GymHelper.php:539
+msgid "Previous"
+msgstr "Trước"
+
+#: View/Helper/GymHelper.php:542
+msgid "activate to sort column ascending"
+msgstr "kích hoạt để sắp xếp cột tăng dần"
+
+#: View/Helper/GymHelper.php:543
+msgid "activate to sort column descending"
+msgstr "kích hoạt để sắp xếp cột giảm dần"
+
+#: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:35
+msgid "Activity List"
+msgstr "Danh sách hoạt động"
+
+#: Template/Activity/activity_list.ctp:47
+#: Template/Activity/activity_list.ctp:75
+#: Template/Membership/view_activity.ctp:73
+#: Template/Membership/view_activity.ctp:97
+msgid "Activity Name"
+msgstr "Tên hoạt động"
+
+#: Template/Activity/activity_list.ctp:48
+#: Template/Activity/activity_list.ctp:76
+#: Template/Membership/view_activity.ctp:74
+#: Template/Membership/view_activity.ctp:98
+msgid "Activity Category"
+msgstr "Danh mục hoạt động"
+
+#: Template/Activity/activity_list.ctp:49
+#: Template/Activity/activity_list.ctp:77
+#: Template/Membership/view_activity.ctp:75
+#: Template/Membership/view_activity.ctp:99
+msgid "Activity Trainer"
+msgstr "Hoạt động huấn luyện"
+
+#: Template/Activity/add_activity.ctp:45 Template/Activity/add_activity.ctp:48
+#: Template/Membership/add.ctp:90 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "Chọn danh mục"
+
+#: Template/Activity/add_activity.ctp:56
+msgid "Activity Title"
+msgstr "Tiêu đề hoạt động"
+
+#: Template/Activity/add_activity.ctp:64
+msgid "Assign to Staff Member"
+msgstr "Phân công nhân viên"
+
+#: Template/Activity/add_activity.ctp:68
+#: Template/ClassSchedule/add_class.ctp:51
+#: Template/ClassSchedule/add_class.ctp:53
+#: Template/ClassSchedule/add_class.ctp:68
+#: Template/GymMember/add_member.ctp:371 Template/GymMember/add_member.ctp:373
+#: Template/GymMember/add_member.ctp:403
+msgid "Select Staff Member"
+msgstr "Chọn nhân viên"
+
+#: Template/Activity/add_activity.ctp:79 Template/GymMember/add_member.ctp:440
+#: Template/MemberRegistration/index.ctp:261
+#: Template/MembershipPayment/generate_payment_invoice.ctp:78
+msgid "Select Membership"
+msgstr "Chọn thành viên"
+
+#: Template/Activity/add_activity.ctp:90
+msgid "Save Activity"
+msgstr "Lưu hoạt động"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "Cài đặt thông tin"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "quản trị viên"
+
+#: Template/AdminProfile/edit_profile.ctp:34
+#: Template/GymAccountant/add_accountant.ctp:42
+#: Template/GymMember/add_member.ctp:178
+#: Template/MemberRegistration/index.ctp:104
+#: Template/StaffMembers/add_staff.ctp:58
+msgid "Personal Information"
+msgstr "Thông tin cá nhân"
+
+#: Template/AdminProfile/edit_profile.ctp:39
+#: Template/GymAccountant/add_accountant.ctp:44
+#: Template/GymMember/add_member.ctp:189
+#: Template/MemberRegistration/index.ctp:115
+#: Template/StaffMembers/add_staff.ctp:60
+msgid "First Name"
+msgstr "Tên đầu tiên"
+
+#: Template/AdminProfile/edit_profile.ctp:46
+#: Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:203
+#: Template/MemberRegistration/index.ctp:129
+#: Template/StaffMembers/add_staff.ctp:74
+msgid "Last Name"
+msgstr "Họ"
+
+#: Template/AdminProfile/edit_profile.ctp:53
+#: Template/GeneralSetting/save_setting.ctp:189
+#: Template/GymAccountant/add_accountant.ctp:115
+#: Template/GymDailyWorkout/workout_list.ctp:58
+#: Template/GymDailyWorkout/workout_list.ctp:84
+#: Template/GymMember/add_member.ctp:285 Template/GymMember/view_member.ctp:74
+#: Template/GymProfile/view_profile.ctp:148 Template/Installer/index.ctp:464
+#: Template/MemberRegistration/index.ctp:209
+#: Template/StaffMembers/add_staff.ctp:150
+msgid "Email"
+msgstr "E-mail"
+
+#: Template/AdminProfile/edit_profile.ctp:60
+#: Template/GymAccountant/add_accountant.ctp:122
+#: Template/GymMember/add_member.ctp:344
+#: Template/MemberRegistration/index.ctp:216
+#: Template/StaffMembers/add_staff.ctp:157
+msgid "Login Information"
+msgstr "đăng nhập thông tin"
+
+#: Template/AdminProfile/edit_profile.ctp:69
+#: Template/GymAccountant/add_accountant.ctp:131
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:353
+#: Template/Installer/index.ctp:562 Template/MemberRegistration/index.ctp:226
+#: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:22
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: Template/AdminProfile/edit_profile.ctp:76
+#: Template/GymAccountant/add_accountant.ctp:138
+#: Template/GymDailyWorkout/add_measurment.ctp:77
+#: Template/GymMember/add_member.ctp:360
+#: Template/MemberRegistration/index.ctp:233
+#: Template/StaffMembers/add_staff.ctp:173
+msgid "Display Image"
+msgstr "Hình ảnh hiển thị"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "Lưu chi tiết"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:8
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:46
+#: Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:25
+#: Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "bảng điều khiển"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56
+#: Template/Dashboard/dashboard.ctp:83
+#: Template/Dashboard/member_dashboard.ctp:97
+#: Template/Dashboard/staff_acc_dashboard.ctp:112
+#: Template/Element/sidebar.ctp:38 Template/GymAccessright/access_right.ctp:93
+#: Template/GymGroup/add_group.ctp:18 Template/GymGroup/group_list.ctp:28
+#: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:228
+#: Template/MemberRegistration/index.ctp:154
+msgid "Group"
+msgstr "Nhóm"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61
+#: Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "Lịch học & dinh dưỡng"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66
+#: Template/ClassSchedule/add_class.ctp:32
+#: Template/ClassSchedule/class_list.ctp:40
+#: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:48
+#: Template/GymAccessright/access_right.ctp:183
+msgid "Class Schedule"
+msgstr "Thời khoá biểu"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70
+#: Template/Element/sidebar.ctp:52 Template/GymAccessright/access_right.ctp:603
+#: Template/GymNutrition/addnutrition_schedule.ctp:43
+#: Template/GymNutrition/member_nutrition.ctp:19
+#: Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "Lịch dinh dưỡng"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76
+#: Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "Quản lý thành viên"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89
+#: Template/Element/sidebar.ctp:71 Template/GymAccessright/access_right.ctp:25
+#: Template/GymAccessright/access_right.ctp:303
+#: Template/GymAccountant/accountant_list.ctp:37
+#: Template/GymAccountant/add_accountant.ctp:31
+#: Template/GymNotice/add_notice.ctp:67
+msgid "Accountant"
+msgstr "Viên kế toán"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101
+#: Template/Element/sidebar.ctp:83 Template/GymDailyWorkout/add_workout.ctp:194
+msgid "Workout"
+msgstr "Tập thể dục"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109
+#: Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "Tập luyện hàng ngày"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116
+#: Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "Cửa hàng & Sản phẩm"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120
+#: Template/Element/sidebar.ctp:102
+#: Template/GymAccessright/access_right.ctp:422
+#: Template/GymStore/sell_product.ctp:60
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124
+#: Template/Element/sidebar.ctp:106
+#: Template/GymAccessright/access_right.ctp:452
+#: Template/GymStore/sell_product.ctp:35 Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "Cửa hàng"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131
+#: Template/Element/sidebar.ctp:113
+#: Template/GymAccessright/access_right.ctp:633
+#: Template/GymReservation/reservation_list.ctp:35
+msgid "Event"
+msgstr "Biến cố"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136
+#: Template/Element/sidebar.ctp:118 Template/GymAttendance/attendance.ctp:23
+#: Template/GymAttendance/staff_attendance.ctp:19
+#: Template/GymMember/member_list.ctp:88
+#: Template/GymMember/view_attendance.ctp:70
+msgid "Attendance"
+msgstr "Tham dự"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141
+#: Template/Dashboard/dashboard.ctp:171 Template/Dashboard/dashboard.ctp:186
+#: Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146
+#: Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "Thanh toán thành viên"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151
+#: Template/Element/sidebar.ctp:133
+#: Template/GymAccessright/access_right.ctp:363
+#: Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "Thu nhập"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156
+#: Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "Chi phí"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164
+#: Template/Dashboard/dashboard.ctp:96
+#: Template/Dashboard/member_dashboard.ctp:116
+#: Template/Dashboard/staff_acc_dashboard.ctp:136
+#: Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:512
+#: Template/GymMessage/compose_message.ctp:14 Template/GymMessage/inbox.ctp:10
+#: Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "Thông điệp"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169
+#: Template/Element/sidebar.ctp:151
+#: Template/GymAccessright/access_right.ctp:482
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "Bản tin"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174
+#: Template/Element/sidebar.ctp:156
+#: Template/GymAccessright/access_right.ctp:542
+#: Template/GymNotice/add_notice.ctp:47 Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "Để ý"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179
+#: Template/Cell/GymRenderMenu/member_menu.ctp:45
+#: Template/Element/sidebar.ctp:170
+#: Template/GymAccessright/access_right.ctp:572
+msgid "Report"
+msgstr "Bài báo cáo"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "Cài đặt email"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:190
+msgid "SubscriptionHistory"
+msgstr "Đăng ký"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:195
+#: Template/Element/sidebar.ctp:175 Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:200
+#: Template/Element/sidebar.ctp:180 Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "Quyền truy cập"
+
+#: Template/ClassSchedule/add_class.ctp:35
+#: Template/ClassSchedule/class_list.ctp:39
+#: Template/ClassSchedule/view_schedule.ctp:13
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "Danh sách lớp"
+
+#: Template/ClassSchedule/add_class.ctp:44
+#: Template/ClassSchedule/class_list.ctp:61
+#: Template/ClassSchedule/class_list.ctp:95
+msgid "Class Name"
+msgstr "Tên lớp"
+
+#: Template/ClassSchedule/add_class.ctp:59
+#: Template/ClassSchedule/add_class.ctp:74
+msgid "Add"
+msgstr "Thêm vào"
+
+#: Template/ClassSchedule/add_class.ctp:66
+msgid "Select Assistant Staff Member"
+msgstr "Chọn nhân viên trợ lý"
+
+#: Template/ClassSchedule/add_class.ctp:80
+#: Template/ClassSchedule/class_list.ctp:65
+#: Template/ClassSchedule/class_list.ctp:99
+msgid "Location"
+msgstr "Vị trí"
+
+#: Template/ClassSchedule/add_class.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:129
+#: Template/GymAssignWorkout/assign_workout1.ctp:108
+#: Template/GymNutrition/addnutrition_schedule.ctp:90
+msgid "Select Days"
+msgstr "Chọn ngày"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Sunday"
+msgstr "chủ nhật"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Monday"
+msgstr "Thứ hai"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Tuesday"
+msgstr "Thứ ba"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Wednesday"
+msgstr "Thứ tư"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Thursday"
+msgstr "Thứ năm"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Friday"
+msgstr "Thứ sáu"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Saturday"
+msgstr "ngày thứ bảy"
+
+#: Template/ClassSchedule/add_class.ctp:125
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:103
+#: Template/GymReservation/reservation_list.ctp:54
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Start Time"
+msgstr "Thời gian bắt đầu"
+
+#: Template/ClassSchedule/add_class.ctp:132
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:110
+msgid "End Time"
+msgstr "Thời gian kết thúc"
+
+#: Template/ClassSchedule/add_class.ctp:137
+msgid "Add Time"
+msgstr "Thêm thời gian"
+
+#: Template/ClassSchedule/add_class.ctp:173
+#: Template/GymReservation/add_reservation.ctp:142
+msgid "Save Class"
+msgstr "Lưu lớp"
+
+#: Template/ClassSchedule/class_list.ctp:46
+#: Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "Lịch học"
+
+#: Template/ClassSchedule/class_list.ctp:62
+#: Template/ClassSchedule/class_list.ctp:96
+msgid "Staff Name"
+msgstr "Tên nhân viên"
+
+#: Template/ClassSchedule/class_list.ctp:63
+#: Template/ClassSchedule/class_list.ctp:97
+msgid "Starting Time"
+msgstr "Thời gian bắt đầu"
+
+#: Template/ClassSchedule/class_list.ctp:64
+#: Template/ClassSchedule/class_list.ctp:98
+#: Template/GymReservation/reservation_list.ctp:55
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Ending Time"
+msgstr "Thời gian kết thúc"
+
+#: Template/ClassSchedule/view_schedule.ctp:43
+#: Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: Template/Dashboard/dashboard.ctp:58
+#: Template/Dashboard/member_dashboard.ctp:61
+#: Template/Dashboard/staff_acc_dashboard.ctp:66
+#: Template/GymAccessright/access_right.ctp:23
+#: Template/GymAccessright/access_right.ctp:123
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:147
+#: Template/GymMember/add_member.ctp:167 Template/GymMember/add_member.ctp:430
+#: Template/GymMember/member_list.ctp:39
+#: Template/GymMember/view_attendance.ctp:34
+#: Template/GymMember/view_member.ctp:33 Template/GymNotice/add_notice.ctp:67
+#: Template/GymStore/sell_product.ctp:46
+#: Template/MembershipPayment/add_income.ctp:43
+#: Template/MembershipPayment/generate_payment_invoice.ctp:64
+msgid "Member"
+msgstr "Hội viên"
+
+#: Template/Dashboard/dashboard.ctp:106
+#: Template/Dashboard/member_dashboard.ctp:134
+#: Template/Dashboard/staff_acc_dashboard.ctp:158
+#: Template/GymMember/add_member.ctp:438
+#: Template/MemberRegistration/index.ctp:259 Template/Membership/add.ctp:66
+#: Template/Membership/edit_membership.ctp:8
+#: Template/Membership/membership_list.ctp:37
+#: Template/Membership/membership_list.ctp:43
+#: Template/Membership/view_activity.ctp:40
+#: Template/MembershipPayment/generate_payment_invoice.ctp:76
+msgid "Membership"
+msgstr "Tư cách thành viên"
+
+#: Template/Dashboard/dashboard.ctp:124
+#: Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/staff_acc_dashboard.ctp:187
+#: Template/GymGroup/add_group.ctp:21 Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "Danh sách nhóm"
+
+#: Template/Dashboard/dashboard.ctp:154
+msgid "Payment by month"
+msgstr "Thanh toán theo tháng"
+
+#: Template/Dashboard/dashboard.ctp:192 Template/Dashboard/dashboard.ctp:247
+#: Template/Dashboard/dashboard.ctp:298
+#: Template/Dashboard/member_dashboard.ctp:200
+#: Template/Dashboard/member_dashboard.ctp:224
+#: Template/Dashboard/member_dashboard.ctp:248
+#: Template/Dashboard/member_dashboard.ctp:272
+#: Template/Dashboard/member_dashboard.ctp:296
+#: Template/Dashboard/member_dashboard.ctp:320
+#: Template/Dashboard/member_dashboard.ctp:344
+#: Template/GymMember/view_member.ctp:155
+#: Template/GymMember/view_member.ctp:179
+#: Template/GymMember/view_member.ctp:205
+#: Template/GymMember/view_member.ctp:229
+#: Template/GymMember/view_member.ctp:255
+#: Template/GymMember/view_member.ctp:279
+#: Template/GymMember/view_member.ctp:305
+msgid "There is not enough data to generate report"
+msgstr "Không có đủ dữ liệu để tạo báo cáo"
+
+#: Template/Dashboard/dashboard.ctp:209 Template/Dashboard/dashboard.ctp:240
+#: Template/Reports/attendance_report.ctp:81
+msgid "Member Attendance Report"
+msgstr "Báo cáo tham dự của thành viên"
+
+#: Template/Dashboard/dashboard.ctp:223
+#: Template/Reports/attendance_report.ctp:93
+#: Template/Reports/membership_report.ctp:41
+msgid "No of Member"
+msgstr "Không có thành viên"
+
+#: Template/Dashboard/dashboard.ctp:263
+msgid "Staff Attendance Report"
+msgstr "Báo cáo tham dự của nhân viên"
+
+#: Template/Dashboard/dashboard.ctp:277
+msgid "Number of Staff Members"
+msgstr "Số lượng nhân viên"
+
+#: Template/Dashboard/dashboard.ctp:292
+#: Template/GymAttendance/attendance.ctp:29
+#: Template/GymAttendance/staff_attendance.ctp:18
+msgid "Staff Attendance"
+msgstr "Nhân viên tham dự"
+
+#: Template/Dashboard/member_dashboard.ctp:191
+msgid "Weight Progress Report"
+msgstr "Báo cáo tiến độ cân nặng"
+
+#: Template/Dashboard/member_dashboard.ctp:215
+msgid "Waist  Progress Report"
+msgstr "Báo cáo tiến độ eo"
+
+#: Template/Dashboard/member_dashboard.ctp:239
+msgid "Thigh Progress Report"
+msgstr "Báo cáo tiến độ"
+
+#: Template/Dashboard/member_dashboard.ctp:263
+msgid "Arms Progress Report"
+msgstr "Báo cáo tiến độ vũ khí"
+
+#: Template/Dashboard/member_dashboard.ctp:287
+msgid "Height Progress Report"
+msgstr "Báo cáo tiến độ chiều cao"
+
+#: Template/Dashboard/member_dashboard.ctp:311
+msgid "Chest Progress Report"
+msgstr "Báo cáo tiến độ ngực"
+
+#: Template/Dashboard/member_dashboard.ctp:335
+msgid "Fat Progress Report"
+msgstr "Báo cáo tiến độ chất béo"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "Phiên bản"
+
+#: Template/Element/topbar.ctp:40
+msgid "Member since"
+msgstr "Thành viên từ"
+
+#: Template/Element/topbar.ctp:47 Template/Element/topbar.ctp:53
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: Template/Element/topbar.ctp:57
+msgid "Sign out"
+msgstr "Đăng xuất"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "Cài đặt hệ thống"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "Tên phòng tập thể dục"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "Năm bắt đầu"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "Địa chỉ phòng tập"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "Số điện thoại văn phòng"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:132
+msgid "Country"
+msgstr "Quốc gia"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "Ngôn ngữ hệ thống"
+
+#: Template/GeneralSetting/save_setting.ctp:126
+msgid "Set Language to RTL"
+msgstr "Đặt ngôn ngữ thành RTL"
+
+#: Template/GeneralSetting/save_setting.ctp:128
+#: Template/GeneralSetting/save_setting.ctp:405
+#: Template/GeneralSetting/save_setting.ctp:412
+#: Template/GeneralSetting/save_setting.ctp:422
+#: Template/GeneralSetting/save_setting.ctp:452
+#: Template/GeneralSetting/save_setting.ctp:489
+msgid "Enable"
+msgstr "Kích hoạt"
+
+#: Template/GeneralSetting/save_setting.ctp:196
+msgid "Date Format"
+msgstr "Định dạng ngày tháng"
+
+#: Template/GeneralSetting/save_setting.ctp:289
+msgid "Time Zone"
+msgstr "Múi giờ"
+
+#: Template/GeneralSetting/save_setting.ctp:319
+msgid "Gym Logo"
+msgstr "Logo phòng tập thể dục"
+
+#: Template/GeneralSetting/save_setting.ctp:324
+msgid "(Max. height 50px.)"
+msgstr "(Chiều cao tối đa 50px.)"
+
+#: Template/GeneralSetting/save_setting.ctp:336
+msgid "Cover Image"
+msgstr "Ảnh bìa"
+
+#: Template/GeneralSetting/save_setting.ctp:348
+msgid "Measurement Units"
+msgstr "Đơn vị đo lường"
+
+#: Template/GeneralSetting/save_setting.ctp:350
+#: Template/GymMember/add_member.ctp:295
+msgid "Weight"
+msgstr "Cân nặng"
+
+#: Template/GeneralSetting/save_setting.ctp:357
+#: Template/GymMember/add_member.ctp:302
+msgid "Height"
+msgstr "Chiều cao"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+#: Template/GymMember/add_member.ctp:309
+msgid "Chest"
+msgstr "Ngực"
+
+#: Template/GeneralSetting/save_setting.ctp:371
+#: Template/GymMember/add_member.ctp:316
+msgid "Waist"
+msgstr "Eo"
+
+#: Template/GeneralSetting/save_setting.ctp:378
+msgid "Thing"
+msgstr "Điều"
+
+#: Template/GeneralSetting/save_setting.ctp:385
+#: Template/GymMember/add_member.ctp:330
+msgid "Arms"
+msgstr "Cánh tay"
+
+#: Template/GeneralSetting/save_setting.ctp:392
+#: Template/GymMember/add_member.ctp:337
+msgid "Fat"
+msgstr "Mập"
+
+#: Template/GeneralSetting/save_setting.ctp:400
+msgid "Member Privacy Setting"
+msgstr "Thiết lập quyền riêng tư của thành viên"
+
+#: Template/GeneralSetting/save_setting.ctp:402
+msgid "Member can view other member's details"
+msgstr "Thành viên có thể xem chi tiết của thành viên khác"
+
+#: Template/GeneralSetting/save_setting.ctp:409
+msgid "Staff Member can view own trainee member's details"
+msgstr "Nhân viên có thể xem chi tiết của thành viên thực tập sinh"
+
+#: Template/GeneralSetting/save_setting.ctp:418
+msgid "Paypal Setting"
+msgstr "Cài đặt Paypal"
+
+#: Template/GeneralSetting/save_setting.ctp:420
+msgid "Enable Sandbox"
+msgstr "Kích hoạt hộp cát"
+
+#: Template/GeneralSetting/save_setting.ctp:427
+msgid "Paypal Email Id"
+msgstr "Id Email Paypal"
+
+#: Template/GeneralSetting/save_setting.ctp:434
+msgid "Select Currency"
+msgstr "Chọn tiền tệ"
+
+#: Template/GeneralSetting/save_setting.ctp:448
+msgid "Membership Alert Message Setting"
+msgstr "Cài đặt tin nhắn cảnh báo thành viên"
+
+#: Template/GeneralSetting/save_setting.ctp:450
+msgid "Enable Alert Mail"
+msgstr "Bật thư cảnh báo"
+
+#: Template/GeneralSetting/save_setting.ctp:457
+msgid "Reminder Before Days"
+msgstr "Nhắc nhở trước ngày"
+
+#: Template/GeneralSetting/save_setting.ctp:465
+msgid "Reminder Message"
+msgstr "Tin nhắn nhắc nhở"
+
+#: Template/GeneralSetting/save_setting.ctp:472
+msgid "ShortCodes For Notification Mail Message"
+msgstr "Mã ngắn cho thông báo thư thông báo"
+
+#: Template/GeneralSetting/save_setting.ctp:475
+#: Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77
+#: Template/GymAttendance/attendance.ctp:108
+#: Template/GymAttendance/attendance.ctp:117
+#: Template/GymAttendance/staff_attendance.ctp:69
+#: Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82
+#: Template/GymMember/member_list.ctp:56 Template/GymMember/member_list.ctp:109
+#: Template/GymNutrition/nutrition_list.ctp:53
+#: Template/GymNutrition/nutrition_list.ctp:77
+#: Template/GymStore/sell_record.ctp:36 Template/GymStore/sell_record.ctp:63
+#: Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:72
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "Tên thành viên"
+
+#: Template/GeneralSetting/save_setting.ctp:476 Template/Membership/add.ctp:81
+#: Template/Membership/edit_membership.ctp:21
+#: Template/Membership/membership_list.ctp:54
+#: Template/Membership/membership_list.ctp:102
+#: Template/Reports/membership_report.ctp:35
+msgid "Membership Name"
+msgstr "Tên thành viên"
+
+#: Template/GeneralSetting/save_setting.ctp:477
+#: Template/GymMember/view_member.ctp:390
+#: Template/GymMember/view_member.ctp:418
+#: Template/GymSubscriptionHistory/index.ctp:46
+#: Template/GymSubscriptionHistory/index.ctp:76
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "Ngày bắt đầu thành viên"
+
+#: Template/GeneralSetting/save_setting.ctp:478
+#: Template/GymMember/view_member.ctp:391
+#: Template/GymMember/view_member.ctp:419
+#: Template/GymSubscriptionHistory/index.ctp:47
+#: Template/GymSubscriptionHistory/index.ctp:77
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "Ngày kết thúc thành viên"
+
+#: Template/GeneralSetting/save_setting.ctp:485
+msgid "Message Setting"
+msgstr "Cài đặt tin nhắn"
+
+#: Template/GeneralSetting/save_setting.ctp:487
+msgid "Member can Message To other's"
+msgstr "Thành viên có thể nhắn tin cho người khác"
+
+#: Template/GeneralSetting/save_setting.ctp:494
+msgid "Header & Footer Text"
+msgstr "Văn bản tiêu đề và chân trang"
+
+#: Template/GeneralSetting/save_setting.ctp:496
+msgid "Left Header Text"
+msgstr "Văn bản tiêu đề bên trái"
+
+#: Template/GeneralSetting/save_setting.ctp:503
+msgid "Footer Text"
+msgstr "Văn bản chân trang"
+
+#: Template/GeneralSetting/save_setting.ctp:511
+msgid "Save Settings"
+msgstr "Lưu các thiết lập"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "Truy cập Cài đặt Phải"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: Template/GymAccessright/access_right.ctp:213
+msgid "Attendence"
+msgstr "Tham dự"
+
+#: Template/GymAccessright/access_right.ctp:243
+msgid "Assigned Workouts"
+msgstr "Tập luyện được phân công"
+
+#: Template/GymAccessright/access_right.ctp:273
+msgid "Workouts"
+msgstr "Tập luyện"
+
+#: Template/GymAccessright/access_right.ctp:333
+#: Template/Reports/payment_report.ctp:47
+msgid "Fee Payment"
+msgstr "Sự trả phí"
+
+#: Template/GymAccessright/access_right.ctp:392
+#: Template/MembershipPayment/add_expense.ctp:22
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "Chi phí"
+
+#: Template/GymAccessright/access_right.ctp:663
+msgid "Account"
+msgstr "Tài khoản"
+
+#: Template/GymAccessright/access_right.ctp:694
+#: Template/GymMember/view_member.ctp:382
+#: Template/GymSubscriptionHistory/index.ctp:32
+#: Template/GymSubscriptionHistory/index.ctp:33
+msgid "Subscription History"
+msgstr "Lịch sử đăng ký"
+
+#: Template/GymAccessright/access_right.ctp:724
+#: Template/GymDailyWorkout/add_workout.ctp:210
+#: Template/GymEmailSetting/index.ctp:46 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNotice/add_notice.ctp:102
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+#: Template/GymProduct/add_product.ctp:47
+#: Template/GymProfile/view_profile.ctp:95
+#: Template/GymProfile/view_profile.ctp:155
+#: Template/GymStore/sell_product.ctp:84
+msgid "Save"
+msgstr "Tiết kiệm"
+
+#: Template/GymAccountant/accountant_list.ctp:36
+#: Template/GymAccountant/add_accountant.ctp:34
+msgid "Accountant List"
+msgstr "Danh sách kế toán"
+
+#: Template/GymAccountant/accountant_list.ctp:53
+#: Template/GymAccountant/accountant_list.ctp:87
+#: Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76
+#: Template/GymAttendance/attendance.ctp:107
+#: Template/GymAttendance/attendance.ctp:116
+#: Template/GymAttendance/staff_attendance.ctp:68
+#: Template/GymDailyWorkout/workout_list.ctp:55
+#: Template/GymDailyWorkout/workout_list.ctp:81
+#: Template/GymGroup/group_list.ctp:44 Template/GymGroup/group_list.ctp:75
+#: Template/GymMember/member_list.ctp:55 Template/GymMember/member_list.ctp:108
+#: Template/GymMember/view_member.ctp:320
+#: Template/Membership/membership_list.ctp:53
+#: Template/Membership/membership_list.ctp:101
+#: Template/StaffMembers/staff_list.ctp:47
+#: Template/StaffMembers/staff_list.ctp:80
+msgid "Photo"
+msgstr "ảnh"
+
+#: Template/GymAccountant/accountant_list.ctp:54
+#: Template/GymAccountant/accountant_list.ctp:88
+msgid "Accountant Name"
+msgstr "Tên kế toán"
+
+#: Template/GymAccountant/accountant_list.ctp:55
+#: Template/GymAccountant/accountant_list.ctp:89
+msgid "Accountant Email"
+msgstr "Email kế toán"
+
+#: Template/GymAccountant/accountant_list.ctp:56
+#: Template/GymAccountant/accountant_list.ctp:90
+#: Template/GymProfile/view_profile.ctp:136
+#: Template/StaffMembers/staff_list.ctp:51
+#: Template/StaffMembers/staff_list.ctp:84
+msgid "Mobile No."
+msgstr "Số di động"
+
+#: Template/GymAccountant/add_accountant.ctp:51
+#: Template/GymMember/add_member.ctp:196
+#: Template/MemberRegistration/index.ctp:122
+#: Template/StaffMembers/add_staff.ctp:67
+msgid "Middle Name"
+msgstr "Tên đệm"
+
+#: Template/GymAccountant/add_accountant.ctp:65
+#: Template/GymMember/add_member.ctp:210 Template/GymMember/view_member.ctp:86
+#: Template/MemberRegistration/index.ctp:136
+#: Template/StaffMembers/add_staff.ctp:81
+msgid "Gender"
+msgstr "Giới tính"
+
+#: Template/GymAccountant/add_accountant.ctp:68
+#: Template/GymMember/add_member.ctp:213 Template/StaffMembers/add_staff.ctp:84
+msgid "Male"
+msgstr "Nam giới"
+
+#: Template/GymAccountant/add_accountant.ctp:69
+#: Template/GymMember/add_member.ctp:214 Template/StaffMembers/add_staff.ctp:85
+msgid "Female"
+msgstr "Giống cái"
+
+#: Template/GymAccountant/add_accountant.ctp:76
+#: Template/GymMember/add_member.ctp:221
+#: Template/GymProfile/view_profile.ctp:113
+#: Template/MemberRegistration/index.ctp:147
+#: Template/StaffMembers/add_staff.ctp:92
+msgid "Date of birth"
+msgstr "Ngày sinh"
+
+#: Template/GymAccountant/add_accountant.ctp:82
+#: Template/GymMember/add_member.ctp:238
+#: Template/MemberRegistration/index.ctp:161
+#: Template/StaffMembers/add_staff.ctp:117
+msgid "Contact Information"
+msgstr "Thông tin liên lạc"
+
+#: Template/GymAccountant/add_accountant.ctp:84
+#: Template/GymProfile/view_profile.ctp:122
+#: Template/StaffMembers/add_staff.ctp:119
+msgid "Home Town Address"
+msgstr "Địa chỉ nhà"
+
+#: Template/GymAccountant/add_accountant.ctp:91
+#: Template/GymMember/add_member.ctp:247
+#: Template/GymProfile/view_profile.ctp:130
+#: Template/MemberRegistration/index.ctp:171
+#: Template/StaffMembers/add_staff.ctp:126
+msgid "City"
+msgstr "Thành phố"
+
+#: Template/GymAccountant/add_accountant.ctp:98
+#: Template/GymMember/add_member.ctp:268
+#: Template/MemberRegistration/index.ctp:192
+#: Template/StaffMembers/add_staff.ctp:133
+msgid "Mobile Number"
+msgstr "Số điện thoại"
+
+#: Template/GymAccountant/add_accountant.ctp:108
+#: Template/GymMember/add_member.ctp:278
+#: Template/GymProfile/view_profile.ctp:142
+#: Template/MemberRegistration/index.ctp:202
+#: Template/StaffMembers/add_staff.ctp:143
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: Template/GymAccountant/add_accountant.ctp:147
+msgid "Save Accountant"
+msgstr "Lưu kế toán"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:68
+#: Template/GymAssignWorkout/assign_workout1.ctp:49
+msgid "Workout Logs"
+msgstr "Nhật ký tập luyện"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:78
+#: Template/GymAssignWorkout/assign_workout1.ctp:59
+#: Template/GymDailyWorkout/add_workout.ctp:149
+#: Template/GymDailyWorkout/add_workout.ctp:163
+#: Template/GymNutrition/addnutrition_schedule.ctp:56
+#: Template/MembershipPayment/generate_payment_invoice.ctp:71
+#: Template/Reports/monthlyworkoutreport.ctp:52
+msgid "Select Member"
+msgstr "Chọn thành viên"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:103
+#: Template/GymAssignWorkout/assign_workout1.ctp:82
+#: Template/GymMessage/inbox.ctp:54 Template/GymMessage/sent.ctp:43
+#: Template/GymNutrition/addnutrition_schedule.ctp:185
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:54
+msgid "Description"
+msgstr "Sự miêu tả"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:117
+#: Template/GymAssignWorkout/assign_workout1.ctp:96
+#: Template/GymMember/view_attendance.ctp:52
+#: Template/GymNotice/add_notice.ctp:89
+#: Template/GymNutrition/addnutrition_schedule.ctp:78
+#: Template/Reports/attendance_report.ctp:68
+msgid "End Date"
+msgstr "Ngày cuối"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:138
+#: Template/GymAssignWorkout/assign_workout1.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "Chọn hoạt động tập luyện để thêm vào những ngày đã chọn"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:144
+#: Template/GymAssignWorkout/assign_workout1.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "Bước 1 Thêm tập luyện"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "Bước 2 Lưu tập luyện"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Save Workout"
+msgstr "Tiết kiệm tập luyện"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "Start From"
+msgstr "Bắt đầu từ"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "TO"
+msgstr "ĐẾN"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:194
+#: Template/GymAssignWorkout/assign_workout1.ctp:172
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:60
+#: Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:181
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:50
+msgid "Day name"
+msgstr "Tên ngày"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "Nhật ký tập luyện"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97
+#: Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "Không tìm thấy hồ sơ"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54
+#: Template/GymAssignWorkout/workout_log.ctp:78
+#: Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:78
+msgid "Member Goal"
+msgstr "Mục tiêu thành viên"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67
+#: Template/GymDailyWorkout/view_workout.ctp:58
+msgid "View Workouts"
+msgstr "Xem tập luyện"
+
+#: Template/GymAttendance/attendance.ctp:22
+#: Template/GymAttendance/staff_attendance.ctp:22
+msgid "Member Attendance"
+msgstr "Tham dự của thành viên"
+
+#: Template/GymAttendance/attendance.ctp:43
+#: Template/GymAttendance/attendance.ctp:47
+#: Template/GymMessage/compose_message.ctp:62
+#: Template/GymNotice/add_notice.ctp:76 Template/Membership/add.ctp:142
+msgid "Select Class"
+msgstr "Chọn lớp"
+
+#: Template/GymAttendance/attendance.ctp:55
+#: Template/GymMember/view_attendance.ctp:33
+msgid "View Attendance"
+msgstr "Xem tham dự"
+
+#: Template/GymAttendance/attendance.ctp:59
+#: Template/GymAttendance/staff_attendance.ctp:36
+msgid "Take/View Attendance"
+msgstr "Tham dự / Xem tham dự"
+
+#: Template/GymAttendance/attendance.ctp:168
+#: Template/GymAttendance/staff_attendance.ctp:88
+msgid "Save Attendance"
+msgstr "Lưu tham dự"
+
+#: Template/GymAttendance/attendance.ctp:179
+msgid "No attendance found."
+msgstr "Không tìm thấy tham dự."
+
+#: Template/GymAttendance/staff_attendance.ctp:52
+msgid "Staff Attendance, Date"
+msgstr "Nhân viên tham dự, ngày"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:127
+#: Template/GymDailyWorkout/view_workout.ctp:34
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "Tập luyện hàng ngày"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:27
+#: Template/GymDailyWorkout/add_workout.ctp:130
+#: Template/GymDailyWorkout/view_workout.ctp:37
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "Danh sách tập luyện"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:56
+msgid "Result Measurement"
+msgstr "Đo lường kết quả"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:60
+msgid "Select Result Measurement"
+msgstr "Chọn kết quả đo"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:71
+msgid "Result Date"
+msgstr "Ngày kết quả"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:87
+msgid "Save Measurement"
+msgstr "Lưu đo lường"
+
+#: Template/GymDailyWorkout/add_workout.ctp:179
+msgid "Select Date"
+msgstr "Chọn ngày"
+
+#: Template/GymDailyWorkout/add_workout.ctp:197
+msgid "Select Record Date For Today Workout"
+msgstr "Chọn ngày ghi cho tập luyện hôm nay"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57
+#: Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "Di động"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72
+#: Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "Lượt xem"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "Xem đo lường"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "Cài đặt email"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:108
+msgid "Host"
+msgstr "Chủ nhà"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "Hải cảng"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:95
+msgid "To"
+msgstr "Đến"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "Gửi thư kiểm tra"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "Tên nhóm"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "Hình ảnh nhóm"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "Lưu nhóm"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "Tổng số thành viên nhóm"
+
+#: Template/GymMember/add_member.ctp:170 Template/GymMember/member_list.ctp:38
+#: Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "Danh sách thành viên"
+
+#: Template/GymMember/add_member.ctp:181 Template/GymMember/member_list.ctp:57
+#: Template/GymMember/member_list.ctp:110 Template/GymMember/view_member.ctp:62
+#: Template/MemberRegistration/index.ctp:107
+msgid "Member ID"
+msgstr "Mã thành viên"
+
+#: Template/GymMember/add_member.ctp:240 Template/GymMember/view_member.ctp:70
+#: Template/MemberRegistration/index.ctp:164
+msgid "Address"
+msgstr "Địa chỉ nhà"
+
+#: Template/GymMember/add_member.ctp:254
+msgid "State"
+msgstr "Tiểu bang"
+
+#: Template/GymMember/add_member.ctp:261
+#: Template/MemberRegistration/index.ctp:185
+msgid "Zip code"
+msgstr "Mã Bưu Chính"
+
+#: Template/GymMember/add_member.ctp:293
+msgid "Physical Information"
+msgstr "thông tin vật lý"
+
+#: Template/GymMember/add_member.ctp:323
+msgid "Thigh"
+msgstr "Đùi"
+
+#: Template/GymMember/add_member.ctp:369
+#: Template/MemberRegistration/index.ctp:242
+msgid "More Information"
+msgstr "Thêm thông tin"
+
+#: Template/GymMember/add_member.ctp:376 Template/GymMember/add_member.ctp:406
+msgid "Add Staff"
+msgstr "Thêm nhân viên"
+
+#: Template/GymMember/add_member.ctp:381
+#: Template/MemberRegistration/index.ctp:245
+msgid "Interested Area"
+msgstr "Khu vực quan tâm"
+
+#: Template/GymMember/add_member.ctp:383
+#: Template/MemberRegistration/index.ctp:247
+msgid "Select Interest"
+msgstr "Chọn sở thích"
+
+#: Template/GymMember/add_member.ctp:386 Template/GymMember/add_member.ctp:396
+#: Template/StaffMembers/add_staff.ctp:104
+#: Template/StaffMembers/add_staff.ctp:112
+msgid "Add/Remove"
+msgstr "Thêm bớt"
+
+#: Template/GymMember/add_member.ctp:391
+#: Template/MemberRegistration/index.ctp:252
+msgid "Source"
+msgstr "Nguồn"
+
+#: Template/GymMember/add_member.ctp:393
+#: Template/MemberRegistration/index.ctp:254
+msgid "Select Source"
+msgstr "Chọn nguồn"
+
+#: Template/GymMember/add_member.ctp:401
+msgid "Referred By"
+msgstr "Gọi bằng"
+
+#: Template/GymMember/add_member.ctp:411
+msgid "Inquiry Date"
+msgstr "Ngày điều tra"
+
+#: Template/GymMember/add_member.ctp:418
+msgid "Trial End Date"
+msgstr "Ngày kết thúc dùng thử"
+
+#: Template/GymMember/add_member.ctp:427 Template/GymMember/member_list.ctp:60
+#: Template/GymMember/member_list.ctp:113
+msgid "Member Type"
+msgstr "Loại thành viên"
+
+#: Template/GymMember/add_member.ctp:431 Template/GymMember/add_member.ctp:465
+msgid "Prospect"
+msgstr "Triển vọng"
+
+#: Template/GymMember/add_member.ctp:432
+msgid "Alumni"
+msgstr "Cựu sinh viên"
+
+#: Template/GymMember/add_member.ctp:453
+msgid "Add Class"
+msgstr "Thêm lớp"
+
+#: Template/GymMember/add_member.ctp:462 Template/GymMember/member_list.ctp:61
+#: Template/GymMember/member_list.ctp:114
+msgid "Membership Status"
+msgstr "Tư cách thành viên"
+
+#: Template/GymMember/add_member.ctp:466
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: Template/GymMember/add_member.ctp:467
+msgid "Expired"
+msgstr "Đã hết hạn"
+
+#: Template/GymMember/add_member.ctp:468
+msgid "Dropped"
+msgstr "Giảm"
+
+#: Template/GymMember/add_member.ctp:474
+#: Template/MembershipPayment/generate_payment_invoice.ctp:91
+msgid "Membership Valid From"
+msgstr "Thành viên hợp lệ từ"
+
+#: Template/GymMember/add_member.ctp:487
+msgid "First Payment Date"
+msgstr "Ngày thanh toán đầu tiên"
+
+#: Template/GymMember/add_member.ctp:495
+#: Template/MemberRegistration/index.ctp:292
+msgid "Save Member"
+msgstr "Lưu thành viên"
+
+#: Template/GymMember/member_list.ctp:58 Template/GymMember/member_list.ctp:111
+msgid "Joining Date"
+msgstr "Ngày tham gia"
+
+#: Template/GymMember/member_list.ctp:59 Template/GymMember/member_list.ctp:112
+msgid "Expire Date"
+msgstr "Hạn sử dụng"
+
+#: Template/GymMember/member_list.ctp:96
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: Template/GymMember/member_list.ctp:98
+msgid "Activated"
+msgstr "Đã kích hoạt"
+
+#: Template/GymMember/view_attendance.ctp:37
+msgid "Member List"
+msgstr "Danh sách thành viên"
+
+#: Template/GymMember/view_attendance.ctp:57
+#: Template/Reports/attendance_report.ctp:74
+msgid "Go"
+msgstr "Đi"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "Xem thành viên"
+
+#: Template/GymMember/view_member.ctp:66
+#: Template/GymProfile/view_profile.ctp:64
+msgid "Name"
+msgstr "Tên"
+
+#: Template/GymMember/view_member.ctp:78
+msgid "Mobile No"
+msgstr "Điện thoại di động"
+
+#: Template/GymMember/view_member.ctp:82
+msgid "Date Of Birth"
+msgstr "Ngày sinh"
+
+#: Template/GymMember/view_member.ctp:103
+msgid "Moreinfo"
+msgstr "Thêm thông tin"
+
+#: Template/GymMember/view_member.ctp:107
+msgid "MemberShip"
+msgstr "Thành viên"
+
+#: Template/GymMember/view_member.ctp:111
+msgid "Expiry Date"
+msgstr "Ngày hết hạn"
+
+#: Template/GymMember/view_member.ctp:115
+msgid "Classes"
+msgstr "Các lớp học"
+
+#: Template/GymMember/view_member.ctp:119
+msgid "Interest Area"
+msgstr "Khu vực quan tâm"
+
+#: Template/GymMember/view_member.ctp:133
+msgid "Groups"
+msgstr "Các nhóm"
+
+#: Template/GymMember/view_member.ctp:147
+msgid "Add Weight"
+msgstr "Thêm trọng lượng"
+
+#: Template/GymMember/view_member.ctp:171
+msgid "Add Waist"
+msgstr "Thêm thắt lưng"
+
+#: Template/GymMember/view_member.ctp:197
+msgid "Add Thigh"
+msgstr "Thêm Đùi"
+
+#: Template/GymMember/view_member.ctp:221
+msgid "Add Arms"
+msgstr "Thêm vũ khí"
+
+#: Template/GymMember/view_member.ctp:247
+msgid "Add Height"
+msgstr "Thêm chiều cao"
+
+#: Template/GymMember/view_member.ctp:271
+msgid "Add Chest"
+msgstr "Thêm ngực"
+
+#: Template/GymMember/view_member.ctp:297
+msgid "Add Fat"
+msgstr "Thêm chất béo"
+
+#: Template/GymMember/view_member.ctp:321
+msgid "Add Photo"
+msgstr "Thêm ảnh"
+
+#: Template/GymMember/view_member.ctp:387
+#: Template/GymMember/view_member.ctp:415
+#: Template/GymSubscriptionHistory/index.ctp:43
+#: Template/GymSubscriptionHistory/index.ctp:73
+msgid "Membership Title"
+msgstr "Tiêu đề thành viên"
+
+#: Template/GymMember/view_member.ctp:389
+#: Template/GymMember/view_member.ctp:417
+#: Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:75
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "Số tiền đến hạn"
+
+#: Template/GymMember/view_member.ctp:392
+#: Template/GymMember/view_member.ctp:420
+#: Template/GymSubscriptionHistory/index.ctp:48
+#: Template/GymSubscriptionHistory/index.ctp:78
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "Tình trạng thanh toán"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "Soạn tin nhắn"
+
+#: Template/GymMessage/compose_message.ctp:25
+#: Template/GymMessage/compose_message.ctp:28 Template/GymMessage/inbox.ctp:26
+#: Template/GymMessage/inbox.ctp:30 Template/GymMessage/sent.ctp:20
+#: Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "Soạn, biên soạn"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "Hộp thư đến"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "Gởi"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "Tin nhắn tới"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "không ai"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "Môn học"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "Bình luận tin nhắn"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "Gửi tin nhắn"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "Tin nhắn hộp thư đến"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "Tin nhắn từ"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "Gửi tin nhắn"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "Cài đặt"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "Đồng bộ hóa thư"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "Danh sách MailChimp"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "Chọn danh sách"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "Danh sách chiến dịch"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "Chọn chiến dịch"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "Gửi Capmaign"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "Chiến dịch"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "Khóa API MailChimp"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "Danh sách gửi thư"
+
+#: Template/GymNotice/add_notice.ctp:41
+msgid "Edit Notice"
+msgstr "Chỉnh sửa thông báo"
+
+#: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "Thêm thông báo"
+
+#: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "Danh sách thông báo"
+
+#: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "Tiêu đề thông báo"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "All"
+msgstr "Tất cả các"
+
+#: Template/GymNotice/add_notice.ctp:96
+msgid "Comment"
+msgstr "Bình luận"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "Danh sách lịch trình dinh dưỡng"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:98
+msgid "Select Nutrition to add on selected days"
+msgstr "Chọn Dinh dưỡng để thêm vào những ngày đã chọn"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:103
+msgid "Break Fast"
+msgstr "Bữa ăn sáng"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:109
+msgid "Mid-Morning Snacks"
+msgstr "Đồ ăn nhẹ buổi sáng"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:115
+msgid "Lunch"
+msgstr "Bữa trưa"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:120
+msgid "Afternoon Snacks"
+msgstr "Ăn vặt buổi chiều"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:125
+msgid "Dinner"
+msgstr "Bữa tối"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:129
+msgid "+ Add Nutrition"
+msgstr "+ Thêm dinh dưỡng"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+msgid "Step-2 Save"
+msgstr "Bước 2 Lưu"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:184
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Time"
+msgstr "Thời gian"
+
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:80
+msgid "No record found."
+msgstr "Không tìm thấy hồ sơ."
+
+#: Template/GymNutrition/nutrition_list.ctp:52
+#: Template/GymNutrition/nutrition_list.ctp:76
+msgid "Member Photo"
+msgstr "Ảnh thành viên"
+
+#: Template/GymProduct/add_product.ctp:9
+msgid "Edit Product"
+msgstr "Chỉnh sửa sản phẩm"
+
+#: Template/GymProduct/add_product.ctp:11
+#: Template/GymProduct/product_list.ctp:37
+#: Template/GymStore/sell_product.ctp:70
+msgid "Add Product"
+msgstr "Thêm sản phẩm"
+
+#: Template/GymProduct/add_product.ctp:15
+#: Template/GymProduct/product_list.ctp:31
+msgid "Products"
+msgstr "Các sản phẩm"
+
+#: Template/GymProduct/add_product.ctp:18
+#: Template/GymProduct/product_list.ctp:30
+msgid "Product List"
+msgstr "Danh sách sản phẩm"
+
+#: Template/GymProduct/add_product.ctp:26
+#: Template/GymProduct/product_list.ctp:47
+#: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:62
+msgid "Product Name"
+msgstr "tên sản phẩm"
+
+#: Template/GymProduct/add_product.ctp:32
+#: Template/GymProduct/product_list.ctp:48
+#: Template/GymProduct/product_list.ctp:77
+msgid "Product Price"
+msgstr "Giá sản phẩm"
+
+#: Template/GymProduct/add_product.ctp:41
+#: Template/GymProduct/product_list.ctp:49
+#: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:64
+msgid "Product Quantity"
+msgstr "Chất lượng sản phẩm"
+
+#: Template/GymProfile/view_profile.ctp:51
+msgid "Account Settings"
+msgstr "Cài đặt tài khoản"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "Current Password"
+msgstr "Mật khẩu hiện tại"
+
+#: Template/GymProfile/view_profile.ctp:82
+msgid "New Password"
+msgstr "mật khẩu mới"
+
+#: Template/GymProfile/view_profile.ctp:87 Template/Installer/index.ctp:571
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+#: Template/GymProfile/view_profile.ctp:106
+msgid "Other Information"
+msgstr "Thông tin khác"
+
+#: Template/GymReservation/add_reservation.ctp:58
+msgid "Edit Event"
+msgstr "Chỉnh sửa sự kiện"
+
+#: Template/GymReservation/add_reservation.ctp:60
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Add Event"
+msgstr "Thêm sự kiện"
+
+#: Template/GymReservation/add_reservation.ctp:63
+msgid "Schedule"
+msgstr "Lịch trình"
+
+#: Template/GymReservation/add_reservation.ctp:66
+#: Template/GymReservation/reservation_list.ctp:34
+msgid "Event List"
+msgstr "Danh mục sự kiện"
+
+#: Template/GymReservation/add_reservation.ctp:75
+#: Template/GymReservation/reservation_list.ctp:51
+#: Template/GymReservation/reservation_list.ctp:83
+msgid "Event Name"
+msgstr "Tên sự kiện"
+
+#: Template/GymReservation/add_reservation.ctp:82
+#: Template/GymReservation/reservation_list.ctp:52
+#: Template/GymReservation/reservation_list.ctp:84
+msgid "Event Date"
+msgstr "Ngày sự kiện"
+
+#: Template/GymReservation/add_reservation.ctp:89
+msgid "Event Place"
+msgstr "Nơi tổ chức sự kiện"
+
+#: Template/GymReservation/add_reservation.ctp:91
+msgid "Select Event Places"
+msgstr "Chọn địa điểm sự kiện"
+
+#: Template/GymReservation/add_reservation.ctp:94
+msgid "Add or Remove"
+msgstr "Thêm hoặc loại bỏ"
+
+#: Template/GymReservation/reservation_list.ctp:53
+#: Template/GymReservation/reservation_list.ctp:85
+msgid "Place"
+msgstr "Địa điểm"
+
+#: Template/GymStore/sell_product.ctp:29
+msgid "Edit Sell Product"
+msgstr "Chỉnh sửa bán sản phẩm"
+
+#: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
+msgid "Add Sell Product"
+msgstr "Thêm bán sản phẩm"
+
+#: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "Bán hồ sơ"
+
+#: Template/GymStore/sell_product.ctp:63
+msgid "Select Product"
+msgstr "Chọn sản phẩm"
+
+#: Template/GymStore/sell_product.ctp:75
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: Template/Installer/index.ctp:10 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "Phòng tập thể dục - Thuật sĩ cài đặt quản lý GYM"
+
+#: Template/Installer/index.ctp:16 Template/Installer/index.ctp:18
+msgid "Server Requirements"
+msgstr "Yêu cầu máy chủ"
+
+#: Template/Installer/index.ctp:79 Template/Installer/index.ctp:81
+msgid "Database Setup"
+msgstr "Thiết lập cơ sở dữ liệu"
+
+#: Template/Installer/index.ctp:84
+msgid "Database Name"
+msgstr "Tên cơ sở dữ liệu"
+
+#: Template/Installer/index.ctp:92
+msgid "Database Username"
+msgstr "Tên người dùng cơ sở dữ liệu"
+
+#: Template/Installer/index.ctp:100
+msgid "Database Password"
+msgstr "Mật khẩu cơ sở dữ liệu"
+
+#: Template/Installer/index.ctp:116 Template/Installer/index.ctp:546
+msgid "Fields are required."
+msgstr "Mục này bắt buộc."
+
+#: Template/Installer/index.ctp:119 Template/Installer/index.ctp:121
+msgid "System Setting"
+msgstr "Thiết lập hệ thống"
+
+#: Template/Installer/index.ctp:124
+msgid "System Name"
+msgstr "Tên hệ thống"
+
+#: Template/Installer/index.ctp:472
+msgid "Date Formate"
+msgstr "Ngày hình thành"
+
+#: Template/Installer/index.ctp:483
+msgid "Calendar Language"
+msgstr "Ngôn ngữ lịch"
+
+#: Template/Installer/index.ctp:549 Template/Installer/index.ctp:551
+msgid "Login Details"
+msgstr "Thông tin thêm về đăng nhập"
+
+#: Template/Installer/index.ctp:579
+msgid "Finish"
+msgstr "Hoàn thành"
+
+#: Template/Installer/index.ctp:581
+msgid "Please Note :"
+msgstr "Xin lưu ý :"
+
+#: Template/Installer/index.ctp:584
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. Có thể mất vài phút để thiết lập cơ sở dữ liệu."
+
+#: Template/Installer/index.ctp:587
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. Không làm mới trang sau khi bạn nhấp vào nút cài đặt."
+
+#: Template/Installer/index.ctp:590
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3. Bạn sẽ được xác nhận với thông báo thành công một lần sau khi cài đặt kết thúc."
+
+#: Template/Installer/index.ctp:593
+msgid "4. Click on install to complete the installation."
+msgstr "4. Nhấp vào cài đặt để hoàn tất cài đặt."
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "Chúc mừng"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "Cài đặt hoàn tất thành công"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "Nhấp chuột"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "ở đây để chuyển hướng trên trang \\ tlogin."
+
+#: Template/MemberRegistration/index.ctp:97 Template/Users/login.ctp:24
+msgid "Member Registration"
+msgstr "Đăng ký thành viên"
+
+#: Template/MemberRegistration/index.ctp:178
+msgid "state"
+msgstr "tiểu bang"
+
+#: Template/MemberRegistration/index.ctp:273
+msgid "Select Joining Date"
+msgstr "Chọn ngày tham gia"
+
+#: Template/MemberRegistration/index.ctp:295
+msgid "Go Back"
+msgstr "Quay lại"
+
+#: Template/Membership/add.ctp:69 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:36
+#: Template/Membership/view_activity.ctp:44
+msgid "Membership List"
+msgstr "Danh sách thành viên"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "Thể loại thành viên"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:55
+#: Template/Membership/membership_list.ctp:103
+msgid "Membership Period"
+msgstr "Thời gian thành viên"
+
+#: Template/Membership/add.ctp:101
+msgid "No. of Days"
+msgstr "Số ngày"
+
+#: Template/Membership/add.ctp:108 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "Giới hạn thành viên"
+
+#: Template/Membership/add.ctp:110
+msgid "Limited"
+msgstr "Hạn chế"
+
+#: Template/Membership/add.ctp:111
+msgid "Unlimited"
+msgstr "Vô hạn"
+
+#: Template/Membership/add.ctp:114
+msgid "no. of classes"
+msgstr "Không. của lớp học"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every week"
+msgstr "Lớp học mỗi tuần"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every month"
+msgstr "Lớp học mỗi tháng"
+
+#: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "Số lượng thành viên"
+
+#: Template/Membership/add.ctp:150 Template/Membership/membership_list.ctp:56
+#: Template/Membership/membership_list.ctp:104
+msgid "Installment Plan"
+msgstr "Kế hoạch trả góp"
+
+#: Template/Membership/add.ctp:156 Template/Membership/edit_membership.ctp:56
+msgid "Select Installment Plan"
+msgstr "Chọn gói trả góp"
+
+#: Template/Membership/add.ctp:161 Template/Membership/edit_membership.ctp:62
+msgid "Add Installment Plan"
+msgstr "Thêm gói trả góp"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "Phí đăng ký"
+
+#: Template/Membership/add.ctp:177 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "Mô tả thành viên"
+
+#: Template/Membership/add.ctp:184 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "Hình ảnh thành viên"
+
+#: Template/Membership/add.ctp:198
+msgid "Save Membership"
+msgstr "Lưu thành viên"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Installment Amount"
+msgstr "Số tiền trả góp"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Installment Period"
+msgstr "Thời gian trả góp"
+
+#: Template/Membership/membership_list.ctp:57
+#: Template/Membership/membership_list.ctp:105
+msgid "SignUp Fee"
+msgstr "Phí đăng ký"
+
+#: Template/Membership/membership_list.ctp:91
+msgid "Activities"
+msgstr "Hoạt động"
+
+#: Template/Membership/view_activity.ctp:41
+msgid "View Activity"
+msgstr "Xem hoạt động"
+
+#: Template/Membership/view_activity.ctp:56
+msgid "Select Activity"
+msgstr "Chọn hoạt động"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+msgid "Edit Expense"
+msgstr "Chỉnh sửa chi phí"
+
+#: Template/MembershipPayment/add_expense.ctp:19
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "Thêm chi phí"
+
+#: Template/MembershipPayment/add_expense.ctp:25
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "Danh sách chi phí"
+
+#: Template/MembershipPayment/add_expense.ctp:34
+#: Template/MembershipPayment/expense_list.ctp:39
+#: Template/MembershipPayment/expense_list.ctp:67
+msgid "Supplier Name"
+msgstr "tên đệm"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Paid"
+msgstr "Đã thanh toán"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Part Paid"
+msgstr "Trả một phần"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Unpaid"
+msgstr "Chưa trả"
+
+#: Template/MembershipPayment/add_expense.ctp:61
+#: Template/MembershipPayment/add_expense.ctp:83
+msgid "Expense Entry"
+msgstr "Nhập cảnh chi phí"
+
+#: Template/MembershipPayment/add_expense.ctp:63
+#: Template/MembershipPayment/add_expense.ctp:85
+msgid "Expense Amount"
+msgstr "Số tiền chi"
+
+#: Template/MembershipPayment/add_expense.ctp:66
+#: Template/MembershipPayment/add_expense.ctp:88
+msgid "Expense Entry Label"
+msgstr "Nhãn nhập chi phí"
+
+#: Template/MembershipPayment/add_expense.ctp:103
+msgid "Add Expense Entry"
+msgstr "Thêm mục chi phí"
+
+#: Template/MembershipPayment/add_expense.ctp:108
+msgid "Create Expense Entry"
+msgstr "Tạo mục chi phí"
+
+#: Template/MembershipPayment/add_income.ctp:25
+msgid "Edit Income"
+msgstr "Chỉnh sửa thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:27
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "Thêm thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:34
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "Danh sách thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:41
+msgid "income"
+msgstr "thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:49
+msgid "Income label"
+msgstr "Nhãn thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:60
+msgid "Select Status"
+msgstr "Chọn trạng thái"
+
+#: Template/MembershipPayment/add_income.ctp:76
+#: Template/MembershipPayment/add_income.ctp:98
+msgid "Income Entry"
+msgstr "Nhập thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:78
+#: Template/MembershipPayment/add_income.ctp:100
+msgid "Income Amount"
+msgstr "khoản thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:81
+#: Template/MembershipPayment/add_income.ctp:103
+msgid "Income Entry Label"
+msgstr "Nhãn thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:118
+msgid "Add Income Entry"
+msgstr "Thêm thu nhập"
+
+#: Template/MembershipPayment/add_income.ctp:123
+msgid "Create Income Entry"
+msgstr "Tạo thu nhập"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "Tạo hóa đơn thanh toán"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:53
+msgid "Membership Payment List"
+msgstr "Danh sách thanh toán thành viên"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:82
+msgid "Total Amount"
+msgstr "Tổng cộng"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:102
+msgid "save_membership_payment"
+msgstr "save_membership_payment"
+
+#: Template/MembershipPayment/payment_list.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "Chức vụ"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "Trả"
+
+#: Template/Reports/attendance_report.ctp:46
+#: Template/Reports/membership_report.ctp:17
+#: Template/Reports/membership_status_report.ctp:19
+#: Template/Reports/monthlyworkoutreport.ctp:29
+#: Template/Reports/payment_report.ctp:17
+msgid "Attendance Report"
+msgstr "Báo cáo tham dự"
+
+#: Template/Reports/attendance_report.ctp:47
+#: Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/monthlyworkoutreport.ctp:17
+#: Template/Reports/payment_report.ctp:14
+msgid "Reports"
+msgstr "Báo cáo"
+
+#: Template/Reports/attendance_report.ctp:50
+#: Template/Reports/membership_report.ctp:30
+#: Template/Reports/membership_status_report.ctp:17
+msgid "Membership Report"
+msgstr "Báo cáo thành viên"
+
+#: Template/Reports/attendance_report.ctp:52
+#: Template/Reports/membership_report.ctp:19
+#: Template/Reports/membership_status_report.ctp:13
+#: Template/Reports/monthlyworkoutreport.ctp:31
+#: Template/Reports/payment_report.ctp:19
+msgid "Membership Status Report"
+msgstr "Báo cáo tình trạng thành viên"
+
+#: Template/Reports/attendance_report.ctp:54
+#: Template/Reports/membership_report.ctp:21
+#: Template/Reports/membership_status_report.ctp:21
+#: Template/Reports/monthlyworkoutreport.ctp:33
+#: Template/Reports/payment_report.ctp:21
+msgid "Payment Report"
+msgstr "Báo cáo thanh toán"
+
+#: Template/Reports/attendance_report.ctp:55
+#: Template/Reports/membership_report.ctp:22
+#: Template/Reports/membership_status_report.ctp:22
+#: Template/Reports/monthlyworkoutreport.ctp:16
+#: Template/Reports/monthlyworkoutreport.ctp:24
+#: Template/Reports/monthlyworkoutreport.ctp:34
+#: Template/Reports/payment_report.ctp:22
+msgid "Members Monthly Workout Report"
+msgstr "Báo cáo tập luyện hàng tháng của thành viên"
+
+#: Template/Reports/attendance_report.ctp:63
+msgid "Strat Date"
+msgstr "Ngày tháng"
+
+#: Template/Reports/attendance_report.ctp:119
+#: Template/Reports/membership_report.ctp:61
+#: Template/Reports/membership_status_report.ctp:41
+#: Template/Reports/payment_report.ctp:66
+msgid "There is not enough data to generate report."
+msgstr "Không có đủ dữ liệu để tạo báo cáo."
+
+#: Template/Reports/membership_report.ctp:13
+#: Template/Reports/payment_report.ctp:13
+msgid "Membership report"
+msgstr "Báo cáo thành viên"
+
+#: Template/Reports/membership_status_report.ctp:30
+msgid "Membership by status"
+msgstr "Tư cách thành viên"
+
+#: Template/Reports/monthlyworkoutreport.ctp:63
+msgid "GO"
+msgstr "ĐI"
+
+#: Template/Reports/monthlyworkoutreport.ctp:77
+msgid "Workout Date"
+msgstr "Ngày tập luyện"
+
+#: Template/Reports/monthlyworkoutreport.ctp:78
+msgid "Workout Name"
+msgstr "Tên tập luyện"
+
+#: Template/Reports/monthlyworkoutreport.ctp:125
+msgid "Download"
+msgstr "Tải về"
+
+#: Template/Reports/monthlyworkoutreport.ctp:132
+msgid "No Workout Found."
+msgstr "Không tìm thấy tập luyện."
+
+#: Template/Reports/payment_report.ctp:30
+msgid "Fee Payment Report By Month"
+msgstr "Báo cáo thanh toán phí theo tháng"
+
+#: Template/StaffMembers/add_staff.ctp:50
+#: Template/StaffMembers/staff_list.ctp:30
+msgid "Staff Member List"
+msgstr "Danh sách nhân viên"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Assign Role"
+msgstr "Gán vai trò"
+
+#: Template/StaffMembers/add_staff.ctp:101
+msgid "Select Role"
+msgstr "Chọn vai trò"
+
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Specialization"
+msgstr "Chuyên ngành"
+
+#: Template/StaffMembers/add_staff.ctp:182
+msgid "Save Staff"
+msgstr "Cứu nhân viên"
+
+#: Template/StaffMembers/staff_list.ctp:48
+#: Template/StaffMembers/staff_list.ctp:81
+msgid "Staff Member Name"
+msgstr "Tên nhân viên"
+
+#: Template/StaffMembers/staff_list.ctp:49
+#: Template/StaffMembers/staff_list.ctp:82
+msgid "Role"
+msgstr "Vai trò"
+
+#: Template/StaffMembers/staff_list.ctp:50
+#: Template/StaffMembers/staff_list.ctp:83
+msgid "Staff Member Email"
+msgstr "Nhân viên Email"
+
+#: Template/Users/login.ctp:16
+msgid "Logging you in"
+msgstr "Đăng nhập bạn vào"
+
+#: Template/Users/login.ctp:23
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: custom
+msgid "Class Booking"
+msgstr "Đặt lớp"
+
+#: custom
+msgid "Class Booking List"
+msgstr "Danh sách đặt phòng lớp"
+
+#: custom
+msgid "Add Class Booking"
+msgstr "Thêm lớp đặt phòng"
+
+#: custom
+msgid "Booking Date"
+msgstr "Ngày đặt phòng"
+
+#: custom
+msgid "Booking Day"
+msgstr "Ngày đặt phòng"
+
+#: custom
+msgid "Add Booking Class"
+msgstr "Thêm lớp đặt phòng"
+
+#: custom
+msgid "Edit Booking Class"
+msgstr "Chỉnh sửa lớp đặt phòng"
+
+#: custom
+msgid "Save Booking"
+msgstr "Lưu Đặt chỗ"
+
+#: custom
+msgid "Add Youtube Embaded Link"
+msgstr "Thêm liên kết được gắn trên Youtube"
+
+#: custom
+msgid "Add More"
+msgstr "Bổ sung thêm"
+
+#: custom
+msgid "No Any Video"
+msgstr "Không có video nào"
+
+#: custom
+msgid "Export"
+msgstr "Xuất khẩu"
+
+#: custom
+msgid "Import"
+msgstr "Nhập khẩu"
+
+#: custom
+msgid "Side Menu Color"
+msgstr "Màu menu bên"
+
+#: custom
+msgid "Header Color"
+msgstr "Màu tiêu đề"
+
+#: custom
+msgid "Theme Setting"
+msgstr "Cài đặt chủ đề"
+
+#: custom
+msgid "Sample Download"
+msgstr "Tải mẫu"
+
+#: custom
+msgid "Membership Report List"
+msgstr "Danh sách báo cáo thành viên"
+
+#: custom
+msgid "Payment Report List"
+msgstr "Danh sách báo cáo thanh toán"
+
+#: custom
+msgid "Attendance Report List"
+msgstr "Danh sách báo cáo tham dự"
+
+#: custom
+msgid "Total Member"
+msgstr "Tổng số thành viên"
+
+#: custom
+msgid "Attendance Date"
+msgstr "Ngày tham dự"
+
+#: custom
+msgid "Number Of Member"
+msgstr "Số lượng thành viên"
+
+#: custom
+msgid "Stripe Setting"
+msgstr "Cài đặt sọc"
+
+#: custom
+msgid "Secret Key"
+msgstr "Chìa khoá bí mật"
+
+#: custom
+msgid "Publishable Key"
+msgstr "Khóa có thể xuất bản"
+
+#: custom
+msgid "Class Booking Fees"
+msgstr "Học phí đặt trước"
+
+#: custom
+msgid "Booking Type"
+msgstr "Loại đặt phòng"
+
+#: custom
+msgid "Booking Detail"
+msgstr "Chi tiết đặt phòng"
+
+#: custom
+msgid "Zipcode"
+msgstr "Mã Bưu Chính"
+
+#: custom
+msgid "Full Name"
+msgstr "Họ và tên"
+
+#: custom
+msgid "Class Information"
+msgstr "Thông tin lớp học"
+
+#: custom
+msgid "Select Booking Type"
+msgstr "Chọn loại đặt phòng"
+
+#: custom
+msgid "Demo"
+msgstr "Bản giới thiệu"
+
+#: custom
+msgid "Paid Booking"
+msgstr "Đặt chỗ trả phí"
+
+#: custom
+msgid "Error! This class is already enjoy by you, now you can not book this class as demo."
+msgstr "Lỗi! Lớp này đã được bạn thưởng thức, bây giờ bạn không thể đặt lớp này làm bản demo."
+
+#: custom
+msgid "Error! Please Fill All Information."
+msgstr "Lỗi! Vui lòng điền tất cả thông tin."

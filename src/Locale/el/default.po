@@ -1,0 +1,3604 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GYM - Master\n"
+"POT-Creation-Date: 2019-02-18 16:55+0530\n"
+"PO-Revision-Date: 2020-06-09 23:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: Locale/el\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
+#: Template/Membership/view_activity.ctp:62
+msgid "Add Activity"
+msgstr "Προσθήκη δραστηριότητας"
+
+#: Controller/ActivityController.php:72
+#: Controller/GymDailyWorkoutController.php:91
+#: Controller/GymDailyWorkoutController.php:194
+#: Controller/GymDailyWorkoutController.php:275
+#: Controller/GymMemberController.php:135
+#: Controller/GymProductController.php:28 Controller/GymStoreController.php:45
+#: Controller/MembershipPaymentController.php:201
+#: Controller/MembershipPaymentController.php:342
+msgid "Success! Record Saved Successfully."
+msgstr "Επιτυχία! Η εγγραφή αποθηκεύτηκε με επιτυχία."
+
+#: Controller/ActivityController.php:83 Controller/GymGroupController.php:89
+#: Controller/GymReservationController.php:79
+msgid "Success! Record Deleted Successfully"
+msgstr "Επιτυχία! Η εγγραφή διαγράφηκε επιτυχώς"
+
+#: Controller/ActivityController.php:91
+msgid "Edit Activity"
+msgstr "Επεξεργασία δραστηριότητας"
+
+#: Controller/ActivityController.php:137
+#: Controller/GymAccountantController.php:90
+#: Controller/GymDailyWorkoutController.php:223
+#: Controller/GymDailyWorkoutController.php:436
+#: Controller/GymMemberController.php:286
+#: Controller/GymProductController.php:46 Controller/GymStoreController.php:89
+#: Controller/MembershipPaymentController.php:155
+#: Controller/MembershipPaymentController.php:246
+#: Controller/MembershipPaymentController.php:368
+#: Controller/StaffMembersController.php:105
+msgid "Success! Record Updated Successfully."
+msgstr "Επιτυχία! Η εγγραφή ενημερώθηκε με επιτυχία."
+
+#: Controller/AdminProfileController.php:55
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "Επιτυχία! Η εγγραφή αποθηκεύτηκε με επιτυχία.Παρακαλώ συνδεθείτε ξανά για να δείτε τις αλλαγές."
+
+#: Controller/AdminProfileController.php:72
+#: Controller/GeneralSettingController.php:95
+#: Controller/GymAccountantController.php:58
+#: Controller/GymAccountantController.php:106
+#: Controller/GymDailyWorkoutController.php:279
+#: Controller/GymDailyWorkoutController.php:440
+#: Controller/GymGroupController.php:43 Controller/GymGroupController.php:76
+#: Controller/GymMemberController.php:162
+#: Controller/GymMemberController.php:315
+#: Controller/MembershipController.php:71
+#: Controller/MembershipController.php:153
+#: Controller/StaffMembersController.php:66
+#: Controller/StaffMembersController.php:121
+msgid "Invalid File Extension, Please Retry."
+msgstr "Μη έγκυρη επέκταση αρχείου, δοκιμάστε ξανά."
+
+#: Controller/ClassScheduleController.php:41
+#: Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "Προσθέστε το Πρόγραμμα Μαθημάτων"
+
+#: Controller/ClassScheduleController.php:80
+#: Controller/GymReservationController.php:33
+#: Controller/MembershipController.php:64
+msgid "Success! Record Saved Successfully"
+msgstr "Επιτυχία! Η εγγραφή αποθηκεύτηκε με επιτυχία"
+
+#: Controller/ClassScheduleController.php:83
+#: Controller/MembershipController.php:150
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "Λάθος! Παρουσιάστηκε σφάλμα κατά την ενημέρωση, δοκιμάστε ξανά αργότερα."
+
+#: Controller/ClassScheduleController.php:92
+msgid "Edit Class Schedule"
+msgstr "Επεξεργασία χρονοδιαγράμματος τάξεων"
+
+#: Controller/ClassScheduleController.php:143
+#: Controller/GymGroupController.php:72
+#: Controller/GymReservationController.php:67
+#: Controller/MembershipController.php:147
+msgid "Success! Record Updated Successfully"
+msgstr "Επιτυχία! Η εγγραφή ενημερώθηκε με επιτυχία"
+
+#: Controller/ClassScheduleController.php:153
+msgid "Success! Class Deleted Successfully."
+msgstr "Επιτυχία! Η κλάση διαγράφηκε επιτυχώς."
+
+#: Controller/Component/GYMFunctionComponent.php:262
+#: Template/GymMember/view_member.ctp:146
+msgid "Weight Report"
+msgstr "Αναφορά βάρους"
+
+#: Controller/Component/GYMFunctionComponent.php:263
+#: Controller/Component/GYMFunctionComponent.php:269
+#: Controller/Component/GYMFunctionComponent.php:275
+#: Controller/Component/GYMFunctionComponent.php:281
+#: Controller/Component/GYMFunctionComponent.php:287
+#: Controller/Component/GYMFunctionComponent.php:293
+#: Controller/Component/GYMFunctionComponent.php:299
+#: Template/GymMember/view_attendance.ctp:69
+msgid "Day"
+msgstr "Ημέρα"
+
+#: Controller/Component/GYMFunctionComponent.php:268
+#: Template/GymMember/view_member.ctp:196
+msgid "Thigh Report"
+msgstr "Έκθεση για το μηρό"
+
+#: Controller/Component/GYMFunctionComponent.php:274
+#: Template/GymMember/view_member.ctp:246
+msgid "Height Report"
+msgstr "Αναφορά ύψους"
+
+#: Controller/Component/GYMFunctionComponent.php:280
+#: Template/GymMember/view_member.ctp:270
+msgid "Chest Report"
+msgstr "Έκθεση στο στήθος"
+
+#: Controller/Component/GYMFunctionComponent.php:286
+#: Template/GymMember/view_member.ctp:170
+msgid "Waist Report"
+msgstr "Αναφορά μέσης"
+
+#: Controller/Component/GYMFunctionComponent.php:292
+#: Template/GymMember/view_member.ctp:220
+msgid "Arms Report"
+msgstr "Έκθεση όπλων"
+
+#: Controller/Component/GYMFunctionComponent.php:298
+#: Template/GymMember/view_member.ctp:296
+msgid "Fat Report"
+msgstr "Αναφορά λίπους"
+
+#: Controller/Component/GYMFunctionComponent.php:379
+msgid "Fully Paid"
+msgstr "Πλήρως πληρωμένο"
+
+#: Controller/Component/GYMFunctionComponent.php:381
+msgid "Not Paid"
+msgstr "Απληρωτος"
+
+#: Controller/Component/GYMFunctionComponent.php:383
+msgid "Partially Paid"
+msgstr "Πληρωθεί εν μέρει"
+
+#: Controller/Component/GYMFunctionComponent.php:586
+msgid "Membership Reminder Alert!"
+msgstr "Ειδοποίηση Υπενθύμισης Συμμετοχής!"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "January"
+msgstr "Ιανουάριος"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "February"
+msgstr "Φεβρουάριος"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "March"
+msgstr "Μάρτιος"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "April"
+msgstr "Απρίλιος"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "May"
+msgstr "Ενδέχεται"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "June"
+msgstr "Ιούνιος"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "July"
+msgstr "Ιούλιος"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "August"
+msgstr "Αύγουστος"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "September"
+msgstr "Σεπτέμβριος"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "October"
+msgstr "Οκτώβριος"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "November"
+msgstr "Νοέμβριος"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "December"
+msgstr "Δεκέμβριος"
+
+#: Controller/Component/GYMFunctionComponent.php:624
+msgid "You are not authorized to access that location."
+msgstr "Δεν έχετε εξουσιοδότηση για πρόσβαση στη συγκεκριμένη τοποθεσία."
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:109
+#: Template/Dashboard/dashboard.ctp:215
+#: Template/GymAttendance/attendance.ctp:80
+#: Template/GymMember/add_member.ctp:430 Template/GymNotice/add_notice.ctp:73
+#: Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:266
+#: Template/Reports/attendance_report.ctp:87
+msgid "Class"
+msgstr "Τάξη"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:91
+#: Template/GymAttendance/staff_attendance.ctp:58
+msgid "Present"
+msgstr "Παρόν"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:93
+#: Template/GymAttendance/staff_attendance.ctp:60
+msgid "Absent"
+msgstr "Απών"
+
+#: Controller/DashboardController.php:133
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Dashboard/dashboard.ctp:70 Template/Dashboard/dashboard.ctp:269
+#: Template/Dashboard/member_dashboard.ctp:79
+#: Template/Dashboard/staff_acc_dashboard.ctp:89
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:33
+#: Template/GymMember/view_member.ctp:123 Template/GymNotice/add_notice.ctp:67
+#: Template/StaffMembers/add_staff.ctp:47
+#: Template/StaffMembers/staff_list.ctp:31
+msgid "Staff Member"
+msgstr "Μέλος του προσωπικού"
+
+#: Controller/GeneralSettingController.php:65
+#: Controller/GeneralSettingController.php:89
+msgid "Success! Settings Saved Successfully."
+msgstr "Επιτυχία! Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία."
+
+#: Controller/GymAccessrightController.php:249
+msgid "Success! Settings Saved successfully."
+msgstr "Επιτυχία! Ρυθμίσεις Αποθηκεύτηκε με επιτυχία."
+
+#: Controller/GymAccountantController.php:23
+#: Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "Προσθήκη λογιστή"
+
+#: Controller/GymAccountantController.php:42
+#: Controller/GymNoticeController.php:62
+#: Controller/StaffMembersController.php:50
+msgid "Success! Record Successfully Saved."
+msgstr "Επιτυχία! Ηχογραφήθηκε με επιτυχία."
+
+#: Controller/GymAccountantController.php:67
+msgid "Edit Accountant"
+msgstr "Επεξεργασία λογαριασμού"
+
+#: Controller/GymAccountantController.php:117
+#: Controller/MembershipPaymentController.php:380
+msgid "Success! Accountant Deleted Successfully."
+msgstr "Επιτυχία! Λογιστής διαγράφηκε επιτυχώς."
+
+#: Controller/GymAjaxController.php:27 Controller/GymAjaxController1.php:25
+msgid "Add/Remove Category"
+msgstr "Προσθήκη / Κατάργηση κατηγορίας"
+
+#: Controller/GymAjaxController.php:32 Controller/GymAjaxController1.php:30
+msgid "enter category name"
+msgstr "εισάγετε το όνομα της κατηγορίας"
+
+#: Controller/GymAjaxController.php:35 Controller/GymAjaxController.php:123
+#: Controller/GymAjaxController1.php:33 Controller/GymAjaxController1.php:121
+#: Template/Activity/add_activity.ctp:52 Template/Membership/add.ctp:93
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "Προσθήκη κατηγορίας"
+
+#: Controller/GymAjaxController.php:44 Controller/GymAjaxController.php:216
+#: Controller/GymAjaxController.php:297 Controller/GymAjaxController1.php:42
+#: Controller/GymAjaxController1.php:214 Controller/GymAjaxController1.php:295
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: Controller/GymAjaxController.php:45 Controller/GymAjaxController.php:133
+#: Controller/GymAjaxController.php:217 Controller/GymAjaxController.php:298
+#: Controller/GymAjaxController.php:378 Controller/GymAjaxController.php:456
+#: Controller/GymAjaxController.php:554 Controller/GymAjaxController.php:930
+#: Controller/GymAjaxController.php:1036 Controller/GymAjaxController1.php:43
+#: Controller/GymAjaxController1.php:131 Controller/GymAjaxController1.php:215
+#: Controller/GymAjaxController1.php:296 Controller/GymAjaxController1.php:376
+#: Controller/GymAjaxController1.php:454 Controller/GymAjaxController1.php:551
+#: Controller/GymAjaxController1.php:886 Controller/GymAjaxController1.php:992
+#: Template/Activity/activity_list.ctp:51
+#: Template/Activity/activity_list.ctp:79
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/ClassSchedule/class_list.ctp:67
+#: Template/ClassSchedule/class_list.ctp:101
+#: Template/GymAccountant/accountant_list.ctp:58
+#: Template/GymAccountant/accountant_list.ctp:92
+#: Template/GymAssignWorkout/workout_log.ctp:55
+#: Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:85
+#: Template/GymGroup/group_list.ctp:47 Template/GymGroup/group_list.ctp:78
+#: Template/GymMember/member_list.ctp:62 Template/GymMember/member_list.ctp:115
+#: Template/GymNotice/notice_list.ctp:45 Template/GymNotice/notice_list.ctp:74
+#: Template/GymNutrition/nutrition_list.ctp:55
+#: Template/GymNutrition/nutrition_list.ctp:79
+#: Template/GymProduct/product_list.ctp:51
+#: Template/GymProduct/product_list.ctp:80
+#: Template/GymReservation/reservation_list.ctp:57
+#: Template/GymReservation/reservation_list.ctp:89
+#: Template/GymStore/sell_record.ctp:38 Template/GymStore/sell_record.ctp:65
+#: Template/Membership/membership_list.ctp:59
+#: Template/Membership/membership_list.ctp:107
+#: Template/Membership/view_activity.ctp:76
+#: Template/Membership/view_activity.ctp:100
+#: Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102
+#: Template/StaffMembers/staff_list.ctp:53
+#: Template/StaffMembers/staff_list.ctp:86
+msgid "Action"
+msgstr "Δράση"
+
+#: Controller/GymAjaxController.php:55 Controller/GymAjaxController.php:81
+#: Controller/GymAjaxController.php:143 Controller/GymAjaxController.php:170
+#: Controller/GymAjaxController.php:229 Controller/GymAjaxController.php:255
+#: Controller/GymAjaxController.php:310 Controller/GymAjaxController.php:338
+#: Controller/GymAjaxController.php:390 Controller/GymAjaxController.php:416
+#: Controller/GymAjaxController.php:468 Controller/GymAjaxController.php:494
+#: Controller/GymAjaxController.php:566 Controller/GymAjaxController.php:593
+#: Controller/GymAjaxController.php:1048 Controller/GymAjaxController.php:1107
+#: Controller/GymAjaxController1.php:53 Controller/GymAjaxController1.php:79
+#: Controller/GymAjaxController1.php:141 Controller/GymAjaxController1.php:168
+#: Controller/GymAjaxController1.php:227 Controller/GymAjaxController1.php:253
+#: Controller/GymAjaxController1.php:308 Controller/GymAjaxController1.php:336
+#: Controller/GymAjaxController1.php:388 Controller/GymAjaxController1.php:414
+#: Controller/GymAjaxController1.php:466 Controller/GymAjaxController1.php:492
+#: Controller/GymAjaxController1.php:563 Controller/GymAjaxController1.php:590
+#: Controller/GymAjaxController1.php:1004
+#: Controller/GymAjaxController1.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:48
+#: Template/GymMessage/view_message.ctp:47
+#: Template/GymNotice/notice_list.ctp:61
+#: Template/GymProduct/product_list.ctp:67 Template/GymStore/sell_record.ctp:54
+#: Template/MembershipPayment/add_expense.ctp:70
+#: Template/MembershipPayment/add_expense.ctp:92
+#: Template/MembershipPayment/add_income.ctp:85
+#: Template/MembershipPayment/add_income.ctp:107
+msgid "Delete"
+msgstr "Διαγράφω"
+
+#: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:153
+#: Controller/GymAjaxController.php:240 Controller/GymAjaxController.php:321
+#: Controller/GymAjaxController.php:401 Controller/GymAjaxController.php:479
+#: Controller/GymAjaxController.php:577 Controller/GymAjaxController.php:961
+#: Controller/GymAjaxController.php:1059 Controller/GymAjaxController.php:1155
+#: Controller/GymAjaxController.php:1212 Controller/GymAjaxController.php:1368
+#: Controller/GymAjaxController.php:1504 Controller/GymAjaxController.php:1550
+#: Controller/GymAjaxController1.php:63 Controller/GymAjaxController1.php:151
+#: Controller/GymAjaxController1.php:238 Controller/GymAjaxController1.php:319
+#: Controller/GymAjaxController1.php:399 Controller/GymAjaxController1.php:477
+#: Controller/GymAjaxController1.php:574 Controller/GymAjaxController1.php:917
+#: Controller/GymAjaxController1.php:1015
+#: Controller/GymAjaxController1.php:1080
+#: Controller/GymAjaxController1.php:1132
+#: Controller/GymAjaxController1.php:1284
+#: Controller/GymAjaxController1.php:1420
+#: Controller/GymAjaxController1.php:1466
+msgid "Close"
+msgstr "Κοντά"
+
+#: Controller/GymAjaxController.php:106 Controller/GymAjaxController1.php:104
+msgid "Add/Remove Installment Plan"
+msgstr "Προσθήκη / Κατάργηση σχεδίου δόσεων"
+
+#: Controller/GymAjaxController.php:111 Controller/GymAjaxController1.php:109
+msgid "Enter Duration Number"
+msgstr "Εισαγάγετε τον αριθμό διάρκειας"
+
+#: Controller/GymAjaxController.php:115 Controller/GymAjaxController1.php:113
+msgid "Select Duration"
+msgstr "Επιλέξτε Διάρκεια"
+
+#: Controller/GymAjaxController.php:116 Controller/GymAjaxController1.php:114
+#: Template/ClassSchedule/add_class.ctp:141
+msgid "Days"
+msgstr "Μέρες"
+
+#: Controller/GymAjaxController.php:117 Controller/GymAjaxController1.php:115
+msgid "Week"
+msgstr "Εβδομάδα"
+
+#: Controller/GymAjaxController.php:118 Controller/GymAjaxController1.php:116
+#: Template/Dashboard/dashboard.ctp:163
+#: Template/Reports/monthlyworkoutreport.ctp:58
+#: Template/Reports/payment_report.ctp:39
+msgid "Month"
+msgstr "Μήνας"
+
+#: Controller/GymAjaxController.php:119 Controller/GymAjaxController1.php:117
+msgid "Year"
+msgstr "Ετος"
+
+#: Controller/GymAjaxController.php:132 Controller/GymAjaxController1.php:130
+msgid "Plan"
+msgstr "Σχέδιο"
+
+#: Controller/GymAjaxController.php:199 Controller/GymAjaxController1.php:197
+msgid "Add/Remove Role"
+msgstr "Προσθήκη / Κατάργηση ρόλου"
+
+#: Controller/GymAjaxController.php:204 Controller/GymAjaxController1.php:202
+msgid "Enter Role"
+msgstr "Εισαγάγετε τον ρόλο"
+
+#: Controller/GymAjaxController.php:207 Controller/GymAjaxController.php:288
+#: Controller/GymAjaxController1.php:205 Controller/GymAjaxController1.php:286
+msgid "Add Role"
+msgstr "Προσθήκη ρόλου"
+
+#: Controller/GymAjaxController.php:232 Controller/GymAjaxController1.php:230
+#: Controller/GymAjaxController1.php:311 Controller/GymAjaxController1.php:1007
+msgid "No roles added"
+msgstr "Δεν προστέθηκαν ρόλοι"
+
+#: Controller/GymAjaxController.php:280 Controller/GymAjaxController1.php:278
+msgid "Add/Remove Specialization"
+msgstr "Προσθέστε / Κατάργηση εξειδίκευσης"
+
+#: Controller/GymAjaxController.php:285 Controller/GymAjaxController1.php:283
+msgid "Enter Specialization"
+msgstr "Πληκτρολογήστε ειδικότητα"
+
+#: Controller/GymAjaxController.php:313
+msgid "No Specialization added"
+msgstr "Δεν προστέθηκε Ειδίκευση"
+
+#: Controller/GymAjaxController.php:360 Controller/GymAjaxController1.php:358
+msgid "Add/Remove Interest"
+msgstr "Προσθήκη / Κατάργηση ενδιαφέροντος"
+
+#: Controller/GymAjaxController.php:365 Controller/GymAjaxController1.php:363
+msgid "Enter Interest"
+msgstr "Πληκτρολογήστε το ενδιαφέρον"
+
+#: Controller/GymAjaxController.php:368 Controller/GymAjaxController1.php:366
+msgid "Add Interest"
+msgstr "Προσθήκη ενδιαφέροντος"
+
+#: Controller/GymAjaxController.php:377 Controller/GymAjaxController1.php:375
+msgid "Interest"
+msgstr "Ενδιαφέρον"
+
+#: Controller/GymAjaxController.php:393 Controller/GymAjaxController.php:471
+#: Controller/GymAjaxController.php:569 Controller/GymAjaxController1.php:391
+#: Controller/GymAjaxController1.php:469 Controller/GymAjaxController1.php:566
+msgid "No record added yet"
+msgstr "Δεν έχουν προστεθεί ακόμη αρχεία"
+
+#: Controller/GymAjaxController.php:438 Controller/GymAjaxController1.php:436
+msgid "Add/Remove Source"
+msgstr "Προσθήκη / Κατάργηση πηγής"
+
+#: Controller/GymAjaxController.php:443 Controller/GymAjaxController1.php:441
+msgid "Enter Source"
+msgstr "Εισαγάγετε πηγή"
+
+#: Controller/GymAjaxController.php:446 Controller/GymAjaxController1.php:444
+msgid "Add Source"
+msgstr "Προσθήκη πηγής"
+
+#: Controller/GymAjaxController.php:455 Controller/GymAjaxController1.php:453
+msgid "Source List"
+msgstr "Λίστα πηγών"
+
+#: Controller/GymAjaxController.php:536 Controller/GymAjaxController1.php:533
+msgid "Add/Remove Levels"
+msgstr "Προσθήκη / Κατάργηση επιπέδων"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController1.php:538
+msgid "Enter Level"
+msgstr "Πληκτρολογήστε Επίπεδο"
+
+#: Controller/GymAjaxController.php:544 Controller/GymAjaxController.php:742
+#: Controller/GymAjaxController1.php:541 Controller/GymAjaxController1.php:726
+#: Template/GymAssignWorkout/assign_workout.ctp:99
+#: Template/GymAssignWorkout/assign_workout1.ctp:78
+msgid "Add Level"
+msgstr "Προσθήκη επιπέδου"
+
+#: Controller/GymAjaxController.php:553 Controller/GymAjaxController1.php:550
+msgid "Levels"
+msgstr "Επίπεδα"
+
+#: Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:768
+#: Controller/GymAjaxController1.php:673 Controller/GymAjaxController1.php:750
+#: Template/Activity/activity_list.ctp:31 Template/Activity/add_activity.ctp:32
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96
+#: Template/Element/sidebar.ctp:78 Template/GymAccessright/access_right.ctp:153
+#: Template/GymAssignWorkout/assign_workout.ctp:197
+#: Template/GymAssignWorkout/assign_workout1.ctp:175
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:63
+#: Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "Δραστηριότητα"
+
+#: Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:699
+#: Controller/GymAjaxController.php:769 Controller/GymAjaxController1.php:674
+#: Controller/GymAjaxController1.php:686 Controller/GymAjaxController1.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:198
+#: Template/GymAssignWorkout/assign_workout1.ctp:176
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:64
+#: Template/GymAssignWorkout/print_workout.ctp:61
+#: Template/Reports/monthlyworkoutreport.ctp:79
+msgid "Sets"
+msgstr "Σκηνικά"
+
+#: Controller/GymAjaxController.php:688 Controller/GymAjaxController.php:700
+#: Controller/GymAjaxController.php:770 Controller/GymAjaxController1.php:675
+#: Controller/GymAjaxController1.php:687 Controller/GymAjaxController1.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:199
+#: Template/GymAssignWorkout/assign_workout1.ctp:177
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:62
+#: Template/Reports/monthlyworkoutreport.ctp:80
+msgid "Reps"
+msgstr "Επαναλήψεις"
+
+#: Controller/GymAjaxController.php:689 Controller/GymAjaxController.php:771
+#: Controller/GymAjaxController1.php:676 Controller/GymAjaxController1.php:753
+#: Template/GymAssignWorkout/assign_workout.ctp:200
+#: Template/GymAssignWorkout/assign_workout1.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr "ΚΙΛΟ"
+
+#: Controller/GymAjaxController.php:690 Controller/GymAjaxController.php:772
+#: Controller/GymAjaxController1.php:677 Controller/GymAjaxController1.php:754
+#: Template/GymAssignWorkout/assign_workout.ctp:201
+#: Template/GymAssignWorkout/assign_workout1.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:64
+#: Template/Reports/monthlyworkoutreport.ctp:82
+msgid "Rest Time"
+msgstr "Ωρα ξεκούρασης"
+
+#: Controller/GymAjaxController.php:701 Controller/GymAjaxController1.php:688
+#: Template/Reports/monthlyworkoutreport.ctp:81
+msgid "Kg"
+msgstr "Κιλό"
+
+#: Controller/GymAjaxController.php:702 Controller/GymAjaxController1.php:689
+msgid "Min"
+msgstr "Ελάχιστη"
+
+#: Controller/GymAjaxController.php:706 Controller/GymAjaxController1.php:693
+msgid "Your Workout"
+msgstr "Το Workout σας"
+
+#: Controller/GymAjaxController.php:713 Controller/GymAjaxController.php:791
+msgid "Note"
+msgstr "Σημείωση"
+
+#: Controller/GymAjaxController.php:721 Controller/GymAjaxController1.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "Δεν έχει εκχωρηθεί προπόνηση για σήμερα. Μπορείτε να προσθέσετε δεδομένα από κάτω."
+
+#: Controller/GymAjaxController.php:726 Controller/GymAjaxController1.php:710
+#: Template/GymAssignWorkout/assign_workout.ctp:92
+#: Template/GymAssignWorkout/assign_workout1.ctp:71
+msgid "Level"
+msgstr "Επίπεδο"
+
+#: Controller/GymAjaxController.php:729 Controller/GymAjaxController1.php:713
+#: Template/GymAssignWorkout/assign_workout.ctp:95
+#: Template/GymAssignWorkout/assign_workout1.ctp:74
+msgid "Select Level"
+msgstr "Επιλέξτε Επίπεδο"
+
+#: Controller/GymAjaxController.php:918 Controller/GymAjaxController1.php:874
+msgid "Edit/Delete Measurement"
+msgstr "Επεξεργασία / Διαγραφή μέτρησης"
+
+#: Controller/GymAjaxController.php:926 Controller/GymAjaxController1.php:882
+msgid "Image"
+msgstr "Εικόνα"
+
+#: Controller/GymAjaxController.php:927 Controller/GymAjaxController1.php:883
+msgid "Measurement"
+msgstr "Μέτρηση"
+
+#: Controller/GymAjaxController.php:928 Controller/GymAjaxController1.php:884
+#: Template/GymDailyWorkout/add_measurment.ctp:65
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+#: Controller/GymAjaxController.php:929 Controller/GymAjaxController1.php:885
+msgid "Record Date"
+msgstr "Ημερομηνία εγγραφής"
+
+#: Controller/GymAjaxController.php:952 Controller/GymAjaxController1.php:908
+msgid "No Data Found."
+msgstr "Δε βρέθηκαν δεδομένα."
+
+#: Controller/GymAjaxController.php:1018 Controller/GymAjaxController1.php:974
+msgid "Add/Remove Event Place"
+msgstr "Προσθήκη / κατάργηση της θέσης του συμβάντος"
+
+#: Controller/GymAjaxController.php:1023 Controller/GymAjaxController1.php:979
+msgid "Enter Place Name"
+msgstr "Εισαγάγετε το όνομα θέσης"
+
+#: Controller/GymAjaxController.php:1026 Controller/GymAjaxController1.php:982
+msgid "Add Place"
+msgstr "Προσθήκη μέρους"
+
+#: Controller/GymAjaxController.php:1035 Controller/GymAjaxController1.php:991
+msgid "Place Name"
+msgstr "ΟΝΟΜΑ ΤΟΠΟΘΕΣΙΑΣ"
+
+#: Controller/GymAjaxController.php:1051
+msgid "No Event Place added"
+msgstr "Δεν προστέθηκε Τόπος συμβάντος"
+
+#: Controller/GymAjaxController.php:1134 Controller/GymAjaxController1.php:1059
+msgid "Group Members"
+msgstr "Μέλη ομάδας"
+
+#: Controller/GymAjaxController.php:1149 Controller/GymAjaxController1.php:1074
+msgid "No Members Assigned Yet."
+msgstr "Δεν έχουν εκχωρηθεί μέλη ακόμα."
+
+#: Controller/GymAjaxController.php:1173 Controller/GymAjaxController.php:1207
+#: Controller/GymAjaxController1.php:1093
+#: Controller/GymAjaxController1.php:1127
+msgid "Add Payment"
+msgstr "Προσθήκη πληρωμής"
+
+#: Controller/GymAjaxController.php:1181 Controller/GymAjaxController1.php:1101
+#: Template/MembershipPayment/payment_list.ctp:52
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "Πληρωμένο ποσό"
+
+#: Controller/GymAjaxController.php:1190 Controller/GymAjaxController1.php:1110
+msgid "Payment By"
+msgstr "Πληρωμή από"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController1.php:1116
+msgid "Paypal"
+msgstr "Paypal"
+
+#: Controller/GymAjaxController.php:1199 Controller/GymAjaxController1.php:1119
+msgid "Cash"
+msgstr "Μετρητά"
+
+#: Controller/GymAjaxController.php:1200 Controller/GymAjaxController1.php:1120
+msgid "Cheque"
+msgstr "Ελεγχος"
+
+#: Controller/GymAjaxController.php:1201 Controller/GymAjaxController1.php:1121
+msgid "Bank Transfer"
+msgstr "Τραπεζική μεταφορά"
+
+#: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1399
+#: Controller/GymAjaxController1.php:1166
+#: Controller/GymAjaxController1.php:1315
+msgid "Invoice"
+msgstr "Τιμολόγιο"
+
+#: Controller/GymAjaxController.php:1260 Controller/GymAjaxController.php:1412
+#: Controller/GymAjaxController1.php:1179
+#: Controller/GymAjaxController1.php:1328
+#: Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "Ημερομηνία έκδοσης"
+
+#: Controller/GymAjaxController.php:1261 Controller/GymAjaxController.php:1413
+#: Controller/GymAjaxController1.php:1180
+#: Controller/GymAjaxController1.php:1329
+#: Template/GymAttendance/attendance.ctp:109
+#: Template/GymAttendance/attendance.ctp:115
+#: Template/GymAttendance/attendance.ctp:118
+#: Template/GymAttendance/staff_attendance.ctp:67
+#: Template/GymAttendance/staff_attendance.ctp:70
+#: Template/GymMember/member_list.ctp:64 Template/GymMember/member_list.ctp:117
+#: Template/GymMember/view_member.ctp:128
+#: Template/MembershipPayment/add_expense.ctp:41
+#: Template/MembershipPayment/add_income.ctp:56
+#: Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: Controller/GymAjaxController.php:1274 Controller/GymAjaxController.php:1426
+#: Controller/GymAjaxController1.php:1193
+#: Controller/GymAjaxController1.php:1342
+#: Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "Πληρωμή σε"
+
+#: Controller/GymAjaxController.php:1277 Controller/GymAjaxController.php:1429
+#: Controller/GymAjaxController1.php:1196
+#: Controller/GymAjaxController1.php:1345
+#: Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "νομοσχέδιο για"
+
+#: Controller/GymAjaxController.php:1308 Controller/GymAjaxController1.php:1227
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:51
+#: Template/Element/sidebar.ctp:33 Template/GymAccessright/access_right.ctp:63
+#: Template/MembershipPayment/print_invoice.ctp:91
+msgid "Membership Type"
+msgstr "Τύπος μέλους"
+
+#: Controller/GymAjaxController.php:1309 Controller/GymAjaxController1.php:1228
+msgid "Sign Up Fee"
+msgstr "Εγγραφή αμοιβής"
+
+#: Controller/GymAjaxController.php:1310 Controller/GymAjaxController1.php:1229
+#: Template/MembershipPayment/print_invoice.ctp:92
+msgid "Membership Fee"
+msgstr "Αμοιβή μέλους"
+
+#: Controller/GymAjaxController.php:1311 Controller/GymAjaxController1.php:1230
+#: Template/MembershipPayment/print_invoice.ctp:93
+msgid "Total"
+msgstr "Σύνολο"
+
+#: Controller/GymAjaxController.php:1325 Controller/GymAjaxController1.php:1244
+#: Template/MembershipPayment/print_invoice.ctp:170
+msgid "Subtotal :"
+msgstr "ΜΕΡΙΚΟ ΣΥΝΟΛΟ :"
+
+#: Controller/GymAjaxController.php:1329 Controller/GymAjaxController1.php:1248
+#: Template/MembershipPayment/print_invoice.ctp:174
+msgid "Payment Made :"
+msgstr "Πληρωμή:"
+
+#: Controller/GymAjaxController.php:1333 Controller/GymAjaxController1.php:1252
+msgid "Due Amount  :"
+msgstr "Οφειλόμενο ποσό :"
+
+#: Controller/GymAjaxController.php:1341 Controller/GymAjaxController1.php:1260
+#: Template/MembershipPayment/print_invoice.ctp:204
+msgid "Payment History"
+msgstr "Ιστορικό πληρωμών"
+
+#: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1467
+#: Controller/GymAjaxController1.php:1264
+#: Controller/GymAjaxController1.php:1383
+#: Template/GymAttendance/attendance.ctp:39
+#: Template/GymAttendance/attendance.ctp:81
+#: Template/GymAttendance/staff_attendance.ctp:31
+#: Template/GymDailyWorkout/view_workout.ctp:51
+#: Template/GymMember/view_attendance.ctp:68 Template/GymMessage/inbox.ctp:55
+#: Template/GymMessage/sent.ctp:44 Template/GymStore/sell_product.ctp:54
+#: Template/MembershipPayment/add_expense.ctp:50
+#: Template/MembershipPayment/add_income.ctp:65
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:101
+#: Template/MembershipPayment/print_invoice.ctp:208
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: Controller/GymAjaxController.php:1346 Controller/GymAjaxController1.php:1265
+#: Template/GymMember/view_member.ctp:388
+#: Template/GymMember/view_member.ctp:416
+#: Template/GymSubscriptionHistory/index.ctp:43
+#: Template/GymSubscriptionHistory/index.ctp:73 Template/Membership/add.ctp:152
+#: Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:51
+#: Template/MembershipPayment/payment_list.ctp:96
+#: Template/MembershipPayment/print_invoice.ctp:209
+msgid "Amount"
+msgstr "Ποσό"
+
+#: Controller/GymAjaxController.php:1347 Controller/GymAjaxController1.php:1266
+#: Template/MembershipPayment/print_invoice.ctp:210
+msgid "Method"
+msgstr "Μέθοδος"
+
+#: Controller/GymAjaxController.php:1366 Controller/GymAjaxController.php:1502
+#: Controller/GymAjaxController1.php:1418
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:55
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "Τυπώνω"
+
+#: Controller/GymAjaxController.php:1462 Controller/GymAjaxController1.php:1378
+#: Template/MembershipPayment/print_invoice.ctp:83
+msgid "Invoice Entries"
+msgstr "Εισαγωγές τιμολογίων"
+
+#: Controller/GymAjaxController.php:1468 Controller/GymAjaxController1.php:1384
+#: Template/MembershipPayment/print_invoice.ctp:102
+msgid "Entry"
+msgstr "Είσοδος"
+
+#: Controller/GymAjaxController.php:1469 Controller/GymAjaxController1.php:1385
+#: Template/MembershipPayment/print_invoice.ctp:103
+msgid "Price"
+msgstr "Τιμή"
+
+#: Controller/GymAjaxController.php:1470 Controller/GymAjaxController1.php:1386
+#: Template/AdminProfile/edit_profile.ctp:62
+#: Template/GymAccountant/add_accountant.ctp:124
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:328
+#: Template/GymMember/view_member.ctp:90
+#: Template/GymProfile/view_profile.ctp:70 Template/Installer/index.ctp:554
+#: Template/MemberRegistration/index.ctp:219
+#: Template/MembershipPayment/print_invoice.ctp:104
+#: Template/StaffMembers/add_staff.ctp:159 Template/Users/login.ctp:29
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: Controller/GymAjaxController.php:1493 Controller/GymAjaxController1.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:195
+msgid "Grand Total :"
+msgstr "Σύνολο :"
+
+#: Controller/GymAjaxController.php:1519 Controller/GymAjaxController1.php:1435
+msgid "Notice Detail"
+msgstr "Λεπτομέρεια ειδοποίησης"
+
+#: Controller/GymAjaxController.php:1524 Controller/GymAjaxController1.php:1440
+msgid "Notice Title "
+msgstr "Τίτλος ειδοποίησης "
+
+#: Controller/GymAjaxController.php:1529 Controller/GymAjaxController1.php:1445
+#: Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "Σχόλιο Σχόλιο"
+
+#: Controller/GymAjaxController.php:1534 Controller/GymAjaxController1.php:1450
+#: Template/GymNotice/add_notice.ctp:64 Template/GymNotice/notice_list.ctp:43
+#: Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "Σημείωση για"
+
+#: Controller/GymAjaxController.php:1539 Controller/GymAjaxController1.php:1455
+#: Template/GymAssignWorkout/assign_workout.ctp:109
+#: Template/GymAssignWorkout/assign_workout1.ctp:88
+#: Template/GymDailyWorkout/add_workout.ctp:185
+#: Template/GymMember/view_attendance.ctp:48
+#: Template/GymNotice/add_notice.ctp:82
+#: Template/GymNutrition/addnutrition_schedule.ctp:70
+msgid "Start Date"
+msgstr "Ημερομηνία έναρξης"
+
+#: Controller/GymAjaxController.php:1544 Controller/GymAjaxController1.php:1460
+msgid "End Date "
+msgstr "Ημερομηνία λήξης "
+
+#: Controller/GymAjaxController1.php:736
+msgid "Category List"
+msgstr "Λίστα κατηγοριών"
+
+#: Controller/GymAssignWorkoutController - copy.php:40
+#: Controller/GymAssignWorkoutController.php:40
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:105
+#: Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:65
+#: Template/GymAssignWorkout/assign_workout1.ctp:46
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36
+#: Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "Αναθέστε προπόνηση"
+
+#: Controller/GymAssignWorkoutController - copy.php:101 copy.php:293
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:291
+msgid "success! Record Saved Successfully."
+msgstr "επιτυχία! Η εγγραφή αποθηκεύτηκε με επιτυχία."
+
+#: Controller/GymAssignWorkoutController - copy.php:103
+#: Controller/GymAssignWorkoutController.php:104
+#: Controller/GymAssignWorkoutController.php:294
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "Λάθος! Τα δεδομένα ημερών προπόνησης δεν ήταν δυνατό να αποθηκευτούν. Δοκιμάστε ξανά."
+
+#: Controller/GymAssignWorkoutController - copy.php:108 copy.php:299
+#: Controller/GymAssignWorkoutController.php:109
+#: Controller/GymAssignWorkoutController.php:297
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "Λάθος! Δεν ήταν δυνατή η αποθήκευση εγγραφής. Δοκιμάστε ξανά."
+
+#: Controller/GymAssignWorkoutController - copy.php:196
+#: Controller/GymAssignWorkoutController.php:197
+#: Template/GymDailyWorkout/view_workout.ctp:33
+msgid "View Workout"
+msgstr "Προβολή προπόνησης"
+
+#: Controller/GymAssignWorkoutController - copy.php:296
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "Λάθος! Δεν ήταν δυνατή η αποθήκευση ημερών ημέρας προπόνησης.Παρακαλώ προσπαθήστε ξανά."
+
+#: Controller/GymAssignWorkoutController - copy.php:320
+#: Controller/GymAssignWorkoutController.php:318
+#: Controller/GymMemberController.php:326
+#: Controller/GymNutritionController.php:305
+#: Controller/GymProductController.php:61 Controller/GymStoreController.php:111
+#: Controller/MembershipPaymentController.php:258
+msgid "Success! Record Deleted Successfully."
+msgstr "Επιτυχία! Η εγγραφή διαγράφηκε επιτυχώς."
+
+#: Controller/GymAttendanceController.php:85
+#: Controller/GymAttendanceController.php:149
+msgid "Success! Attendance Saved Successfully."
+msgstr "Επιτυχία! Η συμμετοχή ήταν επιτυχής."
+
+#: Controller/GymAttendanceController.php:153
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "Λάθος! Επιλέξτε Μέλος / Προσωπικό-Μέλος."
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:29
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "Προσθέστε προπόνηση"
+
+#: Controller/GymDailyWorkoutController.php:243
+#: Template/GymDailyWorkout/add_workout.ctp:132
+#: Template/GymDailyWorkout/view_workout.ctp:39
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "Προσθέστε Μέτρηση"
+
+#: Controller/GymDailyWorkoutController.php:410
+msgid "Edit Measurement"
+msgstr "Επεξεργασία μέτρησης"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "Δοκιμή ηλεκτρονικού ταχυδρομείου"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:215
+msgid "Add Group"
+msgstr "Προσθήκη ομάδας"
+
+#: Controller/GymGroupController.php:39
+msgid "Success! Group Added Successfully."
+msgstr "Επιτυχία! Η ομάδα προστέθηκε με επιτυχία."
+
+#: Controller/GymGroupController.php:50
+msgid "Edit Group"
+msgstr "Επεξεργασία ομάδας"
+
+#: Controller/GymMemberController.php:61
+#: Template/GymAssignWorkout/assign_workout.ctp:87
+#: Template/GymAssignWorkout/assign_workout1.ctp:67
+#: Template/GymDailyWorkout/add_workout.ctp:172
+#: Template/GymMember/member_list.ctp:45
+#: Template/GymNutrition/addnutrition_schedule.ctp:65
+msgid "Add Member"
+msgstr "Προσθήκη μέλους"
+
+#: Controller/GymMemberController.php:190
+msgid "Edit Member"
+msgstr "Επεξεργασία μέλους"
+
+#: Controller/GymMemberController.php:446
+msgid "Success! Member activated successfully."
+msgstr "Επιτυχία! Το μέλος ενεργοποιήθηκε με επιτυχία."
+
+#: Controller/GymMessageController.php:154
+msgid "Success! Message Sent Successfully."
+msgstr "Επιτυχία! Το μήνυμα εστάλη επιτυχώς."
+
+#: Controller/GymMessageController.php:156
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "Λάθος! Δεν ήταν δυνατή η αποστολή μηνυμάτων, δοκιμάστε ξανά."
+
+#: Controller/GymMessageController.php:204
+msgid "Success! Message Deleted Successfully."
+msgstr "Επιτυχία! Το μήνυμα διαγράφηκε επιτυχώς."
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "Επιτυχία! Πλήκτρο Api Αποθηκεύτηκε με επιτυχία."
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "Επιτυχία! Πλήκτρο Api Ενημερώθηκε με επιτυχία."
+
+#: Controller/GymNewsletterController.php:94
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "Επιτυχία! Ο συγχρονισμός αλληλογραφίας ολοκληρώθηκε με επιτυχία."
+
+#: Controller/GymNewsletterController.php:131
+msgid "Campaign Tests Not Sent!"
+msgstr "Οι δοκιμές καμπάνιας δεν αποστέλλονται!"
+
+#: Controller/GymNewsletterController.php:133
+msgid "Campaign Tests Sent!"
+msgstr "Οι δοκιμές εκστρατείας έχουν σταλεί!"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:31
+#: Controller/GymStoreController.php:49
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "Λάθος! Η εγγραφή δεν έχει αποθηκευτεί. Δοκιμάστε ξανά."
+
+#: Controller/GymNoticeController.php:91
+msgid "Success! Record Successfully Updated."
+msgstr "Επιτυχία! Εγγραφή με επιτυχία."
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:49
+#: Controller/GymStoreController.php:93
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "Λάθος! Η εγγραφή δεν ενημερώθηκε.Παρακαλώ προσπαθήστε ξανά."
+
+#: Controller/GymNoticeController.php:105
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "Επιτυχία! Η εγγραφή διαγράφηκε με επιτυχία."
+
+#: Controller/GymNutritionController.php:40
+#: Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "Προσθέστε το Πρόγραμμα Διατροφής"
+
+#: Controller/GymNutritionController.php:77
+#: Controller/GymNutritionController.php:217
+msgid "Success! Nutrition Added Sucessfully."
+msgstr "Επιτυχία! Η διατροφή προστέθηκε με επιτυχία."
+
+#: Controller/GymNutritionController.php:81
+#: Controller/GymNutritionController.php:221
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "Λάθος! Δεν ήταν δυνατή η αποθήκευση των δεδομένων διατροφής. Δοκιμάστε ξανά."
+
+#: Controller/GymNutritionController.php:85
+#: Controller/GymNutritionController.php:225
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "Λάθος! Το πρόγραμμα διατροφής δεν ήταν δυνατό να αποθηκευτεί. Δοκιμάστε ξανά."
+
+#: Controller/GymNutritionController.php:172
+msgid "View Nutrition Schedule"
+msgstr "Δείτε το Πρόγραμμα Διατροφής"
+
+#: Controller/GymProfileController.php:30
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr "Λάθος! Ο νέος κωδικός πρόσβασης και ο κωδικός επιβεβαίωσης δεν συμφωνούν. Δοκιμάστε ξανά."
+
+#: Controller/GymProfileController.php:37
+msgid "Success! Password Updated Successfully"
+msgstr "Επιτυχία! Ο κωδικός πρόσβασης ενημερώθηκε με επιτυχία"
+
+#: Controller/GymProfileController.php:41
+msgid "Error! Current password is wrong.Please try again."
+msgstr "Λάθος! Ο τρέχων κωδικός πρόσβασης είναι λάθος. Δοκιμάστε ξανά."
+
+#: Controller/GymProfileController.php:65
+msgid "Success! Information Updated Successfully"
+msgstr "Επιτυχία! Οι πληροφορίες ενημερώθηκαν με επιτυχία"
+
+#: Controller/GymProfileController.php:69
+msgid "Error! Not Update.Please try again."
+msgstr "Λάθος! Δεν είναι Update.Please προσπαθήστε ξανά."
+
+#: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
+msgid "Only "
+msgstr "Μόνο "
+
+#: Controller/MemberRegistrationController.php:108
+msgid "Registration completed successfully. You will get email after activation"
+msgstr "Η εγγραφή ολοκληρώθηκε με επιτυχία. Θα λάβετε μήνυμα ηλεκτρονικού ταχυδρομείου μετά την ενεργοποίηση"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:86
+#: Template/GymMember/add_member.ctp:425
+#: Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "Προσθήκη μέλους"
+
+#: Controller/MembershipController.php:67
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "Λάθος! Παρουσιάστηκε σφάλμα κατά την αποθήκευση, δοκιμάστε ξανά αργότερα."
+
+#: Controller/MembershipController.php:99
+msgid "Edit Membership"
+msgstr "Επεξεργασία μέλους"
+
+#: Controller/MembershipController.php:198
+msgid "Success! Activity Successfully Assigned."
+msgstr "Επιτυχία! Δραστηριότητα με επιτυχία."
+
+#: Controller/MembershipController.php:208
+msgid "Success! Activity Unassigned Successfully."
+msgstr "Επιτυχία! Δραστηριότητα μη καθορισμένη με επιτυχία."
+
+#: Controller/MembershipPaymentController.php:63
+#: Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "Επιτυχία! Η πληρωμή προστέθηκε με επιτυχία."
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "Επιτυχία! Το αρχείο πληρωμής διαγράφηκε επιτυχώς."
+
+#: Controller/MembershipPaymentController.php:406
+#: Controller/MembershipPaymentController.php:427
+msgid "Success! Payment Successfully Completed."
+msgstr "Επιτυχία! Η πληρωμή ολοκληρώθηκε με επιτυχία."
+
+#: Controller/MembershipPaymentController.php:430
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "Πληρωμή Paypal Αποθήκευση IPN απέτυχε στο DB."
+
+#: Controller/StaffMembersController.php:22
+#: Template/Activity/add_activity.ctp:74
+#: Template/StaffMembers/staff_list.ctp:37
+msgid "Add Staff Member"
+msgstr "Προσθέστε μέλος του προσωπικού"
+
+#: Controller/StaffMembersController.php:75
+msgid "Edit Staff Member"
+msgstr "Επεξεργασία μέλους προσωπικού"
+
+#: Controller/StaffMembersController.php:132
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "Επιτυχία! Το μέλος του προσωπικού διαγράφηκε επιτυχώς."
+
+#: Controller/UsersController.php:47
+msgid "Sorry, Your account is expired."
+msgstr "Λυπούμαστε, ο λογαριασμός σας έχει λήξει."
+
+#: Controller/UsersController.php:57
+msgid "Error! Your account not activated yet!"
+msgstr "Λάθος! Ο λογαριασμός σας δεν έχει ενεργοποιηθεί ακόμα!"
+
+#: Controller/UsersController.php:97
+msgid "Invalid username or password, try again"
+msgstr "Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης, δοκιμάστε ξανά"
+
+#: View/Helper/GymHelper.php:272
+msgid "Not Taken"
+msgstr "Δεν έχουν ληφθεί"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:80
+#: Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "Μέλη"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Staff Members"
+msgstr "Μέλη του προσωπικού"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Accountants"
+msgstr "Λογιστές"
+
+#: View/Helper/GymHelper.php:309
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+#: View/Helper/GymHelper.php:524
+msgid "No data available in table"
+msgstr "δεν υπάρχουν διαθέσιμα δεδομένα στο τραπέζι"
+
+#: View/Helper/GymHelper.php:525
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "εμφανίζοντας την αρχή έως το τέλος των συνολικών καταχωρήσεων"
+
+#: View/Helper/GymHelper.php:526
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Εμφάνιση από 0 έως 0 από 0 καταχωρήσεις"
+
+#: View/Helper/GymHelper.php:527
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(φιλτράρεται από τις μέγιστες συνολικές καταχωρήσεις)"
+
+#: View/Helper/GymHelper.php:530
+msgid "Show _MENU_ entries"
+msgstr "εμφάνιση καταχωρήσεων μενού"
+
+#: View/Helper/GymHelper.php:531
+msgid "Loading..."
+msgstr "Φόρτωση..."
+
+#: View/Helper/GymHelper.php:532
+msgid "Processing..."
+msgstr "Επεξεργασία..."
+
+#: View/Helper/GymHelper.php:533
+msgid "Search"
+msgstr "Ψάξιμο"
+
+#: View/Helper/GymHelper.php:534
+msgid "No matching records found"
+msgstr "Δεν βρέθηκαν αντίστοιχα αρχεία"
+
+#: View/Helper/GymHelper.php:536
+msgid "First"
+msgstr "Πρώτα"
+
+#: View/Helper/GymHelper.php:537
+msgid "Last"
+msgstr "τελευταίος"
+
+#: View/Helper/GymHelper.php:538
+msgid "Next"
+msgstr "Επόμενο"
+
+#: View/Helper/GymHelper.php:539
+msgid "Previous"
+msgstr "Προηγούμενος"
+
+#: View/Helper/GymHelper.php:542
+msgid "activate to sort column ascending"
+msgstr "ενεργοποιήστε την ταξινόμηση της στήλης προς τα επάνω"
+
+#: View/Helper/GymHelper.php:543
+msgid "activate to sort column descending"
+msgstr "ενεργοποιήστε την ταξινόμηση της στήλης προς τα κάτω"
+
+#: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:35
+msgid "Activity List"
+msgstr "Λίστα δραστηριοτήτων"
+
+#: Template/Activity/activity_list.ctp:47
+#: Template/Activity/activity_list.ctp:75
+#: Template/Membership/view_activity.ctp:73
+#: Template/Membership/view_activity.ctp:97
+msgid "Activity Name"
+msgstr "Όνομα δραστηριότητας"
+
+#: Template/Activity/activity_list.ctp:48
+#: Template/Activity/activity_list.ctp:76
+#: Template/Membership/view_activity.ctp:74
+#: Template/Membership/view_activity.ctp:98
+msgid "Activity Category"
+msgstr "Κατηγορία δραστηριότητας"
+
+#: Template/Activity/activity_list.ctp:49
+#: Template/Activity/activity_list.ctp:77
+#: Template/Membership/view_activity.ctp:75
+#: Template/Membership/view_activity.ctp:99
+msgid "Activity Trainer"
+msgstr "Εκπαιδευτής δραστηριότητας"
+
+#: Template/Activity/add_activity.ctp:45 Template/Activity/add_activity.ctp:48
+#: Template/Membership/add.ctp:90 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "Επιλέξτε Κατηγορία"
+
+#: Template/Activity/add_activity.ctp:56
+msgid "Activity Title"
+msgstr "Τίτλος δραστηριότητας"
+
+#: Template/Activity/add_activity.ctp:64
+msgid "Assign to Staff Member"
+msgstr "Αναθέστε στο μέλος του προσωπικού"
+
+#: Template/Activity/add_activity.ctp:68
+#: Template/ClassSchedule/add_class.ctp:51
+#: Template/ClassSchedule/add_class.ctp:53
+#: Template/ClassSchedule/add_class.ctp:68
+#: Template/GymMember/add_member.ctp:353 Template/GymMember/add_member.ctp:355
+#: Template/GymMember/add_member.ctp:385
+msgid "Select Staff Member"
+msgstr "Επιλέξτε το μέλος του προσωπικού"
+
+#: Template/Activity/add_activity.ctp:79 Template/GymMember/add_member.ctp:422
+#: Template/MemberRegistration/index.ctp:261
+#: Template/MembershipPayment/generate_payment_invoice.ctp:78
+msgid "Select Membership"
+msgstr "Επιλέξτε μέλος"
+
+#: Template/Activity/add_activity.ctp:90
+msgid "Save Activity"
+msgstr "Αποθήκευση δραστηριότητας"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "Ρύθμιση προφίλ"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "διαχειριστής"
+
+#: Template/AdminProfile/edit_profile.ctp:34
+#: Template/GymAccountant/add_accountant.ctp:42
+#: Template/GymMember/add_member.ctp:160
+#: Template/MemberRegistration/index.ctp:104
+#: Template/StaffMembers/add_staff.ctp:58
+msgid "Personal Information"
+msgstr "Προσωπικές πληροφορίες"
+
+#: Template/AdminProfile/edit_profile.ctp:39
+#: Template/GymAccountant/add_accountant.ctp:44
+#: Template/GymMember/add_member.ctp:171
+#: Template/MemberRegistration/index.ctp:115
+#: Template/StaffMembers/add_staff.ctp:60
+msgid "First Name"
+msgstr "Ονομα"
+
+#: Template/AdminProfile/edit_profile.ctp:46
+#: Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:185
+#: Template/MemberRegistration/index.ctp:129
+#: Template/StaffMembers/add_staff.ctp:74
+msgid "Last Name"
+msgstr "Επίθετο"
+
+#: Template/AdminProfile/edit_profile.ctp:53
+#: Template/GeneralSetting/save_setting.ctp:159
+#: Template/GymAccountant/add_accountant.ctp:115
+#: Template/GymDailyWorkout/workout_list.ctp:58
+#: Template/GymDailyWorkout/workout_list.ctp:84
+#: Template/GymMember/add_member.ctp:267 Template/GymMember/view_member.ctp:74
+#: Template/GymProfile/view_profile.ctp:148 Template/Installer/index.ctp:464
+#: Template/MemberRegistration/index.ctp:209
+#: Template/StaffMembers/add_staff.ctp:150
+msgid "Email"
+msgstr "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+
+#: Template/AdminProfile/edit_profile.ctp:60
+#: Template/GymAccountant/add_accountant.ctp:122
+#: Template/GymMember/add_member.ctp:326
+#: Template/MemberRegistration/index.ctp:216
+#: Template/StaffMembers/add_staff.ctp:157
+msgid "Login Information"
+msgstr "πληροφορίες σύνδεσης"
+
+#: Template/AdminProfile/edit_profile.ctp:69
+#: Template/GymAccountant/add_accountant.ctp:131
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:335
+#: Template/Installer/index.ctp:562 Template/MemberRegistration/index.ctp:226
+#: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:30
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+#: Template/AdminProfile/edit_profile.ctp:76
+#: Template/GymAccountant/add_accountant.ctp:138
+#: Template/GymDailyWorkout/add_measurment.ctp:77
+#: Template/GymMember/add_member.ctp:342
+#: Template/MemberRegistration/index.ctp:233
+#: Template/StaffMembers/add_staff.ctp:173
+msgid "Display Image"
+msgstr "Εμφάνιση εικόνας"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "Αποθήκευση στοιχείων"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:8
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:46
+#: Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:17
+#: Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56
+#: Template/Dashboard/dashboard.ctp:83
+#: Template/Dashboard/member_dashboard.ctp:97
+#: Template/Dashboard/staff_acc_dashboard.ctp:112
+#: Template/Element/sidebar.ctp:38 Template/GymAccessright/access_right.ctp:93
+#: Template/GymGroup/add_group.ctp:18 Template/GymGroup/group_list.ctp:28
+#: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:210
+#: Template/MemberRegistration/index.ctp:154
+msgid "Group"
+msgstr "Ομάδα"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61
+#: Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "Πρόγραμμα τάξης και διατροφής"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66
+#: Template/ClassSchedule/add_class.ctp:32
+#: Template/ClassSchedule/class_list.ctp:40
+#: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:48
+#: Template/GymAccessright/access_right.ctp:183
+msgid "Class Schedule"
+msgstr "Πρόγραμμα τάξης"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70
+#: Template/Element/sidebar.ctp:52 Template/GymAccessright/access_right.ctp:603
+#: Template/GymNutrition/addnutrition_schedule.ctp:43
+#: Template/GymNutrition/member_nutrition.ctp:19
+#: Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "Πρόγραμμα Διατροφής"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76
+#: Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "Διαχείριση μελών"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89
+#: Template/Element/sidebar.ctp:71 Template/GymAccessright/access_right.ctp:25
+#: Template/GymAccessright/access_right.ctp:303
+#: Template/GymAccountant/accountant_list.ctp:37
+#: Template/GymAccountant/add_accountant.ctp:31
+#: Template/GymNotice/add_notice.ctp:67
+msgid "Accountant"
+msgstr "Λογιστής"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101
+#: Template/Element/sidebar.ctp:83 Template/GymDailyWorkout/add_workout.ctp:194
+msgid "Workout"
+msgstr "Προπόνηση"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109
+#: Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "Ημερήσια προπόνηση"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116
+#: Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "Κατάστημα & Προϊόντα"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120
+#: Template/Element/sidebar.ctp:102
+#: Template/GymAccessright/access_right.ctp:422
+#: Template/GymStore/sell_product.ctp:60
+msgid "Product"
+msgstr "Προϊόν"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124
+#: Template/Element/sidebar.ctp:106
+#: Template/GymAccessright/access_right.ctp:452
+#: Template/GymStore/sell_product.ctp:35 Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "Κατάστημα"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131
+#: Template/Element/sidebar.ctp:113
+#: Template/GymAccessright/access_right.ctp:633
+#: Template/GymReservation/reservation_list.ctp:35
+msgid "Event"
+msgstr "Εκδήλωση"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136
+#: Template/Element/sidebar.ctp:118 Template/GymAttendance/attendance.ctp:23
+#: Template/GymAttendance/staff_attendance.ctp:19
+#: Template/GymMember/member_list.ctp:88
+#: Template/GymMember/view_attendance.ctp:70
+msgid "Attendance"
+msgstr "Παρουσία"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141
+#: Template/Dashboard/dashboard.ctp:171 Template/Dashboard/dashboard.ctp:186
+#: Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "Πληρωμή"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146
+#: Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "Πληρωμή μέλους"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151
+#: Template/Element/sidebar.ctp:133
+#: Template/GymAccessright/access_right.ctp:363
+#: Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "Εισόδημα"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156
+#: Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "Εξοδα"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164
+#: Template/Dashboard/dashboard.ctp:96
+#: Template/Dashboard/member_dashboard.ctp:116
+#: Template/Dashboard/staff_acc_dashboard.ctp:136
+#: Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:512
+#: Template/GymMessage/compose_message.ctp:14 Template/GymMessage/inbox.ctp:10
+#: Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169
+#: Template/Element/sidebar.ctp:151
+#: Template/GymAccessright/access_right.ctp:482
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "Ενημερωτικό δελτίο"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174
+#: Template/Element/sidebar.ctp:156
+#: Template/GymAccessright/access_right.ctp:542
+#: Template/GymNotice/add_notice.ctp:47 Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "Ειδοποίηση"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179
+#: Template/Cell/GymRenderMenu/member_menu.ctp:45
+#: Template/Element/sidebar.ctp:170
+#: Template/GymAccessright/access_right.ctp:572
+msgid "Report"
+msgstr "Κανω ΑΝΑΦΟΡΑ"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "Ρυθμίσεις email"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:190
+msgid "SubscriptionHistory"
+msgstr "Ιστορικό συνδρομών"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:195
+#: Template/Element/sidebar.ctp:175 Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:200
+#: Template/Element/sidebar.ctp:180 Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "Δικαίωμα προσπέλασης"
+
+#: Template/ClassSchedule/add_class.ctp:35
+#: Template/ClassSchedule/class_list.ctp:39
+#: Template/ClassSchedule/view_schedule.ctp:13
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "Λίστα τάξεων"
+
+#: Template/ClassSchedule/add_class.ctp:44
+#: Template/ClassSchedule/class_list.ctp:61
+#: Template/ClassSchedule/class_list.ctp:95
+msgid "Class Name"
+msgstr "Ονομα τάξης"
+
+#: Template/ClassSchedule/add_class.ctp:59
+#: Template/ClassSchedule/add_class.ctp:74
+msgid "Add"
+msgstr "Προσθέτω"
+
+#: Template/ClassSchedule/add_class.ctp:66
+msgid "Select Assistant Staff Member"
+msgstr "Επιλέξτε Βοηθό μέλος του προσωπικού"
+
+#: Template/ClassSchedule/add_class.ctp:80
+#: Template/ClassSchedule/class_list.ctp:65
+#: Template/ClassSchedule/class_list.ctp:99
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: Template/ClassSchedule/add_class.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:129
+#: Template/GymAssignWorkout/assign_workout1.ctp:108
+#: Template/GymNutrition/addnutrition_schedule.ctp:90
+msgid "Select Days"
+msgstr "Επιλέξτε ημέρες"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Sunday"
+msgstr "Κυριακή"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Monday"
+msgstr "Δευτέρα"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Friday"
+msgstr "Παρασκευή"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Saturday"
+msgstr "Σάββατο"
+
+#: Template/ClassSchedule/add_class.ctp:125
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:103
+#: Template/GymReservation/reservation_list.ctp:54
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Start Time"
+msgstr "Ωρα έναρξης"
+
+#: Template/ClassSchedule/add_class.ctp:132
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:110
+msgid "End Time"
+msgstr "Τέλος χρόνου"
+
+#: Template/ClassSchedule/add_class.ctp:137
+msgid "Add Time"
+msgstr "Προσθέστε Ώρα"
+
+#: Template/ClassSchedule/add_class.ctp:173
+#: Template/GymReservation/add_reservation.ctp:142
+msgid "Save Class"
+msgstr "Αποθήκευση κλάσης"
+
+#: Template/ClassSchedule/class_list.ctp:46
+#: Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "Κλάση Χρονοδιαγράμματα"
+
+#: Template/ClassSchedule/class_list.ctp:62
+#: Template/ClassSchedule/class_list.ctp:96
+msgid "Staff Name"
+msgstr "Όνομα προσωπικού"
+
+#: Template/ClassSchedule/class_list.ctp:63
+#: Template/ClassSchedule/class_list.ctp:97
+msgid "Starting Time"
+msgstr "Ωρα έναρξης"
+
+#: Template/ClassSchedule/class_list.ctp:64
+#: Template/ClassSchedule/class_list.ctp:98
+#: Template/GymReservation/reservation_list.ctp:55
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Ending Time"
+msgstr "Ώρα λήξης"
+
+#: Template/ClassSchedule/view_schedule.ctp:43
+#: Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: Template/Dashboard/dashboard.ctp:58
+#: Template/Dashboard/member_dashboard.ctp:61
+#: Template/Dashboard/staff_acc_dashboard.ctp:66
+#: Template/GymAccessright/access_right.ctp:23
+#: Template/GymAccessright/access_right.ctp:123
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:147
+#: Template/GymMember/add_member.ctp:149 Template/GymMember/add_member.ctp:412
+#: Template/GymMember/member_list.ctp:39
+#: Template/GymMember/view_attendance.ctp:34
+#: Template/GymMember/view_member.ctp:33 Template/GymNotice/add_notice.ctp:67
+#: Template/GymStore/sell_product.ctp:46
+#: Template/MembershipPayment/add_income.ctp:43
+#: Template/MembershipPayment/generate_payment_invoice.ctp:64
+msgid "Member"
+msgstr "Μέλος"
+
+#: Template/Dashboard/dashboard.ctp:106
+#: Template/Dashboard/member_dashboard.ctp:134
+#: Template/Dashboard/staff_acc_dashboard.ctp:158
+#: Template/GymMember/add_member.ctp:420
+#: Template/MemberRegistration/index.ctp:259 Template/Membership/add.ctp:66
+#: Template/Membership/edit_membership.ctp:8
+#: Template/Membership/membership_list.ctp:37
+#: Template/Membership/membership_list.ctp:43
+#: Template/Membership/view_activity.ctp:40
+#: Template/MembershipPayment/generate_payment_invoice.ctp:76
+msgid "Membership"
+msgstr "Ιδιότητα μέλους"
+
+#: Template/Dashboard/dashboard.ctp:124
+#: Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/staff_acc_dashboard.ctp:187
+#: Template/GymGroup/add_group.ctp:21 Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "Λίστα Ομάδων"
+
+#: Template/Dashboard/dashboard.ctp:154
+msgid "Payment by month"
+msgstr "Πληρωμή κατά μήνα"
+
+#: Template/Dashboard/dashboard.ctp:192 Template/Dashboard/dashboard.ctp:247
+#: Template/Dashboard/dashboard.ctp:298
+#: Template/Dashboard/member_dashboard.ctp:200
+#: Template/Dashboard/member_dashboard.ctp:224
+#: Template/Dashboard/member_dashboard.ctp:248
+#: Template/Dashboard/member_dashboard.ctp:272
+#: Template/Dashboard/member_dashboard.ctp:296
+#: Template/Dashboard/member_dashboard.ctp:320
+#: Template/Dashboard/member_dashboard.ctp:344
+#: Template/GymMember/view_member.ctp:155
+#: Template/GymMember/view_member.ctp:179
+#: Template/GymMember/view_member.ctp:205
+#: Template/GymMember/view_member.ctp:229
+#: Template/GymMember/view_member.ctp:255
+#: Template/GymMember/view_member.ctp:279
+#: Template/GymMember/view_member.ctp:305
+msgid "There is not enough data to generate report"
+msgstr "Δεν υπάρχουν αρκετά δεδομένα για την παραγωγή αναφοράς"
+
+#: Template/Dashboard/dashboard.ctp:209 Template/Dashboard/dashboard.ctp:240
+#: Template/Reports/attendance_report.ctp:81
+msgid "Member Attendance Report"
+msgstr "Έκθεση Συμμετοχής Μέλους"
+
+#: Template/Dashboard/dashboard.ctp:223
+#: Template/Reports/attendance_report.ctp:93
+#: Template/Reports/membership_report.ctp:41
+msgid "No of Member"
+msgstr "Αριθμός μελών"
+
+#: Template/Dashboard/dashboard.ctp:263
+msgid "Staff Attendance Report"
+msgstr "Έκθεση παρακολούθησης προσωπικού"
+
+#: Template/Dashboard/dashboard.ctp:277
+msgid "Number of Staff Members"
+msgstr "Αριθμός μελών προσωπικού"
+
+#: Template/Dashboard/dashboard.ctp:292
+#: Template/GymAttendance/attendance.ctp:29
+#: Template/GymAttendance/staff_attendance.ctp:18
+msgid "Staff Attendance"
+msgstr "Προσωπικό Συμμετοχή"
+
+#: Template/Dashboard/member_dashboard.ctp:191
+msgid "Weight Progress Report"
+msgstr "Έκθεση προόδου βάρους"
+
+#: Template/Dashboard/member_dashboard.ctp:215
+msgid "Waist  Progress Report"
+msgstr "Έκθεση προόδου της μέσης"
+
+#: Template/Dashboard/member_dashboard.ctp:239
+msgid "Thigh Progress Report"
+msgstr "Έκθεση προόδου βραχίονα"
+
+#: Template/Dashboard/member_dashboard.ctp:263
+msgid "Arms Progress Report"
+msgstr "Έκθεση προόδου όπλων"
+
+#: Template/Dashboard/member_dashboard.ctp:287
+msgid "Height Progress Report"
+msgstr "Αναφορά προόδου ύψους"
+
+#: Template/Dashboard/member_dashboard.ctp:311
+msgid "Chest Progress Report"
+msgstr "Έκθεση προόδου θώρακα"
+
+#: Template/Dashboard/member_dashboard.ctp:335
+msgid "Fat Progress Report"
+msgstr "Αναφορά προόδου λίπους"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "Εκδοχή"
+
+#: Template/Element/topbar.ctp:40
+msgid "Member since"
+msgstr "Μέλος από"
+
+#: Template/Element/topbar.ctp:47 Template/Element/topbar.ctp:53
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: Template/Element/topbar.ctp:57
+msgid "Sign out"
+msgstr "Αποσύνδεση"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "Ρυθμίσεις συστήματος"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "Γυμναστήριο"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "Έτος Έναρξης"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "Γυμναστήριο Διεύθυνση"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "Αριθμός τηλεφώνου του Office"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:132
+msgid "Country"
+msgstr "Χώρα"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "Γλώσσα συστήματος"
+
+#: Template/GeneralSetting/save_setting.ctp:108
+msgid "Set Language to RTL"
+msgstr "Ρύθμιση γλώσσας σε RTL"
+
+#: Template/GeneralSetting/save_setting.ctp:110
+#: Template/GeneralSetting/save_setting.ctp:369
+#: Template/GeneralSetting/save_setting.ctp:376
+#: Template/GeneralSetting/save_setting.ctp:386
+#: Template/GeneralSetting/save_setting.ctp:416
+#: Template/GeneralSetting/save_setting.ctp:453
+msgid "Enable"
+msgstr "επιτρέπω"
+
+#: Template/GeneralSetting/save_setting.ctp:115
+msgid "Date Picker Language"
+msgstr "Γλώσσα επιλογής ημερομηνίας"
+
+#: Template/GeneralSetting/save_setting.ctp:166
+#: Template/Installer/index.ctp:472
+msgid "Date Format"
+msgstr "Μορφή ημερομηνίας"
+
+#: Template/GeneralSetting/save_setting.ctp:179
+#: Template/Installer/index.ctp:483
+msgid "Calendar Language"
+msgstr "Γλώσσα Ημερολογίου"
+
+#: Template/GeneralSetting/save_setting.ctp:253
+msgid "Time Zone"
+msgstr "Ζώνη ώρας"
+
+#: Template/GeneralSetting/save_setting.ctp:283
+msgid "Gym Logo"
+msgstr "Λογότυπο γυμναστικής"
+
+#: Template/GeneralSetting/save_setting.ctp:300
+msgid "Cover Image"
+msgstr "Εικόνα εξωφύλλου"
+
+#: Template/GeneralSetting/save_setting.ctp:312
+msgid "Measurement Units"
+msgstr "ΜΟΝΑΔΕΣ ΜΕΤΡΗΣΗΣ"
+
+#: Template/GeneralSetting/save_setting.ctp:314
+#: Template/GymMember/add_member.ctp:277
+msgid "Weight"
+msgstr "Βάρος"
+
+#: Template/GeneralSetting/save_setting.ctp:321
+#: Template/GymMember/add_member.ctp:284
+msgid "Height"
+msgstr "Υψος"
+
+#: Template/GeneralSetting/save_setting.ctp:328
+#: Template/GymMember/add_member.ctp:291
+msgid "Chest"
+msgstr "Στήθος"
+
+#: Template/GeneralSetting/save_setting.ctp:335
+#: Template/GymMember/add_member.ctp:298
+msgid "Waist"
+msgstr "Μέση"
+
+#: Template/GeneralSetting/save_setting.ctp:342
+msgid "Thing"
+msgstr "Πράγμα"
+
+#: Template/GeneralSetting/save_setting.ctp:349
+#: Template/GymMember/add_member.ctp:312
+msgid "Arms"
+msgstr "Οπλα"
+
+#: Template/GeneralSetting/save_setting.ctp:356
+#: Template/GymMember/add_member.ctp:319
+msgid "Fat"
+msgstr "Λίπος"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+msgid "Member Privacy Setting"
+msgstr "Ρύθμιση απορρήτου μελών"
+
+#: Template/GeneralSetting/save_setting.ctp:366
+msgid "Member can view other member's details"
+msgstr "Μέλος μπορεί να δει τα στοιχεία του άλλου μέλους"
+
+#: Template/GeneralSetting/save_setting.ctp:373
+msgid "Staff Member can view own trainee member's details"
+msgstr "Το μέλος του προσωπικού μπορεί να δει τα στοιχεία του μέλους του ασκούμενου"
+
+#: Template/GeneralSetting/save_setting.ctp:382
+msgid "Paypal Setting"
+msgstr "Paypal Ρύθμιση"
+
+#: Template/GeneralSetting/save_setting.ctp:384
+msgid "Enable Sandbox"
+msgstr "Ενεργοποιήστε το Sandbox"
+
+#: Template/GeneralSetting/save_setting.ctp:391
+msgid "Paypal Email Id"
+msgstr "Κωδ"
+
+#: Template/GeneralSetting/save_setting.ctp:398
+msgid "Select Currency"
+msgstr "Επιλέξτε Νόμισμα"
+
+#: Template/GeneralSetting/save_setting.ctp:412
+msgid "Membership Alert Message Setting"
+msgstr "Ρύθμιση μηνύματος συναγερμού μέλους"
+
+#: Template/GeneralSetting/save_setting.ctp:414
+msgid "Enable Alert Mail"
+msgstr "Ενεργοποίηση αλληλογραφίας ειδοποιήσεων"
+
+#: Template/GeneralSetting/save_setting.ctp:421
+msgid "Reminder Before Days"
+msgstr "Υπενθύμιση πριν από ημέρες"
+
+#: Template/GeneralSetting/save_setting.ctp:429
+msgid "Reminder Message"
+msgstr "Μήνυμα υπενθύμισης"
+
+#: Template/GeneralSetting/save_setting.ctp:436
+msgid "ShortCodes For Notification Mail Message"
+msgstr "ShortCodes για μήνυμα αλληλογραφίας ειδοποίησης"
+
+#: Template/GeneralSetting/save_setting.ctp:439
+#: Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77
+#: Template/GymAttendance/attendance.ctp:108
+#: Template/GymAttendance/attendance.ctp:117
+#: Template/GymAttendance/staff_attendance.ctp:69
+#: Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82
+#: Template/GymMember/member_list.ctp:56 Template/GymMember/member_list.ctp:109
+#: Template/GymNutrition/nutrition_list.ctp:53
+#: Template/GymNutrition/nutrition_list.ctp:77
+#: Template/GymStore/sell_record.ctp:36 Template/GymStore/sell_record.ctp:63
+#: Template/GymSubscriptionHistory/index.ctp:41
+#: Template/GymSubscriptionHistory/index.ctp:71
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "Ονομα μέλους"
+
+#: Template/GeneralSetting/save_setting.ctp:440 Template/Membership/add.ctp:81
+#: Template/Membership/edit_membership.ctp:21
+#: Template/Membership/membership_list.ctp:54
+#: Template/Membership/membership_list.ctp:102
+#: Template/Reports/membership_report.ctp:35
+msgid "Membership Name"
+msgstr "Όνομα μέλους"
+
+#: Template/GeneralSetting/save_setting.ctp:441
+#: Template/GymMember/view_member.ctp:390
+#: Template/GymMember/view_member.ctp:418
+#: Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:75
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "Ημερομηνία Έναρξης Συμμετοχής"
+
+#: Template/GeneralSetting/save_setting.ctp:442
+#: Template/GymMember/view_member.ctp:391
+#: Template/GymMember/view_member.ctp:419
+#: Template/GymSubscriptionHistory/index.ctp:46
+#: Template/GymSubscriptionHistory/index.ctp:76
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "Ημερομηνία λήξης μέλους"
+
+#: Template/GeneralSetting/save_setting.ctp:449
+msgid "Message Setting"
+msgstr "Ρύθμιση μηνύματος"
+
+#: Template/GeneralSetting/save_setting.ctp:451
+msgid "Member can Message To other's"
+msgstr "Μέλος μπορεί να μιλήσει στα άλλα"
+
+#: Template/GeneralSetting/save_setting.ctp:458
+msgid "Header & Footer Text"
+msgstr "Κείμενο κεφαλίδας και υποσέλιδου"
+
+#: Template/GeneralSetting/save_setting.ctp:460
+msgid "Left Header Text"
+msgstr "Κείμενο αριστερού κεφαλίδας"
+
+#: Template/GeneralSetting/save_setting.ctp:467
+msgid "Footer Text"
+msgstr "Υποσέλιδο κείμενο"
+
+#: Template/GeneralSetting/save_setting.ctp:475
+msgid "Save Settings"
+msgstr "Αποθηκεύσετε τις ρυθμίσεις"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "Ρυθμίσεις δικαιωμάτων πρόσβασης"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "Μενού"
+
+#: Template/GymAccessright/access_right.ctp:213
+msgid "Attendence"
+msgstr "Συμμετοχή"
+
+#: Template/GymAccessright/access_right.ctp:243
+msgid "Assigned Workouts"
+msgstr "Εκχωρημένα προπονητικά προγράμματα"
+
+#: Template/GymAccessright/access_right.ctp:273
+msgid "Workouts"
+msgstr "Προπονήσεις"
+
+#: Template/GymAccessright/access_right.ctp:333
+#: Template/Reports/payment_report.ctp:47
+msgid "Fee Payment"
+msgstr "Πληρωμή τέλους"
+
+#: Template/GymAccessright/access_right.ctp:392
+#: Template/MembershipPayment/add_expense.ctp:22
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "Δαπάνη"
+
+#: Template/GymAccessright/access_right.ctp:663
+msgid "Account"
+msgstr "λογαριασμός"
+
+#: Template/GymAccessright/access_right.ctp:694
+#: Template/GymMember/view_member.ctp:382
+#: Template/GymSubscriptionHistory/index.ctp:31
+#: Template/GymSubscriptionHistory/index.ctp:32
+msgid "Subscription History"
+msgstr "Ιστορικό συνδρομών"
+
+#: Template/GymAccessright/access_right.ctp:724
+#: Template/GymDailyWorkout/add_workout.ctp:210
+#: Template/GymEmailSetting/index.ctp:46 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNotice/add_notice.ctp:102
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+#: Template/GymProduct/add_product.ctp:47
+#: Template/GymProfile/view_profile.ctp:95
+#: Template/GymProfile/view_profile.ctp:155
+#: Template/GymStore/sell_product.ctp:84
+msgid "Save"
+msgstr "Αποθηκεύσετε"
+
+#: Template/GymAccountant/accountant_list.ctp:36
+#: Template/GymAccountant/add_accountant.ctp:34
+msgid "Accountant List"
+msgstr "Λίστα λογιστών"
+
+#: Template/GymAccountant/accountant_list.ctp:53
+#: Template/GymAccountant/accountant_list.ctp:87
+#: Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76
+#: Template/GymAttendance/attendance.ctp:107
+#: Template/GymAttendance/attendance.ctp:116
+#: Template/GymAttendance/staff_attendance.ctp:68
+#: Template/GymDailyWorkout/workout_list.ctp:55
+#: Template/GymDailyWorkout/workout_list.ctp:81
+#: Template/GymGroup/group_list.ctp:44 Template/GymGroup/group_list.ctp:75
+#: Template/GymMember/member_list.ctp:55 Template/GymMember/member_list.ctp:108
+#: Template/GymMember/view_member.ctp:320
+#: Template/Membership/membership_list.ctp:53
+#: Template/Membership/membership_list.ctp:101
+#: Template/StaffMembers/staff_list.ctp:47
+#: Template/StaffMembers/staff_list.ctp:80
+msgid "Photo"
+msgstr "φωτογραφία"
+
+#: Template/GymAccountant/accountant_list.ctp:54
+#: Template/GymAccountant/accountant_list.ctp:88
+msgid "Accountant Name"
+msgstr "Λογιστικό όνομα"
+
+#: Template/GymAccountant/accountant_list.ctp:55
+#: Template/GymAccountant/accountant_list.ctp:89
+msgid "Accountant Email"
+msgstr "Email λογιστή"
+
+#: Template/GymAccountant/accountant_list.ctp:56
+#: Template/GymAccountant/accountant_list.ctp:90
+#: Template/GymProfile/view_profile.ctp:136
+#: Template/StaffMembers/staff_list.ctp:51
+#: Template/StaffMembers/staff_list.ctp:84
+msgid "Mobile No."
+msgstr "Οχι κινητό."
+
+#: Template/GymAccountant/add_accountant.ctp:51
+#: Template/GymMember/add_member.ctp:178
+#: Template/MemberRegistration/index.ctp:122
+#: Template/StaffMembers/add_staff.ctp:67
+msgid "Middle Name"
+msgstr "Μεσαίο όνομα"
+
+#: Template/GymAccountant/add_accountant.ctp:65
+#: Template/GymMember/add_member.ctp:192 Template/GymMember/view_member.ctp:86
+#: Template/MemberRegistration/index.ctp:136
+#: Template/StaffMembers/add_staff.ctp:81
+msgid "Gender"
+msgstr "Γένος"
+
+#: Template/GymAccountant/add_accountant.ctp:68
+#: Template/GymMember/add_member.ctp:195 Template/StaffMembers/add_staff.ctp:84
+msgid "Male"
+msgstr "Αρσενικός"
+
+#: Template/GymAccountant/add_accountant.ctp:69
+#: Template/GymMember/add_member.ctp:196 Template/StaffMembers/add_staff.ctp:85
+msgid "Female"
+msgstr "Θηλυκός"
+
+#: Template/GymAccountant/add_accountant.ctp:76
+#: Template/GymMember/add_member.ctp:203
+#: Template/GymProfile/view_profile.ctp:113
+#: Template/MemberRegistration/index.ctp:147
+#: Template/StaffMembers/add_staff.ctp:92
+msgid "Date of birth"
+msgstr "ΗΜΕΡΟΜΗΝΙΑ ΓΕΝΝΗΣΗΣ"
+
+#: Template/GymAccountant/add_accountant.ctp:82
+#: Template/GymMember/add_member.ctp:220
+#: Template/MemberRegistration/index.ctp:161
+#: Template/StaffMembers/add_staff.ctp:117
+msgid "Contact Information"
+msgstr "Στοιχεία επικοινωνίας"
+
+#: Template/GymAccountant/add_accountant.ctp:84
+#: Template/GymProfile/view_profile.ctp:122
+#: Template/StaffMembers/add_staff.ctp:119
+msgid "Home Town Address"
+msgstr "Διεύθυνση κατοικίας"
+
+#: Template/GymAccountant/add_accountant.ctp:91
+#: Template/GymMember/add_member.ctp:229
+#: Template/GymProfile/view_profile.ctp:130
+#: Template/MemberRegistration/index.ctp:171
+#: Template/StaffMembers/add_staff.ctp:126
+msgid "City"
+msgstr "Πόλη"
+
+#: Template/GymAccountant/add_accountant.ctp:98
+#: Template/GymMember/add_member.ctp:250
+#: Template/MemberRegistration/index.ctp:192
+#: Template/StaffMembers/add_staff.ctp:133
+msgid "Mobile Number"
+msgstr "Αριθμός κινητού"
+
+#: Template/GymAccountant/add_accountant.ctp:108
+#: Template/GymMember/add_member.ctp:260
+#: Template/GymProfile/view_profile.ctp:142
+#: Template/MemberRegistration/index.ctp:202
+#: Template/StaffMembers/add_staff.ctp:143
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: Template/GymAccountant/add_accountant.ctp:147
+msgid "Save Accountant"
+msgstr "Αποθήκευση λογαριασμού"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:68
+#: Template/GymAssignWorkout/assign_workout1.ctp:49
+msgid "Workout Logs"
+msgstr "Εργάτες καταγραφής"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:78
+#: Template/GymAssignWorkout/assign_workout1.ctp:59
+#: Template/GymDailyWorkout/add_workout.ctp:149
+#: Template/GymDailyWorkout/add_workout.ctp:163
+#: Template/GymNutrition/addnutrition_schedule.ctp:56
+#: Template/MembershipPayment/generate_payment_invoice.ctp:71
+#: Template/Reports/monthlyworkoutreport.ctp:52
+msgid "Select Member"
+msgstr "Επιλέξτε Μέλος"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:103
+#: Template/GymAssignWorkout/assign_workout1.ctp:82
+#: Template/GymMessage/inbox.ctp:54 Template/GymMessage/sent.ctp:43
+#: Template/GymNutrition/addnutrition_schedule.ctp:185
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:54
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:117
+#: Template/GymAssignWorkout/assign_workout1.ctp:96
+#: Template/GymMember/view_attendance.ctp:52
+#: Template/GymNotice/add_notice.ctp:89
+#: Template/GymNutrition/addnutrition_schedule.ctp:78
+#: Template/Reports/attendance_report.ctp:68
+msgid "End Date"
+msgstr "Ημερομηνία λήξης"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:138
+#: Template/GymAssignWorkout/assign_workout1.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "Επιλέξτε δραστηριότητα άσκησης για προσθήκη σε επιλεγμένες ημέρες"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:144
+#: Template/GymAssignWorkout/assign_workout1.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "Βήμα-1 Προσθήκη Workout"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "Βήμα-2 Αποθήκευση προπόνησης"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Save Workout"
+msgstr "Αποθήκευση προπόνησης"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "Start From"
+msgstr "Ξεκίνα από"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "TO"
+msgstr "ΠΡΟΣ ΤΟ"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:194
+#: Template/GymAssignWorkout/assign_workout1.ctp:172
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:60
+#: Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:181
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:50
+msgid "Day name"
+msgstr "Όνομα ημέρας"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "Εγγραφή προπόνησης"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97
+#: Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "Δεν Βρέθηκε Αρχείο"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54
+#: Template/GymAssignWorkout/workout_log.ctp:78
+#: Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:78
+msgid "Member Goal"
+msgstr "Στόχος μέλους"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67
+#: Template/GymDailyWorkout/view_workout.ctp:58
+msgid "View Workouts"
+msgstr "Προβολή προπονήσεων"
+
+#: Template/GymAttendance/attendance.ctp:22
+#: Template/GymAttendance/staff_attendance.ctp:22
+msgid "Member Attendance"
+msgstr "Μέλη Συμμετοχή"
+
+#: Template/GymAttendance/attendance.ctp:43
+#: Template/GymAttendance/attendance.ctp:47
+#: Template/GymMessage/compose_message.ctp:62
+#: Template/GymNotice/add_notice.ctp:76 Template/Membership/add.ctp:142
+msgid "Select Class"
+msgstr "Επιλέξτε Κατηγορία"
+
+#: Template/GymAttendance/attendance.ctp:55
+#: Template/GymMember/view_attendance.ctp:33
+msgid "View Attendance"
+msgstr "Προβολή Συμμετοχής"
+
+#: Template/GymAttendance/attendance.ctp:59
+#: Template/GymAttendance/staff_attendance.ctp:36
+msgid "Take/View Attendance"
+msgstr "Πάρτε / Προβολή Συμμετοχή"
+
+#: Template/GymAttendance/attendance.ctp:168
+#: Template/GymAttendance/staff_attendance.ctp:88
+msgid "Save Attendance"
+msgstr "Αποθήκευση Συμμετοχής"
+
+#: Template/GymAttendance/attendance.ctp:179
+msgid "No attendance found."
+msgstr "Δεν βρέθηκε συμμετοχή."
+
+#: Template/GymAttendance/staff_attendance.ctp:52
+msgid "Staff Attendance, Date"
+msgstr "Προσωπικό Συμμετοχή, Ημερομηνία"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:127
+#: Template/GymDailyWorkout/view_workout.ctp:34
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "Προπόνηση καθημερινά"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:27
+#: Template/GymDailyWorkout/add_workout.ctp:130
+#: Template/GymDailyWorkout/view_workout.ctp:37
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "Λίστα προπονήσεων"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:56
+msgid "Result Measurement"
+msgstr "Μέτρηση αποτελεσμάτων"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:60
+msgid "Select Result Measurement"
+msgstr "Επιλέξτε μέτρηση αποτελεσμάτων"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:71
+msgid "Result Date"
+msgstr "Ημερομηνία Αποτέλεσμα"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:87
+msgid "Save Measurement"
+msgstr "Αποθήκευση μέτρησης"
+
+#: Template/GymDailyWorkout/add_workout.ctp:179
+msgid "Select Date"
+msgstr "Επιλέξτε Ημερομηνία"
+
+#: Template/GymDailyWorkout/add_workout.ctp:197
+msgid "Select Record Date For Today Workout"
+msgstr "Επιλέξτε Ημερομηνία εγγραφής για το σημερινό προπόνηση"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57
+#: Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "Κινητό"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72
+#: Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "Θέα"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "Προβολή μέτρησης"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "Ρύθμιση ηλεκτρονικού ταχυδρομείου"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:108
+msgid "Host"
+msgstr "Πλήθος"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "Λιμάνι"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:95
+msgid "To"
+msgstr "Προς το"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "Αποστολή δοκιμαστικού μηνύματος"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "Ονομα ομάδας"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "Εικόνα ομάδας"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "Αποθήκευση ομάδας"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "Συνολικά μέλη του Ομίλου"
+
+#: Template/GymMember/add_member.ctp:152 Template/GymMember/member_list.ctp:38
+#: Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "Λίστα μελών"
+
+#: Template/GymMember/add_member.ctp:163 Template/GymMember/member_list.ctp:57
+#: Template/GymMember/member_list.ctp:110 Template/GymMember/view_member.ctp:62
+#: Template/MemberRegistration/index.ctp:107
+msgid "Member ID"
+msgstr "ταυτότητα μέλους"
+
+#: Template/GymMember/add_member.ctp:222 Template/GymMember/view_member.ctp:70
+#: Template/MemberRegistration/index.ctp:164
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: Template/GymMember/add_member.ctp:236
+msgid "State"
+msgstr "κατάσταση"
+
+#: Template/GymMember/add_member.ctp:243
+#: Template/MemberRegistration/index.ctp:185
+msgid "Zip code"
+msgstr "Ταχυδρομικός κώδικας"
+
+#: Template/GymMember/add_member.ctp:275
+msgid "Physical Information"
+msgstr "Φυσικές πληροφορίες"
+
+#: Template/GymMember/add_member.ctp:305
+msgid "Thigh"
+msgstr "Μήρος"
+
+#: Template/GymMember/add_member.ctp:351
+#: Template/MemberRegistration/index.ctp:242
+msgid "More Information"
+msgstr "Περισσότερες πληροφορίες"
+
+#: Template/GymMember/add_member.ctp:358 Template/GymMember/add_member.ctp:388
+msgid "Add Staff"
+msgstr "Προσθέστε προσωπικό"
+
+#: Template/GymMember/add_member.ctp:363
+#: Template/MemberRegistration/index.ctp:245
+msgid "Interested Area"
+msgstr "Ενδιαφερόμενη περιοχή"
+
+#: Template/GymMember/add_member.ctp:365
+#: Template/MemberRegistration/index.ctp:247
+msgid "Select Interest"
+msgstr "Επιλέξτε το ενδιαφέρον"
+
+#: Template/GymMember/add_member.ctp:368 Template/GymMember/add_member.ctp:378
+#: Template/StaffMembers/add_staff.ctp:104
+#: Template/StaffMembers/add_staff.ctp:112
+msgid "Add/Remove"
+msgstr "Προσθήκη / Κατάργηση"
+
+#: Template/GymMember/add_member.ctp:373
+#: Template/MemberRegistration/index.ctp:252
+msgid "Source"
+msgstr "Πηγή"
+
+#: Template/GymMember/add_member.ctp:375
+#: Template/MemberRegistration/index.ctp:254
+msgid "Select Source"
+msgstr "Επιλέξτε Πηγή"
+
+#: Template/GymMember/add_member.ctp:383
+msgid "Referred By"
+msgstr "Παραπέμποντας από"
+
+#: Template/GymMember/add_member.ctp:393
+msgid "Inquiry Date"
+msgstr "Ημερομηνία Έρευνας"
+
+#: Template/GymMember/add_member.ctp:400
+msgid "Trial End Date"
+msgstr "Ημερομηνία λήξης δοκιμής"
+
+#: Template/GymMember/add_member.ctp:409 Template/GymMember/member_list.ctp:60
+#: Template/GymMember/member_list.ctp:113
+msgid "Member Type"
+msgstr "Τύπος μέλους"
+
+#: Template/GymMember/add_member.ctp:413 Template/GymMember/add_member.ctp:447
+msgid "Prospect"
+msgstr "Προοπτική"
+
+#: Template/GymMember/add_member.ctp:414
+msgid "Alumni"
+msgstr "Αποφοίτων"
+
+#: Template/GymMember/add_member.ctp:435
+msgid "Add Class"
+msgstr "Προσθήκη κλάσης"
+
+#: Template/GymMember/add_member.ctp:444 Template/GymMember/member_list.ctp:61
+#: Template/GymMember/member_list.ctp:114
+msgid "Membership Status"
+msgstr "Κατάσταση μέλους"
+
+#: Template/GymMember/add_member.ctp:448
+msgid "Continue"
+msgstr "Να συνεχίσει"
+
+#: Template/GymMember/add_member.ctp:449
+msgid "Expired"
+msgstr "έχει λήξει"
+
+#: Template/GymMember/add_member.ctp:450
+msgid "Dropped"
+msgstr "Πτώση"
+
+#: Template/GymMember/add_member.ctp:456
+#: Template/MembershipPayment/generate_payment_invoice.ctp:91
+msgid "Membership Valid From"
+msgstr "Η ιδιότητα μέλους είναι έγκυρη από"
+
+#: Template/GymMember/add_member.ctp:469
+msgid "First Payment Date"
+msgstr "Ημερομηνία πρώτης πληρωμής"
+
+#: Template/GymMember/add_member.ctp:477
+#: Template/MemberRegistration/index.ctp:292
+msgid "Save Member"
+msgstr "Αποθήκευση μέλους"
+
+#: Template/GymMember/member_list.ctp:58 Template/GymMember/member_list.ctp:111
+msgid "Joining Date"
+msgstr "Ημερομηνία σύνδεσης"
+
+#: Template/GymMember/member_list.ctp:59 Template/GymMember/member_list.ctp:112
+msgid "Expire Date"
+msgstr "Ημερομηνία λήξης"
+
+#: Template/GymMember/member_list.ctp:96
+msgid "Activate"
+msgstr "Θέτω εις ενέργειαν"
+
+#: Template/GymMember/member_list.ctp:98
+msgid "Activated"
+msgstr "Ενεργοποιήθηκε"
+
+#: Template/GymMember/view_attendance.ctp:37
+msgid "Member List"
+msgstr "Λίστα μελών"
+
+#: Template/GymMember/view_attendance.ctp:57
+#: Template/Reports/attendance_report.ctp:74
+msgid "Go"
+msgstr "Πηγαίνω"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "Προβολή μελών"
+
+#: Template/GymMember/view_member.ctp:66
+#: Template/GymProfile/view_profile.ctp:64
+msgid "Name"
+msgstr "Ονομα"
+
+#: Template/GymMember/view_member.ctp:78
+msgid "Mobile No"
+msgstr "Οχι κινητό"
+
+#: Template/GymMember/view_member.ctp:82
+msgid "Date Of Birth"
+msgstr "ΗΜΕΡΟΜΗΝΙΑ ΓΕΝΝΗΣΗΣ"
+
+#: Template/GymMember/view_member.ctp:103
+msgid "Moreinfo"
+msgstr "Περισσότερες πληροφορίες"
+
+#: Template/GymMember/view_member.ctp:107
+msgid "MemberShip"
+msgstr "Ιδιότητα μέλους"
+
+#: Template/GymMember/view_member.ctp:111
+msgid "Expiry Date"
+msgstr "Ημερομηνία λήξης"
+
+#: Template/GymMember/view_member.ctp:115
+msgid "Classes"
+msgstr "Μαθήματα"
+
+#: Template/GymMember/view_member.ctp:119
+msgid "Interest Area"
+msgstr "Τομέας ενδιαφέροντος"
+
+#: Template/GymMember/view_member.ctp:133
+msgid "Groups"
+msgstr "Ομάδες"
+
+#: Template/GymMember/view_member.ctp:147
+msgid "Add Weight"
+msgstr "Προσθήκη βάρους"
+
+#: Template/GymMember/view_member.ctp:171
+msgid "Add Waist"
+msgstr "Προσθέστε μέση"
+
+#: Template/GymMember/view_member.ctp:197
+msgid "Add Thigh"
+msgstr "Προσθέστε το μηρό"
+
+#: Template/GymMember/view_member.ctp:221
+msgid "Add Arms"
+msgstr "Προσθέστε όπλα"
+
+#: Template/GymMember/view_member.ctp:247
+msgid "Add Height"
+msgstr "Προσθήκη Ύψους"
+
+#: Template/GymMember/view_member.ctp:271
+msgid "Add Chest"
+msgstr "Προσθέστε το στήθος"
+
+#: Template/GymMember/view_member.ctp:297
+msgid "Add Fat"
+msgstr "Προσθέστε το Fat"
+
+#: Template/GymMember/view_member.ctp:321
+msgid "Add Photo"
+msgstr "Προσθήκη φωτογραφίας"
+
+#: Template/GymMember/view_member.ctp:387
+#: Template/GymMember/view_member.ctp:415
+#: Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:72
+msgid "Membership Title"
+msgstr "Τίτλος ιδιότητας μέλους"
+
+#: Template/GymMember/view_member.ctp:389
+#: Template/GymMember/view_member.ctp:417
+#: Template/GymSubscriptionHistory/index.ctp:44
+#: Template/GymSubscriptionHistory/index.ctp:74
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "Οφειλόμενο ποσό"
+
+#: Template/GymMember/view_member.ctp:392
+#: Template/GymMember/view_member.ctp:420
+#: Template/GymSubscriptionHistory/index.ctp:47
+#: Template/GymSubscriptionHistory/index.ctp:77
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "Κατάσταση πληρωμής"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "Συντ'ασσω μήνυμα"
+
+#: Template/GymMessage/compose_message.ctp:25
+#: Template/GymMessage/compose_message.ctp:28 Template/GymMessage/inbox.ctp:26
+#: Template/GymMessage/inbox.ctp:30 Template/GymMessage/sent.ctp:20
+#: Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "Συνθέτω"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "Inbox"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "Απεσταλμένα"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "Μήνυμα προς"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "Κανένας"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "Θέμα"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "Σχόλιο μηνύματος"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "Να στείλετε μήνυμα"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "Μηνύματα Εισερχομένων"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "Μήνυμα από"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "Απεσταλμένα Μηνύματα"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "Σύνθεση"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "Συγχρονισμός αλληλογραφίας"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "Λίστα αλληλογραφίας MailChimp"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "Επιλέξτε λίστα"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "Λίστα καμπάνιας"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "Επιλέξτε Καμπάνια"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "Αποστολή Capmaign"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "καμπάνια"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "Το κλειδί API του MailChimp"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "Λίστα"
+
+#: Template/GymNotice/add_notice.ctp:41
+msgid "Edit Notice"
+msgstr "Επεξεργασία ειδοποίησης"
+
+#: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "Προσθήκη ειδοποίησης"
+
+#: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "Λίστα ειδοποιήσεων"
+
+#: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "Τίτλος ειδοποίησης"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "All"
+msgstr "Ολα"
+
+#: Template/GymNotice/add_notice.ctp:96
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "Λίστα Προγραμματισμού Διατροφής"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:98
+msgid "Select Nutrition to add on selected days"
+msgstr "Επιλέξτε Διατροφή για προσθήκη σε επιλεγμένες ημέρες"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:103
+msgid "Break Fast"
+msgstr "ΠΡΩΙΝΟ ΓΕΥΜΑ"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:109
+msgid "Mid-Morning Snacks"
+msgstr "Μεσημεριανά σνακ"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:115
+msgid "Lunch"
+msgstr "Μεσημεριανό"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:120
+msgid "Afternoon Snacks"
+msgstr "Απογευματινά σνακ"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:125
+msgid "Dinner"
+msgstr "Δείπνο"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:129
+msgid "+ Add Nutrition"
+msgstr "+ Προσθήκη διατροφής"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+msgid "Step-2 Save"
+msgstr "Βήμα-2 Αποθήκευση"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:184
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Time"
+msgstr "χρόνος"
+
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:80
+msgid "No record found."
+msgstr "Δεν Βρέθηκε Αρχείο."
+
+#: Template/GymNutrition/nutrition_list.ctp:52
+#: Template/GymNutrition/nutrition_list.ctp:76
+msgid "Member Photo"
+msgstr "Φωτογραφία μέλους"
+
+#: Template/GymProduct/add_product.ctp:9
+msgid "Edit Product"
+msgstr "Επεξεργασία προϊόντος"
+
+#: Template/GymProduct/add_product.ctp:11
+#: Template/GymProduct/product_list.ctp:37
+#: Template/GymStore/sell_product.ctp:70
+msgid "Add Product"
+msgstr "Προσθήκη προϊόντος"
+
+#: Template/GymProduct/add_product.ctp:15
+#: Template/GymProduct/product_list.ctp:31
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: Template/GymProduct/add_product.ctp:18
+#: Template/GymProduct/product_list.ctp:30
+msgid "Product List"
+msgstr "Λίστα προϊόντων"
+
+#: Template/GymProduct/add_product.ctp:26
+#: Template/GymProduct/product_list.ctp:47
+#: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:62
+msgid "Product Name"
+msgstr "όνομα προϊόντος"
+
+#: Template/GymProduct/add_product.ctp:32
+#: Template/GymProduct/product_list.ctp:48
+#: Template/GymProduct/product_list.ctp:77
+msgid "Product Price"
+msgstr "Τιμή προϊόντος"
+
+#: Template/GymProduct/add_product.ctp:41
+#: Template/GymProduct/product_list.ctp:49
+#: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:64
+msgid "Product Quantity"
+msgstr "Ποσότητα προϊόντος"
+
+#: Template/GymProfile/view_profile.ctp:51
+msgid "Account Settings"
+msgstr "Ρυθμίσεις λογαριασμού"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "Current Password"
+msgstr "Ο τρέχων κωδικός πρόσβασης"
+
+#: Template/GymProfile/view_profile.ctp:82
+msgid "New Password"
+msgstr "νέος κωδικός πρόσβασης"
+
+#: Template/GymProfile/view_profile.ctp:87 Template/Installer/index.ctp:571
+msgid "Confirm Password"
+msgstr "Επιβεβαίωση Κωδικού"
+
+#: Template/GymProfile/view_profile.ctp:106
+msgid "Other Information"
+msgstr "Αλλες πληροφορίες"
+
+#: Template/GymReservation/add_reservation.ctp:58
+msgid "Edit Event"
+msgstr "Επεξεργασία συμβάντος"
+
+#: Template/GymReservation/add_reservation.ctp:60
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Add Event"
+msgstr "Προσθήκη συμβάντος"
+
+#: Template/GymReservation/add_reservation.ctp:63
+msgid "Schedule"
+msgstr "Πρόγραμμα"
+
+#: Template/GymReservation/add_reservation.ctp:66
+#: Template/GymReservation/reservation_list.ctp:34
+msgid "Event List"
+msgstr "Λίστα συμβάντων"
+
+#: Template/GymReservation/add_reservation.ctp:75
+#: Template/GymReservation/reservation_list.ctp:51
+#: Template/GymReservation/reservation_list.ctp:83
+msgid "Event Name"
+msgstr "Όνομα συμβάντος"
+
+#: Template/GymReservation/add_reservation.ctp:82
+#: Template/GymReservation/reservation_list.ctp:52
+#: Template/GymReservation/reservation_list.ctp:84
+msgid "Event Date"
+msgstr "Ημερομηνία γεγονότος"
+
+#: Template/GymReservation/add_reservation.ctp:89
+msgid "Event Place"
+msgstr "Τόπος Εκδήλωσης"
+
+#: Template/GymReservation/add_reservation.ctp:91
+msgid "Select Event Places"
+msgstr "Επιλέξτε Χώροι συμβάντων"
+
+#: Template/GymReservation/add_reservation.ctp:94
+msgid "Add or Remove"
+msgstr "Προσθήκη ή κατάργηση"
+
+#: Template/GymReservation/reservation_list.ctp:53
+#: Template/GymReservation/reservation_list.ctp:85
+msgid "Place"
+msgstr "Θέση"
+
+#: Template/GymStore/sell_product.ctp:29
+msgid "Edit Sell Product"
+msgstr "Επεξεργασία προϊόντος πώλησης"
+
+#: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
+msgid "Add Sell Product"
+msgstr "Προσθήκη προϊόντος πώλησης"
+
+#: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "Πώληση αρχείων"
+
+#: Template/GymStore/sell_product.ctp:63
+msgid "Select Product"
+msgstr "Επιλέξτε Προϊόν"
+
+#: Template/GymStore/sell_product.ctp:75
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+#: Template/Installer/index.ctp:10 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "Gym Master - Οδηγός εγκατάστασης διαχείρισης GYM"
+
+#: Template/Installer/index.ctp:16 Template/Installer/index.ctp:18
+msgid "Server Requirements"
+msgstr "Απαιτήσεις διακομιστή"
+
+#: Template/Installer/index.ctp:79 Template/Installer/index.ctp:81
+msgid "Database Setup"
+msgstr "Ρύθμιση βάσης δεδομένων"
+
+#: Template/Installer/index.ctp:84
+msgid "Database Name"
+msgstr "Ονομα βάσης δεδομένων"
+
+#: Template/Installer/index.ctp:92
+msgid "Database Username"
+msgstr "Όνομα χρήστη βάσης δεδομένων"
+
+#: Template/Installer/index.ctp:100
+msgid "Database Password"
+msgstr "Κωδικός πρόσβασης βάσης δεδομένων"
+
+#: Template/Installer/index.ctp:116 Template/Installer/index.ctp:546
+msgid "Fields are required."
+msgstr "Απαιτούνται πεδία."
+
+#: Template/Installer/index.ctp:119 Template/Installer/index.ctp:121
+msgid "System Setting"
+msgstr "Ρυθμίσεις συστήματος"
+
+#: Template/Installer/index.ctp:124
+msgid "System Name"
+msgstr "Όνομα συστήματος"
+
+#: Template/Installer/index.ctp:549 Template/Installer/index.ctp:551
+msgid "Login Details"
+msgstr "Λεπτομέρειες Σύνδεσης"
+
+#: Template/Installer/index.ctp:579
+msgid "Finish"
+msgstr "Φινίρισμα"
+
+#: Template/Installer/index.ctp:581
+msgid "Please Note :"
+msgstr "Παρακαλώ σημειώστε :"
+
+#: Template/Installer/index.ctp:584
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. Μπορεί να χρειαστούν μερικά λεπτά για τη δημιουργία βάσης δεδομένων."
+
+#: Template/Installer/index.ctp:587
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. Μην ανανεώσετε τη σελίδα αφού κάνετε κλικ στο κουμπί εγκατάστασης."
+
+#: Template/Installer/index.ctp:590
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3. Θα λάβετε ένα μήνυμα επιτυχίας μία φορά μετά την ολοκλήρωση της εγκατάστασης."
+
+#: Template/Installer/index.ctp:593
+msgid "4. Click on install to complete the installation."
+msgstr "4. Κάντε κλικ στην εγκατάσταση για να ολοκληρώσετε την εγκατάσταση."
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "Συγχαρητήρια"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "Η εγκατάσταση ολοκληρώθηκε με επιτυχία"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "Κάντε κλικ"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "εδώ για να ανακατευθύνετε στη σελίδα \\ tlogin."
+
+#: Template/MemberRegistration/index.ctp:97 Template/Users/login.ctp:32
+msgid "Member Registration"
+msgstr "Εγγραφή μελών"
+
+#: Template/MemberRegistration/index.ctp:178
+msgid "state"
+msgstr "κατάσταση"
+
+#: Template/MemberRegistration/index.ctp:273
+msgid "Select Joining Date"
+msgstr "Επιλέξτε Ημερομηνία σύνδεσης"
+
+#: Template/MemberRegistration/index.ctp:295
+msgid "Go Back"
+msgstr "Πήγαινε πίσω"
+
+#: Template/Membership/add.ctp:69 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:36
+#: Template/Membership/view_activity.ctp:44
+msgid "Membership List"
+msgstr "Λίστα μελών"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "Κατηγορία μέλους"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:55
+#: Template/Membership/membership_list.ctp:103
+msgid "Membership Period"
+msgstr "Περίοδος μέλους"
+
+#: Template/Membership/add.ctp:101
+msgid "No. of Days"
+msgstr "Αριθμός ημερών"
+
+#: Template/Membership/add.ctp:108 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "Όριο Συμμετοχής"
+
+#: Template/Membership/add.ctp:110
+msgid "Limited"
+msgstr "Περιωρισμένος"
+
+#: Template/Membership/add.ctp:111
+msgid "Unlimited"
+msgstr "Απεριόριστος"
+
+#: Template/Membership/add.ctp:114
+msgid "no. of classes"
+msgstr "όχι. των τάξεων"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every week"
+msgstr "Class κάθε εβδομάδα"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every month"
+msgstr "Τάξη κάθε μήνα"
+
+#: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "Ποσό Μέλους"
+
+#: Template/Membership/add.ctp:150 Template/Membership/membership_list.ctp:56
+#: Template/Membership/membership_list.ctp:104
+msgid "Installment Plan"
+msgstr "Σχέδιο δόσεων"
+
+#: Template/Membership/add.ctp:156 Template/Membership/edit_membership.ctp:56
+msgid "Select Installment Plan"
+msgstr "Επιλέξτε Σχέδιο δόσεων"
+
+#: Template/Membership/add.ctp:161 Template/Membership/edit_membership.ctp:62
+msgid "Add Installment Plan"
+msgstr "Προσθέστε σχέδιο δόσεων"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "Αμοιβή εγγραφής"
+
+#: Template/Membership/add.ctp:177 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "Περιγραφή μέλους"
+
+#: Template/Membership/add.ctp:184 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "Εικόνα μέλους"
+
+#: Template/Membership/add.ctp:198
+msgid "Save Membership"
+msgstr "Αποθήκευση ιδιότητας μέλους"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Installment Amount"
+msgstr "Ποσό δόσεων"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Installment Period"
+msgstr "Περίοδος δόσεων"
+
+#: Template/Membership/membership_list.ctp:57
+#: Template/Membership/membership_list.ctp:105
+msgid "SignUp Fee"
+msgstr "Χρέωση SignUp"
+
+#: Template/Membership/membership_list.ctp:91
+msgid "Activities"
+msgstr "Δραστηριότητες"
+
+#: Template/Membership/view_activity.ctp:41
+msgid "View Activity"
+msgstr "Προβολή δραστηριότητας"
+
+#: Template/Membership/view_activity.ctp:56
+msgid "Select Activity"
+msgstr "Επιλέξτε Δραστηριότητα"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+msgid "Edit Expense"
+msgstr "Επεξεργασία εξόδων"
+
+#: Template/MembershipPayment/add_expense.ctp:19
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "Προσθήκη εξόδων"
+
+#: Template/MembershipPayment/add_expense.ctp:25
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "Λίστα εξόδων"
+
+#: Template/MembershipPayment/add_expense.ctp:34
+#: Template/MembershipPayment/expense_list.ctp:39
+#: Template/MembershipPayment/expense_list.ctp:67
+msgid "Supplier Name"
+msgstr "Όνομα προμηθευτή"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Paid"
+msgstr "επί πληρωμή"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Part Paid"
+msgstr "Μέρος Αμειβόμενος"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Unpaid"
+msgstr "Απλήρωτος"
+
+#: Template/MembershipPayment/add_expense.ctp:61
+#: Template/MembershipPayment/add_expense.ctp:83
+msgid "Expense Entry"
+msgstr "Είσοδος δαπανών"
+
+#: Template/MembershipPayment/add_expense.ctp:63
+#: Template/MembershipPayment/add_expense.ctp:85
+msgid "Expense Amount"
+msgstr "Ποσό εξόδων"
+
+#: Template/MembershipPayment/add_expense.ctp:66
+#: Template/MembershipPayment/add_expense.ctp:88
+msgid "Expense Entry Label"
+msgstr "Ετικέτα εισόδου εξόδων"
+
+#: Template/MembershipPayment/add_expense.ctp:103
+msgid "Add Expense Entry"
+msgstr "Προσθήκη καταχώρησης δαπανών"
+
+#: Template/MembershipPayment/add_expense.ctp:108
+msgid "Create Expense Entry"
+msgstr "Δημιουργία καταχώρησης δαπανών"
+
+#: Template/MembershipPayment/add_income.ctp:25
+msgid "Edit Income"
+msgstr "Επεξεργασία Εισοδήματος"
+
+#: Template/MembershipPayment/add_income.ctp:27
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "Προσθήκη εισοδήματος"
+
+#: Template/MembershipPayment/add_income.ctp:34
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "Κατάλογος εισοδήματος"
+
+#: Template/MembershipPayment/add_income.ctp:41
+msgid "income"
+msgstr "εισόδημα"
+
+#: Template/MembershipPayment/add_income.ctp:49
+msgid "Income label"
+msgstr "Ετικέτα εισοδήματος"
+
+#: Template/MembershipPayment/add_income.ctp:60
+msgid "Select Status"
+msgstr "Επιλέξτε Κατάσταση"
+
+#: Template/MembershipPayment/add_income.ctp:76
+#: Template/MembershipPayment/add_income.ctp:98
+msgid "Income Entry"
+msgstr "Εισοδηματική είσοδος"
+
+#: Template/MembershipPayment/add_income.ctp:78
+#: Template/MembershipPayment/add_income.ctp:100
+msgid "Income Amount"
+msgstr "Ποσό εισοδήματος"
+
+#: Template/MembershipPayment/add_income.ctp:81
+#: Template/MembershipPayment/add_income.ctp:103
+msgid "Income Entry Label"
+msgstr "Ετικέτα εισόδου εισοδήματος"
+
+#: Template/MembershipPayment/add_income.ctp:118
+msgid "Add Income Entry"
+msgstr "Προσθήκη καταχώρησης εισοδήματος"
+
+#: Template/MembershipPayment/add_income.ctp:123
+msgid "Create Income Entry"
+msgstr "Δημιουργία εισόδου εισοδήματος"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "Δημιουργία τιμολογίου πληρωμής"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:53
+msgid "Membership Payment List"
+msgstr "Λίστα πληρωμών για μέλη"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:82
+msgid "Total Amount"
+msgstr "Συνολικό ποσό"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:102
+msgid "save_membership_payment"
+msgstr "save_membership_payment"
+
+#: Template/MembershipPayment/payment_list.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "Τίτλος"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "Πληρωμή"
+
+#: Template/Reports/attendance_report.ctp:46
+#: Template/Reports/membership_report.ctp:17
+#: Template/Reports/membership_status_report.ctp:19
+#: Template/Reports/monthlyworkoutreport.ctp:29
+#: Template/Reports/payment_report.ctp:17
+msgid "Attendance Report"
+msgstr "Έκθεση παρουσίας"
+
+#: Template/Reports/attendance_report.ctp:47
+#: Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/monthlyworkoutreport.ctp:17
+#: Template/Reports/payment_report.ctp:14
+msgid "Reports"
+msgstr "Αναφορές"
+
+#: Template/Reports/attendance_report.ctp:50
+#: Template/Reports/membership_report.ctp:30
+#: Template/Reports/membership_status_report.ctp:17
+msgid "Membership Report"
+msgstr "Έκθεση μέλους"
+
+#: Template/Reports/attendance_report.ctp:52
+#: Template/Reports/membership_report.ctp:19
+#: Template/Reports/membership_status_report.ctp:13
+#: Template/Reports/monthlyworkoutreport.ctp:31
+#: Template/Reports/payment_report.ctp:19
+msgid "Membership Status Report"
+msgstr "Έκθεση κατάστασης μέλους"
+
+#: Template/Reports/attendance_report.ctp:54
+#: Template/Reports/membership_report.ctp:21
+#: Template/Reports/membership_status_report.ctp:21
+#: Template/Reports/monthlyworkoutreport.ctp:33
+#: Template/Reports/payment_report.ctp:21
+msgid "Payment Report"
+msgstr "Έκθεση πληρωμής"
+
+#: Template/Reports/attendance_report.ctp:55
+#: Template/Reports/membership_report.ctp:22
+#: Template/Reports/membership_status_report.ctp:22
+#: Template/Reports/monthlyworkoutreport.ctp:16
+#: Template/Reports/monthlyworkoutreport.ctp:24
+#: Template/Reports/monthlyworkoutreport.ctp:34
+#: Template/Reports/payment_report.ctp:22
+msgid "Members Monthly Workout Report"
+msgstr "Μηνιαία αναφορά προπονήσεων μελών"
+
+#: Template/Reports/attendance_report.ctp:63
+msgid "Strat Date"
+msgstr "Διάρ"
+
+#: Template/Reports/attendance_report.ctp:119
+#: Template/Reports/membership_report.ctp:61
+#: Template/Reports/membership_status_report.ctp:41
+#: Template/Reports/payment_report.ctp:66
+msgid "There is not enough data to generate report."
+msgstr "Δεν υπάρχουν αρκετά δεδομένα για την παραγωγή αναφοράς."
+
+#: Template/Reports/membership_report.ctp:13
+#: Template/Reports/payment_report.ctp:13
+msgid "Membership report"
+msgstr "Έκθεση μέλους"
+
+#: Template/Reports/membership_status_report.ctp:30
+msgid "Membership by status"
+msgstr "Σύνθεση κατά καθεστώς"
+
+#: Template/Reports/monthlyworkoutreport.ctp:63
+msgid "GO"
+msgstr "ΠΗΓΑΙΝΩ"
+
+#: Template/Reports/monthlyworkoutreport.ctp:77
+msgid "Workout Date"
+msgstr "Ημερομηνία προπόνησης"
+
+#: Template/Reports/monthlyworkoutreport.ctp:78
+msgid "Workout Name"
+msgstr "Όνομα προπόνησης"
+
+#: Template/Reports/monthlyworkoutreport.ctp:125
+msgid "Download"
+msgstr "Κατεβάστε"
+
+#: Template/Reports/monthlyworkoutreport.ctp:132
+msgid "No Workout Found."
+msgstr "Δεν βρέθηκε προπόνηση."
+
+#: Template/Reports/payment_report.ctp:30
+msgid "Fee Payment Report By Month"
+msgstr "Έκθεση πληρωμής πληρωμής ανά μήνα"
+
+#: Template/StaffMembers/add_staff.ctp:50
+#: Template/StaffMembers/staff_list.ctp:30
+msgid "Staff Member List"
+msgstr "Λίστα μελών προσωπικού"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Assign Role"
+msgstr "Αναθέστε τον ρόλο"
+
+#: Template/StaffMembers/add_staff.ctp:101
+msgid "Select Role"
+msgstr "Επιλέξτε Ρόλος"
+
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Specialization"
+msgstr "Ειδίκευση"
+
+#: Template/StaffMembers/add_staff.ctp:182
+msgid "Save Staff"
+msgstr "Αποθήκευση Προσωπικού"
+
+#: Template/StaffMembers/staff_list.ctp:48
+#: Template/StaffMembers/staff_list.ctp:81
+msgid "Staff Member Name"
+msgstr "Όνομα μέλους του προσωπικού"
+
+#: Template/StaffMembers/staff_list.ctp:49
+#: Template/StaffMembers/staff_list.ctp:82
+msgid "Role"
+msgstr "Ρόλος"
+
+#: Template/StaffMembers/staff_list.ctp:50
+#: Template/StaffMembers/staff_list.ctp:83
+msgid "Staff Member Email"
+msgstr "Email μέλους του προσωπικού"
+
+#: Template/Users/login.ctp:23
+msgid "Logging you in"
+msgstr "Σύνδεση με εσάς"
+
+#: Template/Users/login.ctp:31
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: custom
+msgid "(Max. height 50px.)"
+msgstr "(Μέγιστο ύψος 50px.)"
+
+#: custom
+msgid "Class Booking"
+msgstr "Κράτηση τάξης"
+
+#: custom
+msgid "Class Booking List"
+msgstr "Λίστα κρατήσεων τάξης"
+
+#: custom
+msgid "Add Class Booking"
+msgstr "Προσθήκη κρατήσεων τάξης"
+
+#: custom
+msgid "Booking Date"
+msgstr "Ημερομηνία κλεισίματος"
+
+#: custom
+msgid "Booking Day"
+msgstr "Ημέρα κράτησης"
+
+#: custom
+msgid "Add Booking Class"
+msgstr "Προσθήκη τάξης κράτησης"
+
+#: custom
+msgid "Edit Booking Class"
+msgstr "Επεξεργασία τάξης κρατήσεων"
+
+#: custom
+msgid "Save Booking"
+msgstr "Αποθήκευση κράτησης"
+
+#: custom
+msgid "Add Youtube Embaded Link"
+msgstr "Προσθήκη ενσωματωμένου συνδέσμου Youtube"
+
+#: custom
+msgid "Add More"
+msgstr "Πρόσθεσε περισσότερα"
+
+#: custom
+msgid "No Any Video"
+msgstr "لΚανένα βίντεο"
+
+#: custom
+msgid "Export"
+msgstr "Εξαγωγή"
+
+#: custom
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: custom
+msgid "Side Menu Color"
+msgstr "Χρώμα πλευρικού μενού"
+
+#: custom
+msgid "Header Color"
+msgstr "Χρώμα κεφαλίδας"
+
+#: custom
+msgid "Theme Setting"
+msgstr "Ρύθμιση θέματος"
+
+#: custom
+msgid "Sample Download"
+msgstr "Λήψη δείγματος"
+
+#: custom
+msgid "Membership Report List"
+msgstr "Λίστα αναφορών μελών"
+
+#: custom
+msgid "Payment Report List"
+msgstr "Λίστα αναφορών πληρωμής"
+
+#: custom
+msgid "Attendance Report List"
+msgstr "Λίστα αναφορών συμμετοχής"
+
+#: custom
+msgid "Total Member"
+msgstr "Σύνολο μέλους"
+
+#: custom
+msgid "Attendance Date"
+msgstr "Ημερομηνία συμμετοχής"
+
+#: custom
+msgid "Number Of Member"
+msgstr "Αριθμός μέλους"
+
+#: custom
+msgid "Stripe Setting"
+msgstr "Ρύθμιση ρίγας"
+
+#: custom
+msgid "Secret Key"
+msgstr "Μυστικό κλειδί"
+
+#: custom
+msgid "Publishable Key"
+msgstr "Δημοσιεύσιμο κλειδί"
+
+#: custom
+msgid "Class Booking Fees"
+msgstr "Τέλη κράτησης τάξης"
+
+#: custom
+msgid "Booking Type"
+msgstr "Τύπος κράτησης"
+
+#: custom
+msgid "Booking Detail"
+msgstr "Λεπτομέρεια κράτησης"
+
+#: custom
+msgid "Zipcode"
+msgstr "Ταχυδρομικός κώδικας"
+
+#: custom
+msgid "Full Name"
+msgstr "Πλήρες όνομα"
+
+#: custom
+msgid "Class Information"
+msgstr "Πληροφορίες τάξης"
+
+#: custom
+msgid "Select Booking Type"
+msgstr "Επιλέξτε Τύπος κράτησης"
+
+#: custom
+msgid "Demo"
+msgstr "Διαδήλωση"
+
+#: custom
+msgid "Paid Booking"
+msgstr "Κράτηση επί πληρωμή"
+
+#: custom
+msgid "Error! This class is already enjoy by you, now you can not book this class as demo."
+msgstr "Λάθος! Αυτό το μάθημα απολαμβάνεται ήδη από εσάς, τώρα δεν μπορείτε να κλείσετε αυτήν την τάξη ως επίδειξη."
+
+#: custom
+msgid "Error! Please Fill All Information."
+msgstr "Λάθος! Συμπληρώστε όλες τις πληροφορίες."

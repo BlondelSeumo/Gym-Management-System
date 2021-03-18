@@ -1,0 +1,33 @@
+
+In case you are facing issue installing it.
+
+
+I Have cracked it ...
+
+ 
+
+visit
+
+/src/Controller/InstallerController.php
+
+ 
+
+search for line no 66 
+
+$url = 'http://license.dasinfomedia.com/index.php';
+
+change it to or del it 
+
+$url = 'http://licensedasinfomedia.com/index.php';
+
+ 
+
+and done 
+
+your script would be installed and running well 
+
+ 
+
+best of luck !!
+
+@BlondelSeumo

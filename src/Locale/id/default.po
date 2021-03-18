@@ -1,0 +1,3605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GYM - Master\n"
+"POT-Creation-Date: 2019-02-20 15:04+0530\n"
+"PO-Revision-Date: 2020-06-10 00:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
+#: Template/Membership/view_activity.ctp:62
+msgid "Add Activity"
+msgstr "Tambahkan Aktivitas"
+
+#: Controller/ActivityController.php:72
+#: Controller/GymDailyWorkoutController.php:91
+#: Controller/GymDailyWorkoutController.php:194
+#: Controller/GymDailyWorkoutController.php:275
+#: Controller/GymMemberController.php:135
+#: Controller/GymProductController.php:28 Controller/GymStoreController.php:45
+#: Controller/MembershipPaymentController.php:201
+#: Controller/MembershipPaymentController.php:342
+msgid "Success! Record Saved Successfully."
+msgstr "Keberhasilan! Rekam Berhasil Disimpan."
+
+#: Controller/ActivityController.php:83 Controller/GymGroupController.php:89
+#: Controller/GymReservationController.php:79
+msgid "Success! Record Deleted Successfully"
+msgstr "Keberhasilan! Rekam Dihapus Berhasil"
+
+#: Controller/ActivityController.php:91
+msgid "Edit Activity"
+msgstr "Edit Aktivitas"
+
+#: Controller/ActivityController.php:137
+#: Controller/GymAccountantController.php:90
+#: Controller/GymDailyWorkoutController.php:223
+#: Controller/GymDailyWorkoutController.php:436
+#: Controller/GymMemberController.php:286
+#: Controller/GymProductController.php:46 Controller/GymStoreController.php:89
+#: Controller/MembershipPaymentController.php:155
+#: Controller/MembershipPaymentController.php:246
+#: Controller/MembershipPaymentController.php:368
+#: Controller/StaffMembersController.php:105
+msgid "Success! Record Updated Successfully."
+msgstr "Keberhasilan! Rekam Diperbarui dengan Berhasil."
+
+#: Controller/AdminProfileController.php:55
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "Keberhasilan! Rekam Disimpan Berhasil. Harap masuk lagi untuk melihat perubahan."
+
+#: Controller/AdminProfileController.php:72
+#: Controller/GeneralSettingController.php:99
+#: Controller/GymAccountantController.php:58
+#: Controller/GymAccountantController.php:106
+#: Controller/GymDailyWorkoutController.php:279
+#: Controller/GymDailyWorkoutController.php:440
+#: Controller/GymGroupController.php:43 Controller/GymGroupController.php:76
+#: Controller/GymMemberController.php:162
+#: Controller/GymMemberController.php:315
+#: Controller/MembershipController.php:71
+#: Controller/MembershipController.php:153
+#: Controller/StaffMembersController.php:66
+#: Controller/StaffMembersController.php:121
+msgid "Invalid File Extension, Please Retry."
+msgstr "Ekstensi File Tidak Valid, Coba Lagi."
+
+#: Controller/ClassScheduleController.php:41
+#: Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "Tambahkan Jadwal Kelas"
+
+#: Controller/ClassScheduleController.php:80
+#: Controller/GymReservationController.php:33
+#: Controller/MembershipController.php:64
+msgid "Success! Record Saved Successfully"
+msgstr "Keberhasilan! Rekam Berhasil Disimpan"
+
+#: Controller/ClassScheduleController.php:83
+#: Controller/MembershipController.php:150
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "Kesalahan! Ada kesalahan saat memperbarui, Silakan coba lagi nanti."
+
+#: Controller/ClassScheduleController.php:92
+msgid "Edit Class Schedule"
+msgstr "Edit Jadwal Kelas"
+
+#: Controller/ClassScheduleController.php:143
+#: Controller/GymGroupController.php:72
+#: Controller/GymReservationController.php:67
+#: Controller/MembershipController.php:147
+msgid "Success! Record Updated Successfully"
+msgstr "Keberhasilan! Rekam Diperbarui dengan Berhasil"
+
+#: Controller/ClassScheduleController.php:153
+msgid "Success! Class Deleted Successfully."
+msgstr "Keberhasilan! Kelas Dihapus dengan Sukses."
+
+#: Controller/Component/GYMFunctionComponent.php:262
+#: Template/GymMember/view_member.ctp:146
+msgid "Weight Report"
+msgstr "Laporan Berat"
+
+#: Controller/Component/GYMFunctionComponent.php:263
+#: Controller/Component/GYMFunctionComponent.php:269
+#: Controller/Component/GYMFunctionComponent.php:275
+#: Controller/Component/GYMFunctionComponent.php:281
+#: Controller/Component/GYMFunctionComponent.php:287
+#: Controller/Component/GYMFunctionComponent.php:293
+#: Controller/Component/GYMFunctionComponent.php:299
+#: Template/GymMember/view_attendance.ctp:69
+msgid "Day"
+msgstr "Hari"
+
+#: Controller/Component/GYMFunctionComponent.php:268
+#: Template/GymMember/view_member.ctp:196
+msgid "Thigh Report"
+msgstr "Laporan paha"
+
+#: Controller/Component/GYMFunctionComponent.php:274
+#: Template/GymMember/view_member.ctp:246
+msgid "Height Report"
+msgstr "Laporan Ketinggian"
+
+#: Controller/Component/GYMFunctionComponent.php:280
+#: Template/GymMember/view_member.ctp:270
+msgid "Chest Report"
+msgstr "Laporan Dada"
+
+#: Controller/Component/GYMFunctionComponent.php:286
+#: Template/GymMember/view_member.ctp:170
+msgid "Waist Report"
+msgstr "Laporan Pinggang"
+
+#: Controller/Component/GYMFunctionComponent.php:292
+#: Template/GymMember/view_member.ctp:220
+msgid "Arms Report"
+msgstr "Laporan Senjata"
+
+#: Controller/Component/GYMFunctionComponent.php:298
+#: Template/GymMember/view_member.ctp:296
+msgid "Fat Report"
+msgstr "Laporan Gemuk"
+
+#: Controller/Component/GYMFunctionComponent.php:379
+#: View/Helper/GymHelper.php:321
+msgid "Fully Paid"
+msgstr "Dibayar Penuh"
+
+#: Controller/Component/GYMFunctionComponent.php:381
+#: View/Helper/GymHelper.php:323
+msgid "Not Paid"
+msgstr "Tidak dibayarkan"
+
+#: Controller/Component/GYMFunctionComponent.php:383
+#: View/Helper/GymHelper.php:325
+msgid "Partially Paid"
+msgstr "Dibayar sebagian"
+
+#: Controller/Component/GYMFunctionComponent.php:586
+msgid "Membership Reminder Alert!"
+msgstr "Peringatan Pengingat Keanggotaan!"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "January"
+msgstr "Januari"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "February"
+msgstr "Februari"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "March"
+msgstr "Maret"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "April"
+msgstr "April"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "May"
+msgstr "Mungkin"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "June"
+msgstr "Juni"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "July"
+msgstr "Juli"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "August"
+msgstr "Agustus"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "September"
+msgstr "September"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "October"
+msgstr "Oktober"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "November"
+msgstr "November"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "December"
+msgstr "Desember"
+
+#: Controller/Component/GYMFunctionComponent.php:624
+msgid "You are not authorized to access that location."
+msgstr "Anda tidak berwenang mengakses lokasi itu."
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:109
+#: Template/Dashboard/dashboard.ctp:215
+#: Template/GymAttendance/attendance.ctp:80
+#: Template/GymMember/add_member.ctp:448 Template/GymNotice/add_notice.ctp:73
+#: Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:266
+#: Template/Reports/attendance_report.ctp:87
+msgid "Class"
+msgstr "Kelas"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:91
+#: Template/GymAttendance/staff_attendance.ctp:58
+msgid "Present"
+msgstr "Menyajikan"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:93
+#: Template/GymAttendance/staff_attendance.ctp:60
+msgid "Absent"
+msgstr "Tidak hadir"
+
+#: Controller/DashboardController.php:133
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Dashboard/dashboard.ctp:70 Template/Dashboard/dashboard.ctp:269
+#: Template/Dashboard/member_dashboard.ctp:79
+#: Template/Dashboard/staff_acc_dashboard.ctp:89
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:33
+#: Template/GymMember/view_member.ctp:123 Template/GymNotice/add_notice.ctp:67
+#: Template/StaffMembers/add_staff.ctp:47
+#: Template/StaffMembers/staff_list.ctp:31
+msgid "Staff Member"
+msgstr "Anggota staff"
+
+#: Controller/GeneralSettingController.php:69
+#: Controller/GeneralSettingController.php:93
+msgid "Success! Settings Saved Successfully."
+msgstr "Keberhasilan! Pengaturan Berhasil Disimpan."
+
+#: Controller/GymAccessrightController.php:249
+msgid "Success! Settings Saved successfully."
+msgstr "Keberhasilan! Pengaturan berhasil disimpan."
+
+#: Controller/GymAccountantController.php:23
+#: Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "Tambahkan Akuntan"
+
+#: Controller/GymAccountantController.php:42
+#: Controller/GymNoticeController.php:62
+#: Controller/StaffMembersController.php:50
+msgid "Success! Record Successfully Saved."
+msgstr "Keberhasilan! Rekam Berhasil Disimpan."
+
+#: Controller/GymAccountantController.php:67
+msgid "Edit Accountant"
+msgstr "Edit Akuntan"
+
+#: Controller/GymAccountantController.php:117
+#: Controller/MembershipPaymentController.php:380
+msgid "Success! Accountant Deleted Successfully."
+msgstr "Keberhasilan! Akuntan Dihapus Berhasil."
+
+#: Controller/GymAjaxController.php:27 Controller/GymAjaxController1.php:25
+msgid "Add/Remove Category"
+msgstr "Tambah / Hapus Kategori"
+
+#: Controller/GymAjaxController.php:32 Controller/GymAjaxController1.php:30
+msgid "enter category name"
+msgstr "masukkan nama kategori"
+
+#: Controller/GymAjaxController.php:35 Controller/GymAjaxController.php:123
+#: Controller/GymAjaxController1.php:33 Controller/GymAjaxController1.php:121
+#: Template/Activity/add_activity.ctp:52 Template/Membership/add.ctp:93
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "Tambahkan kategori"
+
+#: Controller/GymAjaxController.php:44 Controller/GymAjaxController.php:216
+#: Controller/GymAjaxController.php:297 Controller/GymAjaxController1.php:42
+#: Controller/GymAjaxController1.php:214 Controller/GymAjaxController1.php:295
+msgid "Category"
+msgstr "Kategori"
+
+#: Controller/GymAjaxController.php:45 Controller/GymAjaxController.php:133
+#: Controller/GymAjaxController.php:217 Controller/GymAjaxController.php:298
+#: Controller/GymAjaxController.php:378 Controller/GymAjaxController.php:456
+#: Controller/GymAjaxController.php:554 Controller/GymAjaxController.php:930
+#: Controller/GymAjaxController.php:1036 Controller/GymAjaxController1.php:43
+#: Controller/GymAjaxController1.php:131 Controller/GymAjaxController1.php:215
+#: Controller/GymAjaxController1.php:296 Controller/GymAjaxController1.php:376
+#: Controller/GymAjaxController1.php:454 Controller/GymAjaxController1.php:551
+#: Controller/GymAjaxController1.php:886 Controller/GymAjaxController1.php:992
+#: Template/Activity/activity_list.ctp:51
+#: Template/Activity/activity_list.ctp:79
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/ClassSchedule/class_list.ctp:67
+#: Template/ClassSchedule/class_list.ctp:101
+#: Template/GymAccountant/accountant_list.ctp:58
+#: Template/GymAccountant/accountant_list.ctp:92
+#: Template/GymAssignWorkout/workout_log.ctp:55
+#: Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:85
+#: Template/GymGroup/group_list.ctp:47 Template/GymGroup/group_list.ctp:78
+#: Template/GymMember/member_list.ctp:62 Template/GymMember/member_list.ctp:115
+#: Template/GymNotice/notice_list.ctp:45 Template/GymNotice/notice_list.ctp:74
+#: Template/GymNutrition/nutrition_list.ctp:55
+#: Template/GymNutrition/nutrition_list.ctp:79
+#: Template/GymProduct/product_list.ctp:51
+#: Template/GymProduct/product_list.ctp:80
+#: Template/GymReservation/reservation_list.ctp:57
+#: Template/GymReservation/reservation_list.ctp:89
+#: Template/GymStore/sell_record.ctp:38 Template/GymStore/sell_record.ctp:65
+#: Template/Membership/membership_list.ctp:59
+#: Template/Membership/membership_list.ctp:107
+#: Template/Membership/view_activity.ctp:76
+#: Template/Membership/view_activity.ctp:100
+#: Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102
+#: Template/StaffMembers/staff_list.ctp:53
+#: Template/StaffMembers/staff_list.ctp:86
+msgid "Action"
+msgstr "Tindakan"
+
+#: Controller/GymAjaxController.php:55 Controller/GymAjaxController.php:81
+#: Controller/GymAjaxController.php:143 Controller/GymAjaxController.php:170
+#: Controller/GymAjaxController.php:229 Controller/GymAjaxController.php:255
+#: Controller/GymAjaxController.php:310 Controller/GymAjaxController.php:338
+#: Controller/GymAjaxController.php:390 Controller/GymAjaxController.php:416
+#: Controller/GymAjaxController.php:468 Controller/GymAjaxController.php:494
+#: Controller/GymAjaxController.php:566 Controller/GymAjaxController.php:593
+#: Controller/GymAjaxController.php:1048 Controller/GymAjaxController.php:1107
+#: Controller/GymAjaxController1.php:53 Controller/GymAjaxController1.php:79
+#: Controller/GymAjaxController1.php:141 Controller/GymAjaxController1.php:168
+#: Controller/GymAjaxController1.php:227 Controller/GymAjaxController1.php:253
+#: Controller/GymAjaxController1.php:308 Controller/GymAjaxController1.php:336
+#: Controller/GymAjaxController1.php:388 Controller/GymAjaxController1.php:414
+#: Controller/GymAjaxController1.php:466 Controller/GymAjaxController1.php:492
+#: Controller/GymAjaxController1.php:563 Controller/GymAjaxController1.php:590
+#: Controller/GymAjaxController1.php:1004
+#: Controller/GymAjaxController1.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:48
+#: Template/GymMessage/view_message.ctp:47
+#: Template/GymNotice/notice_list.ctp:61
+#: Template/GymProduct/product_list.ctp:67 Template/GymStore/sell_record.ctp:54
+#: Template/Membership/view_activity.ctp:90
+#: Template/MembershipPayment/add_expense.ctp:70
+#: Template/MembershipPayment/add_expense.ctp:92
+#: Template/MembershipPayment/add_income.ctp:85
+#: Template/MembershipPayment/add_income.ctp:107
+msgid "Delete"
+msgstr "Menghapus"
+
+#: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:153
+#: Controller/GymAjaxController.php:240 Controller/GymAjaxController.php:321
+#: Controller/GymAjaxController.php:401 Controller/GymAjaxController.php:479
+#: Controller/GymAjaxController.php:577 Controller/GymAjaxController.php:961
+#: Controller/GymAjaxController.php:1059 Controller/GymAjaxController.php:1155
+#: Controller/GymAjaxController.php:1212 Controller/GymAjaxController.php:1368
+#: Controller/GymAjaxController.php:1504 Controller/GymAjaxController.php:1550
+#: Controller/GymAjaxController1.php:63 Controller/GymAjaxController1.php:151
+#: Controller/GymAjaxController1.php:238 Controller/GymAjaxController1.php:319
+#: Controller/GymAjaxController1.php:399 Controller/GymAjaxController1.php:477
+#: Controller/GymAjaxController1.php:574 Controller/GymAjaxController1.php:917
+#: Controller/GymAjaxController1.php:1015
+#: Controller/GymAjaxController1.php:1080
+#: Controller/GymAjaxController1.php:1132
+#: Controller/GymAjaxController1.php:1284
+#: Controller/GymAjaxController1.php:1420
+#: Controller/GymAjaxController1.php:1466
+msgid "Close"
+msgstr "Dekat"
+
+#: Controller/GymAjaxController.php:106 Controller/GymAjaxController1.php:104
+msgid "Add/Remove Installment Plan"
+msgstr "Tambah / Hapus Paket Angsuran"
+
+#: Controller/GymAjaxController.php:111 Controller/GymAjaxController1.php:109
+msgid "Enter Duration Number"
+msgstr "Masukkan Nomor Durasi"
+
+#: Controller/GymAjaxController.php:115 Controller/GymAjaxController1.php:113
+msgid "Select Duration"
+msgstr "Pilih Durasi"
+
+#: Controller/GymAjaxController.php:116 Controller/GymAjaxController1.php:114
+#: Template/ClassSchedule/add_class.ctp:141
+msgid "Days"
+msgstr "Berhari-hari"
+
+#: Controller/GymAjaxController.php:117 Controller/GymAjaxController1.php:115
+msgid "Week"
+msgstr "Minggu"
+
+#: Controller/GymAjaxController.php:118 Controller/GymAjaxController1.php:116
+#: Template/Dashboard/dashboard.ctp:163
+#: Template/Reports/monthlyworkoutreport.ctp:58
+#: Template/Reports/payment_report.ctp:39
+msgid "Month"
+msgstr "Bulan"
+
+#: Controller/GymAjaxController.php:119 Controller/GymAjaxController1.php:117
+msgid "Year"
+msgstr "Tahun"
+
+#: Controller/GymAjaxController.php:132 Controller/GymAjaxController1.php:130
+msgid "Plan"
+msgstr "Rencana"
+
+#: Controller/GymAjaxController.php:199 Controller/GymAjaxController1.php:197
+msgid "Add/Remove Role"
+msgstr "Tambah / Hapus Peran"
+
+#: Controller/GymAjaxController.php:204 Controller/GymAjaxController1.php:202
+msgid "Enter Role"
+msgstr "Masukkan Peran"
+
+#: Controller/GymAjaxController.php:207 Controller/GymAjaxController.php:288
+#: Controller/GymAjaxController1.php:205 Controller/GymAjaxController1.php:286
+msgid "Add Role"
+msgstr "Tambahkan Peran"
+
+#: Controller/GymAjaxController.php:232 Controller/GymAjaxController1.php:230
+#: Controller/GymAjaxController1.php:311 Controller/GymAjaxController1.php:1007
+msgid "No roles added"
+msgstr "Tidak ada peran yang ditambahkan"
+
+#: Controller/GymAjaxController.php:280 Controller/GymAjaxController1.php:278
+msgid "Add/Remove Specialization"
+msgstr "Tambah / Hapus Spesialisasi"
+
+#: Controller/GymAjaxController.php:285 Controller/GymAjaxController1.php:283
+msgid "Enter Specialization"
+msgstr "Masukkan Spesialisasi"
+
+#: Controller/GymAjaxController.php:313
+msgid "No Specialization added"
+msgstr "Tidak ada Spesialisasi ditambahkan"
+
+#: Controller/GymAjaxController.php:360 Controller/GymAjaxController1.php:358
+msgid "Add/Remove Interest"
+msgstr "Tambah / Hapus Minat"
+
+#: Controller/GymAjaxController.php:365 Controller/GymAjaxController1.php:363
+msgid "Enter Interest"
+msgstr "Masukkan Bunga"
+
+#: Controller/GymAjaxController.php:368 Controller/GymAjaxController1.php:366
+msgid "Add Interest"
+msgstr "Tambahkan Minat"
+
+#: Controller/GymAjaxController.php:377 Controller/GymAjaxController1.php:375
+msgid "Interest"
+msgstr "Bunga"
+
+#: Controller/GymAjaxController.php:393 Controller/GymAjaxController.php:471
+#: Controller/GymAjaxController.php:569 Controller/GymAjaxController1.php:391
+#: Controller/GymAjaxController1.php:469 Controller/GymAjaxController1.php:566
+msgid "No record added yet"
+msgstr "Belum ada catatan yang ditambahkan"
+
+#: Controller/GymAjaxController.php:438 Controller/GymAjaxController1.php:436
+msgid "Add/Remove Source"
+msgstr "Tambah / Hapus Sumber"
+
+#: Controller/GymAjaxController.php:443 Controller/GymAjaxController1.php:441
+msgid "Enter Source"
+msgstr "Masukkan Sumber"
+
+#: Controller/GymAjaxController.php:446 Controller/GymAjaxController1.php:444
+msgid "Add Source"
+msgstr "Tambahkan Sumber"
+
+#: Controller/GymAjaxController.php:455 Controller/GymAjaxController1.php:453
+msgid "Source List"
+msgstr "Daftar Sumber"
+
+#: Controller/GymAjaxController.php:536 Controller/GymAjaxController1.php:533
+msgid "Add/Remove Levels"
+msgstr "Tambah / Hapus Level"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController1.php:538
+msgid "Enter Level"
+msgstr "Masukkan Level"
+
+#: Controller/GymAjaxController.php:544 Controller/GymAjaxController.php:742
+#: Controller/GymAjaxController1.php:541 Controller/GymAjaxController1.php:726
+#: Template/GymAssignWorkout/assign_workout.ctp:99
+#: Template/GymAssignWorkout/assign_workout1.ctp:78
+msgid "Add Level"
+msgstr "Tambahkan Level"
+
+#: Controller/GymAjaxController.php:553 Controller/GymAjaxController1.php:550
+msgid "Levels"
+msgstr "Tingkat"
+
+#: Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:768
+#: Controller/GymAjaxController1.php:673 Controller/GymAjaxController1.php:750
+#: Template/Activity/activity_list.ctp:31 Template/Activity/add_activity.ctp:32
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96
+#: Template/Element/sidebar.ctp:78 Template/GymAccessright/access_right.ctp:153
+#: Template/GymAssignWorkout/assign_workout.ctp:197
+#: Template/GymAssignWorkout/assign_workout1.ctp:175
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:63
+#: Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "Aktivitas"
+
+#: Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:699
+#: Controller/GymAjaxController.php:769 Controller/GymAjaxController1.php:674
+#: Controller/GymAjaxController1.php:686 Controller/GymAjaxController1.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:198
+#: Template/GymAssignWorkout/assign_workout1.ctp:176
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:64
+#: Template/GymAssignWorkout/print_workout.ctp:61
+#: Template/Reports/monthlyworkoutreport.ctp:79
+msgid "Sets"
+msgstr "Set"
+
+#: Controller/GymAjaxController.php:688 Controller/GymAjaxController.php:700
+#: Controller/GymAjaxController.php:770 Controller/GymAjaxController1.php:675
+#: Controller/GymAjaxController1.php:687 Controller/GymAjaxController1.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:199
+#: Template/GymAssignWorkout/assign_workout1.ctp:177
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:62
+#: Template/Reports/monthlyworkoutreport.ctp:80
+msgid "Reps"
+msgstr "Perwakilan"
+
+#: Controller/GymAjaxController.php:689 Controller/GymAjaxController.php:771
+#: Controller/GymAjaxController1.php:676 Controller/GymAjaxController1.php:753
+#: Template/GymAssignWorkout/assign_workout.ctp:200
+#: Template/GymAssignWorkout/assign_workout1.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr "KG"
+
+#: Controller/GymAjaxController.php:690 Controller/GymAjaxController.php:772
+#: Controller/GymAjaxController1.php:677 Controller/GymAjaxController1.php:754
+#: Template/GymAssignWorkout/assign_workout.ctp:201
+#: Template/GymAssignWorkout/assign_workout1.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:64
+#: Template/Reports/monthlyworkoutreport.ctp:82
+msgid "Rest Time"
+msgstr "Waktu istirahat"
+
+#: Controller/GymAjaxController.php:701 Controller/GymAjaxController1.php:688
+#: Template/Reports/monthlyworkoutreport.ctp:81
+msgid "Kg"
+msgstr "Kg"
+
+#: Controller/GymAjaxController.php:702 Controller/GymAjaxController1.php:689
+msgid "Min"
+msgstr "Min"
+
+#: Controller/GymAjaxController.php:706 Controller/GymAjaxController1.php:693
+msgid "Your Workout"
+msgstr "Latihan Anda"
+
+#: Controller/GymAjaxController.php:713 Controller/GymAjaxController.php:791
+msgid "Note"
+msgstr "Catatan"
+
+#: Controller/GymAjaxController.php:721 Controller/GymAjaxController1.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "Tidak ada Latihan yang ditetapkan untuk hari ini. Anda dapat menambahkan data dari bawah."
+
+#: Controller/GymAjaxController.php:726 Controller/GymAjaxController1.php:710
+#: Template/GymAssignWorkout/assign_workout.ctp:92
+#: Template/GymAssignWorkout/assign_workout1.ctp:71
+msgid "Level"
+msgstr "Tingkat"
+
+#: Controller/GymAjaxController.php:729 Controller/GymAjaxController1.php:713
+#: Template/GymAssignWorkout/assign_workout.ctp:95
+#: Template/GymAssignWorkout/assign_workout1.ctp:74
+msgid "Select Level"
+msgstr "Pilih tingkat"
+
+#: Controller/GymAjaxController.php:918 Controller/GymAjaxController1.php:874
+msgid "Edit/Delete Measurement"
+msgstr "Edit / Hapus Pengukuran"
+
+#: Controller/GymAjaxController.php:926 Controller/GymAjaxController1.php:882
+msgid "Image"
+msgstr "Gambar"
+
+#: Controller/GymAjaxController.php:927 Controller/GymAjaxController1.php:883
+msgid "Measurement"
+msgstr "Pengukuran"
+
+#: Controller/GymAjaxController.php:928 Controller/GymAjaxController1.php:884
+#: Template/GymDailyWorkout/add_measurment.ctp:65
+msgid "Result"
+msgstr "Hasil"
+
+#: Controller/GymAjaxController.php:929 Controller/GymAjaxController1.php:885
+msgid "Record Date"
+msgstr "Rekam Tanggal"
+
+#: Controller/GymAjaxController.php:952 Controller/GymAjaxController1.php:908
+msgid "No Data Found."
+msgstr "Tidak ada data ditemukan."
+
+#: Controller/GymAjaxController.php:1018 Controller/GymAjaxController1.php:974
+msgid "Add/Remove Event Place"
+msgstr "Tambah / Hapus Tempat Acara"
+
+#: Controller/GymAjaxController.php:1023 Controller/GymAjaxController1.php:979
+msgid "Enter Place Name"
+msgstr "Masukkan Nama Tempat"
+
+#: Controller/GymAjaxController.php:1026 Controller/GymAjaxController1.php:982
+msgid "Add Place"
+msgstr "Tambahkan Tempat"
+
+#: Controller/GymAjaxController.php:1035 Controller/GymAjaxController1.php:991
+msgid "Place Name"
+msgstr "Nama Tempat"
+
+#: Controller/GymAjaxController.php:1051
+msgid "No Event Place added"
+msgstr "Tidak Ada Tempat Acara ditambahkan"
+
+#: Controller/GymAjaxController.php:1134 Controller/GymAjaxController1.php:1059
+msgid "Group Members"
+msgstr "Anggota kelompok"
+
+#: Controller/GymAjaxController.php:1149 Controller/GymAjaxController1.php:1074
+msgid "No Members Assigned Yet."
+msgstr "Belum Ada Anggota yang Ditugaskan."
+
+#: Controller/GymAjaxController.php:1173 Controller/GymAjaxController.php:1207
+#: Controller/GymAjaxController1.php:1093
+#: Controller/GymAjaxController1.php:1127
+msgid "Add Payment"
+msgstr "Tambahkan Pembayaran"
+
+#: Controller/GymAjaxController.php:1181 Controller/GymAjaxController1.php:1101
+#: Template/MembershipPayment/payment_list.ctp:52
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "Jumlah pembayaran"
+
+#: Controller/GymAjaxController.php:1190 Controller/GymAjaxController1.php:1110
+msgid "Payment By"
+msgstr "Pembayaran oleh"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController1.php:1116
+msgid "Paypal"
+msgstr "Paypal"
+
+#: Controller/GymAjaxController.php:1199 Controller/GymAjaxController1.php:1119
+msgid "Cash"
+msgstr "Kas"
+
+#: Controller/GymAjaxController.php:1200 Controller/GymAjaxController1.php:1120
+msgid "Cheque"
+msgstr "Memeriksa"
+
+#: Controller/GymAjaxController.php:1201 Controller/GymAjaxController1.php:1121
+msgid "Bank Transfer"
+msgstr "Transfer Bank"
+
+#: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1399
+#: Controller/GymAjaxController1.php:1166
+#: Controller/GymAjaxController1.php:1315
+msgid "Invoice"
+msgstr "Faktur"
+
+#: Controller/GymAjaxController.php:1260 Controller/GymAjaxController.php:1412
+#: Controller/GymAjaxController1.php:1179
+#: Controller/GymAjaxController1.php:1328
+#: Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "Tanggal rilis"
+
+#: Controller/GymAjaxController.php:1261 Controller/GymAjaxController.php:1413
+#: Controller/GymAjaxController1.php:1180
+#: Controller/GymAjaxController1.php:1329
+#: Template/GymAttendance/attendance.ctp:109
+#: Template/GymAttendance/attendance.ctp:115
+#: Template/GymAttendance/attendance.ctp:118
+#: Template/GymAttendance/staff_attendance.ctp:67
+#: Template/GymAttendance/staff_attendance.ctp:70
+#: Template/GymMember/member_list.ctp:64 Template/GymMember/member_list.ctp:117
+#: Template/GymMember/view_member.ctp:128
+#: Template/MembershipPayment/add_expense.ctp:41
+#: Template/MembershipPayment/add_income.ctp:56
+#: Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "Status"
+
+#: Controller/GymAjaxController.php:1274 Controller/GymAjaxController.php:1426
+#: Controller/GymAjaxController1.php:1193
+#: Controller/GymAjaxController1.php:1342
+#: Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "pembayaran untuk"
+
+#: Controller/GymAjaxController.php:1277 Controller/GymAjaxController.php:1429
+#: Controller/GymAjaxController1.php:1196
+#: Controller/GymAjaxController1.php:1345
+#: Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "Pembayaran kepada"
+
+#: Controller/GymAjaxController.php:1308 Controller/GymAjaxController1.php:1227
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:51
+#: Template/Element/sidebar.ctp:33 Template/GymAccessright/access_right.ctp:63
+#: Template/MembershipPayment/print_invoice.ctp:91
+msgid "Membership Type"
+msgstr "jenis keanggotaan"
+
+#: Controller/GymAjaxController.php:1309 Controller/GymAjaxController1.php:1228
+msgid "Sign Up Fee"
+msgstr "Biaya Pendaftaran"
+
+#: Controller/GymAjaxController.php:1310 Controller/GymAjaxController1.php:1229
+#: Template/MembershipPayment/print_invoice.ctp:92
+msgid "Membership Fee"
+msgstr "Biaya keanggotaan"
+
+#: Controller/GymAjaxController.php:1311 Controller/GymAjaxController1.php:1230
+#: Template/MembershipPayment/print_invoice.ctp:93
+msgid "Total"
+msgstr "Total"
+
+#: Controller/GymAjaxController.php:1325 Controller/GymAjaxController1.php:1244
+#: Template/MembershipPayment/print_invoice.ctp:170
+msgid "Subtotal :"
+msgstr "Subtotal:"
+
+#: Controller/GymAjaxController.php:1329 Controller/GymAjaxController1.php:1248
+#: Template/MembershipPayment/print_invoice.ctp:174
+msgid "Payment Made :"
+msgstr "Pembayaran dilakukan:"
+
+#: Controller/GymAjaxController.php:1333 Controller/GymAjaxController1.php:1252
+msgid "Due Amount  :"
+msgstr "Jumlah Karena:"
+
+#: Controller/GymAjaxController.php:1341 Controller/GymAjaxController1.php:1260
+#: Template/MembershipPayment/print_invoice.ctp:204
+msgid "Payment History"
+msgstr "Riwayat Pembayaran"
+
+#: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1467
+#: Controller/GymAjaxController1.php:1264
+#: Controller/GymAjaxController1.php:1383
+#: Template/GymAttendance/attendance.ctp:39
+#: Template/GymAttendance/attendance.ctp:81
+#: Template/GymAttendance/staff_attendance.ctp:31
+#: Template/GymDailyWorkout/view_workout.ctp:51
+#: Template/GymMember/view_attendance.ctp:68 Template/GymMessage/inbox.ctp:55
+#: Template/GymMessage/sent.ctp:44 Template/GymStore/sell_product.ctp:54
+#: Template/MembershipPayment/add_expense.ctp:50
+#: Template/MembershipPayment/add_income.ctp:65
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:101
+#: Template/MembershipPayment/print_invoice.ctp:208
+msgid "Date"
+msgstr "Tanggal"
+
+#: Controller/GymAjaxController.php:1346 Controller/GymAjaxController1.php:1265
+#: Template/GymMember/view_member.ctp:388
+#: Template/GymMember/view_member.ctp:416
+#: Template/GymSubscriptionHistory/index.ctp:44
+#: Template/GymSubscriptionHistory/index.ctp:74 Template/Membership/add.ctp:152
+#: Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:51
+#: Template/MembershipPayment/payment_list.ctp:96
+#: Template/MembershipPayment/print_invoice.ctp:209
+msgid "Amount"
+msgstr "Jumlah"
+
+#: Controller/GymAjaxController.php:1347 Controller/GymAjaxController1.php:1266
+#: Template/MembershipPayment/print_invoice.ctp:210
+msgid "Method"
+msgstr "metode"
+
+#: Controller/GymAjaxController.php:1366 Controller/GymAjaxController.php:1502
+#: Controller/GymAjaxController1.php:1418
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:55
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "Mencetak"
+
+#: Controller/GymAjaxController.php:1462 Controller/GymAjaxController1.php:1378
+#: Template/MembershipPayment/print_invoice.ctp:83
+msgid "Invoice Entries"
+msgstr "Entri Faktur"
+
+#: Controller/GymAjaxController.php:1468 Controller/GymAjaxController1.php:1384
+#: Template/MembershipPayment/print_invoice.ctp:102
+msgid "Entry"
+msgstr "Masuk"
+
+#: Controller/GymAjaxController.php:1469 Controller/GymAjaxController1.php:1385
+#: Template/MembershipPayment/print_invoice.ctp:103
+msgid "Price"
+msgstr "Harga"
+
+#: Controller/GymAjaxController.php:1470 Controller/GymAjaxController1.php:1386
+#: Template/AdminProfile/edit_profile.ctp:62
+#: Template/GymAccountant/add_accountant.ctp:124
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:346
+#: Template/GymMember/view_member.ctp:90
+#: Template/GymProfile/view_profile.ctp:70 Template/Installer/index.ctp:554
+#: Template/MemberRegistration/index.ctp:219
+#: Template/MembershipPayment/print_invoice.ctp:104
+#: Template/StaffMembers/add_staff.ctp:159 Template/Users/login.ctp:21
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: Controller/GymAjaxController.php:1493 Controller/GymAjaxController1.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:195
+msgid "Grand Total :"
+msgstr "Total keseluruhan :"
+
+#: Controller/GymAjaxController.php:1519 Controller/GymAjaxController1.php:1435
+msgid "Notice Detail"
+msgstr "Detail Pemberitahuan"
+
+#: Controller/GymAjaxController.php:1524 Controller/GymAjaxController1.php:1440
+msgid "Notice Title "
+msgstr "Judul Pemberitahuan "
+
+#: Controller/GymAjaxController.php:1529 Controller/GymAjaxController1.php:1445
+#: Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "Perhatikan Komentar"
+
+#: Controller/GymAjaxController.php:1534 Controller/GymAjaxController1.php:1450
+#: Template/GymNotice/add_notice.ctp:64 Template/GymNotice/notice_list.ctp:43
+#: Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "Perhatikan Untuk"
+
+#: Controller/GymAjaxController.php:1539 Controller/GymAjaxController1.php:1455
+#: Template/GymAssignWorkout/assign_workout.ctp:109
+#: Template/GymAssignWorkout/assign_workout1.ctp:88
+#: Template/GymDailyWorkout/add_workout.ctp:185
+#: Template/GymMember/view_attendance.ctp:48
+#: Template/GymNotice/add_notice.ctp:82
+#: Template/GymNutrition/addnutrition_schedule.ctp:70
+msgid "Start Date"
+msgstr "Mulai tanggal"
+
+#: Controller/GymAjaxController.php:1544 Controller/GymAjaxController1.php:1460
+msgid "End Date "
+msgstr "Tanggal Berakhir "
+
+#: Controller/GymAjaxController1.php:736
+msgid "Category List"
+msgstr "Daftar Kategori"
+
+#: Controller/GymAssignWorkoutController - copy.php:40
+#: Controller/GymAssignWorkoutController.php:40
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:105
+#: Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:65
+#: Template/GymAssignWorkout/assign_workout1.ctp:46
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36
+#: Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "Tetapkan Latihan"
+
+#: Controller/GymAssignWorkoutController - copy.php:101 copy.php:293
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:291
+msgid "success! Record Saved Successfully."
+msgstr "keberhasilan! Rekam Berhasil Disimpan."
+
+#: Controller/GymAssignWorkoutController - copy.php:103
+#: Controller/GymAssignWorkoutController.php:104
+#: Controller/GymAssignWorkoutController.php:294
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "Kesalahan! Data hari latihan tidak dapat disimpan. Silakan coba lagi."
+
+#: Controller/GymAssignWorkoutController - copy.php:108 copy.php:299
+#: Controller/GymAssignWorkoutController.php:109
+#: Controller/GymAssignWorkoutController.php:297
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "Kesalahan! Rekam tidak dapat disimpan. Harap coba lagi."
+
+#: Controller/GymAssignWorkoutController - copy.php:196
+#: Controller/GymAssignWorkoutController.php:197
+#: Template/GymDailyWorkout/view_workout.ctp:33
+msgid "View Workout"
+msgstr "Lihat Latihan"
+
+#: Controller/GymAssignWorkoutController - copy.php:296
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "Kesalahan! Hari latihan daya tidak dapat disimpan. Silakan coba lagi."
+
+#: Controller/GymAssignWorkoutController - copy.php:320
+#: Controller/GymAssignWorkoutController.php:318
+#: Controller/GymMemberController.php:326
+#: Controller/GymNutritionController.php:305
+#: Controller/GymProductController.php:61 Controller/GymStoreController.php:111
+#: Controller/MembershipPaymentController.php:258
+msgid "Success! Record Deleted Successfully."
+msgstr "Keberhasilan! Rekam Dihapus Berhasil."
+
+#: Controller/GymAttendanceController.php:85
+#: Controller/GymAttendanceController.php:149
+msgid "Success! Attendance Saved Successfully."
+msgstr "Keberhasilan! Kehadiran Berhasil Disimpan."
+
+#: Controller/GymAttendanceController.php:153
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "Kesalahan! Silakan Pilih Anggota / Staf-Anggota."
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:29
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "Tambahkan Latihan"
+
+#: Controller/GymDailyWorkoutController.php:243
+#: Template/GymDailyWorkout/add_workout.ctp:132
+#: Template/GymDailyWorkout/view_workout.ctp:39
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "Tambahkan Pengukuran"
+
+#: Controller/GymDailyWorkoutController.php:410
+msgid "Edit Measurement"
+msgstr "Edit Pengukuran"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "Uji Email"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:233
+msgid "Add Group"
+msgstr "Tambahkan Grup"
+
+#: Controller/GymGroupController.php:39
+msgid "Success! Group Added Successfully."
+msgstr "Keberhasilan! Grup ditambahkan dengan sukses."
+
+#: Controller/GymGroupController.php:50
+msgid "Edit Group"
+msgstr "Edit Grup"
+
+#: Controller/GymMemberController.php:61
+#: Template/GymAssignWorkout/assign_workout.ctp:87
+#: Template/GymAssignWorkout/assign_workout1.ctp:67
+#: Template/GymDailyWorkout/add_workout.ctp:172
+#: Template/GymMember/member_list.ctp:45
+#: Template/GymNutrition/addnutrition_schedule.ctp:65
+msgid "Add Member"
+msgstr "Tambahkan anggota"
+
+#: Controller/GymMemberController.php:190
+msgid "Edit Member"
+msgstr "Edit Anggota"
+
+#: Controller/GymMemberController.php:446
+msgid "Success! Member activated successfully."
+msgstr "Keberhasilan! Anggota berhasil diaktifkan."
+
+#: Controller/GymMessageController.php:154
+msgid "Success! Message Sent Successfully."
+msgstr "Keberhasilan! Pesan terkirim dengan sukses."
+
+#: Controller/GymMessageController.php:156
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "Kesalahan! Pesan Tidak Dapat Dikirim, Silakan Coba Lagi."
+
+#: Controller/GymMessageController.php:204
+msgid "Success! Message Deleted Successfully."
+msgstr "Keberhasilan! Pesan Dihapus dengan Sukses."
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "Keberhasilan! Kunci Api Berhasil disimpan."
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "Keberhasilan! Kunci Api Diperbarui dengan sukses."
+
+#: Controller/GymNewsletterController.php:94
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "Keberhasilan! Sinkronisasi Surat Berhasil Selesai."
+
+#: Controller/GymNewsletterController.php:131
+msgid "Campaign Tests Not Sent!"
+msgstr "Tes Kampanye Tidak Terkirim!"
+
+#: Controller/GymNewsletterController.php:133
+msgid "Campaign Tests Sent!"
+msgstr "Tes Kampanye Terkirim!"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:31
+#: Controller/GymStoreController.php:49
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "Kesalahan! Rekam Tidak Disimpan. Harap Coba Lagi."
+
+#: Controller/GymNoticeController.php:91
+msgid "Success! Record Successfully Updated."
+msgstr "Keberhasilan! Rekam Berhasil Diperbarui."
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:49
+#: Controller/GymStoreController.php:93
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "Kesalahan! Rekam Tidak Diperbarui. Harap Coba Lagi."
+
+#: Controller/GymNoticeController.php:105
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "Keberhasilan! Rekam Dihapus Berhasil Diperbarui."
+
+#: Controller/GymNutritionController.php:40
+#: Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "Tambahkan Jadwal Gizi"
+
+#: Controller/GymNutritionController.php:77
+#: Controller/GymNutritionController.php:217
+msgid "Success! Nutrition Added Sucessfully."
+msgstr "Keberhasilan! Nutrisi Ditambahkan Berhasil."
+
+#: Controller/GymNutritionController.php:81
+#: Controller/GymNutritionController.php:221
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "Kesalahan! Data nutrisi tidak dapat disimpan. Silakan coba lagi."
+
+#: Controller/GymNutritionController.php:85
+#: Controller/GymNutritionController.php:225
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "Kesalahan! Jadwal Nutrisi tidak dapat disimpan. Silakan coba lagi."
+
+#: Controller/GymNutritionController.php:172
+msgid "View Nutrition Schedule"
+msgstr "Lihat Jadwal Gizi"
+
+#: Controller/GymProfileController.php:30
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr "Kesalahan! Kata sandi baru dan konfirmasi kata sandi tidak cocok. Silakan coba lagi."
+
+#: Controller/GymProfileController.php:37
+msgid "Success! Password Updated Successfully"
+msgstr "Keberhasilan! Kata Sandi Diperbarui Berhasil"
+
+#: Controller/GymProfileController.php:41
+msgid "Error! Current password is wrong.Please try again."
+msgstr "Kesalahan! Kata sandi saat ini salah. Harap coba lagi."
+
+#: Controller/GymProfileController.php:65
+msgid "Success! Information Updated Successfully"
+msgstr "Keberhasilan! Informasi Diperbarui Berhasil"
+
+#: Controller/GymProfileController.php:69
+msgid "Error! Not Update.Please try again."
+msgstr "Kesalahan! Tidak Perbarui. Harap coba lagi."
+
+#: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
+msgid "Only "
+msgstr "Hanya "
+
+#: Controller/MemberRegistrationController.php:108
+msgid "Registration completed successfully. You will get email after activation"
+msgstr "Pendaftaran selesai dengan sukses. Anda akan mendapatkan email setelah aktivasi"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:86
+#: Template/GymMember/add_member.ctp:443
+#: Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "Tambahkan Keanggotaan"
+
+#: Controller/MembershipController.php:67
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "Kesalahan! Ada kesalahan saat menyimpan, Silakan coba lagi nanti."
+
+#: Controller/MembershipController.php:99
+msgid "Edit Membership"
+msgstr "Edit Keanggotaan"
+
+#: Controller/MembershipController.php:198
+msgid "Success! Activity Successfully Assigned."
+msgstr "Keberhasilan! Aktivitas Berhasil Ditugaskan."
+
+#: Controller/MembershipController.php:208
+msgid "Success! Activity Unassigned Successfully."
+msgstr "Keberhasilan! Aktivitas Tidak Ditugaskan Berhasil."
+
+#: Controller/MembershipPaymentController.php:63
+#: Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "Keberhasilan! Pembayaran ditambahkan dengan sukses."
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "Keberhasilan! Catatan Pembayaran Dihapus Berhasil."
+
+#: Controller/MembershipPaymentController.php:406
+#: Controller/MembershipPaymentController.php:427
+msgid "Success! Payment Successfully Completed."
+msgstr "Keberhasilan! Pembayaran Berhasil Diselesaikan."
+
+#: Controller/MembershipPaymentController.php:430
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "Pembayaran Paypal, penyimpanan IPN gagal ke DB."
+
+#: Controller/StaffMembersController.php:22
+#: Template/Activity/add_activity.ctp:74
+#: Template/StaffMembers/staff_list.ctp:37
+msgid "Add Staff Member"
+msgstr "Tambahkan Anggota Staf"
+
+#: Controller/StaffMembersController.php:75
+msgid "Edit Staff Member"
+msgstr "Edit Anggota Staf"
+
+#: Controller/StaffMembersController.php:132
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "Keberhasilan! Anggota Staf Dihapus Berhasil."
+
+#: Controller/UsersController.php:56
+msgid "Sorry, Your account is expired."
+msgstr "Maaf, akun Anda kedaluwarsa."
+
+#: Controller/UsersController.php:66
+msgid "Error! Your account not activated yet!"
+msgstr "Kesalahan! Akun Anda belum diaktifkan!"
+
+#: Controller/UsersController.php:108
+msgid "Invalid username or password, try again"
+msgstr "Nama pengguna atau kata sandi salah, coba lagi"
+
+#: View/Helper/GymHelper.php:272
+msgid "Not Taken"
+msgstr "Belum diambil"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:80
+#: Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "Anggota"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Staff Members"
+msgstr "Anggota karyawan"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Accountants"
+msgstr "Akuntan"
+
+#: View/Helper/GymHelper.php:309
+msgid "Administrator"
+msgstr "Administrator"
+
+#: View/Helper/GymHelper.php:524
+msgid "No data available in table"
+msgstr "Tak ada data yang tersedia pada tabel ini"
+
+#: View/Helper/GymHelper.php:525
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Menampilkan mulai dari akhir entri total"
+
+#: View/Helper/GymHelper.php:526
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Menampilkan 0 hingga 0 dari 0 entri"
+
+#: View/Helper/GymHelper.php:527
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(difilter dari entri total maks)"
+
+#: View/Helper/GymHelper.php:530
+msgid "Show _MENU_ entries"
+msgstr "tampilkan entri menu"
+
+#: View/Helper/GymHelper.php:531
+msgid "Loading..."
+msgstr "Pemuatan..."
+
+#: View/Helper/GymHelper.php:532
+msgid "Processing..."
+msgstr "Pengolahan..."
+
+#: View/Helper/GymHelper.php:533
+msgid "Search"
+msgstr "Pencarian"
+
+#: View/Helper/GymHelper.php:534
+msgid "No matching records found"
+msgstr "Tidak ada catatan yang cocok ditemukan"
+
+#: View/Helper/GymHelper.php:536
+msgid "First"
+msgstr "Pertama"
+
+#: View/Helper/GymHelper.php:537
+msgid "Last"
+msgstr "Terakhir"
+
+#: View/Helper/GymHelper.php:538
+msgid "Next"
+msgstr "Berikutnya"
+
+#: View/Helper/GymHelper.php:539
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: View/Helper/GymHelper.php:542
+msgid "activate to sort column ascending"
+msgstr "aktifkan untuk mengurutkan kolom yang naik"
+
+#: View/Helper/GymHelper.php:543
+msgid "activate to sort column descending"
+msgstr "aktifkan untuk mengurutkan kolom turun"
+
+#: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:35
+msgid "Activity List"
+msgstr "Daftar Aktivitas"
+
+#: Template/Activity/activity_list.ctp:47
+#: Template/Activity/activity_list.ctp:75
+#: Template/Membership/view_activity.ctp:73
+#: Template/Membership/view_activity.ctp:97
+msgid "Activity Name"
+msgstr "Nama Kegiatan"
+
+#: Template/Activity/activity_list.ctp:48
+#: Template/Activity/activity_list.ctp:76
+#: Template/Membership/view_activity.ctp:74
+#: Template/Membership/view_activity.ctp:98
+msgid "Activity Category"
+msgstr "Kategori Aktivitas"
+
+#: Template/Activity/activity_list.ctp:49
+#: Template/Activity/activity_list.ctp:77
+#: Template/Membership/view_activity.ctp:75
+#: Template/Membership/view_activity.ctp:99
+msgid "Activity Trainer"
+msgstr "Pelatih Aktivitas"
+
+#: Template/Activity/add_activity.ctp:45 Template/Activity/add_activity.ctp:48
+#: Template/Membership/add.ctp:90 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "Pilih Kategori"
+
+#: Template/Activity/add_activity.ctp:56
+msgid "Activity Title"
+msgstr "Judul Aktivitas"
+
+#: Template/Activity/add_activity.ctp:64
+msgid "Assign to Staff Member"
+msgstr "Tetapkan untuk Anggota Staf"
+
+#: Template/Activity/add_activity.ctp:68
+#: Template/ClassSchedule/add_class.ctp:51
+#: Template/ClassSchedule/add_class.ctp:53
+#: Template/ClassSchedule/add_class.ctp:68
+#: Template/GymMember/add_member.ctp:371 Template/GymMember/add_member.ctp:373
+#: Template/GymMember/add_member.ctp:403
+msgid "Select Staff Member"
+msgstr "Pilih Anggota Staf"
+
+#: Template/Activity/add_activity.ctp:79 Template/GymMember/add_member.ctp:440
+#: Template/MemberRegistration/index.ctp:261
+#: Template/MembershipPayment/generate_payment_invoice.ctp:78
+msgid "Select Membership"
+msgstr "Pilih Keanggotaan"
+
+#: Template/Activity/add_activity.ctp:90
+msgid "Save Activity"
+msgstr "Simpan Aktivitas"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "Pengaturan profil"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "Admin"
+
+#: Template/AdminProfile/edit_profile.ctp:34
+#: Template/GymAccountant/add_accountant.ctp:42
+#: Template/GymMember/add_member.ctp:178
+#: Template/MemberRegistration/index.ctp:104
+#: Template/StaffMembers/add_staff.ctp:58
+msgid "Personal Information"
+msgstr "Informasi pribadi"
+
+#: Template/AdminProfile/edit_profile.ctp:39
+#: Template/GymAccountant/add_accountant.ctp:44
+#: Template/GymMember/add_member.ctp:189
+#: Template/MemberRegistration/index.ctp:115
+#: Template/StaffMembers/add_staff.ctp:60
+msgid "First Name"
+msgstr "Nama depan"
+
+#: Template/AdminProfile/edit_profile.ctp:46
+#: Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:203
+#: Template/MemberRegistration/index.ctp:129
+#: Template/StaffMembers/add_staff.ctp:74
+msgid "Last Name"
+msgstr "Nama keluarga"
+
+#: Template/AdminProfile/edit_profile.ctp:53
+#: Template/GeneralSetting/save_setting.ctp:189
+#: Template/GymAccountant/add_accountant.ctp:115
+#: Template/GymDailyWorkout/workout_list.ctp:58
+#: Template/GymDailyWorkout/workout_list.ctp:84
+#: Template/GymMember/add_member.ctp:285 Template/GymMember/view_member.ctp:74
+#: Template/GymProfile/view_profile.ctp:148 Template/Installer/index.ctp:464
+#: Template/MemberRegistration/index.ctp:209
+#: Template/StaffMembers/add_staff.ctp:150
+msgid "Email"
+msgstr "E-mail"
+
+#: Template/AdminProfile/edit_profile.ctp:60
+#: Template/GymAccountant/add_accountant.ctp:122
+#: Template/GymMember/add_member.ctp:344
+#: Template/MemberRegistration/index.ctp:216
+#: Template/StaffMembers/add_staff.ctp:157
+msgid "Login Information"
+msgstr "Informasi Login"
+
+#: Template/AdminProfile/edit_profile.ctp:69
+#: Template/GymAccountant/add_accountant.ctp:131
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:353
+#: Template/Installer/index.ctp:562 Template/MemberRegistration/index.ctp:226
+#: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:22
+msgid "Password"
+msgstr "Kata sandi"
+
+#: Template/AdminProfile/edit_profile.ctp:76
+#: Template/GymAccountant/add_accountant.ctp:138
+#: Template/GymDailyWorkout/add_measurment.ctp:77
+#: Template/GymMember/add_member.ctp:360
+#: Template/MemberRegistration/index.ctp:233
+#: Template/StaffMembers/add_staff.ctp:173
+msgid "Display Image"
+msgstr "Tampilkan Gambar"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "Simpan Detail"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:8
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:46
+#: Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:25
+#: Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56
+#: Template/Dashboard/dashboard.ctp:83
+#: Template/Dashboard/member_dashboard.ctp:97
+#: Template/Dashboard/staff_acc_dashboard.ctp:112
+#: Template/Element/sidebar.ctp:38 Template/GymAccessright/access_right.ctp:93
+#: Template/GymGroup/add_group.ctp:18 Template/GymGroup/group_list.ctp:28
+#: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:228
+#: Template/MemberRegistration/index.ctp:154
+msgid "Group"
+msgstr "Kelompok"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61
+#: Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "Jadwal Kelas & Nutrisi"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66
+#: Template/ClassSchedule/add_class.ctp:32
+#: Template/ClassSchedule/class_list.ctp:40
+#: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:48
+#: Template/GymAccessright/access_right.ctp:183
+msgid "Class Schedule"
+msgstr "Jadwal kelas"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70
+#: Template/Element/sidebar.ctp:52 Template/GymAccessright/access_right.ctp:603
+#: Template/GymNutrition/addnutrition_schedule.ctp:43
+#: Template/GymNutrition/member_nutrition.ctp:19
+#: Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "Jadwal Gizi"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76
+#: Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "Manajemen Anggota"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89
+#: Template/Element/sidebar.ctp:71 Template/GymAccessright/access_right.ctp:25
+#: Template/GymAccessright/access_right.ctp:303
+#: Template/GymAccountant/accountant_list.ctp:37
+#: Template/GymAccountant/add_accountant.ctp:31
+#: Template/GymNotice/add_notice.ctp:67
+msgid "Accountant"
+msgstr "Akuntan"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101
+#: Template/Element/sidebar.ctp:83 Template/GymDailyWorkout/add_workout.ctp:194
+msgid "Workout"
+msgstr "Bekerja"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109
+#: Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "Latihan Harian"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116
+#: Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "Toko & Produk"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120
+#: Template/Element/sidebar.ctp:102
+#: Template/GymAccessright/access_right.ctp:422
+#: Template/GymStore/sell_product.ctp:60
+msgid "Product"
+msgstr "Produk"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124
+#: Template/Element/sidebar.ctp:106
+#: Template/GymAccessright/access_right.ctp:452
+#: Template/GymStore/sell_product.ctp:35 Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "Toko"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131
+#: Template/Element/sidebar.ctp:113
+#: Template/GymAccessright/access_right.ctp:633
+#: Template/GymReservation/reservation_list.ctp:35
+msgid "Event"
+msgstr "Peristiwa"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136
+#: Template/Element/sidebar.ctp:118 Template/GymAttendance/attendance.ctp:23
+#: Template/GymAttendance/staff_attendance.ctp:19
+#: Template/GymMember/member_list.ctp:88
+#: Template/GymMember/view_attendance.ctp:70
+msgid "Attendance"
+msgstr "Kehadiran"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141
+#: Template/Dashboard/dashboard.ctp:171 Template/Dashboard/dashboard.ctp:186
+#: Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "Pembayaran"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146
+#: Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "Pembayaran Keanggotaan"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151
+#: Template/Element/sidebar.ctp:133
+#: Template/GymAccessright/access_right.ctp:363
+#: Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "Pendapatan"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156
+#: Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "Beban"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164
+#: Template/Dashboard/dashboard.ctp:96
+#: Template/Dashboard/member_dashboard.ctp:116
+#: Template/Dashboard/staff_acc_dashboard.ctp:136
+#: Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:512
+#: Template/GymMessage/compose_message.ctp:14 Template/GymMessage/inbox.ctp:10
+#: Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "Pesan"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169
+#: Template/Element/sidebar.ctp:151
+#: Template/GymAccessright/access_right.ctp:482
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "Nawala"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174
+#: Template/Element/sidebar.ctp:156
+#: Template/GymAccessright/access_right.ctp:542
+#: Template/GymNotice/add_notice.ctp:47 Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "Melihat"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179
+#: Template/Cell/GymRenderMenu/member_menu.ctp:45
+#: Template/Element/sidebar.ctp:170
+#: Template/GymAccessright/access_right.ctp:572
+msgid "Report"
+msgstr "Melaporkan"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "pengaturan email"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:190
+msgid "SubscriptionHistory"
+msgstr "Sejarah Berlangganan"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:195
+#: Template/Element/sidebar.ctp:175 Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:200
+#: Template/Element/sidebar.ctp:180 Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "Hak Akses"
+
+#: Template/ClassSchedule/add_class.ctp:35
+#: Template/ClassSchedule/class_list.ctp:39
+#: Template/ClassSchedule/view_schedule.ctp:13
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "Daftar Kelas"
+
+#: Template/ClassSchedule/add_class.ctp:44
+#: Template/ClassSchedule/class_list.ctp:61
+#: Template/ClassSchedule/class_list.ctp:95
+msgid "Class Name"
+msgstr "Nama kelas"
+
+#: Template/ClassSchedule/add_class.ctp:59
+#: Template/ClassSchedule/add_class.ctp:74
+msgid "Add"
+msgstr "Menambahkan"
+
+#: Template/ClassSchedule/add_class.ctp:66
+msgid "Select Assistant Staff Member"
+msgstr "Pilih Asisten Anggota Staf"
+
+#: Template/ClassSchedule/add_class.ctp:80
+#: Template/ClassSchedule/class_list.ctp:65
+#: Template/ClassSchedule/class_list.ctp:99
+msgid "Location"
+msgstr "Lokasi"
+
+#: Template/ClassSchedule/add_class.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:129
+#: Template/GymAssignWorkout/assign_workout1.ctp:108
+#: Template/GymNutrition/addnutrition_schedule.ctp:90
+msgid "Select Days"
+msgstr "Pilih hari"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Sunday"
+msgstr "Minggu"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Monday"
+msgstr "Senin"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Thursday"
+msgstr "Kamis"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Friday"
+msgstr "Jumat"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: Template/ClassSchedule/add_class.ctp:125
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:103
+#: Template/GymReservation/reservation_list.ctp:54
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Start Time"
+msgstr "Waktu mulai"
+
+#: Template/ClassSchedule/add_class.ctp:132
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:110
+msgid "End Time"
+msgstr "Akhir waktu"
+
+#: Template/ClassSchedule/add_class.ctp:137
+msgid "Add Time"
+msgstr "Tambahkan Waktu"
+
+#: Template/ClassSchedule/add_class.ctp:173
+#: Template/GymReservation/add_reservation.ctp:142
+msgid "Save Class"
+msgstr "Simpan Kelas"
+
+#: Template/ClassSchedule/class_list.ctp:46
+#: Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "Jadwal Kelas"
+
+#: Template/ClassSchedule/class_list.ctp:62
+#: Template/ClassSchedule/class_list.ctp:96
+msgid "Staff Name"
+msgstr "Nama staf"
+
+#: Template/ClassSchedule/class_list.ctp:63
+#: Template/ClassSchedule/class_list.ctp:97
+msgid "Starting Time"
+msgstr "Waktu mulai"
+
+#: Template/ClassSchedule/class_list.ctp:64
+#: Template/ClassSchedule/class_list.ctp:98
+#: Template/GymReservation/reservation_list.ctp:55
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Ending Time"
+msgstr "Mengakhiri Waktu"
+
+#: Template/ClassSchedule/view_schedule.ctp:43
+#: Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
+msgid "Edit"
+msgstr "Edit"
+
+#: Template/Dashboard/dashboard.ctp:58
+#: Template/Dashboard/member_dashboard.ctp:61
+#: Template/Dashboard/staff_acc_dashboard.ctp:66
+#: Template/GymAccessright/access_right.ctp:23
+#: Template/GymAccessright/access_right.ctp:123
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:147
+#: Template/GymMember/add_member.ctp:167 Template/GymMember/add_member.ctp:430
+#: Template/GymMember/member_list.ctp:39
+#: Template/GymMember/view_attendance.ctp:34
+#: Template/GymMember/view_member.ctp:33 Template/GymNotice/add_notice.ctp:67
+#: Template/GymStore/sell_product.ctp:46
+#: Template/MembershipPayment/add_income.ctp:43
+#: Template/MembershipPayment/generate_payment_invoice.ctp:64
+msgid "Member"
+msgstr "Anggota"
+
+#: Template/Dashboard/dashboard.ctp:106
+#: Template/Dashboard/member_dashboard.ctp:134
+#: Template/Dashboard/staff_acc_dashboard.ctp:158
+#: Template/GymMember/add_member.ctp:438
+#: Template/MemberRegistration/index.ctp:259 Template/Membership/add.ctp:66
+#: Template/Membership/edit_membership.ctp:8
+#: Template/Membership/membership_list.ctp:37
+#: Template/Membership/membership_list.ctp:43
+#: Template/Membership/view_activity.ctp:40
+#: Template/MembershipPayment/generate_payment_invoice.ctp:76
+msgid "Membership"
+msgstr "Keanggotaan"
+
+#: Template/Dashboard/dashboard.ctp:124
+#: Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/staff_acc_dashboard.ctp:187
+#: Template/GymGroup/add_group.ctp:21 Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "Daftar Grup"
+
+#: Template/Dashboard/dashboard.ctp:154
+msgid "Payment by month"
+msgstr "Pembayaran berdasarkan bulan"
+
+#: Template/Dashboard/dashboard.ctp:192 Template/Dashboard/dashboard.ctp:247
+#: Template/Dashboard/dashboard.ctp:298
+#: Template/Dashboard/member_dashboard.ctp:200
+#: Template/Dashboard/member_dashboard.ctp:224
+#: Template/Dashboard/member_dashboard.ctp:248
+#: Template/Dashboard/member_dashboard.ctp:272
+#: Template/Dashboard/member_dashboard.ctp:296
+#: Template/Dashboard/member_dashboard.ctp:320
+#: Template/Dashboard/member_dashboard.ctp:344
+#: Template/GymMember/view_member.ctp:155
+#: Template/GymMember/view_member.ctp:179
+#: Template/GymMember/view_member.ctp:205
+#: Template/GymMember/view_member.ctp:229
+#: Template/GymMember/view_member.ctp:255
+#: Template/GymMember/view_member.ctp:279
+#: Template/GymMember/view_member.ctp:305
+msgid "There is not enough data to generate report"
+msgstr "Tidak ada cukup data untuk menghasilkan laporan"
+
+#: Template/Dashboard/dashboard.ctp:209 Template/Dashboard/dashboard.ctp:240
+#: Template/Reports/attendance_report.ctp:81
+msgid "Member Attendance Report"
+msgstr "Laporan Kehadiran Anggota"
+
+#: Template/Dashboard/dashboard.ctp:223
+#: Template/Reports/attendance_report.ctp:93
+#: Template/Reports/membership_report.ctp:41
+msgid "No of Member"
+msgstr "Tidak ada anggota"
+
+#: Template/Dashboard/dashboard.ctp:263
+msgid "Staff Attendance Report"
+msgstr "Laporan Kehadiran Staf"
+
+#: Template/Dashboard/dashboard.ctp:277
+msgid "Number of Staff Members"
+msgstr "Jumlah Anggota Staf"
+
+#: Template/Dashboard/dashboard.ctp:292
+#: Template/GymAttendance/attendance.ctp:29
+#: Template/GymAttendance/staff_attendance.ctp:18
+msgid "Staff Attendance"
+msgstr "Kehadiran Staf"
+
+#: Template/Dashboard/member_dashboard.ctp:191
+msgid "Weight Progress Report"
+msgstr "Laporan Perkembangan Berat"
+
+#: Template/Dashboard/member_dashboard.ctp:215
+msgid "Waist  Progress Report"
+msgstr "Laporan Kemajuan Pinggang"
+
+#: Template/Dashboard/member_dashboard.ctp:239
+msgid "Thigh Progress Report"
+msgstr "Laporan Kemajuan Paha"
+
+#: Template/Dashboard/member_dashboard.ctp:263
+msgid "Arms Progress Report"
+msgstr "Laporan Kemajuan Senjata"
+
+#: Template/Dashboard/member_dashboard.ctp:287
+msgid "Height Progress Report"
+msgstr "Laporan Kemajuan Tinggi"
+
+#: Template/Dashboard/member_dashboard.ctp:311
+msgid "Chest Progress Report"
+msgstr "Laporan Kemajuan Dada"
+
+#: Template/Dashboard/member_dashboard.ctp:335
+msgid "Fat Progress Report"
+msgstr "Laporan Kemajuan Lemak"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "Versi"
+
+#: Template/Element/topbar.ctp:40
+msgid "Member since"
+msgstr "Anggota Sejak"
+
+#: Template/Element/topbar.ctp:47 Template/Element/topbar.ctp:53
+msgid "Profile"
+msgstr "Profil"
+
+#: Template/Element/topbar.ctp:57
+msgid "Sign out"
+msgstr "Keluar"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "Pengaturan sistem"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "Nama Gym"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "Tahun Mulai"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "Alamat Gym"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "Nomor Telepon Kantor"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:132
+msgid "Country"
+msgstr "Negara"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "Bahasa Sistem"
+
+#: Template/GeneralSetting/save_setting.ctp:126
+msgid "Set Language to RTL"
+msgstr "Setel Bahasa ke RTL"
+
+#: Template/GeneralSetting/save_setting.ctp:128
+#: Template/GeneralSetting/save_setting.ctp:405
+#: Template/GeneralSetting/save_setting.ctp:412
+#: Template/GeneralSetting/save_setting.ctp:422
+#: Template/GeneralSetting/save_setting.ctp:452
+#: Template/GeneralSetting/save_setting.ctp:489
+msgid "Enable"
+msgstr "Memungkinkan"
+
+#: Template/GeneralSetting/save_setting.ctp:196
+msgid "Date Format"
+msgstr "Format tanggal"
+
+#: Template/GeneralSetting/save_setting.ctp:289
+msgid "Time Zone"
+msgstr "Zona waktu"
+
+#: Template/GeneralSetting/save_setting.ctp:319
+msgid "Gym Logo"
+msgstr "Logo Gym"
+
+#: Template/GeneralSetting/save_setting.ctp:324
+msgid "(Max. height 50px.)"
+msgstr "(Maks. Tinggi 50px.)"
+
+#: Template/GeneralSetting/save_setting.ctp:336
+msgid "Cover Image"
+msgstr "Gambar sampul"
+
+#: Template/GeneralSetting/save_setting.ctp:348
+msgid "Measurement Units"
+msgstr "Unit pengukuran"
+
+#: Template/GeneralSetting/save_setting.ctp:350
+#: Template/GymMember/add_member.ctp:295
+msgid "Weight"
+msgstr "Berat"
+
+#: Template/GeneralSetting/save_setting.ctp:357
+#: Template/GymMember/add_member.ctp:302
+msgid "Height"
+msgstr "Tinggi"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+#: Template/GymMember/add_member.ctp:309
+msgid "Chest"
+msgstr "Dada"
+
+#: Template/GeneralSetting/save_setting.ctp:371
+#: Template/GymMember/add_member.ctp:316
+msgid "Waist"
+msgstr "Pinggang"
+
+#: Template/GeneralSetting/save_setting.ctp:378
+msgid "Thing"
+msgstr "Benda"
+
+#: Template/GeneralSetting/save_setting.ctp:385
+#: Template/GymMember/add_member.ctp:330
+msgid "Arms"
+msgstr "Senjata"
+
+#: Template/GeneralSetting/save_setting.ctp:392
+#: Template/GymMember/add_member.ctp:337
+msgid "Fat"
+msgstr "Lemak"
+
+#: Template/GeneralSetting/save_setting.ctp:400
+msgid "Member Privacy Setting"
+msgstr "Pengaturan Privasi Anggota"
+
+#: Template/GeneralSetting/save_setting.ctp:402
+msgid "Member can view other member's details"
+msgstr "Anggota dapat melihat detail anggota lainnya"
+
+#: Template/GeneralSetting/save_setting.ctp:409
+msgid "Staff Member can view own trainee member's details"
+msgstr "Anggota Staf dapat melihat rincian anggota peserta pelatihan sendiri"
+
+#: Template/GeneralSetting/save_setting.ctp:418
+msgid "Paypal Setting"
+msgstr "Pengaturan Paypal"
+
+#: Template/GeneralSetting/save_setting.ctp:420
+msgid "Enable Sandbox"
+msgstr "Aktifkan Sandbox"
+
+#: Template/GeneralSetting/save_setting.ctp:427
+msgid "Paypal Email Id"
+msgstr "Id Email Paypal"
+
+#: Template/GeneralSetting/save_setting.ctp:434
+msgid "Select Currency"
+msgstr "Pilih Mata Uang"
+
+#: Template/GeneralSetting/save_setting.ctp:448
+msgid "Membership Alert Message Setting"
+msgstr "Pengaturan Pesan Peringatan Keanggotaan"
+
+#: Template/GeneralSetting/save_setting.ctp:450
+msgid "Enable Alert Mail"
+msgstr "Aktifkan Email Pemberitahuan"
+
+#: Template/GeneralSetting/save_setting.ctp:457
+msgid "Reminder Before Days"
+msgstr "Pengingat Sebelum Hari"
+
+#: Template/GeneralSetting/save_setting.ctp:465
+msgid "Reminder Message"
+msgstr "Pesan Pengingat"
+
+#: Template/GeneralSetting/save_setting.ctp:472
+msgid "ShortCodes For Notification Mail Message"
+msgstr "Kode Pendek Untuk Pesan Surat Pemberitahuan"
+
+#: Template/GeneralSetting/save_setting.ctp:475
+#: Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77
+#: Template/GymAttendance/attendance.ctp:108
+#: Template/GymAttendance/attendance.ctp:117
+#: Template/GymAttendance/staff_attendance.ctp:69
+#: Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82
+#: Template/GymMember/member_list.ctp:56 Template/GymMember/member_list.ctp:109
+#: Template/GymNutrition/nutrition_list.ctp:53
+#: Template/GymNutrition/nutrition_list.ctp:77
+#: Template/GymStore/sell_record.ctp:36 Template/GymStore/sell_record.ctp:63
+#: Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:72
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "Nama anggota"
+
+#: Template/GeneralSetting/save_setting.ctp:476 Template/Membership/add.ctp:81
+#: Template/Membership/edit_membership.ctp:21
+#: Template/Membership/membership_list.ctp:54
+#: Template/Membership/membership_list.ctp:102
+#: Template/Reports/membership_report.ctp:35
+msgid "Membership Name"
+msgstr "Nama Keanggotaan"
+
+#: Template/GeneralSetting/save_setting.ctp:477
+#: Template/GymMember/view_member.ctp:390
+#: Template/GymMember/view_member.ctp:418
+#: Template/GymSubscriptionHistory/index.ctp:46
+#: Template/GymSubscriptionHistory/index.ctp:76
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "Tanggal Mulai Keanggotaan"
+
+#: Template/GeneralSetting/save_setting.ctp:478
+#: Template/GymMember/view_member.ctp:391
+#: Template/GymMember/view_member.ctp:419
+#: Template/GymSubscriptionHistory/index.ctp:47
+#: Template/GymSubscriptionHistory/index.ctp:77
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "Tanggal Berakhir Keanggotaan"
+
+#: Template/GeneralSetting/save_setting.ctp:485
+msgid "Message Setting"
+msgstr "Pengaturan Pesan"
+
+#: Template/GeneralSetting/save_setting.ctp:487
+msgid "Member can Message To other's"
+msgstr "Anggota dapat Pesan ke yang lain"
+
+#: Template/GeneralSetting/save_setting.ctp:494
+msgid "Header & Footer Text"
+msgstr "Teks Header & Footer"
+
+#: Template/GeneralSetting/save_setting.ctp:496
+msgid "Left Header Text"
+msgstr "Teks Header Kiri"
+
+#: Template/GeneralSetting/save_setting.ctp:503
+msgid "Footer Text"
+msgstr "Catatan kaki"
+
+#: Template/GeneralSetting/save_setting.ctp:511
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "Akses Pengaturan Hak"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "Menu"
+
+#: Template/GymAccessright/access_right.ctp:213
+msgid "Attendence"
+msgstr "Kehadiran"
+
+#: Template/GymAccessright/access_right.ctp:243
+msgid "Assigned Workouts"
+msgstr "Latihan yang Ditugaskan"
+
+#: Template/GymAccessright/access_right.ctp:273
+msgid "Workouts"
+msgstr "Latihan"
+
+#: Template/GymAccessright/access_right.ctp:333
+#: Template/Reports/payment_report.ctp:47
+msgid "Fee Payment"
+msgstr "Pembayaran Biaya"
+
+#: Template/GymAccessright/access_right.ctp:392
+#: Template/MembershipPayment/add_expense.ctp:22
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "Biaya"
+
+#: Template/GymAccessright/access_right.ctp:663
+msgid "Account"
+msgstr "Rekening"
+
+#: Template/GymAccessright/access_right.ctp:694
+#: Template/GymMember/view_member.ctp:382
+#: Template/GymSubscriptionHistory/index.ctp:32
+#: Template/GymSubscriptionHistory/index.ctp:33
+msgid "Subscription History"
+msgstr "Sejarah Berlangganan"
+
+#: Template/GymAccessright/access_right.ctp:724
+#: Template/GymDailyWorkout/add_workout.ctp:210
+#: Template/GymEmailSetting/index.ctp:46 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNotice/add_notice.ctp:102
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+#: Template/GymProduct/add_product.ctp:47
+#: Template/GymProfile/view_profile.ctp:95
+#: Template/GymProfile/view_profile.ctp:155
+#: Template/GymStore/sell_product.ctp:84
+msgid "Save"
+msgstr "Menyimpan"
+
+#: Template/GymAccountant/accountant_list.ctp:36
+#: Template/GymAccountant/add_accountant.ctp:34
+msgid "Accountant List"
+msgstr "Daftar Akuntan"
+
+#: Template/GymAccountant/accountant_list.ctp:53
+#: Template/GymAccountant/accountant_list.ctp:87
+#: Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76
+#: Template/GymAttendance/attendance.ctp:107
+#: Template/GymAttendance/attendance.ctp:116
+#: Template/GymAttendance/staff_attendance.ctp:68
+#: Template/GymDailyWorkout/workout_list.ctp:55
+#: Template/GymDailyWorkout/workout_list.ctp:81
+#: Template/GymGroup/group_list.ctp:44 Template/GymGroup/group_list.ctp:75
+#: Template/GymMember/member_list.ctp:55 Template/GymMember/member_list.ctp:108
+#: Template/GymMember/view_member.ctp:320
+#: Template/Membership/membership_list.ctp:53
+#: Template/Membership/membership_list.ctp:101
+#: Template/StaffMembers/staff_list.ctp:47
+#: Template/StaffMembers/staff_list.ctp:80
+msgid "Photo"
+msgstr "Foto"
+
+#: Template/GymAccountant/accountant_list.ctp:54
+#: Template/GymAccountant/accountant_list.ctp:88
+msgid "Accountant Name"
+msgstr "Nama Akuntan"
+
+#: Template/GymAccountant/accountant_list.ctp:55
+#: Template/GymAccountant/accountant_list.ctp:89
+msgid "Accountant Email"
+msgstr "Email Akuntan"
+
+#: Template/GymAccountant/accountant_list.ctp:56
+#: Template/GymAccountant/accountant_list.ctp:90
+#: Template/GymProfile/view_profile.ctp:136
+#: Template/StaffMembers/staff_list.ctp:51
+#: Template/StaffMembers/staff_list.ctp:84
+msgid "Mobile No."
+msgstr "Nomor telepon seluler."
+
+#: Template/GymAccountant/add_accountant.ctp:51
+#: Template/GymMember/add_member.ctp:196
+#: Template/MemberRegistration/index.ctp:122
+#: Template/StaffMembers/add_staff.ctp:67
+msgid "Middle Name"
+msgstr "Nama tengah"
+
+#: Template/GymAccountant/add_accountant.ctp:65
+#: Template/GymMember/add_member.ctp:210 Template/GymMember/view_member.ctp:86
+#: Template/MemberRegistration/index.ctp:136
+#: Template/StaffMembers/add_staff.ctp:81
+msgid "Gender"
+msgstr "Jenis kelamin"
+
+#: Template/GymAccountant/add_accountant.ctp:68
+#: Template/GymMember/add_member.ctp:213 Template/StaffMembers/add_staff.ctp:84
+msgid "Male"
+msgstr "Pria"
+
+#: Template/GymAccountant/add_accountant.ctp:69
+#: Template/GymMember/add_member.ctp:214 Template/StaffMembers/add_staff.ctp:85
+msgid "Female"
+msgstr "Wanita"
+
+#: Template/GymAccountant/add_accountant.ctp:76
+#: Template/GymMember/add_member.ctp:221
+#: Template/GymProfile/view_profile.ctp:113
+#: Template/MemberRegistration/index.ctp:147
+#: Template/StaffMembers/add_staff.ctp:92
+msgid "Date of birth"
+msgstr "Tanggal lahir"
+
+#: Template/GymAccountant/add_accountant.ctp:82
+#: Template/GymMember/add_member.ctp:238
+#: Template/MemberRegistration/index.ctp:161
+#: Template/StaffMembers/add_staff.ctp:117
+msgid "Contact Information"
+msgstr "Kontak informasi"
+
+#: Template/GymAccountant/add_accountant.ctp:84
+#: Template/GymProfile/view_profile.ctp:122
+#: Template/StaffMembers/add_staff.ctp:119
+msgid "Home Town Address"
+msgstr "Alamat Kota Asal"
+
+#: Template/GymAccountant/add_accountant.ctp:91
+#: Template/GymMember/add_member.ctp:247
+#: Template/GymProfile/view_profile.ctp:130
+#: Template/MemberRegistration/index.ctp:171
+#: Template/StaffMembers/add_staff.ctp:126
+msgid "City"
+msgstr "Kota"
+
+#: Template/GymAccountant/add_accountant.ctp:98
+#: Template/GymMember/add_member.ctp:268
+#: Template/MemberRegistration/index.ctp:192
+#: Template/StaffMembers/add_staff.ctp:133
+msgid "Mobile Number"
+msgstr "Nomor handphone"
+
+#: Template/GymAccountant/add_accountant.ctp:108
+#: Template/GymMember/add_member.ctp:278
+#: Template/GymProfile/view_profile.ctp:142
+#: Template/MemberRegistration/index.ctp:202
+#: Template/StaffMembers/add_staff.ctp:143
+msgid "Phone"
+msgstr "Telepon"
+
+#: Template/GymAccountant/add_accountant.ctp:147
+msgid "Save Accountant"
+msgstr "Simpan Akuntan"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:68
+#: Template/GymAssignWorkout/assign_workout1.ctp:49
+msgid "Workout Logs"
+msgstr "Log Latihan"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:78
+#: Template/GymAssignWorkout/assign_workout1.ctp:59
+#: Template/GymDailyWorkout/add_workout.ctp:149
+#: Template/GymDailyWorkout/add_workout.ctp:163
+#: Template/GymNutrition/addnutrition_schedule.ctp:56
+#: Template/MembershipPayment/generate_payment_invoice.ctp:71
+#: Template/Reports/monthlyworkoutreport.ctp:52
+msgid "Select Member"
+msgstr "Pilih Anggota"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:103
+#: Template/GymAssignWorkout/assign_workout1.ctp:82
+#: Template/GymMessage/inbox.ctp:54 Template/GymMessage/sent.ctp:43
+#: Template/GymNutrition/addnutrition_schedule.ctp:185
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:54
+msgid "Description"
+msgstr "Deskripsi"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:117
+#: Template/GymAssignWorkout/assign_workout1.ctp:96
+#: Template/GymMember/view_attendance.ctp:52
+#: Template/GymNotice/add_notice.ctp:89
+#: Template/GymNutrition/addnutrition_schedule.ctp:78
+#: Template/Reports/attendance_report.ctp:68
+msgid "End Date"
+msgstr "Tanggal Berakhir"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:138
+#: Template/GymAssignWorkout/assign_workout1.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "Pilih aktivitas latihan untuk ditambahkan pada hari yang dipilih"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:144
+#: Template/GymAssignWorkout/assign_workout1.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "Langkah-1 Tambahkan Latihan"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "Langkah-2 Hemat Latihan"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Save Workout"
+msgstr "Simpan Latihan"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "Start From"
+msgstr "Mulai dari"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "TO"
+msgstr "UNTUK"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:194
+#: Template/GymAssignWorkout/assign_workout1.ctp:172
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:60
+#: Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:181
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:50
+msgid "Day name"
+msgstr "Nama hari"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "Log Latihan"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97
+#: Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "Tidak Ditemukan Catatan"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54
+#: Template/GymAssignWorkout/workout_log.ctp:78
+#: Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:78
+msgid "Member Goal"
+msgstr "Tujuan Anggota"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67
+#: Template/GymDailyWorkout/view_workout.ctp:58
+msgid "View Workouts"
+msgstr "Lihat Latihan"
+
+#: Template/GymAttendance/attendance.ctp:22
+#: Template/GymAttendance/staff_attendance.ctp:22
+msgid "Member Attendance"
+msgstr "Kehadiran Anggota"
+
+#: Template/GymAttendance/attendance.ctp:43
+#: Template/GymAttendance/attendance.ctp:47
+#: Template/GymMessage/compose_message.ctp:62
+#: Template/GymNotice/add_notice.ctp:76 Template/Membership/add.ctp:142
+msgid "Select Class"
+msgstr "Pilih Kelas"
+
+#: Template/GymAttendance/attendance.ctp:55
+#: Template/GymMember/view_attendance.ctp:33
+msgid "View Attendance"
+msgstr "Lihat Kehadiran"
+
+#: Template/GymAttendance/attendance.ctp:59
+#: Template/GymAttendance/staff_attendance.ctp:36
+msgid "Take/View Attendance"
+msgstr "Ambil / Lihat Kehadiran"
+
+#: Template/GymAttendance/attendance.ctp:168
+#: Template/GymAttendance/staff_attendance.ctp:88
+msgid "Save Attendance"
+msgstr "Simpan Kehadiran"
+
+#: Template/GymAttendance/attendance.ctp:179
+msgid "No attendance found."
+msgstr "Tidak ada kehadiran yang ditemukan."
+
+#: Template/GymAttendance/staff_attendance.ctp:52
+msgid "Staff Attendance, Date"
+msgstr "Kehadiran Staf, Tanggal"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:127
+#: Template/GymDailyWorkout/view_workout.ctp:34
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "Latihan Harian"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:27
+#: Template/GymDailyWorkout/add_workout.ctp:130
+#: Template/GymDailyWorkout/view_workout.ctp:37
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "Daftar Latihan"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:56
+msgid "Result Measurement"
+msgstr "Pengukuran hasil"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:60
+msgid "Select Result Measurement"
+msgstr "Pilih Pengukuran Hasil"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:71
+msgid "Result Date"
+msgstr "Tanggal Hasil"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:87
+msgid "Save Measurement"
+msgstr "Simpan Pengukuran"
+
+#: Template/GymDailyWorkout/add_workout.ctp:179
+msgid "Select Date"
+msgstr "Pilih Tanggal"
+
+#: Template/GymDailyWorkout/add_workout.ctp:197
+msgid "Select Record Date For Today Workout"
+msgstr "Pilih Tanggal Rekam Untuk Latihan Hari Ini"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57
+#: Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "Mobile"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72
+#: Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "Melihat"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "Lihat Pengukuran"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "Pengaturan Email"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:108
+msgid "Host"
+msgstr "Tuan rumah"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "Pelabuhan"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:95
+msgid "To"
+msgstr "Untuk"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "Kirim Surat Uji"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "Nama grup"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "Gambar Grup"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "Simpan Grup"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "Total Anggota Grup"
+
+#: Template/GymMember/add_member.ctp:170 Template/GymMember/member_list.ctp:38
+#: Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "Daftar Anggota"
+
+#: Template/GymMember/add_member.ctp:181 Template/GymMember/member_list.ctp:57
+#: Template/GymMember/member_list.ctp:110 Template/GymMember/view_member.ctp:62
+#: Template/MemberRegistration/index.ctp:107
+msgid "Member ID"
+msgstr "Tanda Anggota"
+
+#: Template/GymMember/add_member.ctp:240 Template/GymMember/view_member.ctp:70
+#: Template/MemberRegistration/index.ctp:164
+msgid "Address"
+msgstr "Alamat"
+
+#: Template/GymMember/add_member.ctp:254
+msgid "State"
+msgstr "Negara"
+
+#: Template/GymMember/add_member.ctp:261
+#: Template/MemberRegistration/index.ctp:185
+msgid "Zip code"
+msgstr "Kode Pos"
+
+#: Template/GymMember/add_member.ctp:293
+msgid "Physical Information"
+msgstr "Informasi Fisik"
+
+#: Template/GymMember/add_member.ctp:323
+msgid "Thigh"
+msgstr "Paha"
+
+#: Template/GymMember/add_member.ctp:369
+#: Template/MemberRegistration/index.ctp:242
+msgid "More Information"
+msgstr "Informasi Lebih Lanjut"
+
+#: Template/GymMember/add_member.ctp:376 Template/GymMember/add_member.ctp:406
+msgid "Add Staff"
+msgstr "Tambahkan Staf"
+
+#: Template/GymMember/add_member.ctp:381
+#: Template/MemberRegistration/index.ctp:245
+msgid "Interested Area"
+msgstr "Area Tertarik"
+
+#: Template/GymMember/add_member.ctp:383
+#: Template/MemberRegistration/index.ctp:247
+msgid "Select Interest"
+msgstr "Pilih Minat"
+
+#: Template/GymMember/add_member.ctp:386 Template/GymMember/add_member.ctp:396
+#: Template/StaffMembers/add_staff.ctp:104
+#: Template/StaffMembers/add_staff.ctp:112
+msgid "Add/Remove"
+msgstr "Tambah / Hapus"
+
+#: Template/GymMember/add_member.ctp:391
+#: Template/MemberRegistration/index.ctp:252
+msgid "Source"
+msgstr "Sumber"
+
+#: Template/GymMember/add_member.ctp:393
+#: Template/MemberRegistration/index.ctp:254
+msgid "Select Source"
+msgstr "Pilih Sumber"
+
+#: Template/GymMember/add_member.ctp:401
+msgid "Referred By"
+msgstr "Disebut oleh"
+
+#: Template/GymMember/add_member.ctp:411
+msgid "Inquiry Date"
+msgstr "Tanggal Kirim"
+
+#: Template/GymMember/add_member.ctp:418
+msgid "Trial End Date"
+msgstr "Tanggal Berakhir Percobaan"
+
+#: Template/GymMember/add_member.ctp:427 Template/GymMember/member_list.ctp:60
+#: Template/GymMember/member_list.ctp:113
+msgid "Member Type"
+msgstr "Jenis Anggota"
+
+#: Template/GymMember/add_member.ctp:431 Template/GymMember/add_member.ctp:465
+msgid "Prospect"
+msgstr "Prospek"
+
+#: Template/GymMember/add_member.ctp:432
+msgid "Alumni"
+msgstr "Alumni"
+
+#: Template/GymMember/add_member.ctp:453
+msgid "Add Class"
+msgstr "Tambahkan Kelas"
+
+#: Template/GymMember/add_member.ctp:462 Template/GymMember/member_list.ctp:61
+#: Template/GymMember/member_list.ctp:114
+msgid "Membership Status"
+msgstr "Status Keanggotaan"
+
+#: Template/GymMember/add_member.ctp:466
+msgid "Continue"
+msgstr "Terus"
+
+#: Template/GymMember/add_member.ctp:467
+msgid "Expired"
+msgstr "Kedaluwarsa"
+
+#: Template/GymMember/add_member.ctp:468
+msgid "Dropped"
+msgstr "Menjatuhkan"
+
+#: Template/GymMember/add_member.ctp:474
+#: Template/MembershipPayment/generate_payment_invoice.ctp:91
+msgid "Membership Valid From"
+msgstr "Keanggotaan Berlaku Dari"
+
+#: Template/GymMember/add_member.ctp:487
+msgid "First Payment Date"
+msgstr "Tanggal Pembayaran Pertama"
+
+#: Template/GymMember/add_member.ctp:495
+#: Template/MemberRegistration/index.ctp:292
+msgid "Save Member"
+msgstr "Simpan Anggota"
+
+#: Template/GymMember/member_list.ctp:58 Template/GymMember/member_list.ctp:111
+msgid "Joining Date"
+msgstr "Tanggal Bergabung"
+
+#: Template/GymMember/member_list.ctp:59 Template/GymMember/member_list.ctp:112
+msgid "Expire Date"
+msgstr "Tanggal kadaluarsa"
+
+#: Template/GymMember/member_list.ctp:96
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+#: Template/GymMember/member_list.ctp:98
+msgid "Activated"
+msgstr "Diaktifkan"
+
+#: Template/GymMember/view_attendance.ctp:37
+msgid "Member List"
+msgstr "Daftar anggota"
+
+#: Template/GymMember/view_attendance.ctp:57
+#: Template/Reports/attendance_report.ctp:74
+msgid "Go"
+msgstr "Pergi"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "Lihat Anggota"
+
+#: Template/GymMember/view_member.ctp:66
+#: Template/GymProfile/view_profile.ctp:64
+msgid "Name"
+msgstr "Nama"
+
+#: Template/GymMember/view_member.ctp:78
+msgid "Mobile No"
+msgstr "Nomor telepon seluler"
+
+#: Template/GymMember/view_member.ctp:82
+msgid "Date Of Birth"
+msgstr "Tanggal lahir"
+
+#: Template/GymMember/view_member.ctp:103
+msgid "Moreinfo"
+msgstr "Info lebih lanjut"
+
+#: Template/GymMember/view_member.ctp:107
+msgid "MemberShip"
+msgstr "Keanggotaan"
+
+#: Template/GymMember/view_member.ctp:111
+msgid "Expiry Date"
+msgstr "Tanggal kadaluarsa"
+
+#: Template/GymMember/view_member.ctp:115
+msgid "Classes"
+msgstr "Kelas"
+
+#: Template/GymMember/view_member.ctp:119
+msgid "Interest Area"
+msgstr "Bidang Minat"
+
+#: Template/GymMember/view_member.ctp:133
+msgid "Groups"
+msgstr "Grup"
+
+#: Template/GymMember/view_member.ctp:147
+msgid "Add Weight"
+msgstr "Tambahkan Berat"
+
+#: Template/GymMember/view_member.ctp:171
+msgid "Add Waist"
+msgstr "Tambahkan Pinggang"
+
+#: Template/GymMember/view_member.ctp:197
+msgid "Add Thigh"
+msgstr "Tambahkan Paha"
+
+#: Template/GymMember/view_member.ctp:221
+msgid "Add Arms"
+msgstr "Tambahkan Lengan"
+
+#: Template/GymMember/view_member.ctp:247
+msgid "Add Height"
+msgstr "Tambahkan Tinggi"
+
+#: Template/GymMember/view_member.ctp:271
+msgid "Add Chest"
+msgstr "Tambahkan Dada"
+
+#: Template/GymMember/view_member.ctp:297
+msgid "Add Fat"
+msgstr "Tambahkan Lemak"
+
+#: Template/GymMember/view_member.ctp:321
+msgid "Add Photo"
+msgstr "Tambahkan Foto"
+
+#: Template/GymMember/view_member.ctp:387
+#: Template/GymMember/view_member.ctp:415
+#: Template/GymSubscriptionHistory/index.ctp:43
+#: Template/GymSubscriptionHistory/index.ctp:73
+msgid "Membership Title"
+msgstr "Judul Keanggotaan"
+
+#: Template/GymMember/view_member.ctp:389
+#: Template/GymMember/view_member.ctp:417
+#: Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:75
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "Jumlah Karena"
+
+#: Template/GymMember/view_member.ctp:392
+#: Template/GymMember/view_member.ctp:420
+#: Template/GymSubscriptionHistory/index.ctp:48
+#: Template/GymSubscriptionHistory/index.ctp:78
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "Status pembayaran"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "Menulis pesan"
+
+#: Template/GymMessage/compose_message.ctp:25
+#: Template/GymMessage/compose_message.ctp:28 Template/GymMessage/inbox.ctp:26
+#: Template/GymMessage/inbox.ctp:30 Template/GymMessage/sent.ctp:20
+#: Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "Menyusun"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "Kotak masuk"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "Terkirim"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "Pesan untuk"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "Tidak ada"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "Subyek"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "Komentar Pesan"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "Mengirim pesan"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "Pesan Kotak Masuk"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "Pesan dari"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "Pesan terkirim"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "Pengaturan"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "Sinkronkan Surat"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "Daftar MailChimp"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "Pilih daftar"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "Daftar kampanye"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "Pilih Kampanye"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "Kirim Capmaign"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "Kampanye"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "Kunci API MailChimp"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "Milis"
+
+#: Template/GymNotice/add_notice.ctp:41
+msgid "Edit Notice"
+msgstr "Edit Pemberitahuan"
+
+#: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "Tambahkan Pemberitahuan"
+
+#: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "Daftar Pemberitahuan"
+
+#: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "Judul Pemberitahuan"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "All"
+msgstr "Semua"
+
+#: Template/GymNotice/add_notice.ctp:96
+msgid "Comment"
+msgstr "Komentar"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "Daftar Jadwal Nutrisi"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:98
+msgid "Select Nutrition to add on selected days"
+msgstr "Pilih Nutrisi untuk ditambahkan pada hari yang dipilih"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:103
+msgid "Break Fast"
+msgstr "Buka Puasa"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:109
+msgid "Mid-Morning Snacks"
+msgstr "Makanan Ringan Pertengahan Pagi"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:115
+msgid "Lunch"
+msgstr "Makan siang"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:120
+msgid "Afternoon Snacks"
+msgstr "Makanan Ringan Sore"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:125
+msgid "Dinner"
+msgstr "Makan malam"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:129
+msgid "+ Add Nutrition"
+msgstr "+ Tambahkan Nutrisi"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+msgid "Step-2 Save"
+msgstr "Langkah-2 Simpan"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:184
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Time"
+msgstr "Waktu"
+
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:80
+msgid "No record found."
+msgstr "Tidak ada catatan yang ditemukan."
+
+#: Template/GymNutrition/nutrition_list.ctp:52
+#: Template/GymNutrition/nutrition_list.ctp:76
+msgid "Member Photo"
+msgstr "Foto Anggota"
+
+#: Template/GymProduct/add_product.ctp:9
+msgid "Edit Product"
+msgstr "Edit Produk"
+
+#: Template/GymProduct/add_product.ctp:11
+#: Template/GymProduct/product_list.ctp:37
+#: Template/GymStore/sell_product.ctp:70
+msgid "Add Product"
+msgstr "Tambahkan Produk"
+
+#: Template/GymProduct/add_product.ctp:15
+#: Template/GymProduct/product_list.ctp:31
+msgid "Products"
+msgstr "Produk"
+
+#: Template/GymProduct/add_product.ctp:18
+#: Template/GymProduct/product_list.ctp:30
+msgid "Product List"
+msgstr "Daftar Produk"
+
+#: Template/GymProduct/add_product.ctp:26
+#: Template/GymProduct/product_list.ctp:47
+#: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:62
+msgid "Product Name"
+msgstr "nama Produk"
+
+#: Template/GymProduct/add_product.ctp:32
+#: Template/GymProduct/product_list.ctp:48
+#: Template/GymProduct/product_list.ctp:77
+msgid "Product Price"
+msgstr "Harga Produk"
+
+#: Template/GymProduct/add_product.ctp:41
+#: Template/GymProduct/product_list.ctp:49
+#: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:64
+msgid "Product Quantity"
+msgstr "Jumlah Produk"
+
+#: Template/GymProfile/view_profile.ctp:51
+msgid "Account Settings"
+msgstr "Pengaturan akun"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "Current Password"
+msgstr "kata sandi saat ini"
+
+#: Template/GymProfile/view_profile.ctp:82
+msgid "New Password"
+msgstr "kata sandi baru"
+
+#: Template/GymProfile/view_profile.ctp:87 Template/Installer/index.ctp:571
+msgid "Confirm Password"
+msgstr "konfirmasi sandi"
+
+#: Template/GymProfile/view_profile.ctp:106
+msgid "Other Information"
+msgstr "Informasi lainnya"
+
+#: Template/GymReservation/add_reservation.ctp:58
+msgid "Edit Event"
+msgstr "Edit Acara"
+
+#: Template/GymReservation/add_reservation.ctp:60
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Add Event"
+msgstr "Tambahkan Acara"
+
+#: Template/GymReservation/add_reservation.ctp:63
+msgid "Schedule"
+msgstr "Susunan acara"
+
+#: Template/GymReservation/add_reservation.ctp:66
+#: Template/GymReservation/reservation_list.ctp:34
+msgid "Event List"
+msgstr "Daftar Acara"
+
+#: Template/GymReservation/add_reservation.ctp:75
+#: Template/GymReservation/reservation_list.ctp:51
+#: Template/GymReservation/reservation_list.ctp:83
+msgid "Event Name"
+msgstr "Nama Acara"
+
+#: Template/GymReservation/add_reservation.ctp:82
+#: Template/GymReservation/reservation_list.ctp:52
+#: Template/GymReservation/reservation_list.ctp:84
+msgid "Event Date"
+msgstr "Tanggal Acara"
+
+#: Template/GymReservation/add_reservation.ctp:89
+msgid "Event Place"
+msgstr "Tempat acara"
+
+#: Template/GymReservation/add_reservation.ctp:91
+msgid "Select Event Places"
+msgstr "Pilih Tempat Acara"
+
+#: Template/GymReservation/add_reservation.ctp:94
+msgid "Add or Remove"
+msgstr "Tambah atau Hapus"
+
+#: Template/GymReservation/reservation_list.ctp:53
+#: Template/GymReservation/reservation_list.ctp:85
+msgid "Place"
+msgstr "Tempat"
+
+#: Template/GymStore/sell_product.ctp:29
+msgid "Edit Sell Product"
+msgstr "Edit Produk Jual"
+
+#: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
+msgid "Add Sell Product"
+msgstr "Tambahkan Produk Jual"
+
+#: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "Jual Rekor"
+
+#: Template/GymStore/sell_product.ctp:63
+msgid "Select Product"
+msgstr "Pilih Produk"
+
+#: Template/GymStore/sell_product.ctp:75
+msgid "Quantity"
+msgstr "Kuantitas"
+
+#: Template/Installer/index.ctp:10 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "Gym Master - Wisaya Instalasi Manajemen GYM"
+
+#: Template/Installer/index.ctp:16 Template/Installer/index.ctp:18
+msgid "Server Requirements"
+msgstr "Persyaratan Server"
+
+#: Template/Installer/index.ctp:79 Template/Installer/index.ctp:81
+msgid "Database Setup"
+msgstr "Pengaturan Database"
+
+#: Template/Installer/index.ctp:84
+msgid "Database Name"
+msgstr "Nama Basis Data"
+
+#: Template/Installer/index.ctp:92
+msgid "Database Username"
+msgstr "Nama Pengguna Basis Data"
+
+#: Template/Installer/index.ctp:100
+msgid "Database Password"
+msgstr "Kata sandi basis data"
+
+#: Template/Installer/index.ctp:116 Template/Installer/index.ctp:546
+msgid "Fields are required."
+msgstr "Bidang wajib diisi."
+
+#: Template/Installer/index.ctp:119 Template/Installer/index.ctp:121
+msgid "System Setting"
+msgstr "Pengaturan Sistem"
+
+#: Template/Installer/index.ctp:124
+msgid "System Name"
+msgstr "Nama Sistem"
+
+#: Template/Installer/index.ctp:472
+msgid "Date Formate"
+msgstr "Formate Tanggal"
+
+#: Template/Installer/index.ctp:483
+msgid "Calendar Language"
+msgstr "Bahasa Kalender"
+
+#: Template/Installer/index.ctp:549 Template/Installer/index.ctp:551
+msgid "Login Details"
+msgstr "rincian masuk"
+
+#: Template/Installer/index.ctp:579
+msgid "Finish"
+msgstr "Selesai"
+
+#: Template/Installer/index.ctp:581
+msgid "Please Note :"
+msgstr "Tolong dicatat :"
+
+#: Template/Installer/index.ctp:584
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. Mungkin perlu beberapa menit untuk mengatur basis data."
+
+#: Template/Installer/index.ctp:587
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. Jangan me-refresh halaman setelah Anda mengklik tombol install."
+
+#: Template/Installer/index.ctp:590
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3. Anda akan dikenali dengan pesan sukses sekali setelah instalasi selesai."
+
+#: Template/Installer/index.ctp:593
+msgid "4. Click on install to complete the installation."
+msgstr "4. Klik install untuk menyelesaikan instalasi."
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "Selamat"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "Instalasi Selesai Berhasil"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "Klik"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "di sini untuk mengarahkan ulang pada halaman \\ tlogin."
+
+#: Template/MemberRegistration/index.ctp:97 Template/Users/login.ctp:24
+msgid "Member Registration"
+msgstr "Registrasi Anggota"
+
+#: Template/MemberRegistration/index.ctp:178
+msgid "state"
+msgstr "negara"
+
+#: Template/MemberRegistration/index.ctp:273
+msgid "Select Joining Date"
+msgstr "Pilih Tanggal Bergabung"
+
+#: Template/MemberRegistration/index.ctp:295
+msgid "Go Back"
+msgstr "Kembali"
+
+#: Template/Membership/add.ctp:69 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:36
+#: Template/Membership/view_activity.ctp:44
+msgid "Membership List"
+msgstr "Daftar Keanggotaan"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "Kategori Keanggotaan"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:55
+#: Template/Membership/membership_list.ctp:103
+msgid "Membership Period"
+msgstr "Periode Keanggotaan"
+
+#: Template/Membership/add.ctp:101
+msgid "No. of Days"
+msgstr "Jumlah Hari"
+
+#: Template/Membership/add.ctp:108 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "Batas Keanggotaan"
+
+#: Template/Membership/add.ctp:110
+msgid "Limited"
+msgstr "Terbatas"
+
+#: Template/Membership/add.ctp:111
+msgid "Unlimited"
+msgstr "Tak terbatas"
+
+#: Template/Membership/add.ctp:114
+msgid "no. of classes"
+msgstr "tidak. kelas"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every week"
+msgstr "Kelas setiap minggu"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every month"
+msgstr "Kelas setiap bulan"
+
+#: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "Jumlah Keanggotaan"
+
+#: Template/Membership/add.ctp:150 Template/Membership/membership_list.ctp:56
+#: Template/Membership/membership_list.ctp:104
+msgid "Installment Plan"
+msgstr "Paket Angsuran"
+
+#: Template/Membership/add.ctp:156 Template/Membership/edit_membership.ctp:56
+msgid "Select Installment Plan"
+msgstr "Pilih Paket Angsuran"
+
+#: Template/Membership/add.ctp:161 Template/Membership/edit_membership.ctp:62
+msgid "Add Installment Plan"
+msgstr "Tambahkan Paket Angsuran"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "Biaya Pendaftaran"
+
+#: Template/Membership/add.ctp:177 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "Deskripsi Keanggotaan"
+
+#: Template/Membership/add.ctp:184 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "Gambar Keanggotaan"
+
+#: Template/Membership/add.ctp:198
+msgid "Save Membership"
+msgstr "Simpan Keanggotaan"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Installment Amount"
+msgstr "Jumlah Angsuran"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Installment Period"
+msgstr "Masa Angsuran"
+
+#: Template/Membership/membership_list.ctp:57
+#: Template/Membership/membership_list.ctp:105
+msgid "SignUp Fee"
+msgstr "Biaya Pendaftaran"
+
+#: Template/Membership/membership_list.ctp:91
+msgid "Activities"
+msgstr "Kegiatan"
+
+#: Template/Membership/view_activity.ctp:41
+msgid "View Activity"
+msgstr "Lihat Aktivitas"
+
+#: Template/Membership/view_activity.ctp:56
+msgid "Select Activity"
+msgstr "Pilih Aktivitas"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+msgid "Edit Expense"
+msgstr "Edit Biaya"
+
+#: Template/MembershipPayment/add_expense.ctp:19
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "Tambahkan Biaya"
+
+#: Template/MembershipPayment/add_expense.ctp:25
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "Daftar Biaya"
+
+#: Template/MembershipPayment/add_expense.ctp:34
+#: Template/MembershipPayment/expense_list.ctp:39
+#: Template/MembershipPayment/expense_list.ctp:67
+msgid "Supplier Name"
+msgstr "nama pemasok"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Paid"
+msgstr "Dibayar"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Part Paid"
+msgstr "Bagian Dibayar"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Unpaid"
+msgstr "Tidak dibayar"
+
+#: Template/MembershipPayment/add_expense.ctp:61
+#: Template/MembershipPayment/add_expense.ctp:83
+msgid "Expense Entry"
+msgstr "Biaya Masuk"
+
+#: Template/MembershipPayment/add_expense.ctp:63
+#: Template/MembershipPayment/add_expense.ctp:85
+msgid "Expense Amount"
+msgstr "Jumlah Biaya"
+
+#: Template/MembershipPayment/add_expense.ctp:66
+#: Template/MembershipPayment/add_expense.ctp:88
+msgid "Expense Entry Label"
+msgstr "Label Entri Biaya"
+
+#: Template/MembershipPayment/add_expense.ctp:103
+msgid "Add Expense Entry"
+msgstr "Tambahkan Entri Biaya"
+
+#: Template/MembershipPayment/add_expense.ctp:108
+msgid "Create Expense Entry"
+msgstr "Buat Entri Biaya"
+
+#: Template/MembershipPayment/add_income.ctp:25
+msgid "Edit Income"
+msgstr "Edit Penghasilan"
+
+#: Template/MembershipPayment/add_income.ctp:27
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "Tambahkan Penghasilan"
+
+#: Template/MembershipPayment/add_income.ctp:34
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "Daftar Penghasilan"
+
+#: Template/MembershipPayment/add_income.ctp:41
+msgid "income"
+msgstr "pendapatan"
+
+#: Template/MembershipPayment/add_income.ctp:49
+msgid "Income label"
+msgstr "Label pendapatan"
+
+#: Template/MembershipPayment/add_income.ctp:60
+msgid "Select Status"
+msgstr "Pilih Status"
+
+#: Template/MembershipPayment/add_income.ctp:76
+#: Template/MembershipPayment/add_income.ctp:98
+msgid "Income Entry"
+msgstr "Pemasukan Penghasilan"
+
+#: Template/MembershipPayment/add_income.ctp:78
+#: Template/MembershipPayment/add_income.ctp:100
+msgid "Income Amount"
+msgstr "jumlah pendapatan"
+
+#: Template/MembershipPayment/add_income.ctp:81
+#: Template/MembershipPayment/add_income.ctp:103
+msgid "Income Entry Label"
+msgstr "Label Pemasukan"
+
+#: Template/MembershipPayment/add_income.ctp:118
+msgid "Add Income Entry"
+msgstr "Tambahkan Pemasukan Penghasilan"
+
+#: Template/MembershipPayment/add_income.ctp:123
+msgid "Create Income Entry"
+msgstr "Buat Entri Penghasilan"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "Hasilkan Faktur Pembayaran"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:53
+msgid "Membership Payment List"
+msgstr "Daftar Pembayaran Keanggotaan"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:82
+msgid "Total Amount"
+msgstr "Jumlah total"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:102
+msgid "save_membership_payment"
+msgstr "save_membership_payment"
+
+#: Template/MembershipPayment/payment_list.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "Judul"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "Membayar"
+
+#: Template/Reports/attendance_report.ctp:46
+#: Template/Reports/membership_report.ctp:17
+#: Template/Reports/membership_status_report.ctp:19
+#: Template/Reports/monthlyworkoutreport.ctp:29
+#: Template/Reports/payment_report.ctp:17
+msgid "Attendance Report"
+msgstr "Laporan kehadiran"
+
+#: Template/Reports/attendance_report.ctp:47
+#: Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/monthlyworkoutreport.ctp:17
+#: Template/Reports/payment_report.ctp:14
+msgid "Reports"
+msgstr "Laporan"
+
+#: Template/Reports/attendance_report.ctp:50
+#: Template/Reports/membership_report.ctp:30
+#: Template/Reports/membership_status_report.ctp:17
+msgid "Membership Report"
+msgstr "Laporan Keanggotaan"
+
+#: Template/Reports/attendance_report.ctp:52
+#: Template/Reports/membership_report.ctp:19
+#: Template/Reports/membership_status_report.ctp:13
+#: Template/Reports/monthlyworkoutreport.ctp:31
+#: Template/Reports/payment_report.ctp:19
+msgid "Membership Status Report"
+msgstr "Laporan Status Keanggotaan"
+
+#: Template/Reports/attendance_report.ctp:54
+#: Template/Reports/membership_report.ctp:21
+#: Template/Reports/membership_status_report.ctp:21
+#: Template/Reports/monthlyworkoutreport.ctp:33
+#: Template/Reports/payment_report.ctp:21
+msgid "Payment Report"
+msgstr "Laporan Pembayaran"
+
+#: Template/Reports/attendance_report.ctp:55
+#: Template/Reports/membership_report.ctp:22
+#: Template/Reports/membership_status_report.ctp:22
+#: Template/Reports/monthlyworkoutreport.ctp:16
+#: Template/Reports/monthlyworkoutreport.ctp:24
+#: Template/Reports/monthlyworkoutreport.ctp:34
+#: Template/Reports/payment_report.ctp:22
+msgid "Members Monthly Workout Report"
+msgstr "Laporan Latihan Bulanan Anggota"
+
+#: Template/Reports/attendance_report.ctp:63
+msgid "Strat Date"
+msgstr "Tanggal Strat"
+
+#: Template/Reports/attendance_report.ctp:119
+#: Template/Reports/membership_report.ctp:61
+#: Template/Reports/membership_status_report.ctp:41
+#: Template/Reports/payment_report.ctp:66
+msgid "There is not enough data to generate report."
+msgstr "Tidak ada cukup data untuk menghasilkan laporan."
+
+#: Template/Reports/membership_report.ctp:13
+#: Template/Reports/payment_report.ctp:13
+msgid "Membership report"
+msgstr "Laporan keanggotaan"
+
+#: Template/Reports/membership_status_report.ctp:30
+msgid "Membership by status"
+msgstr "Keanggotaan berdasarkan status"
+
+#: Template/Reports/monthlyworkoutreport.ctp:63
+msgid "GO"
+msgstr "PERGI"
+
+#: Template/Reports/monthlyworkoutreport.ctp:77
+msgid "Workout Date"
+msgstr "Tanggal Latihan"
+
+#: Template/Reports/monthlyworkoutreport.ctp:78
+msgid "Workout Name"
+msgstr "Nama Latihan"
+
+#: Template/Reports/monthlyworkoutreport.ctp:125
+msgid "Download"
+msgstr "Unduh"
+
+#: Template/Reports/monthlyworkoutreport.ctp:132
+msgid "No Workout Found."
+msgstr "Tidak Ada Latihan yang Ditemukan."
+
+#: Template/Reports/payment_report.ctp:30
+msgid "Fee Payment Report By Month"
+msgstr "Laporan Pembayaran Biaya Menurut Bulan"
+
+#: Template/StaffMembers/add_staff.ctp:50
+#: Template/StaffMembers/staff_list.ctp:30
+msgid "Staff Member List"
+msgstr "Daftar Anggota Staf"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Assign Role"
+msgstr "Tetapkan Peran"
+
+#: Template/StaffMembers/add_staff.ctp:101
+msgid "Select Role"
+msgstr "Pilih Peran"
+
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Specialization"
+msgstr "Spesialisasi"
+
+#: Template/StaffMembers/add_staff.ctp:182
+msgid "Save Staff"
+msgstr "Simpan Staf"
+
+#: Template/StaffMembers/staff_list.ctp:48
+#: Template/StaffMembers/staff_list.ctp:81
+msgid "Staff Member Name"
+msgstr "Nama Anggota Staf"
+
+#: Template/StaffMembers/staff_list.ctp:49
+#: Template/StaffMembers/staff_list.ctp:82
+msgid "Role"
+msgstr "Peran"
+
+#: Template/StaffMembers/staff_list.ctp:50
+#: Template/StaffMembers/staff_list.ctp:83
+msgid "Staff Member Email"
+msgstr "Email Anggota Staf"
+
+#: Template/Users/login.ctp:16
+msgid "Logging you in"
+msgstr "Masuk Anda"
+
+#: Template/Users/login.ctp:23
+msgid "Login"
+msgstr "Masuk"
+
+#: custom
+msgid "Class Booking"
+msgstr "Pemesanan kelas"
+
+#: custom
+msgid "Class Booking List"
+msgstr "Daftar Pemesanan Kelas"
+
+#: custom
+msgid "Add Class Booking"
+msgstr "Tambahkan Pemesanan Kelas"
+
+#: custom
+msgid "Booking Date"
+msgstr "Tanggal Pemesanan"
+
+#: custom
+msgid "Booking Day"
+msgstr "Hari pemesanan"
+
+#: custom
+msgid "Add Booking Class"
+msgstr "Tambahkan Kelas Pemesanan"
+
+#: custom
+msgid "Edit Booking Class"
+msgstr "Edit Kelas Pemesanan"
+
+#: custom
+msgid "Save Booking"
+msgstr "Simpan Pemesanan"
+
+#: custom
+msgid "Add Youtube Embaded Link"
+msgstr "Tambahkan Youtube Embaded Link"
+
+#: custom
+msgid "Add More"
+msgstr "Tambah lagi"
+
+#: custom
+msgid "No Any Video"
+msgstr "Tidak Ada Video"
+
+#: custom
+msgid "Export"
+msgstr "Ekspor"
+
+#: custom
+msgid "Import"
+msgstr "Impor"
+
+#: custom
+msgid "Side Menu Color"
+msgstr "Warna Menu Samping"
+
+#: custom
+msgid "Header Color"
+msgstr "Warna Tajuk"
+
+#: custom
+msgid "Theme Setting"
+msgstr "Pengaturan Tema"
+
+#: custom
+msgid "Sample Download"
+msgstr "Contoh Unduh"
+
+#: custom
+msgid "Membership Report List"
+msgstr "Daftar Laporan Keanggotaan"
+
+#: custom
+msgid "Payment Report List"
+msgstr "Daftar Laporan Pembayaran"
+
+#: custom
+msgid "Attendance Report List"
+msgstr "Daftar Laporan Kehadiran"
+
+#: custom
+msgid "Total Member"
+msgstr "Total Anggota"
+
+#: custom
+msgid "Attendance Date"
+msgstr "Tanggal Kehadiran"
+
+#: custom
+msgid "Number Of Member"
+msgstr "Jumlah Anggota"
+
+#: custom
+msgid "Stripe Setting"
+msgstr "Pengaturan Stripe"
+
+#: custom
+msgid "Secret Key"
+msgstr "Kunci rahasia"
+
+#: custom
+msgid "Publishable Key"
+msgstr "Kunci yang dapat diterbitkan"
+
+#: custom
+msgid "Class Booking Fees"
+msgstr "Biaya Pemesanan Kelas"
+
+#: custom
+msgid "Booking Type"
+msgstr "Jenis Pemesanan"
+
+#: custom
+msgid "Booking Detail"
+msgstr "Detail Pemesanan"
+
+#: custom
+msgid "Zipcode"
+msgstr "Kode Pos"
+
+#: custom
+msgid "Full Name"
+msgstr "Nama lengkap"
+
+#: custom
+msgid "Class Information"
+msgstr "Informasi Kelas"
+
+#: custom
+msgid "Select Booking Type"
+msgstr "Pilih Jenis Pemesanan"
+
+#: custom
+msgid "Demo"
+msgstr "Demo"
+
+#: custom
+msgid "Paid Booking"
+msgstr "Pemesanan Berbayar"
+
+#: custom
+msgid "Error! This class is already enjoy by you, now you can not book this class as demo."
+msgstr "Kesalahan! Kelas ini sudah Anda nikmati, sekarang Anda tidak dapat memesan kelas ini sebagai demo."
+
+#: custom
+msgid "Error! Please Fill All Information."
+msgstr "Kesalahan! Silakan Isi Semua Informasi."

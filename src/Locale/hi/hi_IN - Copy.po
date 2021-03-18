@@ -1,0 +1,3558 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-26 21:38+0530\n"
+"PO-Revision-Date: 2020-05-26 21:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
+#: Template/Membership/view_activity.ctp:62
+msgid "Add Activity"
+msgstr "गतिविधि जोड़ें"
+
+#: Controller/ActivityController.php:86
+#: Controller/ClassBookingController.php:66
+#: Controller/GymDailyWorkoutController.php:97
+#: Controller/GymDailyWorkoutController.php:205
+#: Controller/GymDailyWorkoutController.php:298
+#: Controller/GymMemberController.php:150
+#: Controller/GymProductController.php:27 Controller/GymStoreController.php:45
+#: Controller/MembershipPaymentController.php:291
+#: Controller/MembershipPaymentController.php:439
+msgid "Success! Record Saved Successfully."
+msgstr "सफलता! रिकॉर्ड सफलतापूर्वक सहेजा गया।"
+
+#: Controller/ActivityController.php:97 Controller/GymGroupController.php:98
+#: Controller/GymReservationController.php:137
+msgid "Success! Record Deleted Successfully"
+msgstr "सफलता! रिकॉर्ड सफलतापूर्वक हटा दिया गया"
+
+#: Controller/ActivityController.php:105
+msgid "Edit Activity"
+msgstr "गतिविधि संपादित करें"
+
+#: Controller/ActivityController.php:190
+#: Controller/GymAccountantController.php:91
+#: Controller/GymDailyWorkoutController.php:246
+#: Controller/GymDailyWorkoutController.php:382
+#: Controller/GymMemberController.php:324
+#: Controller/GymProductController.php:45 Controller/GymStoreController.php:89
+#: Controller/MembershipPaymentController.php:243
+#: Controller/MembershipPaymentController.php:337
+#: Controller/MembershipPaymentController.php:465
+#: Controller/StaffMembersController.php:122
+msgid "Success! Record Updated Successfully."
+msgstr "सफलता! रिकॉर्ड अपडेट सफलतापूर्वक।"
+
+#: Controller/AdminProfileController.php:53
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "सफलता! रिकॉर्ड सहेजे गए सफलतापूर्वक। कृपया परिवर्तनों को देखने के लिए फिर से लॉगिन करें।"
+
+#: Controller/AdminProfileController.php:70
+#: Controller/GeneralSettingController.php:98
+#: Controller/GymAccountantController.php:59
+#: Controller/GymAccountantController.php:107
+#: Controller/GymDailyWorkoutController.php:302
+#: Controller/GymDailyWorkoutController.php:386
+#: Controller/GymGroupController.php:42 Controller/GymGroupController.php:80
+#: Controller/GymMemberController.php:177
+#: Controller/GymMemberController.php:355
+#: Controller/MembershipController.php:71
+#: Controller/MembershipController.php:159
+#: Controller/StaffMembersController.php:77
+#: Controller/StaffMembersController.php:138
+msgid "Invalid File Extension, Please Retry."
+msgstr "अमान्य फ़ाइल एक्सटेंशन, कृपया पुनः प्रयास करें।"
+
+#: Controller/ClassBookingController.php:98
+msgid "Success! Record Update Successfully."
+msgstr "सफलता! रिकॉर्ड अपडेट सफलतापूर्वक।"
+
+#: Controller/ClassBookingController.php:109
+msgid "Success! Booking Deleted Successfully."
+msgstr "सफलता! बुकिंग सफलतापूर्वक समाप्त हुई।"
+
+#: Controller/ClassScheduleController.php:40
+#: Template/ClassSchedule/class_list.ctp:40
+msgid "Add Class Schedule"
+msgstr "कक्षा अनुसूची जोड़ें"
+
+#: Controller/ClassScheduleController.php:76
+#: Controller/GymReservationController.php:48
+#: Controller/MembershipController.php:64
+msgid "Success! Record Saved Successfully"
+msgstr "सफलता! रिकॉर्ड सफलतापूर्वक सहेजा गया"
+
+#: Controller/ClassScheduleController.php:79
+#: Controller/MembershipController.php:156
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "त्रुटि! अपडेट करते समय एक त्रुटि हुई, कृपया बाद में पुनः प्रयास करें।"
+
+#: Controller/ClassScheduleController.php:88
+msgid "Edit Class Schedule"
+msgstr "कक्षा अनुसूची संपादित करें"
+
+#: Controller/ClassScheduleController.php:129
+#: Controller/GymGroupController.php:76
+#: Controller/GymReservationController.php:107
+#: Controller/MembershipController.php:153
+msgid "Success! Record Updated Successfully"
+msgstr "सफलता! रिकॉर्ड अपडेट सफलतापूर्वक"
+
+#: Controller/ClassScheduleController.php:139
+msgid "Success! Class Deleted Successfully."
+msgstr "सफलता! कक्षा सफलतापूर्वक समाप्त हो गई।"
+
+#: Controller/Component/GYMFunctionComponent.php:273
+#: Template/GymMember/view_member.ctp:149
+msgid "Weight Report"
+msgstr "वजन रिपोर्ट"
+
+#: Controller/Component/GYMFunctionComponent.php:274
+#: Controller/Component/GYMFunctionComponent.php:280
+#: Controller/Component/GYMFunctionComponent.php:286
+#: Controller/Component/GYMFunctionComponent.php:292
+#: Controller/Component/GYMFunctionComponent.php:298
+#: Controller/Component/GYMFunctionComponent.php:304
+#: Controller/Component/GYMFunctionComponent.php:310
+#: Template/GymMember/view_attendance.ctp:70
+msgid "Day"
+msgstr "दिन"
+
+#: Controller/Component/GYMFunctionComponent.php:279
+#: Template/GymMember/view_member.ctp:207
+msgid "Thigh Report"
+msgstr "जांघ रिपोर्ट"
+
+#: Controller/Component/GYMFunctionComponent.php:285
+#: Template/GymMember/view_member.ctp:265
+msgid "Height Report"
+msgstr "ऊंचाई रिपोर्ट"
+
+#: Controller/Component/GYMFunctionComponent.php:291
+#: Template/GymMember/view_member.ctp:294
+msgid "Chest Report"
+msgstr "छाती की रिपोर्ट"
+
+#: Controller/Component/GYMFunctionComponent.php:297
+#: Template/GymMember/view_member.ctp:177
+msgid "Waist Report"
+msgstr "कमर की रिपोर्ट"
+
+#: Controller/Component/GYMFunctionComponent.php:303
+#: Template/GymMember/view_member.ctp:235
+msgid "Arms Report"
+msgstr "आर्म्स रिपोर्ट"
+
+#: Controller/Component/GYMFunctionComponent.php:309
+#: Template/GymMember/view_member.ctp:324
+msgid "Fat Report"
+msgstr "मोटी रिपोर्ट"
+
+#: Controller/Component/GYMFunctionComponent.php:390
+#: View/Helper/GymHelper.php:342
+msgid "Fully Paid"
+msgstr "पूर्ण भुगतान किया हुआ"
+
+#: Controller/Component/GYMFunctionComponent.php:392
+#: View/Helper/GymHelper.php:344
+msgid "Not Paid"
+msgstr "नहीं चुकाया"
+
+#: Controller/Component/GYMFunctionComponent.php:394
+#: View/Helper/GymHelper.php:346
+msgid "Partially Paid"
+msgstr "आंशिक रूप से भुगतान किया"
+
+#: Controller/Component/GYMFunctionComponent.php:604
+#: Controller/Component/GYMFunctionComponent.php:693
+msgid "Membership Reminder Alert!"
+msgstr "सदस्यता अनुस्मारक चेतावनी!"
+
+#: Controller/Component/GYMFunctionComponent.php:724
+msgid "January"
+msgstr "जनवरी"
+
+#: Controller/Component/GYMFunctionComponent.php:724
+msgid "February"
+msgstr "फरवरी"
+
+#: Controller/Component/GYMFunctionComponent.php:724
+msgid "March"
+msgstr "मार्च"
+
+#: Controller/Component/GYMFunctionComponent.php:724
+msgid "April"
+msgstr "अप्रैल"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "May"
+msgstr "मई"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "June"
+msgstr "जून"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "July"
+msgstr "जुलाई"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "August"
+msgstr "अगस्त"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "September"
+msgstr "सितंबर"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "October"
+msgstr "अक्टूबर"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "November"
+msgstr "नवंबर"
+
+#: Controller/Component/GYMFunctionComponent.php:725
+msgid "December"
+msgstr "दिसंबर"
+
+#: Controller/Component/GYMFunctionComponent.php:726
+msgid "You are not authorized to access that location."
+msgstr "आप उस स्थान पर पहुंचने के लिए अधिकृत नहीं हैं।"
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:133
+#: Template/Dashboard/dashboard.ctp:207
+#: Template/GymAttendance/attendance.ctp:80
+#: Template/GymMember/add_member.ctp:454
+#: Template/GymMember/view_attendance.ctp:71
+#: Template/GymNotice/add_notice.ctp:73 Template/GymNotice/notice_list.ctp:44
+#: Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:277
+#: Template/Reports/attendance_report.ctp:77
+msgid "Class"
+msgstr "कक्षा"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:131 Controller/ReportsController.php:133
+#: Template/GymAttendance/attendance.ctp:91
+#: Template/GymAttendance/staff_attendance.ctp:58
+msgid "Present"
+msgstr "वर्तमान"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:131 Controller/ReportsController.php:133
+#: Template/GymAttendance/attendance.ctp:93
+#: Template/GymAttendance/staff_attendance.ctp:60
+msgid "Absent"
+msgstr "अनुपस्थित"
+
+#: Controller/DashboardController.php:131
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:72
+#: Template/Dashboard/dashboard.ctp:70 Template/Dashboard/dashboard.ctp:257
+#: Template/Dashboard/member_dashboard.ctp:79
+#: Template/Dashboard/staff_acc_dashboard.ctp:89
+#: Template/Element/sidebar.ctp:56 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:33
+#: Template/GymMember/view_member.ctp:126 Template/GymNotice/add_notice.ctp:67
+#: Template/StaffMembers/add_staff.ctp:47
+#: Template/StaffMembers/staff_list.ctp:28
+msgid "Staff Member"
+msgstr "स्टाफ के सदस्य"
+
+#: Controller/GeneralSettingController.php:68
+#: Controller/GeneralSettingController.php:92
+msgid "Success! Settings Saved Successfully."
+msgstr "सफलता! सेटिंग्स सफलतापूर्वक बच गईं।"
+
+#: Controller/GymAccessrightController.php:273
+msgid "Success! Settings Saved successfully."
+msgstr "सफलता! सेटिंग्स सफलतापूर्वक सहेजे गए।"
+
+#: Controller/GymAccountantController.php:23
+#: Template/GymAccountant/accountant_list.ctp:36
+msgid "Add Accountant"
+msgstr "एकाउंटेंट जोड़ें"
+
+#: Controller/GymAccountantController.php:43
+#: Controller/GymNoticeController.php:64
+#: Controller/StaffMembersController.php:60
+msgid "Success! Record Successfully Saved."
+msgstr "सफलता! रिकॉर्ड सफलतापूर्वक सहेजा गया।"
+
+#: Controller/GymAccountantController.php:68
+msgid "Edit Accountant"
+msgstr "लेखाकार संपादित करें"
+
+#: Controller/GymAccountantController.php:118
+#: Controller/MembershipPaymentController.php:477
+msgid "Success! Accountant Deleted Successfully."
+msgstr "सफलता! लेखाकार सफलतापूर्वक हटा दिया गया।"
+
+#: Controller/GymAjaxController.php:48
+msgid "Add/Remove Category"
+msgstr "श्रेणी जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:53
+msgid "enter category name"
+msgstr "श्रेणी का नाम दर्ज करें"
+
+#: Controller/GymAjaxController.php:56 Controller/GymAjaxController.php:149
+#: Template/Activity/add_activity.ctp:51 Template/Membership/add.ctp:58
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "कैटेगरी जोड़े"
+
+#: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:247
+#: Controller/GymAjaxController.php:327
+msgid "Category"
+msgstr "वर्ग"
+
+#: Controller/GymAjaxController.php:66 Controller/GymAjaxController.php:159
+#: Controller/GymAjaxController.php:248 Controller/GymAjaxController.php:328
+#: Controller/GymAjaxController.php:409 Controller/GymAjaxController.php:487
+#: Controller/GymAjaxController.php:585 Controller/GymAjaxController.php:958
+#: Controller/GymAjaxController.php:1070 Template/Activity/activity_list.ctp:50
+#: Template/Activity/activity_list.ctp:82
+#: Template/ClassBooking/booking_list.ctp:56
+#: Template/ClassBooking/booking_list.ctp:92
+#: Template/ClassSchedule/add_class.ctp:111
+#: Template/ClassSchedule/add_class_old.ctp:110
+#: Template/ClassSchedule/class_list.ctp:56
+#: Template/ClassSchedule/class_list.ctp:90
+#: Template/GymAccountant/accountant_list.ctp:51
+#: Template/GymAccountant/accountant_list.ctp:85
+#: Template/GymAssignWorkout/workout_log.ctp:55
+#: Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:85
+#: Template/GymGroup/group_list.ctp:47 Template/GymGroup/group_list.ctp:78
+#: Template/GymMember/member_list.ctp:89 Template/GymMember/member_list.ctp:148
+#: Template/GymNotice/notice_list.ctp:45 Template/GymNotice/notice_list.ctp:74
+#: Template/GymNutrition/nutrition_list.ctp:55
+#: Template/GymNutrition/nutrition_list.ctp:79
+#: Template/GymProduct/product_list.ctp:51
+#: Template/GymProduct/product_list.ctp:80
+#: Template/GymReservation/reservation_list.ctp:57
+#: Template/GymReservation/reservation_list.ctp:89
+#: Template/GymStore/sell_record.ctp:38 Template/GymStore/sell_record.ctp:65
+#: Template/Membership/membership_list.ctp:53
+#: Template/Membership/membership_list.ctp:101
+#: Template/Membership/view_activity.ctp:76
+#: Template/Membership/view_activity.ctp:100
+#: Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:61
+#: Template/MembershipPayment/payment_list.ctp:105
+#: Template/StaffMembers/staff_list.ctp:50
+#: Template/StaffMembers/staff_list.ctp:83
+msgid "Action"
+msgstr "कार्य"
+
+#: Controller/GymAjaxController.php:76 Controller/GymAjaxController.php:103
+#: Controller/GymAjaxController.php:169 Controller/GymAjaxController.php:196
+#: Controller/GymAjaxController.php:260 Controller/GymAjaxController.php:286
+#: Controller/GymAjaxController.php:340 Controller/GymAjaxController.php:369
+#: Controller/GymAjaxController.php:421 Controller/GymAjaxController.php:447
+#: Controller/GymAjaxController.php:499 Controller/GymAjaxController.php:525
+#: Controller/GymAjaxController.php:597 Controller/GymAjaxController.php:625
+#: Controller/GymAjaxController.php:1082 Controller/GymAjaxController.php:1141
+#: Template/Activity/add_activity.ctp:101
+#: Template/Activity/add_activity.ctp:122
+#: Template/Activity/add_activity.ctp:142
+#: Template/GymMessage/view_message.ctp:45
+#: Template/GymNotice/notice_list.ctp:61
+#: Template/GymProduct/product_list.ctp:67 Template/GymStore/sell_record.ctp:54
+#: Template/Membership/view_activity.ctp:90
+#: Template/MembershipPayment/add_expense.ctp:70
+#: Template/MembershipPayment/add_expense.ctp:92
+#: Template/MembershipPayment/add_income.ctp:79
+#: Template/MembershipPayment/add_income.ctp:103
+msgid "Delete"
+msgstr "हटाएं"
+
+#: Controller/GymAjaxController.php:86 Controller/GymAjaxController.php:179
+#: Controller/GymAjaxController.php:271 Controller/GymAjaxController.php:353
+#: Controller/GymAjaxController.php:432 Controller/GymAjaxController.php:510
+#: Controller/GymAjaxController.php:608 Controller/GymAjaxController.php:990
+#: Controller/GymAjaxController.php:1095 Controller/GymAjaxController.php:1189
+#: Controller/GymAjaxController.php:1294 Controller/GymAjaxController.php:1452
+#: Controller/GymAjaxController.php:1588 Controller/GymAjaxController.php:1634
+msgid "Close"
+msgstr "बंद करे"
+
+#: Controller/GymAjaxController.php:132
+msgid "Add/Remove Installment Plan"
+msgstr "किस्त योजना जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:137
+msgid "Enter Duration Number"
+msgstr "अवधि संख्या दर्ज करें"
+
+#: Controller/GymAjaxController.php:141
+msgid "Select Duration"
+msgstr "अवधि का चयन करें"
+
+#: Controller/GymAjaxController.php:142
+#: Template/ClassSchedule/add_class.ctp:111
+#: Template/ClassSchedule/add_class_old.ctp:110
+msgid "Days"
+msgstr "दिन"
+
+#: Controller/GymAjaxController.php:143
+msgid "Week"
+msgstr "सप्ताह"
+
+#: Controller/GymAjaxController.php:144 Template/Dashboard/dashboard.ctp:159
+#: Template/Reports/monthlyworkoutreport.ctp:57
+#: Template/Reports/payment_report.ctp:37
+#: Template/Reports/payment_report.ctp:85
+msgid "Month"
+msgstr "महीना"
+
+#: Controller/GymAjaxController.php:145
+msgid "Year"
+msgstr "साल"
+
+#: Controller/GymAjaxController.php:158
+msgid "Plan"
+msgstr "योजना"
+
+#: Controller/GymAjaxController.php:230
+msgid "Add/Remove Role"
+msgstr "भूमिका जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:235
+msgid "Enter Role"
+msgstr "भूमिका दर्ज करें"
+
+#: Controller/GymAjaxController.php:238 Controller/GymAjaxController.php:318
+msgid "Add Role"
+msgstr "भूमिका जोड़ें"
+
+#: Controller/GymAjaxController.php:263
+msgid "No roles added"
+msgstr "कोई भूमिका नहीं जोड़ी गई"
+
+#: Controller/GymAjaxController.php:310
+msgid "Add/Remove Specialization"
+msgstr "विशेषज्ञता जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:315
+msgid "Enter Specialization"
+msgstr "विशेषज्ञता दर्ज करें"
+
+#: Controller/GymAjaxController.php:344
+msgid "No Specialization added"
+msgstr "कोई विशेषज्ञता नहीं जोड़ी गई"
+
+#: Controller/GymAjaxController.php:391
+msgid "Add/Remove Interest"
+msgstr "ब्याज जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:396
+msgid "Enter Interest"
+msgstr "ब्याज दर्ज करें"
+
+#: Controller/GymAjaxController.php:399
+msgid "Add Interest"
+msgstr "ब्याज जोड़ें"
+
+#: Controller/GymAjaxController.php:408
+msgid "Interest"
+msgstr "ब्याज"
+
+#: Controller/GymAjaxController.php:424 Controller/GymAjaxController.php:502
+#: Controller/GymAjaxController.php:600
+msgid "No record added yet"
+msgstr "अभी तक कोई रिकॉर्ड नहीं जोड़ा गया है"
+
+#: Controller/GymAjaxController.php:469
+msgid "Add/Remove Source"
+msgstr "स्रोत जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:474
+msgid "Enter Source"
+msgstr "स्रोत दर्ज करें"
+
+#: Controller/GymAjaxController.php:477
+msgid "Add Source"
+msgstr "स्रोत जोड़ें"
+
+#: Controller/GymAjaxController.php:486
+msgid "Source List"
+msgstr "स्रोत सूची"
+
+#: Controller/GymAjaxController.php:567
+msgid "Add/Remove Levels"
+msgstr "स्तर जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:572
+msgid "Enter Level"
+msgstr "स्तर दर्ज करें"
+
+#: Controller/GymAjaxController.php:575 Controller/GymAjaxController.php:777
+#: Template/GymAssignWorkout/assign_workout.ctp:98
+#: Template/GymAssignWorkout/assign_workout_old.ctp:98
+msgid "Add Level"
+msgstr "स्तर जोड़ें"
+
+#: Controller/GymAjaxController.php:584
+msgid "Levels"
+msgstr "स्तर"
+
+#: Controller/GymAjaxController.php:718 Controller/GymAjaxController.php:785
+#: Template/Activity/activity_list.ctp:31 Template/Activity/add_activity.ctp:31
+#: Template/Activity/view_activity.ctp:9
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Element/sidebar.ctp:68 Template/GymAccessright/access_right.ctp:153
+#: Template/GymAssignWorkout/assign_workout.ctp:196
+#: Template/GymAssignWorkout/assign_workout_old.ctp:196
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:54
+msgid "Activity"
+msgstr "गतिविधि"
+
+#: Controller/GymAjaxController.php:719 Controller/GymAjaxController.php:732
+#: Controller/GymAjaxController.php:786
+#: Template/GymAssignWorkout/assign_workout.ctp:197
+#: Template/GymAssignWorkout/assign_workout_old.ctp:197
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:55
+#: Template/Reports/monthlyworkoutreport.ctp:78
+msgid "Sets"
+msgstr "सेट"
+
+#: Controller/GymAjaxController.php:720 Controller/GymAjaxController.php:733
+#: Controller/GymAjaxController.php:787
+#: Template/GymAssignWorkout/assign_workout.ctp:198
+#: Template/GymAssignWorkout/assign_workout_old.ctp:198
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:56
+#: Template/Reports/monthlyworkoutreport.ctp:79
+msgid "Reps"
+msgstr "प्रतिनिधि"
+
+#: Controller/GymAjaxController.php:721 Controller/GymAjaxController.php:788
+#: Template/GymAssignWorkout/assign_workout.ctp:199
+#: Template/GymAssignWorkout/assign_workout_old.ctp:199
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:68
+#: Template/GymAssignWorkout/print_workout.ctp:57
+msgid "KG"
+msgstr "किलोग्राम"
+
+#: Controller/GymAjaxController.php:722 Controller/GymAjaxController.php:789
+#: Template/GymAssignWorkout/assign_workout.ctp:200
+#: Template/GymAssignWorkout/assign_workout_old.ctp:200
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:69
+#: Template/GymAssignWorkout/print_workout.ctp:58
+#: Template/Reports/monthlyworkoutreport.ctp:81
+msgid "Rest Time"
+msgstr "विश्राम करने का समय"
+
+#: Controller/GymAjaxController.php:734
+#: Template/Reports/monthlyworkoutreport.ctp:80
+msgid "Kg"
+msgstr "किलोग्राम"
+
+#: Controller/GymAjaxController.php:735
+msgid "Min"
+msgstr "मिन"
+
+#: Controller/GymAjaxController.php:741
+msgid "Your Workout"
+msgstr "आपका वर्कआउट"
+
+#: Controller/GymAjaxController.php:748 Controller/GymAjaxController.php:824
+msgid "Note"
+msgstr "ध्यान दें"
+
+#: Controller/GymAjaxController.php:756
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "आज के लिए कोई वर्कआउट नहीं सौंपा गया है। आप नीचे से डेटा जोड़ सकते हैं।"
+
+#: Controller/GymAjaxController.php:761
+#: Template/GymAssignWorkout/assign_workout.ctp:91
+#: Template/GymAssignWorkout/assign_workout_old.ctp:91
+msgid "Level"
+msgstr "स्तर"
+
+#: Controller/GymAjaxController.php:764
+#: Template/GymAssignWorkout/assign_workout.ctp:94
+#: Template/GymAssignWorkout/assign_workout_old.ctp:94
+msgid "Select Level"
+msgstr "स्तर चुनें"
+
+#: Controller/GymAjaxController.php:946
+msgid "Edit/Delete Measurement"
+msgstr "माप संपादित करें / हटाएं"
+
+#: Controller/GymAjaxController.php:954
+msgid "Image"
+msgstr "छवि"
+
+#: Controller/GymAjaxController.php:955
+msgid "Measurement"
+msgstr "माप"
+
+#: Controller/GymAjaxController.php:956
+#: Template/GymDailyWorkout/add_measurment.ctp:65
+msgid "Result"
+msgstr "परिणाम"
+
+#: Controller/GymAjaxController.php:957
+msgid "Record Date"
+msgstr "रिकॉर्ड करने की तारीख"
+
+#: Controller/GymAjaxController.php:981
+msgid "No Data Found."
+msgstr "कोई डेटा नहीं मिला।"
+
+#: Controller/GymAjaxController.php:1052
+msgid "Add/Remove Event Place"
+msgstr "इवेंट प्लेस जोड़ें / निकालें"
+
+#: Controller/GymAjaxController.php:1057
+msgid "Enter Place Name"
+msgstr "जगह का नाम दर्ज करें"
+
+#: Controller/GymAjaxController.php:1060
+msgid "Add Place"
+msgstr "जगह जोड़ें"
+
+#: Controller/GymAjaxController.php:1069
+msgid "Place Name"
+msgstr "स्थान का नाम"
+
+#: Controller/GymAjaxController.php:1086
+msgid "No Event Place added"
+msgstr "कोई ईवेंट प्लेस नहीं जोड़ा गया"
+
+#: Controller/GymAjaxController.php:1168
+msgid "Group Members"
+msgstr "समूह के सदस्य"
+
+#: Controller/GymAjaxController.php:1183
+msgid "No Members Assigned Yet."
+msgstr "अभी तक कोई सदस्य नहीं सौंपा।"
+
+#: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1282
+msgid "Add Payment"
+msgstr "भुगतान जोड़ें"
+
+#: Controller/GymAjaxController.php:1255
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Paid Amount"
+msgstr "भरी गई राशि"
+
+#: Controller/GymAjaxController.php:1264
+msgid "Payment By"
+msgstr "पेमेंट इसके ज़रिये"
+
+#: Controller/GymAjaxController.php:1270
+msgid "Paypal"
+msgstr "Paypal"
+
+#: Controller/GymAjaxController.php:1271
+msgid "Stripe"
+msgstr "पट्टी"
+
+#: Controller/GymAjaxController.php:1274
+msgid "Cash"
+msgstr "नकद"
+
+#: Controller/GymAjaxController.php:1275
+msgid "Cheque"
+msgstr "चेक"
+
+#: Controller/GymAjaxController.php:1276
+msgid "Bank Transfer"
+msgstr "बैंक ट्रांसफर"
+
+#: Controller/GymAjaxController.php:1330 Controller/GymAjaxController.php:1483
+msgid "Invoice"
+msgstr "बीजक"
+
+#: Controller/GymAjaxController.php:1341
+msgid "Invoice Number"
+msgstr "बीजक संख्या"
+
+#: Controller/GymAjaxController.php:1344 Controller/GymAjaxController.php:1496
+#: Template/MembershipPayment/print_invoice.ctp:28
+msgid "Issue Date"
+msgstr "जारी करने की तिथि"
+
+#: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1497
+#: Template/GymAttendance/attendance.ctp:109
+#: Template/GymAttendance/attendance.ctp:115
+#: Template/GymAttendance/attendance.ctp:118
+#: Template/GymAttendance/staff_attendance.ctp:67
+#: Template/GymAttendance/staff_attendance.ctp:70
+#: Template/GymMember/member_list.ctp:91 Template/GymMember/member_list.ctp:150
+#: Template/GymMember/view_member.ctp:131
+#: Template/MembershipPayment/add_expense.ctp:41
+#: Template/MembershipPayment/add_income.ctp:56
+#: Template/MembershipPayment/print_invoice.ctp:31
+#: Template/Reports/attendance_report.ctp:126
+msgid "Status"
+msgstr "स्थिति"
+
+#: Controller/GymAjaxController.php:1358 Controller/GymAjaxController.php:1510
+#: Template/MembershipPayment/print_invoice.ctp:41
+msgid "Payment To"
+msgstr "को भुगतान"
+
+#: Controller/GymAjaxController.php:1361 Controller/GymAjaxController.php:1513
+#: Template/MembershipPayment/print_invoice.ctp:44
+msgid "Bill To"
+msgstr "बिल प्राप्तकर्ता"
+
+#: Controller/GymAjaxController.php:1392
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:34
+#: Template/Element/sidebar.ctp:23 Template/GymAccessright/access_right.ctp:63
+#: Template/MembershipPayment/print_invoice.ctp:95
+msgid "Membership Type"
+msgstr "सदस्यता वर्ग"
+
+#: Controller/GymAjaxController.php:1393
+msgid "Sign Up Fee"
+msgstr "साइन अप शुल्क"
+
+#: Controller/GymAjaxController.php:1394
+#: Template/MembershipPayment/print_invoice.ctp:96
+msgid "Membership Fee"
+msgstr "सदस्यता शुल्क"
+
+#: Controller/GymAjaxController.php:1395
+#: Template/MembershipPayment/print_invoice.ctp:97
+msgid "Total"
+msgstr "संपूर्ण"
+
+#: Controller/GymAjaxController.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:173
+msgid "Subtotal :"
+msgstr "उप-योग :"
+
+#: Controller/GymAjaxController.php:1413
+#: Template/MembershipPayment/print_invoice.ctp:177
+msgid "Payment Made :"
+msgstr "भुगतान किया गया :"
+
+#: Controller/GymAjaxController.php:1417
+msgid "Due Amount  :"
+msgstr "देय राशि  :"
+
+#: Controller/GymAjaxController.php:1425
+#: Template/MembershipPayment/print_invoice.ctp:207
+msgid "Payment History"
+msgstr "भुगतान इतिहास"
+
+#: Controller/GymAjaxController.php:1429 Controller/GymAjaxController.php:1551
+#: Template/GymAttendance/attendance.ctp:39
+#: Template/GymAttendance/attendance.ctp:81
+#: Template/GymAttendance/staff_attendance.ctp:31
+#: Template/GymDailyWorkout/view_workout.ctp:80
+#: Template/GymMember/view_attendance.ctp:69 Template/GymMessage/inbox.ctp:55
+#: Template/GymMessage/sent.ctp:44 Template/GymStore/sell_product.ctp:54
+#: Template/MembershipPayment/add_expense.ctp:50
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:105
+#: Template/MembershipPayment/print_invoice.ctp:211
+msgid "Date"
+msgstr "तारीख"
+
+#: Controller/GymAjaxController.php:1430 Template/GymMember/view_member.ctp:413
+#: Template/GymMember/view_member.ctp:441
+#: Template/GymSubscriptionHistory/index.ctp:44
+#: Template/GymSubscriptionHistory/index.ctp:74 Template/Membership/add.ctp:117
+#: Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:99
+#: Template/MembershipPayment/print_invoice.ctp:212
+msgid "Amount"
+msgstr "रकम"
+
+#: Controller/GymAjaxController.php:1431
+#: Template/MembershipPayment/print_invoice.ctp:213
+msgid "Method"
+msgstr "तरीका"
+
+#: Controller/GymAjaxController.php:1450 Controller/GymAjaxController.php:1586
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:57
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "छाप"
+
+#: Controller/GymAjaxController.php:1546
+#: Template/MembershipPayment/print_invoice.ctp:87
+msgid "Invoice Entries"
+msgstr "चालान प्रविष्ट करता है"
+
+#: Controller/GymAjaxController.php:1552
+#: Template/MembershipPayment/print_invoice.ctp:106
+msgid "Entry"
+msgstr "प्रवेश"
+
+#: Controller/GymAjaxController.php:1553
+#: Template/MembershipPayment/print_invoice.ctp:107
+msgid "Price"
+msgstr "कीमत"
+
+#: Controller/GymAjaxController.php:1554
+#: Template/AdminProfile/edit_profile.ctp:54
+#: Template/GymAccountant/add_accountant.ctp:124
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:352
+#: Template/GymMember/view_member.ctp:97
+#: Template/GymProfile/view_profile.ctp:94 Template/Installer/index.ctp:527
+#: Template/MemberRegistration/index.ctp:230
+#: Template/MembershipPayment/print_invoice.ctp:108
+#: Template/StaffMembers/add_staff.ctp:159 Template/Users/login.ctp:21
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+#: Controller/GymAjaxController.php:1577
+#: Template/MembershipPayment/print_invoice.ctp:198
+msgid "Grand Total :"
+msgstr "कुल योग :"
+
+#: Controller/GymAjaxController.php:1603
+msgid "Notice Detail"
+msgstr "सूचना विस्तार से"
+
+#: Controller/GymAjaxController.php:1608
+msgid "Notice Title "
+msgstr "सूचना शीर्षक"
+
+#: Controller/GymAjaxController.php:1613 Template/GymNotice/notice_list.ctp:42
+#: Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "नोटिस टिप्पणी"
+
+#: Controller/GymAjaxController.php:1618 Template/GymNotice/add_notice.ctp:64
+#: Template/GymNotice/notice_list.ctp:43 Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "के लिए नोटिस"
+
+#: Controller/GymAjaxController.php:1623
+#: Template/GymAssignWorkout/assign_workout.ctp:108
+#: Template/GymAssignWorkout/assign_workout_old.ctp:108
+#: Template/GymMember/view_attendance.ctp:49
+#: Template/GymNotice/add_notice.ctp:82
+#: Template/GymNutrition/addnutrition_schedule.ctp:70
+msgid "Start Date"
+msgstr "आरंभ करने की तिथि"
+
+#: Controller/GymAjaxController.php:1628
+msgid "End Date "
+msgstr "अंतिम तिथि"
+
+#: Controller/GymAssignWorkoutController.php:42
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:93
+#: Template/Element/sidebar.ctp:77
+#: Template/GymAssignWorkout/assign_workout.ctp:64
+#: Template/GymAssignWorkout/assign_workout_old.ctp:64
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36
+#: Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "वर्कआउट असाइन करें"
+
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:269
+msgid "success! Record Saved Successfully."
+msgstr "सफलता! रिकॉर्ड सफलतापूर्वक सहेजा गया।"
+
+#: Controller/GymAssignWorkoutController.php:106
+#: Controller/GymAssignWorkoutController.php:274
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "त्रुटि! वर्कआउट के दिनों का डेटा सहेजा नहीं जा सका। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymAssignWorkoutController.php:113
+#: Controller/GymAssignWorkoutController.php:277
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "त्रुटि! रिकॉर्ड सहेजा नहीं जा सका। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymAssignWorkoutController.php:200
+#: Template/GymDailyWorkout/view_workout.ctp:58
+msgid "View Workout"
+msgstr "वर्कआउट देखें"
+
+#: Controller/GymAssignWorkoutController.php:298
+#: Controller/GymMemberController.php:367
+#: Controller/GymNutritionController.php:306
+#: Controller/GymProductController.php:60 Controller/GymStoreController.php:111
+#: Controller/MembershipPaymentController.php:349
+msgid "Success! Record Deleted Successfully."
+msgstr "सफलता! रिकॉर्ड सफलतापूर्वक हटा दिया गया।"
+
+#: Controller/GymAttendanceController.php:94
+#: Controller/GymAttendanceController.php:163
+msgid "Success! Attendance Saved Successfully."
+msgstr "सफलता! उपस्थिति सफलतापूर्वक बच गई।"
+
+#: Controller/GymAttendanceController.php:167
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "त्रुटि! कृपया सदस्य / स्टाफ-सदस्य चुनें।"
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:29
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "वर्कआउट जोड़ें"
+
+#: Controller/GymDailyWorkoutController.php:266
+#: Template/GymDailyWorkout/add_workout.ctp:119
+#: Template/GymDailyWorkout/view_workout.ctp:67
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "माप जोड़ें"
+
+#: Controller/GymDailyWorkoutController.php:356
+msgid "Edit Measurement"
+msgstr "माप संपादित करें"
+
+#: Controller/GymEmailSettingController.php:51
+msgid "Test Email"
+msgstr "ईमेल का परीक्षण करें"
+
+#: Controller/GymGroupController.php:22 Template/GymMember/add_member.ctp:239
+msgid "Add Group"
+msgstr "समूह जोड़ें"
+
+#: Controller/GymGroupController.php:38
+msgid "Success! Group Added Successfully."
+msgstr "सफलता! समूह को सफलतापूर्वक जोड़ा गया।"
+
+#: Controller/GymGroupController.php:49
+msgid "Edit Group"
+msgstr "समूह संपादित करें"
+
+#: Controller/GymMemberController.php:64
+#: Template/GymAssignWorkout/assign_workout.ctp:86
+#: Template/GymAssignWorkout/assign_workout_old.ctp:86
+#: Template/GymDailyWorkout/add_workout.ctp:160
+#: Template/GymMember/member_list.ctp:46
+#: Template/GymNutrition/addnutrition_schedule.ctp:65
+msgid "Add Member"
+msgstr "सदस्य जोड़ें"
+
+#: Controller/GymMemberController.php:205
+msgid "Edit Member"
+msgstr "सदस्य को संपादित करें"
+
+#: Controller/GymMemberController.php:471
+msgid "Success! Member activated successfully."
+msgstr "सफलता! सदस्य सफलतापूर्वक सक्रिय हो गया।"
+
+#: Controller/GymMemberController.php:595
+msgid "File Not Import , Please Retry."
+msgstr "फ़ाइल आयात नहीं, कृपया पुनः प्रयास करें।"
+
+#: Controller/GymMessageController.php:139
+msgid "Success! Message Sent Successfully."
+msgstr "सफलता! संदेश सफलतापूर्वक भेजा जा चुका है।"
+
+#: Controller/GymMessageController.php:141
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "त्रुटि! संदेश भेजा नहीं जा सका, कृपया पुनः प्रयास करें।"
+
+#: Controller/GymMessageController.php:189
+msgid "Success! Message Deleted Successfully."
+msgstr "सफलता! संदेश सफलतापूर्वक हटा दिया गया।"
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "सफलता! आपी कुंजी सफलतापूर्वक बच गई।"
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "सफलता! आपी कुंजी अद्यतन सफलतापूर्वक।"
+
+#: Controller/GymNewsletterController.php:92
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "सफलता! मेल सफलतापूर्वक सिंक्रनाइज़ किया गया।"
+
+#: Controller/GymNewsletterController.php:127
+msgid "Campaign Tests Not Sent!"
+msgstr "अभियान परीक्षण नहीं भेजे गए!"
+
+#: Controller/GymNewsletterController.php:129
+msgid "Campaign Tests Sent!"
+msgstr "अभियान परीक्षण भेजे गए!"
+
+#: Controller/GymNoticeController.php:67 Controller/GymProductController.php:30
+#: Controller/GymStoreController.php:49
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "त्रुटि! रिकॉर्ड नहीं सहेजा गया। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymNoticeController.php:93
+msgid "Success! Record Successfully Updated."
+msgstr "सफलता! सफलतापूर्वक रिकॉर्ड करें।"
+
+#: Controller/GymNoticeController.php:96 Controller/GymProductController.php:48
+#: Controller/GymStoreController.php:93
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "त्रुटि! रिकॉर्ड नहीं अपडेट करें। कृपया फिर से प्रयास करें।"
+
+#: Controller/GymNoticeController.php:107
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "सफलता! रिकॉर्ड सफलतापूर्वक नष्ट कर दिया गया।"
+
+#: Controller/GymNutritionController.php:39
+#: Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "पोषण अनुसूची जोड़ें"
+
+#: Controller/GymNutritionController.php:79
+#: Controller/GymNutritionController.php:218
+msgid "Success! Nutrition Added Sucessfully."
+msgstr "सफलता! पोषण जोड़ा गया।"
+
+#: Controller/GymNutritionController.php:83
+#: Controller/GymNutritionController.php:222
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "त्रुटि! पोषण डेटा सहेजा नहीं जा सका। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymNutritionController.php:87
+#: Controller/GymNutritionController.php:226
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "त्रुटि! पोषण अनुसूची को बचाया नहीं जा सका। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymNutritionController.php:171
+msgid "View Nutrition Schedule"
+msgstr "पोषण अनुसूची देखें"
+
+#: Controller/GymProfileController.php:29
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr "त्रुटि! नया पासवर्ड और पुष्टि पासवर्ड मेल नहीं खाते हैं। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymProfileController.php:36
+msgid "Success! Password Updated Successfully"
+msgstr "सफलता! पासवर्ड सफलतापूर्वक अपडेट किया गया"
+
+#: Controller/GymProfileController.php:40
+msgid "Error! Current password is wrong.Please try again."
+msgstr "त्रुटि! वर्तमान पासवर्ड गलत है। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymProfileController.php:64
+msgid "Success! Information Updated Successfully"
+msgstr "सफलता! जानकारी अद्यतन सफलतापूर्वक"
+
+#: Controller/GymProfileController.php:68
+msgid "Error! Not Update.Please try again."
+msgstr "त्रुटि! अपडेट नहीं। कृपया पुन: प्रयास करें।"
+
+#: Controller/GymReservationController.php:52
+msgid "Error! Event already create in selected date and time and same location."
+msgstr "त्रुटि! इवेंट पहले से ही चयनित तिथि और समय और उसी स्थान पर बनाते हैं।"
+
+#: Controller/GymReservationController.php:111
+msgid "Error! Event already create in selected date and time and same location"
+msgstr "त्रुटि! इवेंट पहले से ही चयनित तिथि और समय और उसी स्थान पर बनाते हैं"
+
+#: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
+msgid "Only "
+msgstr "केवल"
+
+#: Controller/MemberRegistrationController.php:104
+msgid "Registration completed successfully. You will get email after activation"
+msgstr "पंजीकरण सफलतापूर्वक पूरा हुआ। एक्टिवेशन के बाद आपको ईमेल मिलेगा"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:85
+#: Template/GymMember/add_member.ctp:449
+#: Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "सदस्यता जोड़ें"
+
+#: Controller/MembershipController.php:67
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "त्रुटि! सहेजते समय एक त्रुटि हुई, कृपया बाद में पुनः प्रयास करें।"
+
+#: Controller/MembershipController.php:87
+msgid "Edit Membership"
+msgstr "सदस्यता संपादित करें"
+
+#: Controller/MembershipController.php:196
+msgid "Success! Activity Successfully Assigned."
+msgstr "सफलता! गतिविधि सफलतापूर्वक सौंपी गई।"
+
+#: Controller/MembershipController.php:206
+msgid "Success! Activity Unassigned Successfully."
+msgstr "सफलता! गतिविधि सफलतापूर्वक निरस्त की गई।"
+
+#: Controller/MembershipPaymentController.php:114
+#: Controller/MembershipPaymentController.php:148
+#: Controller/MembershipPaymentController.php:200
+msgid "Success! Payment Added Successfully."
+msgstr "सफलता! भुगतान सफलतापूर्वक जोड़ा गया।"
+
+#: Controller/MembershipPaymentController.php:254
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "सफलता! भुगतान रिकॉर्ड सफलतापूर्वक हटा दिया गया।"
+
+#: Controller/MembershipPaymentController.php:503
+#: Controller/MembershipPaymentController.php:524
+msgid "Success! Payment Successfully Completed."
+msgstr "सफलता! भुगतान सफलतापूर्वक पूरा हुआ।"
+
+#: Controller/MembershipPaymentController.php:527
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "पेपैल भुगतान IPN सहेजें DB में विफल रहा।"
+
+#: Controller/StaffMembersController.php:30
+#: Template/Activity/add_activity.ctp:73
+#: Template/StaffMembers/staff_list.ctp:34
+msgid "Add Staff Member"
+msgstr "स्टाफ सदस्य जोड़ें"
+
+#: Controller/StaffMembersController.php:86
+msgid "Edit Staff Member"
+msgstr "स्टाफ सदस्य संपादित करें"
+
+#: Controller/StaffMembersController.php:149
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "सफलता! स्टाफ सदस्य को सफलतापूर्वक हटा दिया गया।"
+
+#: Controller/UsersController.php:58
+msgid "Sorry, Your account is expired."
+msgstr "क्षमा करें, आपका खाता समाप्त हो गया है।"
+
+#: Controller/UsersController.php:68
+msgid "Error! Your account not activated yet!"
+msgstr "त्रुटि! आपका खाता अभी तक सक्रिय नहीं हुआ है!"
+
+#: Controller/UsersController.php:109
+msgid "Invalid username or password, try again"
+msgstr "अमान्य उपयोगकर्ता नाम या पासवर्ड, पुनः प्रयास करें"
+
+#: View/Helper/GymHelper.php:293
+msgid "Not Taken"
+msgstr "नहीं लिया"
+
+#: View/Helper/GymHelper.php:328 View/Helper/GymHelper.php:330
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:68
+#: Template/Element/sidebar.ctp:52
+msgid "Members"
+msgstr "सदस्य"
+
+#: View/Helper/GymHelper.php:328 View/Helper/GymHelper.php:330
+msgid "Staff Members"
+msgstr "कर्मचारी वर्ग"
+
+#: View/Helper/GymHelper.php:328 View/Helper/GymHelper.php:330
+msgid "Accountants"
+msgstr "लेखाकार"
+
+#: View/Helper/GymHelper.php:330
+msgid "Administrator"
+msgstr "प्रशासक"
+
+#: View/Helper/GymHelper.php:555
+msgid "No data available in table"
+msgstr "तालिका में आंकड़े उपलब्ध नहीं है"
+
+#: View/Helper/GymHelper.php:556
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "_TARTAL_ प्रविष्टियों में से _START_ से _END_ दिखा रहा है"
+
+#: View/Helper/GymHelper.php:557
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 से 0 प्रविष्टियों को दिखा रहा है"
+
+#: View/Helper/GymHelper.php:558
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(_MAX_ कुल प्रविष्टियों से फ़िल्टर किया गया)"
+
+#: View/Helper/GymHelper.php:561
+msgid "Show _MENU_ entries"
+msgstr "_MENU_ प्रविष्टियाँ दिखाएँ"
+
+#: View/Helper/GymHelper.php:562
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+#: View/Helper/GymHelper.php:563
+msgid "Processing..."
+msgstr "प्रोसेस हो रहा है ..."
+
+#: View/Helper/GymHelper.php:564
+msgid "Search"
+msgstr "खोज"
+
+#: View/Helper/GymHelper.php:565
+msgid "No matching records found"
+msgstr "कोई मिलान रिकॉर्ड पाया"
+
+#: View/Helper/GymHelper.php:567
+msgid "First"
+msgstr "प्रथम"
+
+#: View/Helper/GymHelper.php:568
+msgid "Last"
+msgstr "अंतिम"
+
+#: View/Helper/GymHelper.php:569
+msgid "Next"
+msgstr "आगे"
+
+#: View/Helper/GymHelper.php:570
+msgid "Previous"
+msgstr "पिछला"
+
+#: View/Helper/GymHelper.php:573
+msgid "activate to sort column ascending"
+msgstr "कॉलम को आरोही करने के लिए सक्रिय करें"
+
+#: View/Helper/GymHelper.php:574
+msgid "activate to sort column descending"
+msgstr "कॉलम को अवरोही क्रम में ले जाने के लिए सक्रिय करें"
+
+#: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:34
+msgid "Activity List"
+msgstr "गतिविधि सूची"
+
+#: Template/Activity/activity_list.ctp:47
+#: Template/Activity/activity_list.ctp:78
+#: Template/Membership/view_activity.ctp:73
+#: Template/Membership/view_activity.ctp:97
+msgid "Activity Name"
+msgstr "गतिविधि का नाम"
+
+#: Template/Activity/activity_list.ctp:48
+#: Template/Activity/activity_list.ctp:79
+#: Template/Membership/view_activity.ctp:74
+#: Template/Membership/view_activity.ctp:98
+msgid "Activity Category"
+msgstr "गतिविधि श्रेणी"
+
+#: Template/Activity/activity_list.ctp:49
+#: Template/Activity/activity_list.ctp:80
+#: Template/Membership/view_activity.ctp:75
+#: Template/Membership/view_activity.ctp:99
+msgid "Activity Trainer"
+msgstr "गतिविधि ट्रेनर"
+
+#: Template/Activity/add_activity.ctp:44 Template/Activity/add_activity.ctp:47
+#: Template/Membership/add.ctp:55 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "श्रेणी का चयन करें"
+
+#: Template/Activity/add_activity.ctp:55
+msgid "Activity Title"
+msgstr "गतिविधि शीर्षक"
+
+#: Template/Activity/add_activity.ctp:63
+msgid "Assign to Staff Member"
+msgstr "स्टाफ मेंबर को असाइन करें"
+
+#: Template/Activity/add_activity.ctp:67
+#: Template/ClassSchedule/add_class.ctp:50
+#: Template/ClassSchedule/add_class.ctp:52
+#: Template/ClassSchedule/add_class.ctp:67
+#: Template/ClassSchedule/add_class_old.ctp:50
+#: Template/ClassSchedule/add_class_old.ctp:52
+#: Template/ClassSchedule/add_class_old.ctp:67
+#: Template/GymMember/add_member.ctp:377 Template/GymMember/add_member.ctp:379
+#: Template/GymMember/add_member.ctp:409
+msgid "Select Staff Member"
+msgstr "स्टाफ सदस्य का चयन करें"
+
+#: Template/Activity/add_activity.ctp:78 Template/GymMember/add_member.ctp:446
+#: Template/MemberRegistration/index.ctp:272
+#: Template/MembershipPayment/generate_payment_invoice.ctp:91
+msgid "Select Membership"
+msgstr "सदस्यता का चयन करें"
+
+#: Template/Activity/add_activity.ctp:94 Template/Activity/add_activity.ctp:115
+#: Template/Activity/add_activity.ctp:135
+msgid "Add Youtube Embaded Link"
+msgstr "यूट्यूब उभरा लिंक जोड़ें"
+
+#: Template/Activity/add_activity.ctp:155
+msgid "Add More"
+msgstr "अधिक जोड़ें"
+
+#: Template/Activity/add_activity.ctp:159
+msgid "Save Activity"
+msgstr "गतिविधि सहेजें"
+
+#: Template/Activity/view_activity.ctp:27
+msgid "No Any Video"
+msgstr "कोई वीडियो नहीं"
+
+#: Template/AdminProfile/edit_profile.ctp:19
+msgid "Profile Setting"
+msgstr "प्रोफ़ाइल सेटिंग"
+
+#: Template/AdminProfile/edit_profile.ctp:20
+msgid "Admin"
+msgstr "व्यवस्थापक"
+
+#: Template/AdminProfile/edit_profile.ctp:28
+#: Template/GymAccountant/add_accountant.ctp:42
+#: Template/GymMember/add_member.ctp:184
+#: Template/MemberRegistration/index.ctp:115
+#: Template/StaffMembers/add_staff.ctp:58
+msgid "Personal Information"
+msgstr "व्यक्तिगत जानकारी"
+
+#: Template/AdminProfile/edit_profile.ctp:31
+#: Template/GymAccountant/add_accountant.ctp:44
+#: Template/GymMember/add_member.ctp:195
+#: Template/MemberRegistration/index.ctp:126
+#: Template/StaffMembers/add_staff.ctp:60
+msgid "First Name"
+msgstr "पहला नाम"
+
+#: Template/AdminProfile/edit_profile.ctp:38
+#: Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:209
+#: Template/MemberRegistration/index.ctp:140
+#: Template/StaffMembers/add_staff.ctp:74
+msgid "Last Name"
+msgstr "उपनाम"
+
+#: Template/AdminProfile/edit_profile.ctp:45
+#: Template/GeneralSetting/save_setting.ctp:131
+#: Template/GymAccountant/add_accountant.ctp:115
+#: Template/GymDailyWorkout/workout_list.ctp:58
+#: Template/GymDailyWorkout/workout_list.ctp:84
+#: Template/GymMember/add_member.ctp:291 Template/GymMember/view_member.ctp:81
+#: Template/GymProfile/view_profile.ctp:168 Template/Installer/index.ctp:463
+#: Template/MemberRegistration/index.ctp:220
+#: Template/StaffMembers/add_staff.ctp:150
+msgid "Email"
+msgstr "ईमेल"
+
+#: Template/AdminProfile/edit_profile.ctp:52
+#: Template/GymAccountant/add_accountant.ctp:122
+#: Template/GymMember/add_member.ctp:350
+#: Template/MemberRegistration/index.ctp:227
+#: Template/StaffMembers/add_staff.ctp:157
+msgid "Login Information"
+msgstr "लॉगिन जानकारी"
+
+#: Template/AdminProfile/edit_profile.ctp:61
+#: Template/GymAccountant/add_accountant.ctp:131
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:359
+#: Template/Installer/index.ctp:535 Template/MemberRegistration/index.ctp:237
+#: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:22
+msgid "Password"
+msgstr "कुंजिका"
+
+#: Template/AdminProfile/edit_profile.ctp:68
+#: Template/GymAccountant/add_accountant.ctp:138
+#: Template/GymDailyWorkout/add_measurment.ctp:77
+#: Template/GymMember/add_member.ctp:366
+#: Template/MemberRegistration/index.ctp:244
+#: Template/StaffMembers/add_staff.ctp:173
+msgid "Display Image"
+msgstr "प्रदर्शन छवि"
+
+#: Template/AdminProfile/edit_profile.ctp:78
+msgid "Save Details"
+msgstr "विवरण सहेजें"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:8
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:29
+#: Template/Cell/GymRenderMenu/member_menu.ctp:19
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:18
+#: Template/Element/sidebar.ctp:18
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:39
+#: Template/Dashboard/dashboard.ctp:83
+#: Template/Dashboard/member_dashboard.ctp:97
+#: Template/Dashboard/staff_acc_dashboard.ctp:112
+#: Template/Element/sidebar.ctp:28 Template/GymAccessright/access_right.ctp:93
+#: Template/GymGroup/add_group.ctp:9 Template/GymGroup/group_list.ctp:28
+#: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:234
+#: Template/MemberRegistration/index.ctp:165
+msgid "Group"
+msgstr "समूह"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:44
+#: Template/Element/sidebar.ctp:33
+msgid "Class & Nutrition Schedule"
+msgstr "कक्षा और पोषण अनुसूची"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:49
+#: Template/ClassBooking/booking_list.ctp:29
+#: Template/ClassSchedule/add_class.ctp:31
+#: Template/ClassSchedule/add_class_old.ctp:31
+#: Template/ClassSchedule/class_list.ctp:29
+#: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:38
+#: Template/GymAccessright/access_right.ctp:183
+msgid "Class Schedule"
+msgstr "वर्ग अनुसूची"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:54
+#: Template/ClassBooking/add_booking.ctp:23
+#: Template/GymAccessright/access_right.ctp:213
+msgid "Class Booking"
+msgstr "क्लास बुकिंग"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:58
+#: Template/Element/sidebar.ctp:42 Template/GymAccessright/access_right.ctp:633
+#: Template/GymNutrition/addnutrition_schedule.ctp:43
+#: Template/GymNutrition/member_nutrition.ctp:19
+#: Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "पोषण अनुसूची"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:64
+#: Template/Element/sidebar.ctp:48
+msgid "Member Management"
+msgstr "सदस्य प्रबंधन"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:77
+#: Template/Element/sidebar.ctp:61 Template/GymAccessright/access_right.ctp:25
+#: Template/GymAccessright/access_right.ctp:333
+#: Template/GymAccountant/accountant_list.ctp:30
+#: Template/GymAccountant/add_accountant.ctp:31
+#: Template/GymNotice/add_notice.ctp:67
+msgid "Accountant"
+msgstr "मुनीम"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89
+#: Template/Element/sidebar.ctp:73 Template/GymDailyWorkout/add_workout.ctp:175
+msgid "Workout"
+msgstr "व्यायाम"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:97
+#: Template/Element/sidebar.ctp:81
+msgid "Daily Workout"
+msgstr "दैनिक कसरत"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:104
+#: Template/Element/sidebar.ctp:88
+msgid "Store & Products"
+msgstr "स्टोर और उत्पाद"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:108
+#: Template/Element/sidebar.ctp:92 Template/GymAccessright/access_right.ctp:452
+#: Template/GymStore/sell_product.ctp:60
+msgid "Product"
+msgstr "उत्पाद"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:112
+#: Template/Element/sidebar.ctp:96 Template/GymAccessright/access_right.ctp:482
+#: Template/GymStore/sell_product.ctp:35 Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "दुकान"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:119
+#: Template/Element/sidebar.ctp:103
+#: Template/GymAccessright/access_right.ctp:663
+#: Template/GymReservation/reservation_list.ctp:35
+msgid "Event"
+msgstr "प्रतिस्पर्धा"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124
+#: Template/Element/sidebar.ctp:108 Template/GymAttendance/attendance.ctp:23
+#: Template/GymAttendance/staff_attendance.ctp:19
+#: Template/GymMember/member_list.ctp:116
+#: Template/GymMember/view_attendance.ctp:72
+msgid "Attendance"
+msgstr "उपस्थिति"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:129
+#: Template/Dashboard/dashboard.ctp:166 Template/Dashboard/dashboard.ctp:181
+#: Template/Element/sidebar.ctp:113
+#: Template/MembershipPayment/generate_payment_invoice.ctp:63
+#: Template/MembershipPayment/payment_list.ctp:36
+msgid "Payment"
+msgstr "भुगतान"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:134
+#: Template/Element/sidebar.ctp:118
+msgid "Membership Payment"
+msgstr "सदस्यता भुगतान"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:139
+#: Template/Element/sidebar.ctp:123
+#: Template/GymAccessright/access_right.ctp:393
+#: Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "आय"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:144
+#: Template/Element/sidebar.ctp:128
+msgid "Expenses"
+msgstr "व्यय"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:152
+#: Template/Dashboard/dashboard.ctp:95
+#: Template/Dashboard/member_dashboard.ctp:115
+#: Template/Dashboard/staff_acc_dashboard.ctp:136
+#: Template/Element/sidebar.ctp:136
+#: Template/GymAccessright/access_right.ctp:542
+#: Template/GymMessage/compose_message.ctp:9 Template/GymMessage/inbox.ctp:10
+#: Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "संदेश"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:157
+#: Template/Element/sidebar.ctp:141
+#: Template/GymAccessright/access_right.ctp:512
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "समाचार पत्रिका"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:162
+#: Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:572
+#: Template/GymNotice/add_notice.ctp:47 Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "नोटिस"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:167
+#: Template/Cell/GymRenderMenu/member_menu.ctp:31
+#: Template/Element/sidebar.ctp:160
+#: Template/GymAccessright/access_right.ctp:602
+msgid "Report"
+msgstr "रिपोर्ट"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:173
+msgid "SubscriptionHistory"
+msgstr "सदस्यता इतिहास"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:180
+#: Template/Element/sidebar.ctp:165 Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "सामान्य सेटिंग्स"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:185
+#: Template/Element/sidebar.ctp:170 Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "पहूंच अधिकार"
+
+#: Template/ClassBooking/add_booking.ctp:19
+msgid "Edit Booking Class"
+msgstr "बुकिंग क्लास संपादित करें"
+
+#: Template/ClassBooking/add_booking.ctp:21
+msgid "Add Booking Class"
+msgstr "बुकिंग क्लास जोड़ें"
+
+#: Template/ClassBooking/add_booking.ctp:26
+#: Template/ClassSchedule/add_class.ctp:34
+#: Template/ClassSchedule/add_class_old.ctp:34
+#: Template/ClassSchedule/class_list.ctp:28
+#: Template/ClassSchedule/view_schedule.ctp:13
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "कक्षा सूची"
+
+#: Template/ClassBooking/add_booking.ctp:36
+#: Template/ClassBooking/booking_list.ctp:51
+#: Template/ClassBooking/booking_list.ctp:87
+#: Template/GeneralSetting/save_setting.ctp:333
+#: Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77
+#: Template/GymAttendance/attendance.ctp:108
+#: Template/GymAttendance/attendance.ctp:117
+#: Template/GymAttendance/staff_attendance.ctp:69
+#: Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82
+#: Template/GymMember/member_list.ctp:83 Template/GymMember/member_list.ctp:142
+#: Template/GymNutrition/nutrition_list.ctp:53
+#: Template/GymNutrition/nutrition_list.ctp:77
+#: Template/GymStore/sell_record.ctp:36 Template/GymStore/sell_record.ctp:63
+#: Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:72
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Member Name"
+msgstr "सदस्य का नाम"
+
+#: Template/ClassBooking/add_booking.ctp:42
+#: Template/GymAssignWorkout/assign_workout.ctp:77
+#: Template/GymAssignWorkout/assign_workout_old.ctp:77
+#: Template/GymDailyWorkout/add_workout.ctp:136
+#: Template/GymDailyWorkout/add_workout.ctp:150
+#: Template/GymNutrition/addnutrition_schedule.ctp:56
+#: Template/MembershipPayment/generate_payment_invoice.ctp:84
+#: Template/Reports/monthlyworkoutreport.ctp:51
+msgid "Select Member"
+msgstr "सदस्य का चयन करें"
+
+#: Template/ClassBooking/add_booking.ctp:48
+#: Template/ClassBooking/booking_list.ctp:50
+#: Template/ClassBooking/booking_list.ctp:86
+#: Template/ClassSchedule/add_class.ctp:43
+#: Template/ClassSchedule/add_class_old.ctp:43
+#: Template/ClassSchedule/class_list.ctp:50
+#: Template/ClassSchedule/class_list.ctp:84
+#: Template/Reports/attendance_report.ctp:124
+msgid "Class Name"
+msgstr "कक्षा का नाम"
+
+#: Template/ClassBooking/add_booking.ctp:50
+#: Template/GymAttendance/attendance.ctp:43
+#: Template/GymAttendance/attendance.ctp:47
+#: Template/GymMessage/compose_message.ctp:55
+#: Template/GymNotice/add_notice.ctp:76 Template/Membership/add.ctp:107
+msgid "Select Class"
+msgstr "कक्षा का चयन करें"
+
+#: Template/ClassBooking/add_booking.ctp:55
+#: Template/GymDailyWorkout/add_workout.ctp:167
+msgid "Select Date"
+msgstr "तारीख़ चुनें"
+
+#: Template/ClassBooking/add_booking.ctp:63
+msgid "Save Booking"
+msgstr "बुकिंग सहेजें"
+
+#: Template/ClassBooking/booking_list.ctp:28
+msgid "Class Booking List"
+msgstr "कक्षा बुकिंग सूची"
+
+#: Template/ClassBooking/booking_list.ctp:35
+#: Template/ClassSchedule/class_list.ctp:35
+#: Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "कक्षा अनुसूचियां"
+
+#: Template/ClassBooking/booking_list.ctp:40
+msgid "Add Class Booking"
+msgstr "क्लास बुकिंग जोड़ें"
+
+#: Template/ClassBooking/booking_list.ctp:52
+#: Template/ClassBooking/booking_list.ctp:88
+msgid "Booking Date"
+msgstr "बुक करने की तिथि"
+
+#: Template/ClassBooking/booking_list.ctp:53
+#: Template/ClassBooking/booking_list.ctp:89
+msgid "Booking Day"
+msgstr "बुकिंग का दिन"
+
+#: Template/ClassBooking/booking_list.ctp:54
+#: Template/ClassBooking/booking_list.ctp:90
+#: Template/ClassSchedule/add_class.ctp:79
+#: Template/ClassSchedule/add_class_old.ctp:79
+#: Template/ClassSchedule/class_list.ctp:54
+#: Template/ClassSchedule/class_list.ctp:88
+msgid "Location"
+msgstr "स्थान"
+
+#: Template/ClassSchedule/add_class.ctp:58
+#: Template/ClassSchedule/add_class.ctp:73
+#: Template/ClassSchedule/add_class_old.ctp:58
+#: Template/ClassSchedule/add_class_old.ctp:73
+msgid "Add"
+msgstr "जोड़ना"
+
+#: Template/ClassSchedule/add_class.ctp:65
+#: Template/ClassSchedule/add_class_old.ctp:65
+msgid "Select Assistant Staff Member"
+msgstr "सहायक स्टाफ सदस्य का चयन करें"
+
+#: Template/ClassSchedule/add_class.ctp:86
+#: Template/ClassSchedule/add_class_old.ctp:86
+#: Template/GymAssignWorkout/assign_workout.ctp:128
+#: Template/GymAssignWorkout/assign_workout_old.ctp:128
+#: Template/GymNutrition/addnutrition_schedule.ctp:90
+msgid "Select Days"
+msgstr "दिनों का चयन करें"
+
+#: Template/ClassSchedule/add_class.ctp:88
+#: Template/ClassSchedule/add_class_old.ctp:88
+msgid "Sunday"
+msgstr "रविवार"
+
+#: Template/ClassSchedule/add_class.ctp:88
+#: Template/ClassSchedule/add_class_old.ctp:88
+msgid "Monday"
+msgstr "सोमवार"
+
+#: Template/ClassSchedule/add_class.ctp:88
+#: Template/ClassSchedule/add_class_old.ctp:88
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+#: Template/ClassSchedule/add_class.ctp:88
+#: Template/ClassSchedule/add_class_old.ctp:88
+msgid "Wednesday"
+msgstr "बुधवार"
+
+#: Template/ClassSchedule/add_class.ctp:88
+#: Template/ClassSchedule/add_class_old.ctp:88
+msgid "Thursday"
+msgstr "गुरूवार"
+
+#: Template/ClassSchedule/add_class.ctp:88
+#: Template/ClassSchedule/add_class_old.ctp:88
+msgid "Friday"
+msgstr "शुक्रवार"
+
+#: Template/ClassSchedule/add_class.ctp:88
+#: Template/ClassSchedule/add_class_old.ctp:88
+msgid "Saturday"
+msgstr "शनिवार"
+
+#: Template/ClassSchedule/add_class.ctp:94
+#: Template/ClassSchedule/add_class.ctp:111
+#: Template/ClassSchedule/add_class_old.ctp:94
+#: Template/ClassSchedule/add_class_old.ctp:110
+#: Template/GymReservation/add_reservation.ctp:83
+#: Template/GymReservation/reservation_list.ctp:54
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Start Time"
+msgstr "समय शुरू"
+
+#: Template/ClassSchedule/add_class.ctp:101
+#: Template/ClassSchedule/add_class.ctp:111
+#: Template/ClassSchedule/add_class_old.ctp:101
+#: Template/ClassSchedule/add_class_old.ctp:110
+#: Template/GymReservation/add_reservation.ctp:90
+msgid "End Time"
+msgstr "अंतिम समय"
+
+#: Template/ClassSchedule/add_class.ctp:107
+#: Template/ClassSchedule/add_class_old.ctp:106
+msgid "Add Time"
+msgstr "समय जोड़ें"
+
+#: Template/ClassSchedule/add_class.ctp:145
+#: Template/ClassSchedule/add_class_old.ctp:141
+#: Template/GymReservation/add_reservation.ctp:98
+msgid "Save Class"
+msgstr "सेव क्लास"
+
+#: Template/ClassSchedule/class_list.ctp:51
+#: Template/ClassSchedule/class_list.ctp:85
+msgid "Staff Name"
+msgstr "स्टाफ का नाम"
+
+#: Template/ClassSchedule/class_list.ctp:52
+#: Template/ClassSchedule/class_list.ctp:86
+msgid "Starting Time"
+msgstr "प्रारम्भ का समय"
+
+#: Template/ClassSchedule/class_list.ctp:53
+#: Template/ClassSchedule/class_list.ctp:87
+#: Template/GymReservation/reservation_list.ctp:55
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Ending Time"
+msgstr "अंत समय"
+
+#: Template/ClassSchedule/view_schedule.ctp:45
+#: Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: Template/Dashboard/dashboard.ctp:58
+#: Template/Dashboard/member_dashboard.ctp:61
+#: Template/Dashboard/staff_acc_dashboard.ctp:66
+#: Template/GymAccessright/access_right.ctp:23
+#: Template/GymAccessright/access_right.ctp:123
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:134
+#: Template/GymMember/add_member.ctp:172 Template/GymMember/add_member.ctp:436
+#: Template/GymMember/member_list.ctp:39
+#: Template/GymMember/view_attendance.ctp:35
+#: Template/GymMember/view_member.ctp:31 Template/GymNotice/add_notice.ctp:67
+#: Template/GymStore/sell_product.ctp:46
+#: Template/MembershipPayment/add_income.ctp:43
+#: Template/MembershipPayment/generate_payment_invoice.ctp:77
+msgid "Member"
+msgstr "सदस्य"
+
+#: Template/Dashboard/dashboard.ctp:105
+#: Template/Dashboard/member_dashboard.ctp:133
+#: Template/Dashboard/staff_acc_dashboard.ctp:158
+#: Template/GymMember/add_member.ctp:444
+#: Template/MemberRegistration/index.ctp:270 Template/Membership/add.ctp:33
+#: Template/Membership/edit_membership.ctp:8
+#: Template/Membership/membership_list.ctp:31
+#: Template/Membership/membership_list.ctp:37
+#: Template/Membership/view_activity.ctp:40
+#: Template/MembershipPayment/generate_payment_invoice.ctp:89
+#: Template/Reports/membership_report.ctp:84
+msgid "Membership"
+msgstr "सदस्यता"
+
+#: Template/Dashboard/dashboard.ctp:123
+#: Template/Dashboard/member_dashboard.ctp:157
+#: Template/Dashboard/staff_acc_dashboard.ctp:187
+#: Template/GymGroup/add_group.ctp:12 Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "समूह सूची"
+
+#: Template/Dashboard/dashboard.ctp:153
+msgid "Payment by month"
+msgstr "महीने के हिसाब से भुगतान"
+
+#: Template/Dashboard/dashboard.ctp:187 Template/Dashboard/dashboard.ctp:235
+#: Template/Dashboard/dashboard.ctp:284
+#: Template/Dashboard/member_dashboard.ctp:198
+#: Template/Dashboard/member_dashboard.ctp:222
+#: Template/Dashboard/member_dashboard.ctp:246
+#: Template/Dashboard/member_dashboard.ctp:270
+#: Template/Dashboard/member_dashboard.ctp:294
+#: Template/Dashboard/member_dashboard.ctp:318
+#: Template/Dashboard/member_dashboard.ctp:342
+#: Template/GymMember/view_member.ctp:162
+#: Template/GymMember/view_member.ctp:190
+#: Template/GymMember/view_member.ctp:220
+#: Template/GymMember/view_member.ctp:248
+#: Template/GymMember/view_member.ctp:279
+#: Template/GymMember/view_member.ctp:307
+#: Template/GymMember/view_member.ctp:338
+msgid "There is not enough data to generate report"
+msgstr "रिपोर्ट जनरेट करने के लिए पर्याप्त डेटा नहीं है"
+
+#: Template/Dashboard/dashboard.ctp:201 Template/Dashboard/dashboard.ctp:228
+#: Template/Reports/attendance_report.ctp:71
+msgid "Member Attendance Report"
+msgstr "सदस्य उपस्थिति रिपोर्ट"
+
+#: Template/Dashboard/dashboard.ctp:213
+#: Template/Reports/attendance_report.ctp:83
+#: Template/Reports/membership_report.ctp:41
+msgid "No of Member"
+msgstr "सदस्य की नहीं"
+
+#: Template/Dashboard/dashboard.ctp:251
+msgid "Staff Attendance Report"
+msgstr "कर्मचारी उपस्थिति रिपोर्ट"
+
+#: Template/Dashboard/dashboard.ctp:263
+msgid "Number of Staff Members"
+msgstr "स्टाफ के सदस्यों की संख्या"
+
+#: Template/Dashboard/dashboard.ctp:278
+#: Template/GymAttendance/attendance.ctp:29
+#: Template/GymAttendance/staff_attendance.ctp:18
+msgid "Staff Attendance"
+msgstr "स्टाफ की उपस्थिति"
+
+#: Template/Dashboard/member_dashboard.ctp:189
+msgid "Weight Progress Report"
+msgstr "वजन प्रगति रिपोर्ट"
+
+#: Template/Dashboard/member_dashboard.ctp:213
+msgid "Waist  Progress Report"
+msgstr "कमर की प्रगति रिपोर्ट"
+
+#: Template/Dashboard/member_dashboard.ctp:237
+msgid "Thigh Progress Report"
+msgstr "जांघ प्रगति रिपोर्ट"
+
+#: Template/Dashboard/member_dashboard.ctp:261
+msgid "Arms Progress Report"
+msgstr "आर्म्स प्रोग्रेस रिपोर्ट"
+
+#: Template/Dashboard/member_dashboard.ctp:285
+msgid "Height Progress Report"
+msgstr "ऊंचाई प्रगति रिपोर्ट"
+
+#: Template/Dashboard/member_dashboard.ctp:309
+msgid "Chest Progress Report"
+msgstr "चेस्ट प्रोग्रेस रिपोर्ट"
+
+#: Template/Dashboard/member_dashboard.ctp:333
+msgid "Fat Progress Report"
+msgstr "मोटी प्रगति रिपोर्ट"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "संस्करण"
+
+#: Template/Element/topbar.ctp:45
+msgid "Member since"
+msgstr "से सदस्ये"
+
+#: Template/Element/topbar.ctp:52 Template/Element/topbar.ctp:58
+msgid "Profile"
+msgstr "प्रोफ़ाइल"
+
+#: Template/Element/topbar.ctp:62
+msgid "Sign out"
+msgstr "प्रस्थान करें"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "समायोजन"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "प्रणाली व्यवस्था"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "जिम का नाम"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "साल शुरू"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "जिम का पता"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "ऑफिस का फ़ोन नंबर"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:131
+msgid "Country"
+msgstr "देश"
+
+#: Template/GeneralSetting/save_setting.ctp:73 Template/Installer/index.ctp:481
+msgid "System Language"
+msgstr "सिस्टम भाषा"
+
+#: Template/GeneralSetting/save_setting.ctp:124
+msgid "Set Language to RTL"
+msgstr "भाषा को RTL पर सेट करें"
+
+#: Template/GeneralSetting/save_setting.ctp:126
+#: Template/GeneralSetting/save_setting.ctp:263
+#: Template/GeneralSetting/save_setting.ctp:270
+#: Template/GeneralSetting/save_setting.ctp:280
+#: Template/GeneralSetting/save_setting.ctp:310
+#: Template/GeneralSetting/save_setting.ctp:347
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: Template/GeneralSetting/save_setting.ctp:138
+msgid "Date Format"
+msgstr "डेटा प्रारूप"
+
+#: Template/GeneralSetting/save_setting.ctp:151
+msgid "Time Zone"
+msgstr "समय क्षेत्र"
+
+#: Template/GeneralSetting/save_setting.ctp:177
+msgid "Gym Logo"
+msgstr "जिम लोगो"
+
+#: Template/GeneralSetting/save_setting.ctp:182
+msgid "(Max. height 50px.)"
+msgstr "(अधिकतम ऊंचाई 50 पीएक्स।)"
+
+#: Template/GeneralSetting/save_setting.ctp:194
+msgid "Cover Image"
+msgstr "कवर छवि"
+
+#: Template/GeneralSetting/save_setting.ctp:206
+msgid "Measurement Units"
+msgstr "नाप की इकाइयां"
+
+#: Template/GeneralSetting/save_setting.ctp:208
+#: Template/GymMember/add_member.ctp:301
+msgid "Weight"
+msgstr "वजन"
+
+#: Template/GeneralSetting/save_setting.ctp:215
+#: Template/GymMember/add_member.ctp:308
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: Template/GeneralSetting/save_setting.ctp:222
+#: Template/GymMember/add_member.ctp:315
+msgid "Chest"
+msgstr "छाती"
+
+#: Template/GeneralSetting/save_setting.ctp:229
+#: Template/GymMember/add_member.ctp:322
+msgid "Waist"
+msgstr "कमर"
+
+#: Template/GeneralSetting/save_setting.ctp:236
+msgid "Thing"
+msgstr "चीज़"
+
+#: Template/GeneralSetting/save_setting.ctp:243
+#: Template/GymMember/add_member.ctp:336
+msgid "Arms"
+msgstr "शस्त्र"
+
+#: Template/GeneralSetting/save_setting.ctp:250
+#: Template/GymMember/add_member.ctp:343
+msgid "Fat"
+msgstr "मोटी"
+
+#: Template/GeneralSetting/save_setting.ctp:258
+msgid "Member Privacy Setting"
+msgstr "सदस्य गोपनीयता सेटिंग"
+
+#: Template/GeneralSetting/save_setting.ctp:260
+msgid "Member can view other member's details"
+msgstr "सदस्य अन्य सदस्य के विवरण देख सकते हैं"
+
+#: Template/GeneralSetting/save_setting.ctp:267
+msgid "Staff Member can view own trainee member's details"
+msgstr "स्टाफ सदस्य स्वयं प्रशिक्षु सदस्य के विवरण देख सकते हैं"
+
+#: Template/GeneralSetting/save_setting.ctp:276
+msgid "Paypal Setting"
+msgstr "पेपैल सेटिंग"
+
+#: Template/GeneralSetting/save_setting.ctp:278
+msgid "Enable Sandbox"
+msgstr "सैंडबॉक्स सक्षम करें"
+
+#: Template/GeneralSetting/save_setting.ctp:285
+msgid "Paypal Email Id"
+msgstr "पेपैल ईमेल आईडी"
+
+#: Template/GeneralSetting/save_setting.ctp:292
+msgid "Select Currency"
+msgstr "मुद्रा चुनें"
+
+#: Template/GeneralSetting/save_setting.ctp:306
+msgid "Membership Alert Message Setting"
+msgstr "सदस्यता चेतावनी संदेश सेटिंग"
+
+#: Template/GeneralSetting/save_setting.ctp:308
+msgid "Enable Alert Mail"
+msgstr "अलर्ट मेल सक्षम करें"
+
+#: Template/GeneralSetting/save_setting.ctp:315
+msgid "Reminder Before Days"
+msgstr "दिनों से पहले अनुस्मारक"
+
+#: Template/GeneralSetting/save_setting.ctp:323
+msgid "Reminder Message"
+msgstr "अनुस्मारक संदेश"
+
+#: Template/GeneralSetting/save_setting.ctp:330
+msgid "ShortCodes For Notification Mail Message"
+msgstr "अधिसूचना मेल संदेश के लिए शॉर्टकोड"
+
+#: Template/GeneralSetting/save_setting.ctp:334 Template/Membership/add.ctp:46
+#: Template/Membership/edit_membership.ctp:21
+#: Template/Membership/membership_list.ctp:48
+#: Template/Membership/membership_list.ctp:96
+#: Template/Reports/membership_report.ctp:35
+msgid "Membership Name"
+msgstr "सदस्यता का नाम"
+
+#: Template/GeneralSetting/save_setting.ctp:335
+#: Template/GymMember/view_member.ctp:415
+#: Template/GymMember/view_member.ctp:443
+#: Template/GymSubscriptionHistory/index.ctp:46
+#: Template/GymSubscriptionHistory/index.ctp:76
+#: Template/MembershipPayment/payment_list.ctp:58
+#: Template/MembershipPayment/payment_list.ctp:102
+msgid "Membership Start Date"
+msgstr "सदस्यता प्रारंभ दिनांक"
+
+#: Template/GeneralSetting/save_setting.ctp:336
+#: Template/GymMember/view_member.ctp:416
+#: Template/GymMember/view_member.ctp:444
+#: Template/GymSubscriptionHistory/index.ctp:47
+#: Template/GymSubscriptionHistory/index.ctp:77
+#: Template/MembershipPayment/payment_list.ctp:59
+#: Template/MembershipPayment/payment_list.ctp:103
+msgid "Membership End Date"
+msgstr "सदस्यता समाप्ति तिथि"
+
+#: Template/GeneralSetting/save_setting.ctp:343
+msgid "Message Setting"
+msgstr "संदेश सेटिंग"
+
+#: Template/GeneralSetting/save_setting.ctp:345
+msgid "Member can Message To other's"
+msgstr "सदस्य अन्य को संदेश दे सकता है"
+
+#: Template/GeneralSetting/save_setting.ctp:352
+msgid "Theme Setting"
+msgstr "थीम सेटिंग"
+
+#: Template/GeneralSetting/save_setting.ctp:354
+msgid "Side Menu Color"
+msgstr "साइड मेनू रंग"
+
+#: Template/GeneralSetting/save_setting.ctp:359
+msgid "Header Color"
+msgstr "हैडर रंग"
+
+#: Template/GeneralSetting/save_setting.ctp:366
+msgid "Header & Footer Text"
+msgstr "शीर्ष लेख और पाद लेख"
+
+#: Template/GeneralSetting/save_setting.ctp:368
+msgid "Left Header Text"
+msgstr "बायां हैडर पाठ"
+
+#: Template/GeneralSetting/save_setting.ctp:375
+msgid "Footer Text"
+msgstr "फूटर टेक्स्ट"
+
+#: Template/GeneralSetting/save_setting.ctp:383
+msgid "Save Settings"
+msgstr "समायोजन बचाओ"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "सही सेटिंग्स तक पहुँचें"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "मेन्यू"
+
+#: Template/GymAccessright/access_right.ctp:243
+msgid "Attendence"
+msgstr "उपस्थिति"
+
+#: Template/GymAccessright/access_right.ctp:273
+msgid "Assigned Workouts"
+msgstr "दिए गए वर्कआउट"
+
+#: Template/GymAccessright/access_right.ctp:303
+msgid "Workouts"
+msgstr "व्यायाम"
+
+#: Template/GymAccessright/access_right.ctp:363
+#: Template/Reports/payment_report.ctp:43
+msgid "Fee Payment"
+msgstr "शुल्क भुगतान"
+
+#: Template/GymAccessright/access_right.ctp:422
+#: Template/MembershipPayment/add_expense.ctp:22
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "व्यय"
+
+#: Template/GymAccessright/access_right.ctp:693
+msgid "Account"
+msgstr "लेखा"
+
+#: Template/GymAccessright/access_right.ctp:724
+#: Template/GymMember/view_member.ctp:407
+#: Template/GymSubscriptionHistory/index.ctp:32
+#: Template/GymSubscriptionHistory/index.ctp:33
+msgid "Subscription History"
+msgstr "सदस्यता इतिहास"
+
+#: Template/GymAccessright/access_right.ctp:754
+#: Template/GymDailyWorkout/add_workout.ctp:184
+#: Template/GymEmailSetting/index.ctp:46 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNotice/add_notice.ctp:102
+#: Template/GymNutrition/addnutrition_schedule.ctp:144
+#: Template/GymProduct/add_product.ctp:47
+#: Template/GymProfile/view_profile.ctp:119
+#: Template/GymProfile/view_profile.ctp:175
+#: Template/GymStore/sell_product.ctp:84
+msgid "Save"
+msgstr "सहेजें"
+
+#: Template/GymAccountant/accountant_list.ctp:29
+#: Template/GymAccountant/add_accountant.ctp:34
+msgid "Accountant List"
+msgstr "लेखापाल सूची"
+
+#: Template/GymAccountant/accountant_list.ctp:46
+#: Template/GymAccountant/accountant_list.ctp:80
+#: Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76
+#: Template/GymAttendance/attendance.ctp:107
+#: Template/GymAttendance/attendance.ctp:116
+#: Template/GymAttendance/staff_attendance.ctp:68
+#: Template/GymDailyWorkout/workout_list.ctp:55
+#: Template/GymDailyWorkout/workout_list.ctp:81
+#: Template/GymGroup/group_list.ctp:44 Template/GymGroup/group_list.ctp:75
+#: Template/GymMember/member_list.ctp:82 Template/GymMember/member_list.ctp:141
+#: Template/GymMember/view_member.ctp:353
+#: Template/Membership/membership_list.ctp:47
+#: Template/Membership/membership_list.ctp:95
+#: Template/StaffMembers/staff_list.ctp:44
+#: Template/StaffMembers/staff_list.ctp:77
+msgid "Photo"
+msgstr "तस्वीर"
+
+#: Template/GymAccountant/accountant_list.ctp:47
+#: Template/GymAccountant/accountant_list.ctp:81
+msgid "Accountant Name"
+msgstr "लेखाकार का नाम"
+
+#: Template/GymAccountant/accountant_list.ctp:48
+#: Template/GymAccountant/accountant_list.ctp:82
+msgid "Accountant Email"
+msgstr "लेखाकार ईमेल"
+
+#: Template/GymAccountant/accountant_list.ctp:49
+#: Template/GymAccountant/accountant_list.ctp:83
+#: Template/GymProfile/view_profile.ctp:156
+#: Template/StaffMembers/staff_list.ctp:48
+#: Template/StaffMembers/staff_list.ctp:81
+msgid "Mobile No."
+msgstr "मोबाइल न।"
+
+#: Template/GymAccountant/add_accountant.ctp:51
+#: Template/GymMember/add_member.ctp:202
+#: Template/MemberRegistration/index.ctp:133
+#: Template/StaffMembers/add_staff.ctp:67
+msgid "Middle Name"
+msgstr "मध्य नाम"
+
+#: Template/GymAccountant/add_accountant.ctp:65
+#: Template/GymMember/add_member.ctp:216 Template/GymMember/view_member.ctp:93
+#: Template/MemberRegistration/index.ctp:147
+#: Template/StaffMembers/add_staff.ctp:81
+msgid "Gender"
+msgstr "लिंग"
+
+#: Template/GymAccountant/add_accountant.ctp:68
+#: Template/GymMember/add_member.ctp:219 Template/StaffMembers/add_staff.ctp:84
+msgid "Male"
+msgstr "पुरुष"
+
+#: Template/GymAccountant/add_accountant.ctp:69
+#: Template/GymMember/add_member.ctp:220 Template/StaffMembers/add_staff.ctp:85
+msgid "Female"
+msgstr "महिला"
+
+#: Template/GymAccountant/add_accountant.ctp:76
+#: Template/GymMember/add_member.ctp:227
+#: Template/GymProfile/view_profile.ctp:135
+#: Template/MemberRegistration/index.ctp:158
+#: Template/StaffMembers/add_staff.ctp:92
+msgid "Date of birth"
+msgstr "जन्म की तारीख"
+
+#: Template/GymAccountant/add_accountant.ctp:82
+#: Template/GymMember/add_member.ctp:244
+#: Template/MemberRegistration/index.ctp:172
+#: Template/StaffMembers/add_staff.ctp:117
+msgid "Contact Information"
+msgstr "संपर्क जानकारी"
+
+#: Template/GymAccountant/add_accountant.ctp:84
+#: Template/GymProfile/view_profile.ctp:144
+#: Template/StaffMembers/add_staff.ctp:119
+msgid "Home Town Address"
+msgstr "होम टाउन का पता"
+
+#: Template/GymAccountant/add_accountant.ctp:91
+#: Template/GymMember/add_member.ctp:253
+#: Template/GymProfile/view_profile.ctp:150
+#: Template/MemberRegistration/index.ctp:182
+#: Template/StaffMembers/add_staff.ctp:126
+msgid "City"
+msgstr "शहर"
+
+#: Template/GymAccountant/add_accountant.ctp:98
+#: Template/GymMember/add_member.ctp:274
+#: Template/MemberRegistration/index.ctp:203
+#: Template/StaffMembers/add_staff.ctp:133
+msgid "Mobile Number"
+msgstr "मोबाइल नंबर"
+
+#: Template/GymAccountant/add_accountant.ctp:108
+#: Template/GymMember/add_member.ctp:284
+#: Template/GymProfile/view_profile.ctp:162
+#: Template/MemberRegistration/index.ctp:213
+#: Template/StaffMembers/add_staff.ctp:143
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: Template/GymAccountant/add_accountant.ctp:148
+msgid "Save Accountant"
+msgstr "लेखाकार बचाओ"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:67
+#: Template/GymAssignWorkout/assign_workout_old.ctp:67
+msgid "Workout Logs"
+msgstr "वर्कआउट लॉग्स"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:102
+#: Template/GymAssignWorkout/assign_workout_old.ctp:102
+#: Template/GymMessage/inbox.ctp:54 Template/GymMessage/sent.ctp:43
+#: Template/GymNutrition/addnutrition_schedule.ctp:185
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:54
+msgid "Description"
+msgstr "विवरण"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:116
+#: Template/GymAssignWorkout/assign_workout_old.ctp:116
+#: Template/GymMember/view_attendance.ctp:53
+#: Template/GymNotice/add_notice.ctp:89
+#: Template/GymNutrition/addnutrition_schedule.ctp:78
+#: Template/Reports/attendance_report.ctp:59
+msgid "End Date"
+msgstr "अंतिम तिथि"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:137
+#: Template/GymAssignWorkout/assign_workout_old.ctp:137
+msgid "Select workout activity to add on selected days"
+msgstr "चयनित दिनों में जोड़ने के लिए कसरत गतिविधि का चयन करें"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:143
+#: Template/GymAssignWorkout/assign_workout_old.ctp:143
+msgid "Step-1 Add Workout"
+msgstr "चरण -1 वर्कआउट जोड़ें"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:158
+#: Template/GymAssignWorkout/assign_workout_old.ctp:158
+msgid "Step-2 Save Workout"
+msgstr "स्टेप -2 सेव वर्कआउट करें"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:158
+#: Template/GymAssignWorkout/assign_workout_old.ctp:158
+msgid "Save Workout"
+msgstr "वर्कआउट सेव करें"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:187
+#: Template/GymAssignWorkout/assign_workout_old.ctp:187
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:56
+#: Template/GymAssignWorkout/print_workout.ctp:46
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "Start From"
+msgstr "शुरू से"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:187
+#: Template/GymAssignWorkout/assign_workout_old.ctp:187
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:56
+#: Template/GymAssignWorkout/print_workout.ctp:46
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "TO"
+msgstr "सेवा"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:193
+#: Template/GymAssignWorkout/assign_workout_old.ctp:193
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:62
+#: Template/GymAssignWorkout/print_workout.ctp:51
+#: Template/GymNutrition/addnutrition_schedule.ctp:181
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:50
+msgid "Day name"
+msgstr "दिन का नाम"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "वर्कआउट लॉग"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:99
+#: Template/GymAssignWorkout/print_workout.ctp:88
+msgid "No Record Found"
+msgstr "कोई रिकॉर्ड नहीं मिला"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54
+#: Template/GymAssignWorkout/workout_log.ctp:78
+#: Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:78
+msgid "Member Goal"
+msgstr "सदस्य लक्ष्य"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67
+#: Template/GymDailyWorkout/view_workout.ctp:88
+msgid "View Workouts"
+msgstr "वर्कआउट देखें"
+
+#: Template/GymAttendance/attendance.ctp:22
+#: Template/GymAttendance/staff_attendance.ctp:22
+msgid "Member Attendance"
+msgstr "सदस्य की उपस्थिति"
+
+#: Template/GymAttendance/attendance.ctp:55
+#: Template/GymMember/view_attendance.ctp:34
+msgid "View Attendance"
+msgstr "उपस्थिति देखें"
+
+#: Template/GymAttendance/attendance.ctp:59
+#: Template/GymAttendance/staff_attendance.ctp:36
+msgid "Take/View Attendance"
+msgstr "उपस्थित होना / देखना"
+
+#: Template/GymAttendance/attendance.ctp:169
+#: Template/GymAttendance/staff_attendance.ctp:88
+msgid "Save Attendance"
+msgstr "सेव अटेंडेंस"
+
+#: Template/GymAttendance/attendance.ctp:180
+msgid "No attendance found."
+msgstr "कोई उपस्थिति नहीं मिली।"
+
+#: Template/GymAttendance/staff_attendance.ctp:52
+msgid "Staff Attendance, Date"
+msgstr "कर्मचारी उपस्थिति, तिथि"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:114
+#: Template/GymDailyWorkout/view_workout.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:37
+msgid "Workout Daily"
+msgstr "वर्कआउट डेली"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:27
+#: Template/GymDailyWorkout/add_workout.ctp:117
+#: Template/GymDailyWorkout/view_workout.ctp:62
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "वर्कआउट सूची"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:56
+msgid "Result Measurement"
+msgstr "परिणाम मापन"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:60
+msgid "Select Result Measurement"
+msgstr "परिणाम मापन का चयन करें"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:71
+msgid "Result Date"
+msgstr "परिणाम दिनांक"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:87
+msgid "Save Measurement"
+msgstr "माप सहेजें"
+
+#: Template/GymDailyWorkout/add_workout.ctp:178
+msgid "Select Record Date For Today Workout"
+msgstr "आज के वर्कआउट के लिए रिकॉर्ड तिथि का चयन करें"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57
+#: Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "मोबाइल"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72
+#: Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "राय"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "माप देखें"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "ईमेल सेटिंग"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:107
+msgid "Host"
+msgstr "मेज़बान"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "बंदरगाह"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:108
+msgid "To"
+msgstr "से"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "टेस्ट मेल भेजें"
+
+#: Template/GymGroup/add_group.ctp:24 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "समूह का नाम"
+
+#: Template/GymGroup/add_group.ctp:30
+msgid "Group Image"
+msgstr "समूह छवि"
+
+#: Template/GymGroup/add_group.ctp:38
+msgid "Save Group"
+msgstr "समूह सहेजें"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "कुल समूह सदस्य"
+
+#: Template/GymMember/add_member.ctp:175 Template/GymMember/member_list.ctp:38
+#: Template/GymMember/view_member.ctp:34
+msgid "Members List"
+msgstr "सदस्यों की सूची"
+
+#: Template/GymMember/add_member.ctp:187 Template/GymMember/member_list.ctp:84
+#: Template/GymMember/member_list.ctp:143 Template/GymMember/view_member.ctp:69
+#: Template/MemberRegistration/index.ctp:118
+msgid "Member ID"
+msgstr "सदस्य आईडी"
+
+#: Template/GymMember/add_member.ctp:246 Template/GymMember/view_member.ctp:77
+#: Template/MemberRegistration/index.ctp:175
+msgid "Address"
+msgstr "पता"
+
+#: Template/GymMember/add_member.ctp:260
+msgid "State"
+msgstr "राज्य"
+
+#: Template/GymMember/add_member.ctp:267
+#: Template/MemberRegistration/index.ctp:196
+msgid "Zip code"
+msgstr "पिन कोड"
+
+#: Template/GymMember/add_member.ctp:299
+msgid "Physical Information"
+msgstr "भौतिक जानकारी"
+
+#: Template/GymMember/add_member.ctp:329
+msgid "Thigh"
+msgstr "जांघ"
+
+#: Template/GymMember/add_member.ctp:375
+#: Template/MemberRegistration/index.ctp:253
+msgid "More Information"
+msgstr "अधिक जानकारी"
+
+#: Template/GymMember/add_member.ctp:382 Template/GymMember/add_member.ctp:412
+msgid "Add Staff"
+msgstr "कर्मचारी जोड़ें"
+
+#: Template/GymMember/add_member.ctp:387
+#: Template/MemberRegistration/index.ctp:256
+msgid "Interested Area"
+msgstr "इच्छुक क्षेत्र"
+
+#: Template/GymMember/add_member.ctp:389
+#: Template/MemberRegistration/index.ctp:258
+msgid "Select Interest"
+msgstr "ब्याज चुनें"
+
+#: Template/GymMember/add_member.ctp:392 Template/GymMember/add_member.ctp:402
+#: Template/StaffMembers/add_staff.ctp:104
+#: Template/StaffMembers/add_staff.ctp:112
+msgid "Add/Remove"
+msgstr "जोड़ना हटाना"
+
+#: Template/GymMember/add_member.ctp:397
+#: Template/MemberRegistration/index.ctp:263
+msgid "Source"
+msgstr "स्रोत"
+
+#: Template/GymMember/add_member.ctp:399
+#: Template/MemberRegistration/index.ctp:265
+msgid "Select Source"
+msgstr "सोर्स चुनें"
+
+#: Template/GymMember/add_member.ctp:407
+msgid "Referred By"
+msgstr "द्वारा उल्लिखित"
+
+#: Template/GymMember/add_member.ctp:417
+msgid "Inquiry Date"
+msgstr "पूछताछ की तारीख"
+
+#: Template/GymMember/add_member.ctp:424
+msgid "Trial End Date"
+msgstr "ट्रायल एंड डेट"
+
+#: Template/GymMember/add_member.ctp:433 Template/GymMember/member_list.ctp:87
+#: Template/GymMember/member_list.ctp:146
+msgid "Member Type"
+msgstr "सदस्य प्रकार"
+
+#: Template/GymMember/add_member.ctp:437 Template/GymMember/add_member.ctp:473
+msgid "Prospect"
+msgstr "आशा"
+
+#: Template/GymMember/add_member.ctp:438
+msgid "Alumni"
+msgstr "पूर्व छात्रों"
+
+#: Template/GymMember/add_member.ctp:461
+msgid "Add Class"
+msgstr "क्लास जोड़ें"
+
+#: Template/GymMember/add_member.ctp:470 Template/GymMember/member_list.ctp:88
+#: Template/GymMember/member_list.ctp:147
+msgid "Membership Status"
+msgstr "सदस्यता की स्थिति"
+
+#: Template/GymMember/add_member.ctp:474
+msgid "Continue"
+msgstr "जारी रखें"
+
+#: Template/GymMember/add_member.ctp:475
+msgid "Expired"
+msgstr "समय सीमा समाप्त"
+
+#: Template/GymMember/add_member.ctp:476
+msgid "Dropped"
+msgstr "गिरा"
+
+#: Template/GymMember/add_member.ctp:482
+#: Template/MembershipPayment/generate_payment_invoice.ctp:104
+msgid "Membership Valid From"
+msgstr "सदस्यता मान्य से"
+
+#: Template/GymMember/add_member.ctp:497
+msgid "First Payment Date"
+msgstr "पहला भुगतान दिनांक"
+
+#: Template/GymMember/add_member.ctp:506
+#: Template/MemberRegistration/index.ctp:304
+msgid "Save Member"
+msgstr "सदस्य बचाओ"
+
+#: Template/GymMember/member_list.ctp:59
+msgid "Export"
+msgstr "निर्यात"
+
+#: Template/GymMember/member_list.ctp:60
+msgid "Import"
+msgstr "आयात"
+
+#: Template/GymMember/member_list.ctp:68 Template/GymMember/member_list.ctp:73
+#: Template/Reports/monthlyworkoutreport.ctp:62
+msgid "GO"
+msgstr "जाओ"
+
+#: Template/GymMember/member_list.ctp:85 Template/GymMember/member_list.ctp:144
+msgid "Joining Date"
+msgstr "कार्यग्रहण तिथि"
+
+#: Template/GymMember/member_list.ctp:86 Template/GymMember/member_list.ctp:145
+msgid "Expire Date"
+msgstr "समाप्त होने की तिथि"
+
+#: Template/GymMember/member_list.ctp:124
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: Template/GymMember/member_list.ctp:128
+msgid "Deactivate"
+msgstr "निष्क्रिय करें"
+
+#: Template/GymMember/member_list.ctp:131
+msgid "Activated"
+msgstr "सक्रिय"
+
+#: Template/GymMember/view_attendance.ctp:38
+msgid "Member List"
+msgstr "सदस्य सूची"
+
+#: Template/GymMember/view_attendance.ctp:58
+#: Template/Reports/attendance_report.ctp:64
+msgid "Go"
+msgstr "जाओ"
+
+#: Template/GymMember/view_member.ctp:30
+msgid "View Member"
+msgstr "सदस्य देखें"
+
+#: Template/GymMember/view_member.ctp:73
+#: Template/GymProfile/view_profile.ctp:88
+#: Template/Reports/attendance_report.ctp:123
+msgid "Name"
+msgstr "नाम"
+
+#: Template/GymMember/view_member.ctp:85
+msgid "Mobile No"
+msgstr "मोबाइल न"
+
+#: Template/GymMember/view_member.ctp:89
+msgid "Date Of Birth"
+msgstr "जन्म की तारीख"
+
+#: Template/GymMember/view_member.ctp:109
+msgid "MemberShip"
+msgstr "सदस्यता"
+
+#: Template/GymMember/view_member.ctp:113
+msgid "Expiry Date"
+msgstr "समाप्ति तिथि"
+
+#: Template/GymMember/view_member.ctp:117
+msgid "Classes"
+msgstr "कक्षाएं"
+
+#: Template/GymMember/view_member.ctp:122
+msgid "Interest Area"
+msgstr "ब्याज क्षेत्र"
+
+#: Template/GymMember/view_member.ctp:136
+msgid "Groups"
+msgstr "समूह"
+
+#: Template/GymMember/view_member.ctp:153
+msgid "Add Weight"
+msgstr "वजन जोड़ें"
+
+#: Template/GymMember/view_member.ctp:181
+msgid "Add Waist"
+msgstr "कमर जोड़ें"
+
+#: Template/GymMember/view_member.ctp:211
+msgid "Add Thigh"
+msgstr "जांघ जोड़ें"
+
+#: Template/GymMember/view_member.ctp:239
+msgid "Add Arms"
+msgstr "शस्त्र जोड़ें"
+
+#: Template/GymMember/view_member.ctp:269
+msgid "Add Height"
+msgstr "ऊंचाई जोड़ें"
+
+#: Template/GymMember/view_member.ctp:298
+msgid "Add Chest"
+msgstr "छाती जोड़ें"
+
+#: Template/GymMember/view_member.ctp:328
+msgid "Add Fat"
+msgstr "वसा जोड़ें"
+
+#: Template/GymMember/view_member.ctp:357
+msgid "Add Photo"
+msgstr "तस्वीर जोड़ो"
+
+#: Template/GymMember/view_member.ctp:412
+#: Template/GymMember/view_member.ctp:440
+#: Template/GymSubscriptionHistory/index.ctp:43
+#: Template/GymSubscriptionHistory/index.ctp:73
+msgid "Membership Title"
+msgstr "सदस्यता का शीर्षक"
+
+#: Template/GymMember/view_member.ctp:414
+#: Template/GymMember/view_member.ctp:442
+#: Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:75
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Due Amount"
+msgstr "देय राशि"
+
+#: Template/GymMember/view_member.ctp:417
+#: Template/GymMember/view_member.ctp:445
+#: Template/GymSubscriptionHistory/index.ctp:48
+#: Template/GymSubscriptionHistory/index.ctp:78
+#: Template/MembershipPayment/payment_list.ctp:60
+#: Template/MembershipPayment/payment_list.ctp:104
+msgid "Payment Status"
+msgstr "भुगतान की स्थिति"
+
+#: Template/GymMessage/compose_message.ctp:8
+msgid "Compose Message"
+msgstr "संदेश लिखें"
+
+#: Template/GymMessage/compose_message.ctp:18
+#: Template/GymMessage/compose_message.ctp:21 Template/GymMessage/inbox.ctp:26
+#: Template/GymMessage/inbox.ctp:30 Template/GymMessage/sent.ctp:20
+#: Template/GymMessage/view_message.ctp:18
+msgid "Compose"
+msgstr "लिखें"
+
+#: Template/GymMessage/compose_message.ctp:29 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:27
+msgid "Inbox"
+msgstr "इनबॉक्स"
+
+#: Template/GymMessage/compose_message.ctp:31 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:29
+msgid "Sent"
+msgstr "भेज दिया"
+
+#: Template/GymMessage/compose_message.ctp:45 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "संदेश को"
+
+#: Template/GymMessage/compose_message.ctp:65 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:35
+msgid "Subject"
+msgstr "विषय"
+
+#: Template/GymMessage/compose_message.ctp:71
+msgid "Message Comment"
+msgstr "संदेश टिप्पणी"
+
+#: Template/GymMessage/compose_message.ctp:80
+msgid "Send Message"
+msgstr "मेसेज भेजें"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "इनबॉक्स संदेश"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "की तरफ से संदेश"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "भेजे गए सन्देश"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "स्थापना"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "मेल को सिंक करें"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "MailChimp सूची"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "सूची का चयन करें"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "अभियान सूची"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "अभियान का चयन करें"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "अभियान भेजें"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "अभियान"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "MailChimp API कुंजी"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "मेलिंग सूची"
+
+#: Template/GymNotice/add_notice.ctp:41
+msgid "Edit Notice"
+msgstr "सूचना संपादित करें"
+
+#: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "नोटिस जोड़ें"
+
+#: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "सूचना सूची"
+
+#: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "सूचना शीर्षक"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "All"
+msgstr "सब"
+
+#: Template/GymNotice/add_notice.ctp:96
+msgid "Comment"
+msgstr "टिप्पणी"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "पोषण अनुसूची सूची"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:98
+msgid "Select Nutrition to add on selected days"
+msgstr "चयनित दिनों में जोड़ने के लिए पोषण का चयन करें"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:103
+msgid "Break Fast"
+msgstr "सुबह का नाश्ता"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:109
+msgid "Mid-Morning Snacks"
+msgstr "मिड-मॉर्निंग स्नैक्स"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:115
+msgid "Lunch"
+msgstr "दोपहर का भोजन"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:120
+msgid "Afternoon Snacks"
+msgstr "दोपहर का नाश्ता"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:125
+msgid "Dinner"
+msgstr "रात का खाना"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:129
+msgid "+ Add Nutrition"
+msgstr "+ पोषण जोड़ें"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:144
+msgid "Step-2 Save"
+msgstr "स्टेप -2 सेव करें"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:184
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Time"
+msgstr "समय"
+
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:80
+msgid "No record found."
+msgstr "कोई रिकॉर्ड नहीं मिला।"
+
+#: Template/GymNutrition/nutrition_list.ctp:52
+#: Template/GymNutrition/nutrition_list.ctp:76
+msgid "Member Photo"
+msgstr "सदस्य फोटो"
+
+#: Template/GymProduct/add_product.ctp:9
+msgid "Edit Product"
+msgstr "उत्पाद संपादित करें"
+
+#: Template/GymProduct/add_product.ctp:11
+#: Template/GymProduct/product_list.ctp:37
+#: Template/GymStore/sell_product.ctp:70
+msgid "Add Product"
+msgstr "उत्पाद जोड़ें"
+
+#: Template/GymProduct/add_product.ctp:15
+#: Template/GymProduct/product_list.ctp:31
+msgid "Products"
+msgstr "उत्पाद"
+
+#: Template/GymProduct/add_product.ctp:18
+#: Template/GymProduct/product_list.ctp:30
+msgid "Product List"
+msgstr "उत्पाद सूची"
+
+#: Template/GymProduct/add_product.ctp:26
+#: Template/GymProduct/product_list.ctp:47
+#: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:62
+msgid "Product Name"
+msgstr "उत्पाद का नाम"
+
+#: Template/GymProduct/add_product.ctp:32
+#: Template/GymProduct/product_list.ctp:48
+#: Template/GymProduct/product_list.ctp:77
+msgid "Product Price"
+msgstr "उत्पाद की कीमत"
+
+#: Template/GymProduct/add_product.ctp:41
+#: Template/GymProduct/product_list.ctp:49
+#: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:64
+msgid "Product Quantity"
+msgstr "उत्पाद गुणवत्ता"
+
+#: Template/GymProfile/view_profile.ctp:56
+msgid "Use this Qr code to take attendance"
+msgstr "उपस्थिति लेने के लिए इस Qr कोड का उपयोग करें"
+
+#: Template/GymProfile/view_profile.ctp:74
+msgid "Account Settings"
+msgstr "अकाउंट सेटिंग"
+
+#: Template/GymProfile/view_profile.ctp:100
+msgid "Current Password"
+msgstr "वर्तमान पासवर्ड"
+
+#: Template/GymProfile/view_profile.ctp:106
+msgid "New Password"
+msgstr "नया पासवर्ड"
+
+#: Template/GymProfile/view_profile.ctp:112 Template/Installer/index.ctp:544
+msgid "Confirm Password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+#: Template/GymProfile/view_profile.ctp:128
+msgid "Other Information"
+msgstr "अन्य सूचना"
+
+#: Template/GymReservation/add_reservation.ctp:40
+msgid "Edit Event"
+msgstr "घटना संपादित करें"
+
+#: Template/GymReservation/add_reservation.ctp:42
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Add Event"
+msgstr "कार्यक्रम जोड़ें"
+
+#: Template/GymReservation/add_reservation.ctp:45
+msgid "Schedule"
+msgstr "अनुसूची"
+
+#: Template/GymReservation/add_reservation.ctp:48
+#: Template/GymReservation/reservation_list.ctp:34
+msgid "Event List"
+msgstr "घटना सूची"
+
+#: Template/GymReservation/add_reservation.ctp:57
+#: Template/GymReservation/reservation_list.ctp:51
+#: Template/GymReservation/reservation_list.ctp:83
+msgid "Event Name"
+msgstr "कार्यक्रम नाम"
+
+#: Template/GymReservation/add_reservation.ctp:64
+#: Template/GymReservation/reservation_list.ctp:52
+#: Template/GymReservation/reservation_list.ctp:84
+msgid "Event Date"
+msgstr "आयोजन दिनांक"
+
+#: Template/GymReservation/add_reservation.ctp:71
+msgid "Event Place"
+msgstr "घटना स्थल"
+
+#: Template/GymReservation/add_reservation.ctp:73
+msgid "Select Event Places"
+msgstr "इवेंट स्थान का चयन करें"
+
+#: Template/GymReservation/add_reservation.ctp:76
+msgid "Add or Remove"
+msgstr "जोड़ें या घटाएँ"
+
+#: Template/GymReservation/reservation_list.ctp:53
+#: Template/GymReservation/reservation_list.ctp:85
+msgid "Place"
+msgstr "जगह"
+
+#: Template/GymStore/sell_product.ctp:29
+msgid "Edit Sell Product"
+msgstr "उत्पाद बेचें संपादित करें"
+
+#: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
+msgid "Add Sell Product"
+msgstr "उत्पाद जोड़ें"
+
+#: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "रिकॉर्ड बेचते हैं"
+
+#: Template/GymStore/sell_product.ctp:63
+msgid "Select Product"
+msgstr "उत्पाद का चयन करें"
+
+#: Template/GymStore/sell_product.ctp:75
+msgid "Quantity"
+msgstr "मात्रा"
+
+#: Template/Installer/index.ctp:9 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "जिम मास्टर - GYM प्रबंधन स्थापना विज़ार्ड"
+
+#: Template/Installer/index.ctp:15
+msgid "Requirements"
+msgstr "आवश्यकताएँ"
+
+#: Template/Installer/index.ctp:17
+msgid "Server Requirements"
+msgstr "सर्वर आवश्यकताएँ"
+
+#: Template/Installer/index.ctp:78 Template/Installer/index.ctp:80
+msgid "Database Setup"
+msgstr "डेटाबेस सेटअप"
+
+#: Template/Installer/index.ctp:83
+msgid "Database Name"
+msgstr "डेटाबेस नाम"
+
+#: Template/Installer/index.ctp:91
+msgid "Database Username"
+msgstr "डेटाबेस उपयोगकर्ता नाम"
+
+#: Template/Installer/index.ctp:99
+msgid "Database Password"
+msgstr "डेटाबेस पासवर्ड"
+
+#: Template/Installer/index.ctp:115 Template/Installer/index.ctp:519
+msgid "Fields are required."
+msgstr "फ़ील्ड की आवश्यक हैं।"
+
+#: Template/Installer/index.ctp:118 Template/Installer/index.ctp:120
+msgid "System Setting"
+msgstr "तंत्र समायोजन"
+
+#: Template/Installer/index.ctp:123
+msgid "System Name"
+msgstr "सिस्टम का नाम"
+
+#: Template/Installer/index.ctp:471
+msgid "Date Formate"
+msgstr "तारीख प्रारूप"
+
+#: Template/Installer/index.ctp:522 Template/Installer/index.ctp:524
+msgid "Login Details"
+msgstr "लॉगइन विवरण"
+
+#: Template/Installer/index.ctp:552
+msgid "Finish"
+msgstr "समाप्त"
+
+#: Template/Installer/index.ctp:554
+msgid "Please Note :"
+msgstr "कृपया ध्यान दें :"
+
+#: Template/Installer/index.ctp:557
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. सेट-अप डेटाबेस में कुछ मिनट लग सकते हैं।"
+
+#: Template/Installer/index.ctp:560
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. इंस्टॉल बटन पर क्लिक करने के बाद पेज को रिफ्रेश न करें।"
+
+#: Template/Installer/index.ctp:563
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3. स्थापना समाप्त होने के बाद आपको एक बार सफलता के संदेश के साथ स्वीकार किया जाएगा।"
+
+#: Template/Installer/index.ctp:566
+msgid "4. Click on install to complete the installation."
+msgstr "4. इंस्टॉलेशन को पूरा करने के लिए इंस्टॉल पर क्लिक करें।"
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "बधाई"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "स्थापना सफलतापूर्वक पूर्ण हुई"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "क्लिक करें"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "यहाँ पर \ t लॉगिन पेज पर रीडायरेक्ट करना है।"
+
+#: Template/MemberRegistration/index.ctp:108 Template/Users/login.ctp:24
+msgid "Member Registration"
+msgstr "सदस्य पंजीकरण"
+
+#: Template/MemberRegistration/index.ctp:189
+msgid "state"
+msgstr "राज्य"
+
+#: Template/MemberRegistration/index.ctp:284
+msgid "Select Joining Date"
+msgstr "ज्वाइनिंग डेट सेलेक्ट करें"
+
+#: Template/MemberRegistration/index.ctp:307
+msgid "Go Back"
+msgstr "वापस जाओ"
+
+#: Template/Membership/add.ctp:36 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:30
+#: Template/Membership/view_activity.ctp:44
+msgid "Membership List"
+msgstr "सदस्यता सूची"
+
+#: Template/Membership/add.ctp:53 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "सदस्यता श्रेणी"
+
+#: Template/Membership/add.ctp:63 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:49
+#: Template/Membership/membership_list.ctp:97
+msgid "Membership Period"
+msgstr "सदस्यता की अवधि"
+
+#: Template/Membership/add.ctp:66
+msgid "No. of Days"
+msgstr "दिनों की संख्या"
+
+#: Template/Membership/add.ctp:73 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "सदस्यता की सीमा"
+
+#: Template/Membership/add.ctp:75
+msgid "Limited"
+msgstr "सीमित"
+
+#: Template/Membership/add.ctp:76
+msgid "Unlimited"
+msgstr "असीमित"
+
+#: Template/Membership/add.ctp:79
+msgid "no. of classes"
+msgstr "वर्गों की संख्या"
+
+#: Template/Membership/add.ctp:82
+msgid "Class every week"
+msgstr "हर हफ्ते क्लास"
+
+#: Template/Membership/add.ctp:82
+msgid "Class every month"
+msgstr "हर महीने कक्षा"
+
+#: Template/Membership/add.ctp:97 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "सदस्यता राशि"
+
+#: Template/Membership/add.ctp:115 Template/Membership/membership_list.ctp:50
+#: Template/Membership/membership_list.ctp:98
+msgid "Installment Plan"
+msgstr "किश्त योजना"
+
+#: Template/Membership/add.ctp:121 Template/Membership/edit_membership.ctp:56
+msgid "Select Installment Plan"
+msgstr "किस्त योजना का चयन करें"
+
+#: Template/Membership/add.ctp:126 Template/Membership/edit_membership.ctp:62
+msgid "Add Installment Plan"
+msgstr "किस्त योजना जोड़ें"
+
+#: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "साइनअप शुल्क"
+
+#: Template/Membership/add.ctp:142 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "सदस्यता विवरण"
+
+#: Template/Membership/add.ctp:149 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "सदस्यता छवि"
+
+#: Template/Membership/add.ctp:163
+msgid "Save Membership"
+msgstr "सदस्यता बचाओ"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Installment Amount"
+msgstr "किस्त की राशि"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Installment Period"
+msgstr "किस्त की अवधि"
+
+#: Template/Membership/membership_list.ctp:51
+#: Template/Membership/membership_list.ctp:99
+msgid "SignUp Fee"
+msgstr "साइनअप शुल्क"
+
+#: Template/Membership/membership_list.ctp:85
+msgid "Activities"
+msgstr "क्रियाएँ"
+
+#: Template/Membership/view_activity.ctp:41
+msgid "View Activity"
+msgstr "गतिविधि देखें"
+
+#: Template/Membership/view_activity.ctp:56
+msgid "Select Activity"
+msgstr "गतिविधि का चयन करें"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+msgid "Edit Expense"
+msgstr "व्यय संपादित करें"
+
+#: Template/MembershipPayment/add_expense.ctp:19
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "व्यय जोड़ें"
+
+#: Template/MembershipPayment/add_expense.ctp:25
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "व्यय सूची"
+
+#: Template/MembershipPayment/add_expense.ctp:34
+#: Template/MembershipPayment/expense_list.ctp:39
+#: Template/MembershipPayment/expense_list.ctp:67
+msgid "Supplier Name"
+msgstr "आपूर्तिकर्ता का नाम"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Paid"
+msgstr "भुगतान किया है"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Part Paid"
+msgstr "भाग का भुगतान किया"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Unpaid"
+msgstr "अवैतनिक"
+
+#: Template/MembershipPayment/add_expense.ctp:61
+#: Template/MembershipPayment/add_expense.ctp:83
+msgid "Expense Entry"
+msgstr "व्यय प्रवेश"
+
+#: Template/MembershipPayment/add_expense.ctp:63
+#: Template/MembershipPayment/add_expense.ctp:85
+msgid "Expense Amount"
+msgstr "व्यय राशि"
+
+#: Template/MembershipPayment/add_expense.ctp:66
+#: Template/MembershipPayment/add_expense.ctp:88
+msgid "Expense Entry Label"
+msgstr "व्यय प्रवेश लेबल"
+
+#: Template/MembershipPayment/add_expense.ctp:104
+msgid "Add Expense Entry"
+msgstr "व्यय प्रविष्टि जोड़ें"
+
+#: Template/MembershipPayment/add_expense.ctp:109
+msgid "Create Expense Entry"
+msgstr "एक्सपेंस एंट्री बनाएं"
+
+#: Template/MembershipPayment/add_income.ctp:25
+msgid "Edit Income"
+msgstr "आय संपादित करें"
+
+#: Template/MembershipPayment/add_income.ctp:27
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "आय जोड़ें"
+
+#: Template/MembershipPayment/add_income.ctp:34
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "आय सूची"
+
+#: Template/MembershipPayment/add_income.ctp:49
+msgid "Income label"
+msgstr "आय लेबल"
+
+#: Template/MembershipPayment/add_income.ctp:60
+msgid "Select Status"
+msgstr "स्थिति का चयन करें"
+
+#: Template/MembershipPayment/add_income.ctp:70
+#: Template/MembershipPayment/add_income.ctp:93
+msgid "Income Entry"
+msgstr "आय प्रवेश"
+
+#: Template/MembershipPayment/add_income.ctp:72
+#: Template/MembershipPayment/add_income.ctp:95
+msgid "Income Amount"
+msgstr "आय राशि"
+
+#: Template/MembershipPayment/add_income.ctp:75
+#: Template/MembershipPayment/add_income.ctp:98
+msgid "Income Entry Label"
+msgstr "आय प्रवेश लेबल"
+
+#: Template/MembershipPayment/add_income.ctp:115
+msgid "Add Income Entry"
+msgstr "आय प्रविष्टि जोड़ें"
+
+#: Template/MembershipPayment/add_income.ctp:120
+msgid "Create Income Entry"
+msgstr "आय प्रवेश बनाएँ"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:62
+#: Template/MembershipPayment/payment_list.ctp:43
+msgid "Generate Payment Invoice"
+msgstr "भुगतान चालान जनरेट करें"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:66
+msgid "Membership Payment List"
+msgstr "सदस्यता भुगतान सूची"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:95
+#: Template/Reports/payment_report.ctp:86
+msgid "Total Amount"
+msgstr "कुल रकम"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:116
+msgid "save_membership_payment"
+msgstr "सदस्यता भुगतान सहेजें"
+
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Title"
+msgstr "शीर्षक"
+
+#: Template/MembershipPayment/payment_list.ctp:82
+msgid "Pay"
+msgstr "वेतन"
+
+#: Template/MembershipPayment/print_invoice.ctp:22
+msgid "Invoice No."
+msgstr "चालान नंबर।"
+
+#: Template/Reports/attendance_report.ctp:37
+#: Template/Reports/membership_report.ctp:17
+#: Template/Reports/membership_status_report.ctp:19
+#: Template/Reports/monthlyworkoutreport.ctp:30
+#: Template/Reports/payment_report.ctp:18
+msgid "Attendance Report"
+msgstr "उपस्थिति विवरण"
+
+#: Template/Reports/attendance_report.ctp:38
+#: Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/monthlyworkoutreport.ctp:17
+#: Template/Reports/payment_report.ctp:14
+msgid "Reports"
+msgstr "रिपोर्ट"
+
+#: Template/Reports/attendance_report.ctp:41
+#: Template/Reports/membership_report.ctp:30
+#: Template/Reports/membership_status_report.ctp:17
+msgid "Membership Report"
+msgstr "सदस्यता रिपोर्ट"
+
+#: Template/Reports/attendance_report.ctp:43
+#: Template/Reports/membership_report.ctp:19
+#: Template/Reports/membership_status_report.ctp:13
+#: Template/Reports/monthlyworkoutreport.ctp:31
+#: Template/Reports/payment_report.ctp:20
+msgid "Membership Status Report"
+msgstr "सदस्यता स्थिति रिपोर्ट"
+
+#: Template/Reports/attendance_report.ctp:45
+#: Template/Reports/membership_report.ctp:21
+#: Template/Reports/membership_status_report.ctp:21
+#: Template/Reports/monthlyworkoutreport.ctp:32
+#: Template/Reports/payment_report.ctp:22
+msgid "Payment Report"
+msgstr "भुगतान रिपोर्ट"
+
+#: Template/Reports/attendance_report.ctp:47
+#: Template/Reports/membership_report.ctp:22
+#: Template/Reports/membership_status_report.ctp:22
+#: Template/Reports/monthlyworkoutreport.ctp:16
+#: Template/Reports/monthlyworkoutreport.ctp:24
+#: Template/Reports/monthlyworkoutreport.ctp:33
+#: Template/Reports/payment_report.ctp:23
+msgid "Members Monthly Workout Report"
+msgstr "सदस्य मासिक वर्कआउट रिपोर्ट"
+
+#: Template/Reports/attendance_report.ctp:55
+msgid "Strat Date"
+msgstr "आरंभ करने की तिथि"
+
+#: Template/Reports/attendance_report.ctp:109
+#: Template/Reports/membership_report.ctp:61
+#: Template/Reports/membership_status_report.ctp:40
+#: Template/Reports/payment_report.ctp:62
+msgid "There is not enough data to generate report."
+msgstr "रिपोर्ट जनरेट करने के लिए पर्याप्त डेटा नहीं है।"
+
+#: Template/Reports/attendance_report.ctp:117
+msgid "Attendance Report List"
+msgstr "उपस्थिति रिपोर्ट सूची"
+
+#: Template/Reports/attendance_report.ctp:125
+msgid "Attendance Date"
+msgstr "उपस्थिति तिथि"
+
+#: Template/Reports/membership_report.ctp:13
+msgid "Membership report"
+msgstr "सदस्यता रिपोर्ट"
+
+#: Template/Reports/membership_report.ctp:78
+msgid "Membership Report List"
+msgstr "सदस्यता रिपोर्ट सूची"
+
+#: Template/Reports/membership_report.ctp:85
+msgid "Total Member"
+msgstr "कुल सदस्य"
+
+#: Template/Reports/membership_status_report.ctp:30
+msgid "Membership by status"
+msgstr "स्थिति से सदस्यता"
+
+#: Template/Reports/monthlyworkoutreport.ctp:76
+msgid "Workout Date"
+msgstr "कसरत की तारीख"
+
+#: Template/Reports/monthlyworkoutreport.ctp:77
+msgid "Workout Name"
+msgstr "कसरत का नाम"
+
+#: Template/Reports/monthlyworkoutreport.ctp:123
+msgid "Download"
+msgstr "डाउनलोड"
+
+#: Template/Reports/monthlyworkoutreport.ctp:130
+msgid "No Workout Found."
+msgstr "कोई वर्कआउट नहीं मिला।"
+
+#: Template/Reports/payment_report.ctp:13
+msgid "Membership Payment report"
+msgstr "सदस्यता भुगतान रिपोर्ट"
+
+#: Template/Reports/payment_report.ctp:31
+msgid "Fee Payment Report By Month"
+msgstr "महीने के अनुसार शुल्क भुगतान रिपोर्ट"
+
+#: Template/Reports/payment_report.ctp:79
+msgid "Payment Report List"
+msgstr "भुगतान रिपोर्ट सूची"
+
+#: Template/StaffMembers/add_staff.ctp:50
+#: Template/StaffMembers/staff_list.ctp:27
+msgid "Staff Member List"
+msgstr "स्टाफ सदस्य सूची"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Assign Role"
+msgstr "भूमिका सौंपें"
+
+#: Template/StaffMembers/add_staff.ctp:101
+msgid "Select Role"
+msgstr "भूमिका का चयन करें"
+
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Specialization"
+msgstr "विशेषज्ञता"
+
+#: Template/StaffMembers/add_staff.ctp:183
+msgid "Save Staff"
+msgstr "कर्मचारी बचाओ"
+
+#: Template/StaffMembers/staff_list.ctp:45
+#: Template/StaffMembers/staff_list.ctp:78
+msgid "Staff Member Name"
+msgstr "स्टाफ सदस्य का नाम"
+
+#: Template/StaffMembers/staff_list.ctp:46
+#: Template/StaffMembers/staff_list.ctp:79
+msgid "Role"
+msgstr "भूमिका"
+
+#: Template/StaffMembers/staff_list.ctp:47
+#: Template/StaffMembers/staff_list.ctp:80
+msgid "Staff Member Email"
+msgstr "स्टाफ सदस्य ईमेल"
+
+#: Template/Users/login.ctp:16
+msgid "Logging you in"
+msgstr "आपको लॉग इन कर रहा है"
+
+#: Template/Users/login.ctp:23
+msgid "Login"
+msgstr "लॉग इन करें"

@@ -1,0 +1,3318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GYM - Master\n"
+"POT-Creation-Date: 2019-02-18 16:23+0530\n"
+"PO-Revision-Date: 2020-06-09 22:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n"
+"%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
+#: Template/Membership/view_activity.ctp:62
+msgid "Add Activity"
+msgstr "إضافة نشاط"
+
+#: Controller/ActivityController.php:72 Controller/GymDailyWorkoutController.php:91
+#: Controller/GymDailyWorkoutController.php:194 Controller/GymDailyWorkoutController.php:275
+#: Controller/GymMemberController.php:135 Controller/GymProductController.php:28
+#: Controller/GymStoreController.php:45 Controller/MembershipPaymentController.php:201
+#: Controller/MembershipPaymentController.php:342
+msgid "Success! Record Saved Successfully."
+msgstr "نجاح! تم حفظ السجل بنجاح."
+
+#: Controller/ActivityController.php:83 Controller/GymGroupController.php:89
+#: Controller/GymReservationController.php:79
+msgid "Success! Record Deleted Successfully"
+msgstr "نجاح! سجل المحذوفة بنجاح"
+
+#: Controller/ActivityController.php:91
+msgid "Edit Activity"
+msgstr "تعديل النشاط"
+
+#: Controller/ActivityController.php:137 Controller/GymAccountantController.php:90
+#: Controller/GymDailyWorkoutController.php:223 Controller/GymDailyWorkoutController.php:436
+#: Controller/GymMemberController.php:286 Controller/GymProductController.php:46
+#: Controller/GymStoreController.php:89 Controller/MembershipPaymentController.php:155
+#: Controller/MembershipPaymentController.php:246
+#: Controller/MembershipPaymentController.php:368 Controller/StaffMembersController.php:105
+msgid "Success! Record Updated Successfully."
+msgstr "نجاح! تم تحديث السجل بنجاح."
+
+#: Controller/AdminProfileController.php:55
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "نجاح! تم حفظ السجل بنجاح. يرجى تسجيل الدخول مرة أخرى لمشاهدة التغييرات."
+
+#: Controller/AdminProfileController.php:72 Controller/GeneralSettingController.php:95
+#: Controller/GymAccountantController.php:58 Controller/GymAccountantController.php:106
+#: Controller/GymDailyWorkoutController.php:279 Controller/GymDailyWorkoutController.php:440
+#: Controller/GymGroupController.php:43 Controller/GymGroupController.php:76
+#: Controller/GymMemberController.php:162 Controller/GymMemberController.php:315
+#: Controller/MembershipController.php:71 Controller/MembershipController.php:153
+#: Controller/StaffMembersController.php:66 Controller/StaffMembersController.php:121
+msgid "Invalid File Extension, Please Retry."
+msgstr "ملحق ملف غير صالح ، يرجى إعادة المحاولة."
+
+#: Controller/ClassScheduleController.php:41 Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "إضافة جدول الفصل"
+
+#: Controller/ClassScheduleController.php:80 Controller/GymReservationController.php:33
+#: Controller/MembershipController.php:64
+msgid "Success! Record Saved Successfully"
+msgstr "نجاح! تم حفظ السجل بنجاح"
+
+#: Controller/ClassScheduleController.php:83 Controller/MembershipController.php:150
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "خطأ! حدث خطأ أثناء التحديث ، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: Controller/ClassScheduleController.php:92
+msgid "Edit Class Schedule"
+msgstr "تحرير جدول الفصل"
+
+#: Controller/ClassScheduleController.php:143 Controller/GymGroupController.php:72
+#: Controller/GymReservationController.php:67 Controller/MembershipController.php:147
+msgid "Success! Record Updated Successfully"
+msgstr "نجاح! تم تحديث السجل بنجاح"
+
+#: Controller/ClassScheduleController.php:153
+msgid "Success! Class Deleted Successfully."
+msgstr "نجاح! الطبقة المحذوفة بنجاح."
+
+#: Controller/Component/GYMFunctionComponent.php:262 Template/GymMember/view_member.ctp:146
+msgid "Weight Report"
+msgstr "تقرير الوزن"
+
+#: Controller/Component/GYMFunctionComponent.php:263
+#: Controller/Component/GYMFunctionComponent.php:269
+#: Controller/Component/GYMFunctionComponent.php:275
+#: Controller/Component/GYMFunctionComponent.php:281
+#: Controller/Component/GYMFunctionComponent.php:287
+#: Controller/Component/GYMFunctionComponent.php:293
+#: Controller/Component/GYMFunctionComponent.php:299
+#: Template/GymMember/view_attendance.ctp:69
+msgid "Day"
+msgstr "يوم"
+
+#: Controller/Component/GYMFunctionComponent.php:268 Template/GymMember/view_member.ctp:196
+msgid "Thigh Report"
+msgstr "تقرير الفخذ"
+
+#: Controller/Component/GYMFunctionComponent.php:274 Template/GymMember/view_member.ctp:246
+msgid "Height Report"
+msgstr "تقرير الارتفاع"
+
+#: Controller/Component/GYMFunctionComponent.php:280 Template/GymMember/view_member.ctp:270
+msgid "Chest Report"
+msgstr "تقرير الصدر"
+
+#: Controller/Component/GYMFunctionComponent.php:286 Template/GymMember/view_member.ctp:170
+msgid "Waist Report"
+msgstr "تقرير الخصر"
+
+#: Controller/Component/GYMFunctionComponent.php:292 Template/GymMember/view_member.ctp:220
+msgid "Arms Report"
+msgstr "تقرير الأسلحة"
+
+#: Controller/Component/GYMFunctionComponent.php:298 Template/GymMember/view_member.ctp:296
+msgid "Fat Report"
+msgstr "تقرير الدهون"
+
+#: Controller/Component/GYMFunctionComponent.php:379
+msgid "Fully Paid"
+msgstr "دفعت بالكامل"
+
+#: Controller/Component/GYMFunctionComponent.php:381
+msgid "Not Paid"
+msgstr "لا تدفع"
+
+#: Controller/Component/GYMFunctionComponent.php:383
+msgid "Partially Paid"
+msgstr "المدفوعة جزئيا"
+
+#: Controller/Component/GYMFunctionComponent.php:586
+msgid "Membership Reminder Alert!"
+msgstr "عضوية تذكير تنبيه!"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "January"
+msgstr "كانون الثاني"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "February"
+msgstr "شهر فبراير"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "March"
+msgstr "مارس"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "April"
+msgstr "أبريل"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "May"
+msgstr "قد"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "June"
+msgstr "يونيو"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "July"
+msgstr "يوليو"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "August"
+msgstr "أغسطس"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "September"
+msgstr "سبتمبر"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "October"
+msgstr "شهر اكتوبر"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "November"
+msgstr "شهر نوفمبر"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "December"
+msgstr "ديسمبر"
+
+#: Controller/Component/GYMFunctionComponent.php:624
+msgid "You are not authorized to access that location."
+msgstr "غير مصرح لك بالوصول إلى هذا الموقع."
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:109
+#: Template/Dashboard/dashboard.ctp:215 Template/GymAttendance/attendance.ctp:80
+#: Template/GymMember/add_member.ctp:430 Template/GymNotice/add_notice.ctp:73
+#: Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:266 Template/Reports/attendance_report.ctp:87
+msgid "Class"
+msgstr "صف دراسي"
+
+#: Controller/DashboardController.php:106 Controller/DashboardController.php:133
+#: Controller/ReportsController.php:109 Template/GymAttendance/attendance.ctp:91
+#: Template/GymAttendance/staff_attendance.ctp:58
+msgid "Present"
+msgstr "حاضر"
+
+#: Controller/DashboardController.php:106 Controller/DashboardController.php:133
+#: Controller/ReportsController.php:109 Template/GymAttendance/attendance.ctp:93
+#: Template/GymAttendance/staff_attendance.ctp:60
+msgid "Absent"
+msgstr "غائب"
+
+#: Controller/DashboardController.php:133 Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Dashboard/dashboard.ctp:70 Template/Dashboard/dashboard.ctp:269
+#: Template/Dashboard/member_dashboard.ctp:79 Template/Dashboard/staff_acc_dashboard.ctp:89
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:33 Template/GymMember/view_member.ctp:123
+#: Template/GymNotice/add_notice.ctp:67 Template/StaffMembers/add_staff.ctp:47
+#: Template/StaffMembers/staff_list.ctp:31
+msgid "Staff Member"
+msgstr "موظف"
+
+#: Controller/GeneralSettingController.php:65 Controller/GeneralSettingController.php:89
+msgid "Success! Settings Saved Successfully."
+msgstr "نجاح! تم حفظ الإعدادات بنجاح."
+
+#: Controller/GymAccessrightController.php:249
+msgid "Success! Settings Saved successfully."
+msgstr "نجاح! الإعدادات المحفوظة بنجاح."
+
+#: Controller/GymAccountantController.php:23 Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "اضافة محاسب"
+
+#: Controller/GymAccountantController.php:42 Controller/GymNoticeController.php:62
+#: Controller/StaffMembersController.php:50
+msgid "Success! Record Successfully Saved."
+msgstr "نجاح! تم حفظ السجل بنجاح."
+
+#: Controller/GymAccountantController.php:67
+msgid "Edit Accountant"
+msgstr "تحرير محاسب"
+
+#: Controller/GymAccountantController.php:117 Controller/MembershipPaymentController.php:380
+msgid "Success! Accountant Deleted Successfully."
+msgstr "نجاح! المحاسب المحذوف بنجاح."
+
+#: Controller/GymAjaxController.php:27 Controller/GymAjaxController1.php:25
+msgid "Add/Remove Category"
+msgstr "إضافة / إزالة الفئة"
+
+#: Controller/GymAjaxController.php:32 Controller/GymAjaxController1.php:30
+msgid "enter category name"
+msgstr "أدخل اسم الفئة"
+
+#: Controller/GymAjaxController.php:35 Controller/GymAjaxController.php:123
+#: Controller/GymAjaxController1.php:33 Controller/GymAjaxController1.php:121
+#: Template/Activity/add_activity.ctp:52 Template/Membership/add.ctp:93
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "إضافة فئة"
+
+#: Controller/GymAjaxController.php:44 Controller/GymAjaxController.php:216
+#: Controller/GymAjaxController.php:297 Controller/GymAjaxController1.php:42
+#: Controller/GymAjaxController1.php:214 Controller/GymAjaxController1.php:295
+msgid "Category"
+msgstr "الفئة"
+
+#: Controller/GymAjaxController.php:45 Controller/GymAjaxController.php:133
+#: Controller/GymAjaxController.php:217 Controller/GymAjaxController.php:298
+#: Controller/GymAjaxController.php:378 Controller/GymAjaxController.php:456
+#: Controller/GymAjaxController.php:554 Controller/GymAjaxController.php:930
+#: Controller/GymAjaxController.php:1036 Controller/GymAjaxController1.php:43
+#: Controller/GymAjaxController1.php:131 Controller/GymAjaxController1.php:215
+#: Controller/GymAjaxController1.php:296 Controller/GymAjaxController1.php:376
+#: Controller/GymAjaxController1.php:454 Controller/GymAjaxController1.php:551
+#: Controller/GymAjaxController1.php:886 Controller/GymAjaxController1.php:992
+#: Template/Activity/activity_list.ctp:51 Template/Activity/activity_list.ctp:79
+#: Template/ClassSchedule/add_class.ctp:141 Template/ClassSchedule/class_list.ctp:67
+#: Template/ClassSchedule/class_list.ctp:101 Template/GymAccountant/accountant_list.ctp:58
+#: Template/GymAccountant/accountant_list.ctp:92
+#: Template/GymAssignWorkout/workout_log.ctp:55 Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59 Template/GymDailyWorkout/workout_list.ctp:85
+#: Template/GymGroup/group_list.ctp:47 Template/GymGroup/group_list.ctp:78
+#: Template/GymMember/member_list.ctp:62 Template/GymMember/member_list.ctp:115
+#: Template/GymNotice/notice_list.ctp:45 Template/GymNotice/notice_list.ctp:74
+#: Template/GymNutrition/nutrition_list.ctp:55 Template/GymNutrition/nutrition_list.ctp:79
+#: Template/GymProduct/product_list.ctp:51 Template/GymProduct/product_list.ctp:80
+#: Template/GymReservation/reservation_list.ctp:57
+#: Template/GymReservation/reservation_list.ctp:89 Template/GymStore/sell_record.ctp:38
+#: Template/GymStore/sell_record.ctp:65 Template/Membership/membership_list.ctp:59
+#: Template/Membership/membership_list.ctp:107 Template/Membership/view_activity.ctp:76
+#: Template/Membership/view_activity.ctp:100 Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102 Template/StaffMembers/staff_list.ctp:53
+#: Template/StaffMembers/staff_list.ctp:86
+msgid "Action"
+msgstr "عمل"
+
+#: Controller/GymAjaxController.php:55 Controller/GymAjaxController.php:81
+#: Controller/GymAjaxController.php:143 Controller/GymAjaxController.php:170
+#: Controller/GymAjaxController.php:229 Controller/GymAjaxController.php:255
+#: Controller/GymAjaxController.php:310 Controller/GymAjaxController.php:338
+#: Controller/GymAjaxController.php:390 Controller/GymAjaxController.php:416
+#: Controller/GymAjaxController.php:468 Controller/GymAjaxController.php:494
+#: Controller/GymAjaxController.php:566 Controller/GymAjaxController.php:593
+#: Controller/GymAjaxController.php:1048 Controller/GymAjaxController.php:1107
+#: Controller/GymAjaxController1.php:53 Controller/GymAjaxController1.php:79
+#: Controller/GymAjaxController1.php:141 Controller/GymAjaxController1.php:168
+#: Controller/GymAjaxController1.php:227 Controller/GymAjaxController1.php:253
+#: Controller/GymAjaxController1.php:308 Controller/GymAjaxController1.php:336
+#: Controller/GymAjaxController1.php:388 Controller/GymAjaxController1.php:414
+#: Controller/GymAjaxController1.php:466 Controller/GymAjaxController1.php:492
+#: Controller/GymAjaxController1.php:563 Controller/GymAjaxController1.php:590
+#: Controller/GymAjaxController1.php:1004 Controller/GymAjaxController1.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:48 Template/GymMessage/view_message.ctp:47
+#: Template/GymNotice/notice_list.ctp:61 Template/GymProduct/product_list.ctp:67
+#: Template/GymStore/sell_record.ctp:54 Template/MembershipPayment/add_expense.ctp:70
+#: Template/MembershipPayment/add_expense.ctp:92
+#: Template/MembershipPayment/add_income.ctp:85
+#: Template/MembershipPayment/add_income.ctp:107
+msgid "Delete"
+msgstr "حذف"
+
+#: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:153
+#: Controller/GymAjaxController.php:240 Controller/GymAjaxController.php:321
+#: Controller/GymAjaxController.php:401 Controller/GymAjaxController.php:479
+#: Controller/GymAjaxController.php:577 Controller/GymAjaxController.php:961
+#: Controller/GymAjaxController.php:1059 Controller/GymAjaxController.php:1155
+#: Controller/GymAjaxController.php:1212 Controller/GymAjaxController.php:1368
+#: Controller/GymAjaxController.php:1504 Controller/GymAjaxController.php:1550
+#: Controller/GymAjaxController1.php:63 Controller/GymAjaxController1.php:151
+#: Controller/GymAjaxController1.php:238 Controller/GymAjaxController1.php:319
+#: Controller/GymAjaxController1.php:399 Controller/GymAjaxController1.php:477
+#: Controller/GymAjaxController1.php:574 Controller/GymAjaxController1.php:917
+#: Controller/GymAjaxController1.php:1015 Controller/GymAjaxController1.php:1080
+#: Controller/GymAjaxController1.php:1132 Controller/GymAjaxController1.php:1284
+#: Controller/GymAjaxController1.php:1420 Controller/GymAjaxController1.php:1466
+msgid "Close"
+msgstr "قريب"
+
+#: Controller/GymAjaxController.php:106 Controller/GymAjaxController1.php:104
+msgid "Add/Remove Installment Plan"
+msgstr "إضافة / إزالة خطة التقسيط"
+
+#: Controller/GymAjaxController.php:111 Controller/GymAjaxController1.php:109
+msgid "Enter Duration Number"
+msgstr "أدخل رقم المدة"
+
+#: Controller/GymAjaxController.php:115 Controller/GymAjaxController1.php:113
+msgid "Select Duration"
+msgstr "حدد المدة"
+
+#: Controller/GymAjaxController.php:116 Controller/GymAjaxController1.php:114
+#: Template/ClassSchedule/add_class.ctp:141
+msgid "Days"
+msgstr "أيام"
+
+#: Controller/GymAjaxController.php:117 Controller/GymAjaxController1.php:115
+msgid "Week"
+msgstr "أسبوع"
+
+#: Controller/GymAjaxController.php:118 Controller/GymAjaxController1.php:116
+#: Template/Dashboard/dashboard.ctp:163 Template/Reports/monthlyworkoutreport.ctp:58
+#: Template/Reports/payment_report.ctp:39
+msgid "Month"
+msgstr "شهر"
+
+#: Controller/GymAjaxController.php:119 Controller/GymAjaxController1.php:117
+msgid "Year"
+msgstr "عام"
+
+#: Controller/GymAjaxController.php:132 Controller/GymAjaxController1.php:130
+msgid "Plan"
+msgstr "خطة"
+
+#: Controller/GymAjaxController.php:199 Controller/GymAjaxController1.php:197
+msgid "Add/Remove Role"
+msgstr "إضافة / إزالة الدور"
+
+#: Controller/GymAjaxController.php:204 Controller/GymAjaxController1.php:202
+msgid "Enter Role"
+msgstr "أدخل دور"
+
+#: Controller/GymAjaxController.php:207 Controller/GymAjaxController.php:288
+#: Controller/GymAjaxController1.php:205 Controller/GymAjaxController1.php:286
+msgid "Add Role"
+msgstr "إضافة دور"
+
+#: Controller/GymAjaxController.php:232 Controller/GymAjaxController1.php:230
+#: Controller/GymAjaxController1.php:311 Controller/GymAjaxController1.php:1007
+msgid "No roles added"
+msgstr "لا الأدوار المضافة"
+
+#: Controller/GymAjaxController.php:280 Controller/GymAjaxController1.php:278
+msgid "Add/Remove Specialization"
+msgstr "إضافة / إزالة التخصص"
+
+#: Controller/GymAjaxController.php:285 Controller/GymAjaxController1.php:283
+msgid "Enter Specialization"
+msgstr "أدخل التخصص"
+
+#: Controller/GymAjaxController.php:313
+msgid "No Specialization added"
+msgstr "لا يوجد تخصص"
+
+#: Controller/GymAjaxController.php:360 Controller/GymAjaxController1.php:358
+msgid "Add/Remove Interest"
+msgstr "إضافة / إزالة الفائدة"
+
+#: Controller/GymAjaxController.php:365 Controller/GymAjaxController1.php:363
+msgid "Enter Interest"
+msgstr "أدخل الفائدة"
+
+#: Controller/GymAjaxController.php:368 Controller/GymAjaxController1.php:366
+msgid "Add Interest"
+msgstr "إضافة الفائدة"
+
+#: Controller/GymAjaxController.php:377 Controller/GymAjaxController1.php:375
+msgid "Interest"
+msgstr "فائدة"
+
+#: Controller/GymAjaxController.php:393 Controller/GymAjaxController.php:471
+#: Controller/GymAjaxController.php:569 Controller/GymAjaxController1.php:391
+#: Controller/GymAjaxController1.php:469 Controller/GymAjaxController1.php:566
+msgid "No record added yet"
+msgstr "لا يوجد سجل مضاف بعد"
+
+#: Controller/GymAjaxController.php:438 Controller/GymAjaxController1.php:436
+msgid "Add/Remove Source"
+msgstr "إضافة / إزالة المصدر"
+
+#: Controller/GymAjaxController.php:443 Controller/GymAjaxController1.php:441
+msgid "Enter Source"
+msgstr "أدخل المصدر"
+
+#: Controller/GymAjaxController.php:446 Controller/GymAjaxController1.php:444
+msgid "Add Source"
+msgstr "إضافة المصدر"
+
+#: Controller/GymAjaxController.php:455 Controller/GymAjaxController1.php:453
+msgid "Source List"
+msgstr "قائمة مصدر"
+
+#: Controller/GymAjaxController.php:536 Controller/GymAjaxController1.php:533
+msgid "Add/Remove Levels"
+msgstr "إضافة / إزالة المستويات"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController1.php:538
+msgid "Enter Level"
+msgstr "أدخل المستوى"
+
+#: Controller/GymAjaxController.php:544 Controller/GymAjaxController.php:742
+#: Controller/GymAjaxController1.php:541 Controller/GymAjaxController1.php:726
+#: Template/GymAssignWorkout/assign_workout.ctp:99
+#: Template/GymAssignWorkout/assign_workout1.ctp:78
+msgid "Add Level"
+msgstr "اضافة المستوى"
+
+#: Controller/GymAjaxController.php:553 Controller/GymAjaxController1.php:550
+msgid "Levels"
+msgstr "مستويات"
+
+#: Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:768
+#: Controller/GymAjaxController1.php:673 Controller/GymAjaxController1.php:750
+#: Template/Activity/activity_list.ctp:31 Template/Activity/add_activity.ctp:32
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96 Template/Element/sidebar.ctp:78
+#: Template/GymAccessright/access_right.ctp:153
+#: Template/GymAssignWorkout/assign_workout.ctp:197
+#: Template/GymAssignWorkout/assign_workout1.ctp:175
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:63
+#: Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "نشاط"
+
+#: Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:699
+#: Controller/GymAjaxController.php:769 Controller/GymAjaxController1.php:674
+#: Controller/GymAjaxController1.php:686 Controller/GymAjaxController1.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:198
+#: Template/GymAssignWorkout/assign_workout1.ctp:176
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:64
+#: Template/GymAssignWorkout/print_workout.ctp:61
+#: Template/Reports/monthlyworkoutreport.ctp:79
+msgid "Sets"
+msgstr "موعات"
+
+#: Controller/GymAjaxController.php:688 Controller/GymAjaxController.php:700
+#: Controller/GymAjaxController.php:770 Controller/GymAjaxController1.php:675
+#: Controller/GymAjaxController1.php:687 Controller/GymAjaxController1.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:199
+#: Template/GymAssignWorkout/assign_workout1.ctp:177
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:62
+#: Template/Reports/monthlyworkoutreport.ctp:80
+msgid "Reps"
+msgstr "ممثلين"
+
+#: Controller/GymAjaxController.php:689 Controller/GymAjaxController.php:771
+#: Controller/GymAjaxController1.php:676 Controller/GymAjaxController1.php:753
+#: Template/GymAssignWorkout/assign_workout.ctp:200
+#: Template/GymAssignWorkout/assign_workout1.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr "كلغ"
+
+#: Controller/GymAjaxController.php:690 Controller/GymAjaxController.php:772
+#: Controller/GymAjaxController1.php:677 Controller/GymAjaxController1.php:754
+#: Template/GymAssignWorkout/assign_workout.ctp:201
+#: Template/GymAssignWorkout/assign_workout1.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:64
+#: Template/Reports/monthlyworkoutreport.ctp:82
+msgid "Rest Time"
+msgstr "وقت الراحة"
+
+#: Controller/GymAjaxController.php:701 Controller/GymAjaxController1.php:688
+#: Template/Reports/monthlyworkoutreport.ctp:81
+msgid "Kg"
+msgstr "كلغ"
+
+#: Controller/GymAjaxController.php:702 Controller/GymAjaxController1.php:689
+msgid "Min"
+msgstr "دقيقة"
+
+#: Controller/GymAjaxController.php:706 Controller/GymAjaxController1.php:693
+msgid "Your Workout"
+msgstr "تجريب الخاص بك"
+
+#: Controller/GymAjaxController.php:713 Controller/GymAjaxController.php:791
+msgid "Note"
+msgstr "ملحوظة"
+
+#: Controller/GymAjaxController.php:721 Controller/GymAjaxController1.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "لا يوجد تمارين مخصصة لهذا اليوم.يمكنك إضافة البيانات من الأسفل."
+
+#: Controller/GymAjaxController.php:726 Controller/GymAjaxController1.php:710
+#: Template/GymAssignWorkout/assign_workout.ctp:92
+#: Template/GymAssignWorkout/assign_workout1.ctp:71
+msgid "Level"
+msgstr "مستوى"
+
+#: Controller/GymAjaxController.php:729 Controller/GymAjaxController1.php:713
+#: Template/GymAssignWorkout/assign_workout.ctp:95
+#: Template/GymAssignWorkout/assign_workout1.ctp:74
+msgid "Select Level"
+msgstr "اختار مستوى"
+
+#: Controller/GymAjaxController.php:918 Controller/GymAjaxController1.php:874
+msgid "Edit/Delete Measurement"
+msgstr "تحرير / حذف القياس"
+
+#: Controller/GymAjaxController.php:926 Controller/GymAjaxController1.php:882
+msgid "Image"
+msgstr "صورة"
+
+#: Controller/GymAjaxController.php:927 Controller/GymAjaxController1.php:883
+msgid "Measurement"
+msgstr "قياس"
+
+#: Controller/GymAjaxController.php:928 Controller/GymAjaxController1.php:884
+#: Template/GymDailyWorkout/add_measurment.ctp:65
+msgid "Result"
+msgstr "نتيجة"
+
+#: Controller/GymAjaxController.php:929 Controller/GymAjaxController1.php:885
+msgid "Record Date"
+msgstr "تاريخ التسجيل"
+
+#: Controller/GymAjaxController.php:952 Controller/GymAjaxController1.php:908
+msgid "No Data Found."
+msgstr "لاتوجد بيانات."
+
+#: Controller/GymAjaxController.php:1018 Controller/GymAjaxController1.php:974
+msgid "Add/Remove Event Place"
+msgstr "إضافة / إزالة مكان الحدث"
+
+#: Controller/GymAjaxController.php:1023 Controller/GymAjaxController1.php:979
+msgid "Enter Place Name"
+msgstr "أدخل اسم المكان"
+
+#: Controller/GymAjaxController.php:1026 Controller/GymAjaxController1.php:982
+msgid "Add Place"
+msgstr "أضف مكان"
+
+#: Controller/GymAjaxController.php:1035 Controller/GymAjaxController1.php:991
+msgid "Place Name"
+msgstr "اسم مكان"
+
+#: Controller/GymAjaxController.php:1051
+msgid "No Event Place added"
+msgstr "لم تتم إضافة أي مكان حدث"
+
+#: Controller/GymAjaxController.php:1134 Controller/GymAjaxController1.php:1059
+msgid "Group Members"
+msgstr "أعضاء المجموعة"
+
+#: Controller/GymAjaxController.php:1149 Controller/GymAjaxController1.php:1074
+msgid "No Members Assigned Yet."
+msgstr "لم يعين أي عضو بعد."
+
+#: Controller/GymAjaxController.php:1173 Controller/GymAjaxController.php:1207
+#: Controller/GymAjaxController1.php:1093 Controller/GymAjaxController1.php:1127
+msgid "Add Payment"
+msgstr "إضافة الدفع"
+
+#: Controller/GymAjaxController.php:1181 Controller/GymAjaxController1.php:1101
+#: Template/MembershipPayment/payment_list.ctp:52
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "المبلغ المدفوع"
+
+#: Controller/GymAjaxController.php:1190 Controller/GymAjaxController1.php:1110
+msgid "Payment By"
+msgstr "الدفع بواسطة"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController1.php:1116
+msgid "Paypal"
+msgstr "باي بال"
+
+#: Controller/GymAjaxController.php:1199 Controller/GymAjaxController1.php:1119
+msgid "Cash"
+msgstr "السيولة النقدية"
+
+#: Controller/GymAjaxController.php:1200 Controller/GymAjaxController1.php:1120
+msgid "Cheque"
+msgstr "التحقق من"
+
+#: Controller/GymAjaxController.php:1201 Controller/GymAjaxController1.php:1121
+msgid "Bank Transfer"
+msgstr "التحويل المصرفي"
+
+#: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1399
+#: Controller/GymAjaxController1.php:1166 Controller/GymAjaxController1.php:1315
+msgid "Invoice"
+msgstr "فاتورة"
+
+#: Controller/GymAjaxController.php:1260 Controller/GymAjaxController.php:1412
+#: Controller/GymAjaxController1.php:1179 Controller/GymAjaxController1.php:1328
+#: Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "تاريخ الاصدار"
+
+#: Controller/GymAjaxController.php:1261 Controller/GymAjaxController.php:1413
+#: Controller/GymAjaxController1.php:1180 Controller/GymAjaxController1.php:1329
+#: Template/GymAttendance/attendance.ctp:109 Template/GymAttendance/attendance.ctp:115
+#: Template/GymAttendance/attendance.ctp:118 Template/GymAttendance/staff_attendance.ctp:67
+#: Template/GymAttendance/staff_attendance.ctp:70 Template/GymMember/member_list.ctp:64
+#: Template/GymMember/member_list.ctp:117 Template/GymMember/view_member.ctp:128
+#: Template/MembershipPayment/add_expense.ctp:41
+#: Template/MembershipPayment/add_income.ctp:56
+#: Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "الحالة"
+
+#: Controller/GymAjaxController.php:1274 Controller/GymAjaxController.php:1426
+#: Controller/GymAjaxController1.php:1193 Controller/GymAjaxController1.php:1342
+#: Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "دفع ل"
+
+#: Controller/GymAjaxController.php:1277 Controller/GymAjaxController.php:1429
+#: Controller/GymAjaxController1.php:1196 Controller/GymAjaxController1.php:1345
+#: Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "فاتورة الى"
+
+#: Controller/GymAjaxController.php:1308 Controller/GymAjaxController1.php:1227
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:51 Template/Element/sidebar.ctp:33
+#: Template/GymAccessright/access_right.ctp:63
+#: Template/MembershipPayment/print_invoice.ctp:91
+msgid "Membership Type"
+msgstr "نوع العضوية"
+
+#: Controller/GymAjaxController.php:1309 Controller/GymAjaxController1.php:1228
+msgid "Sign Up Fee"
+msgstr "رسوم التسجيل"
+
+#: Controller/GymAjaxController.php:1310 Controller/GymAjaxController1.php:1229
+#: Template/MembershipPayment/print_invoice.ctp:92
+msgid "Membership Fee"
+msgstr "رسوم العضوية"
+
+#: Controller/GymAjaxController.php:1311 Controller/GymAjaxController1.php:1230
+#: Template/MembershipPayment/print_invoice.ctp:93
+msgid "Total"
+msgstr "مجموع"
+
+#: Controller/GymAjaxController.php:1325 Controller/GymAjaxController1.php:1244
+#: Template/MembershipPayment/print_invoice.ctp:170
+msgid "Subtotal :"
+msgstr "المجموع الفرعي:"
+
+#: Controller/GymAjaxController.php:1329 Controller/GymAjaxController1.php:1248
+#: Template/MembershipPayment/print_invoice.ctp:174
+msgid "Payment Made :"
+msgstr "الدفع المقدم:"
+
+#: Controller/GymAjaxController.php:1333 Controller/GymAjaxController1.php:1252
+msgid "Due Amount  :"
+msgstr "مبلغ مستحق :"
+
+#: Controller/GymAjaxController.php:1341 Controller/GymAjaxController1.php:1260
+#: Template/MembershipPayment/print_invoice.ctp:204
+msgid "Payment History"
+msgstr "تاريخ الدفع"
+
+#: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1467
+#: Controller/GymAjaxController1.php:1264 Controller/GymAjaxController1.php:1383
+#: Template/GymAttendance/attendance.ctp:39 Template/GymAttendance/attendance.ctp:81
+#: Template/GymAttendance/staff_attendance.ctp:31
+#: Template/GymDailyWorkout/view_workout.ctp:51 Template/GymMember/view_attendance.ctp:68
+#: Template/GymMessage/inbox.ctp:55 Template/GymMessage/sent.ctp:44
+#: Template/GymStore/sell_product.ctp:54 Template/MembershipPayment/add_expense.ctp:50
+#: Template/MembershipPayment/add_income.ctp:65
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:101
+#: Template/MembershipPayment/print_invoice.ctp:208
+msgid "Date"
+msgstr "تاريخ"
+
+#: Controller/GymAjaxController.php:1346 Controller/GymAjaxController1.php:1265
+#: Template/GymMember/view_member.ctp:388 Template/GymMember/view_member.ctp:416
+#: Template/GymSubscriptionHistory/index.ctp:43 Template/GymSubscriptionHistory/index.ctp:73
+#: Template/Membership/add.ctp:152 Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:51
+#: Template/MembershipPayment/payment_list.ctp:96
+#: Template/MembershipPayment/print_invoice.ctp:209
+msgid "Amount"
+msgstr "كمية"
+
+#: Controller/GymAjaxController.php:1347 Controller/GymAjaxController1.php:1266
+#: Template/MembershipPayment/print_invoice.ctp:210
+msgid "Method"
+msgstr "طريقة"
+
+#: Controller/GymAjaxController.php:1366 Controller/GymAjaxController.php:1502
+#: Controller/GymAjaxController1.php:1418
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:55
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "طباعة"
+
+#: Controller/GymAjaxController.php:1462 Controller/GymAjaxController1.php:1378
+#: Template/MembershipPayment/print_invoice.ctp:83
+msgid "Invoice Entries"
+msgstr "إدخالات الفاتورة"
+
+#: Controller/GymAjaxController.php:1468 Controller/GymAjaxController1.php:1384
+#: Template/MembershipPayment/print_invoice.ctp:102
+msgid "Entry"
+msgstr "دخول"
+
+#: Controller/GymAjaxController.php:1469 Controller/GymAjaxController1.php:1385
+#: Template/MembershipPayment/print_invoice.ctp:103
+msgid "Price"
+msgstr "السعر"
+
+#: Controller/GymAjaxController.php:1470 Controller/GymAjaxController1.php:1386
+#: Template/AdminProfile/edit_profile.ctp:62 Template/GymAccountant/add_accountant.ctp:124
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:328
+#: Template/GymMember/view_member.ctp:90 Template/GymProfile/view_profile.ctp:70
+#: Template/Installer/index.ctp:554 Template/MemberRegistration/index.ctp:219
+#: Template/MembershipPayment/print_invoice.ctp:104 Template/StaffMembers/add_staff.ctp:159
+#: Template/Users/login.ctp:29
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: Controller/GymAjaxController.php:1493 Controller/GymAjaxController1.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:195
+msgid "Grand Total :"
+msgstr "المجموع الكلي :"
+
+#: Controller/GymAjaxController.php:1519 Controller/GymAjaxController1.php:1435
+msgid "Notice Detail"
+msgstr "إشعار التفاصيل"
+
+#: Controller/GymAjaxController.php:1524 Controller/GymAjaxController1.php:1440
+msgid "Notice Title "
+msgstr "عنوان الإشعار "
+
+#: Controller/GymAjaxController.php:1529 Controller/GymAjaxController1.php:1445
+#: Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "إشعار تعليق"
+
+#: Controller/GymAjaxController.php:1534 Controller/GymAjaxController1.php:1450
+#: Template/GymNotice/add_notice.ctp:64 Template/GymNotice/notice_list.ctp:43
+#: Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "إشعار ل"
+
+#: Controller/GymAjaxController.php:1539 Controller/GymAjaxController1.php:1455
+#: Template/GymAssignWorkout/assign_workout.ctp:109
+#: Template/GymAssignWorkout/assign_workout1.ctp:88
+#: Template/GymDailyWorkout/add_workout.ctp:185 Template/GymMember/view_attendance.ctp:48
+#: Template/GymNotice/add_notice.ctp:82 Template/GymNutrition/addnutrition_schedule.ctp:70
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+#: Controller/GymAjaxController.php:1544 Controller/GymAjaxController1.php:1460
+msgid "End Date "
+msgstr "تاريخ الانتهاء "
+
+#: Controller/GymAjaxController1.php:736
+msgid "Category List"
+msgstr "قائمة الفئات"
+
+#: Controller/GymAssignWorkoutController - copy.php:40
+#: Controller/GymAssignWorkoutController.php:40
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:105 Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:65
+#: Template/GymAssignWorkout/assign_workout1.ctp:46
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36 Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "تعيين تجريب"
+
+#: Controller/GymAssignWorkoutController - copy.php:101 copy.php:293
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:291
+msgid "success! Record Saved Successfully."
+msgstr "نجاح! تم حفظ السجل بنجاح."
+
+#: Controller/GymAssignWorkoutController - copy.php:103
+#: Controller/GymAssignWorkoutController.php:104
+#: Controller/GymAssignWorkoutController.php:294
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "خطأ! تعذّر حفظ بيانات أيام التمرين. الرجاء إعادة المحاولة."
+
+#: Controller/GymAssignWorkoutController - copy.php:108 copy.php:299
+#: Controller/GymAssignWorkoutController.php:109
+#: Controller/GymAssignWorkoutController.php:297
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "خطأ! لم يتم حفظ السجل. الرجاء إعادة المحاولة."
+
+#: Controller/GymAssignWorkoutController - copy.php:196
+#: Controller/GymAssignWorkoutController.php:197
+#: Template/GymDailyWorkout/view_workout.ctp:33
+msgid "View Workout"
+msgstr "عرض تجريب"
+
+#: Controller/GymAssignWorkoutController - copy.php:296
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "خطأ! لم يتم حفظ أيام العمل في تجريبها. الرجاء إعادة المحاولة."
+
+#: Controller/GymAssignWorkoutController - copy.php:320
+#: Controller/GymAssignWorkoutController.php:318 Controller/GymMemberController.php:326
+#: Controller/GymNutritionController.php:305 Controller/GymProductController.php:61
+#: Controller/GymStoreController.php:111 Controller/MembershipPaymentController.php:258
+msgid "Success! Record Deleted Successfully."
+msgstr "نجاح! سجل المحذوفة بنجاح."
+
+#: Controller/GymAttendanceController.php:85 Controller/GymAttendanceController.php:149
+msgid "Success! Attendance Saved Successfully."
+msgstr "نجاح! تم حفظ الحضور بنجاح."
+
+#: Controller/GymAttendanceController.php:153
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "خطأ! الرجاء اختيار العضو / عضو فريق العمل."
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:29
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "أضف تجريب"
+
+#: Controller/GymDailyWorkoutController.php:243 Template/GymDailyWorkout/add_workout.ctp:132
+#: Template/GymDailyWorkout/view_workout.ctp:39 Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "إضافة القياس"
+
+#: Controller/GymDailyWorkoutController.php:410
+msgid "Edit Measurement"
+msgstr "تحرير القياس"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "البريد الإلكتروني اختبار"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:215
+msgid "Add Group"
+msgstr "إضافة مجموعة"
+
+#: Controller/GymGroupController.php:39
+msgid "Success! Group Added Successfully."
+msgstr "نجاح! تمت إضافة المجموعة بنجاح."
+
+#: Controller/GymGroupController.php:50
+msgid "Edit Group"
+msgstr "تحرير المجموعة"
+
+#: Controller/GymMemberController.php:61 Template/GymAssignWorkout/assign_workout.ctp:87
+#: Template/GymAssignWorkout/assign_workout1.ctp:67
+#: Template/GymDailyWorkout/add_workout.ctp:172 Template/GymMember/member_list.ctp:45
+#: Template/GymNutrition/addnutrition_schedule.ctp:65
+msgid "Add Member"
+msgstr "إضافة عضو"
+
+#: Controller/GymMemberController.php:190
+msgid "Edit Member"
+msgstr "تعديل العضو"
+
+#: Controller/GymMemberController.php:446
+msgid "Success! Member activated successfully."
+msgstr "نجاح! عضو تفعيلها بنجاح."
+
+#: Controller/GymMessageController.php:154
+msgid "Success! Message Sent Successfully."
+msgstr "نجاح! تم إرسال الرسالة بنجاح."
+
+#: Controller/GymMessageController.php:156
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "خطأ! تعذر إرسال الرسالة ، يرجى إعادة المحاولة."
+
+#: Controller/GymMessageController.php:204
+msgid "Success! Message Deleted Successfully."
+msgstr "نجاح! تم حذف الرسالة بنجاح."
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "نجاح! ابي مفتاح المحفوظة بنجاح."
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "نجاح! تم تحديث Api Key بنجاح."
+
+#: Controller/GymNewsletterController.php:94
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "نجاح! مزامنة البريد بنجاح."
+
+#: Controller/GymNewsletterController.php:131
+msgid "Campaign Tests Not Sent!"
+msgstr "اختبارات الحملات غير مرسلة!"
+
+#: Controller/GymNewsletterController.php:133
+msgid "Campaign Tests Sent!"
+msgstr "اختبارات الحملات المرسلة!"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:31
+#: Controller/GymStoreController.php:49
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "خطأ! سجل غير المحفوظة. الرجاء المحاولة مرة أخرى."
+
+#: Controller/GymNoticeController.php:91
+msgid "Success! Record Successfully Updated."
+msgstr "نجاح! سجل تم تحديثه بنجاح."
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:49
+#: Controller/GymStoreController.php:93
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "خطأ! سجل غير محدث. الرجاء المحاولة مرة أخرى."
+
+#: Controller/GymNoticeController.php:105
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "نجاح! تم حذف السجل بنجاح."
+
+#: Controller/GymNutritionController.php:40 Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "إضافة جدول التغذية"
+
+#: Controller/GymNutritionController.php:77 Controller/GymNutritionController.php:217
+msgid "Success! Nutrition Added Sucessfully."
+msgstr "نجاح! التغذية المضافة بنجاح."
+
+#: Controller/GymNutritionController.php:81 Controller/GymNutritionController.php:221
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "خطأ! لم يتم حفظ بيانات التغذية. الرجاء إعادة المحاولة."
+
+#: Controller/GymNutritionController.php:85 Controller/GymNutritionController.php:225
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "خطأ! لم يتم حفظ جدول التغذية. الرجاء إعادة المحاولة."
+
+#: Controller/GymNutritionController.php:172
+msgid "View Nutrition Schedule"
+msgstr "عرض جدول التغذية"
+
+#: Controller/GymProfileController.php:30
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr "خطأ! كلمة المرور الجديدة وتأكيد كلمة المرور غير متطابقين. يرجى إعادة المحاولة."
+
+#: Controller/GymProfileController.php:37
+msgid "Success! Password Updated Successfully"
+msgstr "نجاح! تم تحديث كلمة السر بنجاح"
+
+#: Controller/GymProfileController.php:41
+msgid "Error! Current password is wrong.Please try again."
+msgstr "خطأ! كلمة المرور الحالية خاطئة. الرجاء المحاولة مرة أخرى."
+
+#: Controller/GymProfileController.php:65
+msgid "Success! Information Updated Successfully"
+msgstr "نجاح! تحديث المعلومات بنجاح"
+
+#: Controller/GymProfileController.php:69
+msgid "Error! Not Update.Please try again."
+msgstr "خطأ! لا التحديث. الرجاء المحاولة مرة أخرى."
+
+#: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
+msgid "Only "
+msgstr "فقط "
+
+#: Controller/MemberRegistrationController.php:108
+msgid "Registration completed successfully. You will get email after activation"
+msgstr "اكتمل التسجيل بنجاح. سوف تحصل على البريد الإلكتروني بعد التنشيط"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:86
+#: Template/GymMember/add_member.ctp:425 Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "إضافة عضوية"
+
+#: Controller/MembershipController.php:67
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "خطأ! حدث خطأ أثناء الحفظ ، يرجى المحاولة مرة أخرى في وقت لاحق."
+
+#: Controller/MembershipController.php:99
+msgid "Edit Membership"
+msgstr "تحرير العضوية"
+
+#: Controller/MembershipController.php:198
+msgid "Success! Activity Successfully Assigned."
+msgstr "نجاح! نشاط تم تعيينه بنجاح."
+
+#: Controller/MembershipController.php:208
+msgid "Success! Activity Unassigned Successfully."
+msgstr "نجاح! النشاط غير مخصص بنجاح."
+
+#: Controller/MembershipPaymentController.php:63
+#: Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "نجاح! تمت إضافة الدفعة بنجاح."
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "نجاح! سجل الدفع المحذوف بنجاح."
+
+#: Controller/MembershipPaymentController.php:406
+#: Controller/MembershipPaymentController.php:427
+msgid "Success! Payment Successfully Completed."
+msgstr "نجاح! تم الدفع بنجاح."
+
+#: Controller/MembershipPaymentController.php:430
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "بايبال دفع فشل حفظ IPN إلى قاعدة البيانات."
+
+#: Controller/StaffMembersController.php:22 Template/Activity/add_activity.ctp:74
+#: Template/StaffMembers/staff_list.ctp:37
+msgid "Add Staff Member"
+msgstr "إضافة عضو في فريق العمل"
+
+#: Controller/StaffMembersController.php:75
+msgid "Edit Staff Member"
+msgstr "تعديل عضو الطاقم"
+
+#: Controller/StaffMembersController.php:132
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "نجاح! تم حذف عضو فريق العمل بنجاح."
+
+#: Controller/UsersController.php:47
+msgid "Sorry, Your account is expired."
+msgstr "عذرًا ، انتهت صلاحية حسابك."
+
+#: Controller/UsersController.php:57
+msgid "Error! Your account not activated yet!"
+msgstr "خطأ! حسابك لم يتم تفعيله بعد!"
+
+#: Controller/UsersController.php:97
+msgid "Invalid username or password, try again"
+msgstr "اسم المستخدم أو كلمة المرور غير صالحة ، حاول مرة أخرى"
+
+#: View/Helper/GymHelper.php:272
+msgid "Not Taken"
+msgstr "غير مأخوذة"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:80 Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "أفراد"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Staff Members"
+msgstr "طاقم العمل"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Accountants"
+msgstr "المحاسبين"
+
+#: View/Helper/GymHelper.php:309
+msgid "Administrator"
+msgstr "مدير"
+
+#: View/Helper/GymHelper.php:524
+msgid "No data available in table"
+msgstr "لا توجد بيانات متاحة في الجدول"
+
+#: View/Helper/GymHelper.php:525
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "عرض بداية لنهاية الإدخالات الإجمالية"
+
+#: View/Helper/GymHelper.php:526
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "عرض 0 إلى 0 من 0 إدخالات"
+
+#: View/Helper/GymHelper.php:527
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(تمت تصفيتها من إجمالي المشاركات الإجمالية)"
+
+#: View/Helper/GymHelper.php:530
+msgid "Show _MENU_ entries"
+msgstr "عرض إدخالات القائمة"
+
+#: View/Helper/GymHelper.php:531
+msgid "Loading..."
+msgstr "جار التحميل..."
+
+#: View/Helper/GymHelper.php:532
+msgid "Processing..."
+msgstr "معالجة..."
+
+#: View/Helper/GymHelper.php:533
+msgid "Search"
+msgstr "بحث"
+
+#: View/Helper/GymHelper.php:534
+msgid "No matching records found"
+msgstr "لم يتم العثور على سجلات متطابقة"
+
+#: View/Helper/GymHelper.php:536
+msgid "First"
+msgstr "أول"
+
+#: View/Helper/GymHelper.php:537
+msgid "Last"
+msgstr "الاخير"
+
+#: View/Helper/GymHelper.php:538
+msgid "Next"
+msgstr "التالى"
+
+#: View/Helper/GymHelper.php:539
+msgid "Previous"
+msgstr "سابق"
+
+#: View/Helper/GymHelper.php:542
+msgid "activate to sort column ascending"
+msgstr "تفعيل لفرز العمود تصاعدي"
+
+#: View/Helper/GymHelper.php:543
+msgid "activate to sort column descending"
+msgstr "قم بتنشيط لفرز عمود تنازلي"
+
+#: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:35
+msgid "Activity List"
+msgstr "قائمة النشاط"
+
+#: Template/Activity/activity_list.ctp:47 Template/Activity/activity_list.ctp:75
+#: Template/Membership/view_activity.ctp:73 Template/Membership/view_activity.ctp:97
+msgid "Activity Name"
+msgstr "اسم النشاط"
+
+#: Template/Activity/activity_list.ctp:48 Template/Activity/activity_list.ctp:76
+#: Template/Membership/view_activity.ctp:74 Template/Membership/view_activity.ctp:98
+msgid "Activity Category"
+msgstr "فئة النشاط"
+
+#: Template/Activity/activity_list.ctp:49 Template/Activity/activity_list.ctp:77
+#: Template/Membership/view_activity.ctp:75 Template/Membership/view_activity.ctp:99
+msgid "Activity Trainer"
+msgstr "مدرب نشاط"
+
+#: Template/Activity/add_activity.ctp:45 Template/Activity/add_activity.ctp:48
+#: Template/Membership/add.ctp:90 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+#: Template/Activity/add_activity.ctp:56
+msgid "Activity Title"
+msgstr "عنوان النشاط"
+
+#: Template/Activity/add_activity.ctp:64
+msgid "Assign to Staff Member"
+msgstr "تكليف الموظف"
+
+#: Template/Activity/add_activity.ctp:68 Template/ClassSchedule/add_class.ctp:51
+#: Template/ClassSchedule/add_class.ctp:53 Template/ClassSchedule/add_class.ctp:68
+#: Template/GymMember/add_member.ctp:353 Template/GymMember/add_member.ctp:355
+#: Template/GymMember/add_member.ctp:385
+msgid "Select Staff Member"
+msgstr "حدد عضو الطاقم"
+
+#: Template/Activity/add_activity.ctp:79 Template/GymMember/add_member.ctp:422
+#: Template/MemberRegistration/index.ctp:261
+#: Template/MembershipPayment/generate_payment_invoice.ctp:78
+msgid "Select Membership"
+msgstr "حدد العضوية"
+
+#: Template/Activity/add_activity.ctp:90
+msgid "Save Activity"
+msgstr "حفظ النشاط"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "إعداد الملف الشخصي"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "مشرف"
+
+#: Template/AdminProfile/edit_profile.ctp:34 Template/GymAccountant/add_accountant.ctp:42
+#: Template/GymMember/add_member.ctp:160 Template/MemberRegistration/index.ctp:104
+#: Template/StaffMembers/add_staff.ctp:58
+msgid "Personal Information"
+msgstr "معلومات شخصية"
+
+#: Template/AdminProfile/edit_profile.ctp:39 Template/GymAccountant/add_accountant.ctp:44
+#: Template/GymMember/add_member.ctp:171 Template/MemberRegistration/index.ctp:115
+#: Template/StaffMembers/add_staff.ctp:60
+msgid "First Name"
+msgstr "الاسم الاول"
+
+#: Template/AdminProfile/edit_profile.ctp:46 Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:185 Template/MemberRegistration/index.ctp:129
+#: Template/StaffMembers/add_staff.ctp:74
+msgid "Last Name"
+msgstr "الكنية"
+
+#: Template/AdminProfile/edit_profile.ctp:53 Template/GeneralSetting/save_setting.ctp:159
+#: Template/GymAccountant/add_accountant.ctp:115
+#: Template/GymDailyWorkout/workout_list.ctp:58 Template/GymDailyWorkout/workout_list.ctp:84
+#: Template/GymMember/add_member.ctp:267 Template/GymMember/view_member.ctp:74
+#: Template/GymProfile/view_profile.ctp:148 Template/Installer/index.ctp:464
+#: Template/MemberRegistration/index.ctp:209 Template/StaffMembers/add_staff.ctp:150
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: Template/AdminProfile/edit_profile.ctp:60 Template/GymAccountant/add_accountant.ctp:122
+#: Template/GymMember/add_member.ctp:326 Template/MemberRegistration/index.ctp:216
+#: Template/StaffMembers/add_staff.ctp:157
+msgid "Login Information"
+msgstr "معلومات تسجيل الدخول"
+
+#: Template/AdminProfile/edit_profile.ctp:69 Template/GymAccountant/add_accountant.ctp:131
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:335
+#: Template/Installer/index.ctp:562 Template/MemberRegistration/index.ctp:226
+#: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:30
+msgid "Password"
+msgstr "كلمه السر"
+
+#: Template/AdminProfile/edit_profile.ctp:76 Template/GymAccountant/add_accountant.ctp:138
+#: Template/GymDailyWorkout/add_measurment.ctp:77 Template/GymMember/add_member.ctp:342
+#: Template/MemberRegistration/index.ctp:233 Template/StaffMembers/add_staff.ctp:173
+msgid "Display Image"
+msgstr "هذه الصورة ليست للعرض"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "حفظ التفاصيل"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:8 Template/Cell/GymRenderMenu/admin_menu.ctp:46
+#: Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:17 Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56 Template/Dashboard/dashboard.ctp:83
+#: Template/Dashboard/member_dashboard.ctp:97 Template/Dashboard/staff_acc_dashboard.ctp:112
+#: Template/Element/sidebar.ctp:38 Template/GymAccessright/access_right.ctp:93
+#: Template/GymGroup/add_group.ctp:18 Template/GymGroup/group_list.ctp:28
+#: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:210
+#: Template/MemberRegistration/index.ctp:154
+msgid "Group"
+msgstr "مجموعة"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61 Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "جدول الصف والتغذية"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66 Template/ClassSchedule/add_class.ctp:32
+#: Template/ClassSchedule/class_list.ctp:40 Template/ClassSchedule/view_schedule.ctp:10
+#: Template/Element/sidebar.ctp:48 Template/GymAccessright/access_right.ctp:183
+msgid "Class Schedule"
+msgstr "جدول الحصص"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70 Template/Element/sidebar.ctp:52
+#: Template/GymAccessright/access_right.ctp:603
+#: Template/GymNutrition/addnutrition_schedule.ctp:43
+#: Template/GymNutrition/member_nutrition.ctp:19 Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "جدول التغذية"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76 Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "إدارة الأعضاء"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89 Template/Element/sidebar.ctp:71
+#: Template/GymAccessright/access_right.ctp:25 Template/GymAccessright/access_right.ctp:303
+#: Template/GymAccountant/accountant_list.ctp:37
+#: Template/GymAccountant/add_accountant.ctp:31 Template/GymNotice/add_notice.ctp:67
+msgid "Accountant"
+msgstr "محاسب"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101 Template/Element/sidebar.ctp:83
+#: Template/GymDailyWorkout/add_workout.ctp:194
+msgid "Workout"
+msgstr "اكتشف - حل"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109 Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "تجريب يوميا"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116 Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "المتجر والمنتجات"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120 Template/Element/sidebar.ctp:102
+#: Template/GymAccessright/access_right.ctp:422 Template/GymStore/sell_product.ctp:60
+msgid "Product"
+msgstr "المنتج"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124 Template/Element/sidebar.ctp:106
+#: Template/GymAccessright/access_right.ctp:452 Template/GymStore/sell_product.ctp:35
+#: Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "متجر"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131 Template/Element/sidebar.ctp:113
+#: Template/GymAccessright/access_right.ctp:633
+#: Template/GymReservation/reservation_list.ctp:35
+msgid "Event"
+msgstr "هدف"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136 Template/Element/sidebar.ctp:118
+#: Template/GymAttendance/attendance.ctp:23 Template/GymAttendance/staff_attendance.ctp:19
+#: Template/GymMember/member_list.ctp:88 Template/GymMember/view_attendance.ctp:70
+msgid "Attendance"
+msgstr "الحضور"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141 Template/Dashboard/dashboard.ctp:171
+#: Template/Dashboard/dashboard.ctp:186 Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "دفع"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146 Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "دفع العضوية"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151 Template/Element/sidebar.ctp:133
+#: Template/GymAccessright/access_right.ctp:363 Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "الإيرادات"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156 Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "نفقات"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164 Template/Dashboard/dashboard.ctp:96
+#: Template/Dashboard/member_dashboard.ctp:116
+#: Template/Dashboard/staff_acc_dashboard.ctp:136 Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:512 Template/GymMessage/compose_message.ctp:14
+#: Template/GymMessage/inbox.ctp:10 Template/GymMessage/sent.ctp:9
+#: Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "رسالة"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169 Template/Element/sidebar.ctp:151
+#: Template/GymAccessright/access_right.ctp:482 Template/GymNewsletter/campaign.ctp:1
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "النشرة الإخبارية"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174 Template/Element/sidebar.ctp:156
+#: Template/GymAccessright/access_right.ctp:542 Template/GymNotice/add_notice.ctp:47
+#: Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "تنويه"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179
+#: Template/Cell/GymRenderMenu/member_menu.ctp:45 Template/Element/sidebar.ctp:170
+#: Template/GymAccessright/access_right.ctp:572
+msgid "Report"
+msgstr "أبلغ عن"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "إعدادات البريد الإلكتروني"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:190
+msgid "SubscriptionHistory"
+msgstr "سجل الاشتراك"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:195 Template/Element/sidebar.ctp:175
+#: Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:200 Template/Element/sidebar.ctp:180
+#: Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "حق الدخول"
+
+#: Template/ClassSchedule/add_class.ctp:35 Template/ClassSchedule/class_list.ctp:39
+#: Template/ClassSchedule/view_schedule.ctp:13 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "قائمة الطبقة"
+
+#: Template/ClassSchedule/add_class.ctp:44 Template/ClassSchedule/class_list.ctp:61
+#: Template/ClassSchedule/class_list.ctp:95
+msgid "Class Name"
+msgstr "اسم الفصل"
+
+#: Template/ClassSchedule/add_class.ctp:59 Template/ClassSchedule/add_class.ctp:74
+msgid "Add"
+msgstr "إضافة"
+
+#: Template/ClassSchedule/add_class.ctp:66
+msgid "Select Assistant Staff Member"
+msgstr "حدد مساعد عضو الطاقم"
+
+#: Template/ClassSchedule/add_class.ctp:80 Template/ClassSchedule/class_list.ctp:65
+#: Template/ClassSchedule/class_list.ctp:99
+msgid "Location"
+msgstr "موقعك"
+
+#: Template/ClassSchedule/add_class.ctp:87 Template/GymAssignWorkout/assign_workout.ctp:129
+#: Template/GymAssignWorkout/assign_workout1.ctp:108
+#: Template/GymNutrition/addnutrition_schedule.ctp:90
+msgid "Select Days"
+msgstr "حدد أيام"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Sunday"
+msgstr "الأحد"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Monday"
+msgstr "الإثنين"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Thursday"
+msgstr "الخميس"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Friday"
+msgstr "يوم الجمعة"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Saturday"
+msgstr "يوم السبت"
+
+#: Template/ClassSchedule/add_class.ctp:125 Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:103
+#: Template/GymReservation/reservation_list.ctp:54
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Start Time"
+msgstr "وقت البدء"
+
+#: Template/ClassSchedule/add_class.ctp:132 Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:110
+msgid "End Time"
+msgstr "وقت النهاية"
+
+#: Template/ClassSchedule/add_class.ctp:137
+msgid "Add Time"
+msgstr "إضافة وقت"
+
+#: Template/ClassSchedule/add_class.ctp:173 Template/GymReservation/add_reservation.ctp:142
+msgid "Save Class"
+msgstr "حفظ الفصل"
+
+#: Template/ClassSchedule/class_list.ctp:46 Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "جداول الصف"
+
+#: Template/ClassSchedule/class_list.ctp:62 Template/ClassSchedule/class_list.ctp:96
+msgid "Staff Name"
+msgstr "اسم الموظفين"
+
+#: Template/ClassSchedule/class_list.ctp:63 Template/ClassSchedule/class_list.ctp:97
+msgid "Starting Time"
+msgstr "وقت البدء"
+
+#: Template/ClassSchedule/class_list.ctp:64 Template/ClassSchedule/class_list.ctp:98
+#: Template/GymReservation/reservation_list.ctp:55
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Ending Time"
+msgstr "نهاية الوقت"
+
+#: Template/ClassSchedule/view_schedule.ctp:43 Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
+msgid "Edit"
+msgstr "تصحيح"
+
+#: Template/Dashboard/dashboard.ctp:58 Template/Dashboard/member_dashboard.ctp:61
+#: Template/Dashboard/staff_acc_dashboard.ctp:66 Template/GymAccessright/access_right.ctp:23
+#: Template/GymAccessright/access_right.ctp:123
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:147 Template/GymMember/add_member.ctp:149
+#: Template/GymMember/add_member.ctp:412 Template/GymMember/member_list.ctp:39
+#: Template/GymMember/view_attendance.ctp:34 Template/GymMember/view_member.ctp:33
+#: Template/GymNotice/add_notice.ctp:67 Template/GymStore/sell_product.ctp:46
+#: Template/MembershipPayment/add_income.ctp:43
+#: Template/MembershipPayment/generate_payment_invoice.ctp:64
+msgid "Member"
+msgstr "عضو"
+
+#: Template/Dashboard/dashboard.ctp:106 Template/Dashboard/member_dashboard.ctp:134
+#: Template/Dashboard/staff_acc_dashboard.ctp:158 Template/GymMember/add_member.ctp:420
+#: Template/MemberRegistration/index.ctp:259 Template/Membership/add.ctp:66
+#: Template/Membership/edit_membership.ctp:8 Template/Membership/membership_list.ctp:37
+#: Template/Membership/membership_list.ctp:43 Template/Membership/view_activity.ctp:40
+#: Template/MembershipPayment/generate_payment_invoice.ctp:76
+msgid "Membership"
+msgstr "عضوية"
+
+#: Template/Dashboard/dashboard.ctp:124 Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/staff_acc_dashboard.ctp:187 Template/GymGroup/add_group.ctp:21
+#: Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "قائمة المجموعة"
+
+#: Template/Dashboard/dashboard.ctp:154
+msgid "Payment by month"
+msgstr "الدفع عن طريق الشهر"
+
+#: Template/Dashboard/dashboard.ctp:192 Template/Dashboard/dashboard.ctp:247
+#: Template/Dashboard/dashboard.ctp:298 Template/Dashboard/member_dashboard.ctp:200
+#: Template/Dashboard/member_dashboard.ctp:224 Template/Dashboard/member_dashboard.ctp:248
+#: Template/Dashboard/member_dashboard.ctp:272 Template/Dashboard/member_dashboard.ctp:296
+#: Template/Dashboard/member_dashboard.ctp:320 Template/Dashboard/member_dashboard.ctp:344
+#: Template/GymMember/view_member.ctp:155 Template/GymMember/view_member.ctp:179
+#: Template/GymMember/view_member.ctp:205 Template/GymMember/view_member.ctp:229
+#: Template/GymMember/view_member.ctp:255 Template/GymMember/view_member.ctp:279
+#: Template/GymMember/view_member.ctp:305
+msgid "There is not enough data to generate report"
+msgstr "لا توجد بيانات كافية لإنشاء التقرير"
+
+#: Template/Dashboard/dashboard.ctp:209 Template/Dashboard/dashboard.ctp:240
+#: Template/Reports/attendance_report.ctp:81
+msgid "Member Attendance Report"
+msgstr "تقرير حضور العضو"
+
+#: Template/Dashboard/dashboard.ctp:223 Template/Reports/attendance_report.ctp:93
+#: Template/Reports/membership_report.ctp:41
+msgid "No of Member"
+msgstr "رقم العضو"
+
+#: Template/Dashboard/dashboard.ctp:263
+msgid "Staff Attendance Report"
+msgstr "تقرير حضور الموظفين"
+
+#: Template/Dashboard/dashboard.ctp:277
+msgid "Number of Staff Members"
+msgstr "عدد أعضاء هيئة التدريس"
+
+#: Template/Dashboard/dashboard.ctp:292 Template/GymAttendance/attendance.ctp:29
+#: Template/GymAttendance/staff_attendance.ctp:18
+msgid "Staff Attendance"
+msgstr "حضور الموظفين"
+
+#: Template/Dashboard/member_dashboard.ctp:191
+msgid "Weight Progress Report"
+msgstr "الوزن تقرير التقدم"
+
+#: Template/Dashboard/member_dashboard.ctp:215
+msgid "Waist  Progress Report"
+msgstr "تقرير التقدم في الخصر"
+
+#: Template/Dashboard/member_dashboard.ctp:239
+msgid "Thigh Progress Report"
+msgstr "تقرير التقدم الفخذ"
+
+#: Template/Dashboard/member_dashboard.ctp:263
+msgid "Arms Progress Report"
+msgstr "تقرير تقدم الأسلحة"
+
+#: Template/Dashboard/member_dashboard.ctp:287
+msgid "Height Progress Report"
+msgstr "ارتفاع تقرير التقدم"
+
+#: Template/Dashboard/member_dashboard.ctp:311
+msgid "Chest Progress Report"
+msgstr "تقرير التقدم في الصدر"
+
+#: Template/Dashboard/member_dashboard.ctp:335
+msgid "Fat Progress Report"
+msgstr "تقرير تقدم الدهون"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "الإصدار"
+
+#: Template/Element/topbar.ctp:40
+msgid "Member since"
+msgstr "عضو منذ"
+
+#: Template/Element/topbar.ctp:47 Template/Element/topbar.ctp:53
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: Template/Element/topbar.ctp:57
+msgid "Sign out"
+msgstr "خروج"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "اعدادات النظام"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "اسم الصالة الرياضية"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "ابتداء من السنة"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "عنوان الصالة الرياضية"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "رقم هاتف المكتب"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:132
+msgid "Country"
+msgstr "بلد"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "لغة النظام"
+
+#: Template/GeneralSetting/save_setting.ctp:108
+msgid "Set Language to RTL"
+msgstr "ضبط اللغة على RTL"
+
+#: Template/GeneralSetting/save_setting.ctp:110 Template/GeneralSetting/save_setting.ctp:369
+#: Template/GeneralSetting/save_setting.ctp:376 Template/GeneralSetting/save_setting.ctp:386
+#: Template/GeneralSetting/save_setting.ctp:416 Template/GeneralSetting/save_setting.ctp:453
+msgid "Enable"
+msgstr "مكن"
+
+#: Template/GeneralSetting/save_setting.ctp:115
+msgid "Date Picker Language"
+msgstr "تاريخ منتقي اللغة"
+
+#: Template/GeneralSetting/save_setting.ctp:166 Template/Installer/index.ctp:472
+msgid "Date Format"
+msgstr "صيغة التاريخ"
+
+#: Template/GeneralSetting/save_setting.ctp:179 Template/Installer/index.ctp:483
+msgid "Calendar Language"
+msgstr "لغة التقويم"
+
+#: Template/GeneralSetting/save_setting.ctp:253
+msgid "Time Zone"
+msgstr "وحدة زمنية"
+
+#: Template/GeneralSetting/save_setting.ctp:283
+msgid "Gym Logo"
+msgstr "شعار الصالة الرياضية"
+
+#: Template/GeneralSetting/save_setting.ctp:300
+msgid "Cover Image"
+msgstr "صورة الغلاف"
+
+#: Template/GeneralSetting/save_setting.ctp:312
+msgid "Measurement Units"
+msgstr "وحدات القياس"
+
+#: Template/GeneralSetting/save_setting.ctp:314 Template/GymMember/add_member.ctp:277
+msgid "Weight"
+msgstr "وزن"
+
+#: Template/GeneralSetting/save_setting.ctp:321 Template/GymMember/add_member.ctp:284
+msgid "Height"
+msgstr "ارتفاع"
+
+#: Template/GeneralSetting/save_setting.ctp:328 Template/GymMember/add_member.ctp:291
+msgid "Chest"
+msgstr "صدر"
+
+#: Template/GeneralSetting/save_setting.ctp:335 Template/GymMember/add_member.ctp:298
+msgid "Waist"
+msgstr "وسط"
+
+#: Template/GeneralSetting/save_setting.ctp:342
+msgid "Thing"
+msgstr "شيء"
+
+#: Template/GeneralSetting/save_setting.ctp:349 Template/GymMember/add_member.ctp:312
+msgid "Arms"
+msgstr "أسلحة"
+
+#: Template/GeneralSetting/save_setting.ctp:356 Template/GymMember/add_member.ctp:319
+msgid "Fat"
+msgstr "سمين"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+msgid "Member Privacy Setting"
+msgstr "إعدادات خصوصية العضو"
+
+#: Template/GeneralSetting/save_setting.ctp:366
+msgid "Member can view other member's details"
+msgstr "يمكن للعضو عرض تفاصيل العضو الآخر"
+
+#: Template/GeneralSetting/save_setting.ctp:373
+msgid "Staff Member can view own trainee member's details"
+msgstr "يمكن للموظفين مشاهدة تفاصيل العضو الخاص بالمتدرب"
+
+#: Template/GeneralSetting/save_setting.ctp:382
+msgid "Paypal Setting"
+msgstr "ضبط باي بال"
+
+#: Template/GeneralSetting/save_setting.ctp:384
+msgid "Enable Sandbox"
+msgstr "تفعيل وضع الحماية"
+
+#: Template/GeneralSetting/save_setting.ctp:391
+msgid "Paypal Email Id"
+msgstr "معرف البريد الإلكتروني باي بال"
+
+#: Template/GeneralSetting/save_setting.ctp:398
+msgid "Select Currency"
+msgstr "اختر العملة"
+
+#: Template/GeneralSetting/save_setting.ctp:412
+msgid "Membership Alert Message Setting"
+msgstr "رسالة تنبيه وضع العضوية"
+
+#: Template/GeneralSetting/save_setting.ctp:414
+msgid "Enable Alert Mail"
+msgstr "تمكين البريد التنبيه"
+
+#: Template/GeneralSetting/save_setting.ctp:421
+msgid "Reminder Before Days"
+msgstr "تذكير قبل الأيام"
+
+#: Template/GeneralSetting/save_setting.ctp:429
+msgid "Reminder Message"
+msgstr "رسالة تذكير"
+
+#: Template/GeneralSetting/save_setting.ctp:436
+msgid "ShortCodes For Notification Mail Message"
+msgstr "الرموز القصيرة للإشعار رسالة البريد"
+
+#: Template/GeneralSetting/save_setting.ctp:439 Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77 Template/GymAttendance/attendance.ctp:108
+#: Template/GymAttendance/attendance.ctp:117 Template/GymAttendance/staff_attendance.ctp:69
+#: Template/GymDailyWorkout/workout_list.ctp:56 Template/GymDailyWorkout/workout_list.ctp:82
+#: Template/GymMember/member_list.ctp:56 Template/GymMember/member_list.ctp:109
+#: Template/GymNutrition/nutrition_list.ctp:53 Template/GymNutrition/nutrition_list.ctp:77
+#: Template/GymStore/sell_record.ctp:36 Template/GymStore/sell_record.ctp:63
+#: Template/GymSubscriptionHistory/index.ctp:41 Template/GymSubscriptionHistory/index.ctp:71
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "اسم عضو"
+
+#: Template/GeneralSetting/save_setting.ctp:440 Template/Membership/add.ctp:81
+#: Template/Membership/edit_membership.ctp:21 Template/Membership/membership_list.ctp:54
+#: Template/Membership/membership_list.ctp:102 Template/Reports/membership_report.ctp:35
+msgid "Membership Name"
+msgstr "اسم العضوية"
+
+#: Template/GeneralSetting/save_setting.ctp:441 Template/GymMember/view_member.ctp:390
+#: Template/GymMember/view_member.ctp:418 Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:75
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "تاريخ بدء العضوية"
+
+#: Template/GeneralSetting/save_setting.ctp:442 Template/GymMember/view_member.ctp:391
+#: Template/GymMember/view_member.ctp:419 Template/GymSubscriptionHistory/index.ctp:46
+#: Template/GymSubscriptionHistory/index.ctp:76
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "تاريخ انتهاء العضوية"
+
+#: Template/GeneralSetting/save_setting.ctp:449
+msgid "Message Setting"
+msgstr "وضع الرسائل"
+
+#: Template/GeneralSetting/save_setting.ctp:451
+msgid "Member can Message To other's"
+msgstr "يمكن للعضو رسالة للآخرين"
+
+#: Template/GeneralSetting/save_setting.ctp:458
+msgid "Header & Footer Text"
+msgstr "نص رأس وتذييل"
+
+#: Template/GeneralSetting/save_setting.ctp:460
+msgid "Left Header Text"
+msgstr "نص الرأس الأيسر"
+
+#: Template/GeneralSetting/save_setting.ctp:467
+msgid "Footer Text"
+msgstr "نص التذييل"
+
+#: Template/GeneralSetting/save_setting.ctp:475
+msgid "Save Settings"
+msgstr "احفظ التغييرات"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "الوصول إلى الإعدادات الصحيحة"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "قائمة طعام"
+
+#: Template/GymAccessright/access_right.ctp:213
+msgid "Attendence"
+msgstr "إن حضور"
+
+#: Template/GymAccessright/access_right.ctp:243
+msgid "Assigned Workouts"
+msgstr "التمارين المعينة"
+
+#: Template/GymAccessright/access_right.ctp:273
+msgid "Workouts"
+msgstr "التدريبات"
+
+#: Template/GymAccessright/access_right.ctp:333 Template/Reports/payment_report.ctp:47
+msgid "Fee Payment"
+msgstr "دفع الرسوم"
+
+#: Template/GymAccessright/access_right.ctp:392
+#: Template/MembershipPayment/add_expense.ctp:22
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "مصروف"
+
+#: Template/GymAccessright/access_right.ctp:663
+msgid "Account"
+msgstr "الحساب"
+
+#: Template/GymAccessright/access_right.ctp:694 Template/GymMember/view_member.ctp:382
+#: Template/GymSubscriptionHistory/index.ctp:31 Template/GymSubscriptionHistory/index.ctp:32
+msgid "Subscription History"
+msgstr "سجل الاشتراك"
+
+#: Template/GymAccessright/access_right.ctp:724 Template/GymDailyWorkout/add_workout.ctp:210
+#: Template/GymEmailSetting/index.ctp:46 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNotice/add_notice.ctp:102 Template/GymNutrition/addnutrition_schedule.ctp:146
+#: Template/GymProduct/add_product.ctp:47 Template/GymProfile/view_profile.ctp:95
+#: Template/GymProfile/view_profile.ctp:155 Template/GymStore/sell_product.ctp:84
+msgid "Save"
+msgstr "حفظ"
+
+#: Template/GymAccountant/accountant_list.ctp:36
+#: Template/GymAccountant/add_accountant.ctp:34
+msgid "Accountant List"
+msgstr "قائمة المحاسبين"
+
+#: Template/GymAccountant/accountant_list.ctp:53
+#: Template/GymAccountant/accountant_list.ctp:87
+#: Template/GymAssignWorkout/workout_log.ctp:52 Template/GymAssignWorkout/workout_log.ctp:76
+#: Template/GymAttendance/attendance.ctp:107 Template/GymAttendance/attendance.ctp:116
+#: Template/GymAttendance/staff_attendance.ctp:68
+#: Template/GymDailyWorkout/workout_list.ctp:55 Template/GymDailyWorkout/workout_list.ctp:81
+#: Template/GymGroup/group_list.ctp:44 Template/GymGroup/group_list.ctp:75
+#: Template/GymMember/member_list.ctp:55 Template/GymMember/member_list.ctp:108
+#: Template/GymMember/view_member.ctp:320 Template/Membership/membership_list.ctp:53
+#: Template/Membership/membership_list.ctp:101 Template/StaffMembers/staff_list.ctp:47
+#: Template/StaffMembers/staff_list.ctp:80
+msgid "Photo"
+msgstr "صورة فوتوغرافية"
+
+#: Template/GymAccountant/accountant_list.ctp:54
+#: Template/GymAccountant/accountant_list.ctp:88
+msgid "Accountant Name"
+msgstr "اسم المحاسب"
+
+#: Template/GymAccountant/accountant_list.ctp:55
+#: Template/GymAccountant/accountant_list.ctp:89
+msgid "Accountant Email"
+msgstr "البريد الإلكتروني محاسب"
+
+#: Template/GymAccountant/accountant_list.ctp:56
+#: Template/GymAccountant/accountant_list.ctp:90 Template/GymProfile/view_profile.ctp:136
+#: Template/StaffMembers/staff_list.ctp:51 Template/StaffMembers/staff_list.ctp:84
+msgid "Mobile No."
+msgstr "رقم الموبايل."
+
+#: Template/GymAccountant/add_accountant.ctp:51 Template/GymMember/add_member.ctp:178
+#: Template/MemberRegistration/index.ctp:122 Template/StaffMembers/add_staff.ctp:67
+msgid "Middle Name"
+msgstr "الاسم الوسطى"
+
+#: Template/GymAccountant/add_accountant.ctp:65 Template/GymMember/add_member.ctp:192
+#: Template/GymMember/view_member.ctp:86 Template/MemberRegistration/index.ctp:136
+#: Template/StaffMembers/add_staff.ctp:81
+msgid "Gender"
+msgstr "جنس"
+
+#: Template/GymAccountant/add_accountant.ctp:68 Template/GymMember/add_member.ctp:195
+#: Template/StaffMembers/add_staff.ctp:84
+msgid "Male"
+msgstr "الذكر"
+
+#: Template/GymAccountant/add_accountant.ctp:69 Template/GymMember/add_member.ctp:196
+#: Template/StaffMembers/add_staff.ctp:85
+msgid "Female"
+msgstr "إناثا"
+
+#: Template/GymAccountant/add_accountant.ctp:76 Template/GymMember/add_member.ctp:203
+#: Template/GymProfile/view_profile.ctp:113 Template/MemberRegistration/index.ctp:147
+#: Template/StaffMembers/add_staff.ctp:92
+msgid "Date of birth"
+msgstr "تاريخ الولادة"
+
+#: Template/GymAccountant/add_accountant.ctp:82 Template/GymMember/add_member.ctp:220
+#: Template/MemberRegistration/index.ctp:161 Template/StaffMembers/add_staff.ctp:117
+msgid "Contact Information"
+msgstr "معلومات للتواصل"
+
+#: Template/GymAccountant/add_accountant.ctp:84 Template/GymProfile/view_profile.ctp:122
+#: Template/StaffMembers/add_staff.ctp:119
+msgid "Home Town Address"
+msgstr "عنوان المدينة الرئيسية"
+
+#: Template/GymAccountant/add_accountant.ctp:91 Template/GymMember/add_member.ctp:229
+#: Template/GymProfile/view_profile.ctp:130 Template/MemberRegistration/index.ctp:171
+#: Template/StaffMembers/add_staff.ctp:126
+msgid "City"
+msgstr "مدينة"
+
+#: Template/GymAccountant/add_accountant.ctp:98 Template/GymMember/add_member.ctp:250
+#: Template/MemberRegistration/index.ctp:192 Template/StaffMembers/add_staff.ctp:133
+msgid "Mobile Number"
+msgstr "رقم الهاتف المحمول"
+
+#: Template/GymAccountant/add_accountant.ctp:108 Template/GymMember/add_member.ctp:260
+#: Template/GymProfile/view_profile.ctp:142 Template/MemberRegistration/index.ctp:202
+#: Template/StaffMembers/add_staff.ctp:143
+msgid "Phone"
+msgstr "هاتف"
+
+#: Template/GymAccountant/add_accountant.ctp:147
+msgid "Save Accountant"
+msgstr "احفظ محاسب"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:68
+#: Template/GymAssignWorkout/assign_workout1.ctp:49
+msgid "Workout Logs"
+msgstr "سجلات تجريب"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:78
+#: Template/GymAssignWorkout/assign_workout1.ctp:59
+#: Template/GymDailyWorkout/add_workout.ctp:149 Template/GymDailyWorkout/add_workout.ctp:163
+#: Template/GymNutrition/addnutrition_schedule.ctp:56
+#: Template/MembershipPayment/generate_payment_invoice.ctp:71
+#: Template/Reports/monthlyworkoutreport.ctp:52
+msgid "Select Member"
+msgstr "اختر العضو"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:103
+#: Template/GymAssignWorkout/assign_workout1.ctp:82 Template/GymMessage/inbox.ctp:54
+#: Template/GymMessage/sent.ctp:43 Template/GymNutrition/addnutrition_schedule.ctp:185
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:54
+msgid "Description"
+msgstr "وصف"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:117
+#: Template/GymAssignWorkout/assign_workout1.ctp:96
+#: Template/GymMember/view_attendance.ctp:52 Template/GymNotice/add_notice.ctp:89
+#: Template/GymNutrition/addnutrition_schedule.ctp:78
+#: Template/Reports/attendance_report.ctp:68
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:138
+#: Template/GymAssignWorkout/assign_workout1.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "حدد نشاط التمرين للإضافة في أيام محددة"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:144
+#: Template/GymAssignWorkout/assign_workout1.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "الخطوة 1 إضافة تجريب"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "الخطوة 2 انقاذ التمرين"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Save Workout"
+msgstr "انقاذ التمرين"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "Start From"
+msgstr "يبدأ من"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "TO"
+msgstr "إلى"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:194
+#: Template/GymAssignWorkout/assign_workout1.ctp:172
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:60
+#: Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:181
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:50
+msgid "Day name"
+msgstr "اسم اليوم"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "سجل تجريب"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97
+#: Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "لا يوجد سجلات"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54 Template/GymAssignWorkout/workout_log.ctp:78
+#: Template/GymNutrition/nutrition_list.ctp:54 Template/GymNutrition/nutrition_list.ctp:78
+msgid "Member Goal"
+msgstr "هدف العضو"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67 Template/GymDailyWorkout/view_workout.ctp:58
+msgid "View Workouts"
+msgstr "عرض التدريبات"
+
+#: Template/GymAttendance/attendance.ctp:22 Template/GymAttendance/staff_attendance.ctp:22
+msgid "Member Attendance"
+msgstr "حضور العضو"
+
+#: Template/GymAttendance/attendance.ctp:43 Template/GymAttendance/attendance.ctp:47
+#: Template/GymMessage/compose_message.ctp:62 Template/GymNotice/add_notice.ctp:76
+#: Template/Membership/add.ctp:142
+msgid "Select Class"
+msgstr "اختر الفصل"
+
+#: Template/GymAttendance/attendance.ctp:55 Template/GymMember/view_attendance.ctp:33
+msgid "View Attendance"
+msgstr "عرض الحضور"
+
+#: Template/GymAttendance/attendance.ctp:59 Template/GymAttendance/staff_attendance.ctp:36
+msgid "Take/View Attendance"
+msgstr "خذ / مشاهدة الحضور"
+
+#: Template/GymAttendance/attendance.ctp:168 Template/GymAttendance/staff_attendance.ctp:88
+msgid "Save Attendance"
+msgstr "حفظ الحضور"
+
+#: Template/GymAttendance/attendance.ctp:179
+msgid "No attendance found."
+msgstr "لم يتم العثور على الحضور."
+
+#: Template/GymAttendance/staff_attendance.ctp:52
+msgid "Staff Attendance, Date"
+msgstr "حضور الموظفين ، التاريخ"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:127 Template/GymDailyWorkout/view_workout.ctp:34
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "تجريب يوميا"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:27
+#: Template/GymDailyWorkout/add_workout.ctp:130 Template/GymDailyWorkout/view_workout.ctp:37
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "قائمة تجريب"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:56
+msgid "Result Measurement"
+msgstr "قياس النتيجة"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:60
+msgid "Select Result Measurement"
+msgstr "حدد قياس النتيجة"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:71
+msgid "Result Date"
+msgstr "تاريخ النتيجة"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:87
+msgid "Save Measurement"
+msgstr "حفظ القياس"
+
+#: Template/GymDailyWorkout/add_workout.ctp:179
+msgid "Select Date"
+msgstr "حدد تاريخ"
+
+#: Template/GymDailyWorkout/add_workout.ctp:197
+msgid "Select Record Date For Today Workout"
+msgstr "حدد تاريخ التسجيل لتجريب اليوم"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57 Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "التليفون المحمول"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72 Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "رأي"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "عرض القياس"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "إعداد البريد الإلكتروني"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:108
+msgid "Host"
+msgstr "مضيف"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "ميناء"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:95
+msgid "To"
+msgstr "إلى"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "إرسال اختبار البريد"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "أسم المجموعة"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "صورة المجموعة"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "حفظ المجموعة"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "مجموع أعضاء المجموعة"
+
+#: Template/GymMember/add_member.ctp:152 Template/GymMember/member_list.ctp:38
+#: Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "قائمة الأعضاء"
+
+#: Template/GymMember/add_member.ctp:163 Template/GymMember/member_list.ctp:57
+#: Template/GymMember/member_list.ctp:110 Template/GymMember/view_member.ctp:62
+#: Template/MemberRegistration/index.ctp:107
+msgid "Member ID"
+msgstr "معرف العضو"
+
+#: Template/GymMember/add_member.ctp:222 Template/GymMember/view_member.ctp:70
+#: Template/MemberRegistration/index.ctp:164
+msgid "Address"
+msgstr "عنوان"
+
+#: Template/GymMember/add_member.ctp:236
+msgid "State"
+msgstr "حالة"
+
+#: Template/GymMember/add_member.ctp:243 Template/MemberRegistration/index.ctp:185
+msgid "Zip code"
+msgstr "الرمز البريدي"
+
+#: Template/GymMember/add_member.ctp:275
+msgid "Physical Information"
+msgstr "المعلومات المادية"
+
+#: Template/GymMember/add_member.ctp:305
+msgid "Thigh"
+msgstr "فخذ"
+
+#: Template/GymMember/add_member.ctp:351 Template/MemberRegistration/index.ctp:242
+msgid "More Information"
+msgstr "معلومات اكثر"
+
+#: Template/GymMember/add_member.ctp:358 Template/GymMember/add_member.ctp:388
+msgid "Add Staff"
+msgstr "إضافة الموظفين"
+
+#: Template/GymMember/add_member.ctp:363 Template/MemberRegistration/index.ctp:245
+msgid "Interested Area"
+msgstr "المنطقة المهتمة"
+
+#: Template/GymMember/add_member.ctp:365 Template/MemberRegistration/index.ctp:247
+msgid "Select Interest"
+msgstr "اختر الفائدة"
+
+#: Template/GymMember/add_member.ctp:368 Template/GymMember/add_member.ctp:378
+#: Template/StaffMembers/add_staff.ctp:104 Template/StaffMembers/add_staff.ctp:112
+msgid "Add/Remove"
+msgstr "اضف احذف"
+
+#: Template/GymMember/add_member.ctp:373 Template/MemberRegistration/index.ctp:252
+msgid "Source"
+msgstr "مصدر"
+
+#: Template/GymMember/add_member.ctp:375 Template/MemberRegistration/index.ctp:254
+msgid "Select Source"
+msgstr "اختر مصدر"
+
+#: Template/GymMember/add_member.ctp:383
+msgid "Referred By"
+msgstr "نسب من قبل"
+
+#: Template/GymMember/add_member.ctp:393
+msgid "Inquiry Date"
+msgstr "تاريخ الاستفسار"
+
+#: Template/GymMember/add_member.ctp:400
+msgid "Trial End Date"
+msgstr "تاريخ انتهاء المحاكمة"
+
+#: Template/GymMember/add_member.ctp:409 Template/GymMember/member_list.ctp:60
+#: Template/GymMember/member_list.ctp:113
+msgid "Member Type"
+msgstr "نوع العضو"
+
+#: Template/GymMember/add_member.ctp:413 Template/GymMember/add_member.ctp:447
+msgid "Prospect"
+msgstr "احتمال"
+
+#: Template/GymMember/add_member.ctp:414
+msgid "Alumni"
+msgstr "الخريجين"
+
+#: Template/GymMember/add_member.ctp:435
+msgid "Add Class"
+msgstr "إضافة فئة"
+
+#: Template/GymMember/add_member.ctp:444 Template/GymMember/member_list.ctp:61
+#: Template/GymMember/member_list.ctp:114
+msgid "Membership Status"
+msgstr "حالة العضوية"
+
+#: Template/GymMember/add_member.ctp:448
+msgid "Continue"
+msgstr "استمر"
+
+#: Template/GymMember/add_member.ctp:449
+msgid "Expired"
+msgstr "منتهية الصلاحية"
+
+#: Template/GymMember/add_member.ctp:450
+msgid "Dropped"
+msgstr "إسقاط"
+
+#: Template/GymMember/add_member.ctp:456
+#: Template/MembershipPayment/generate_payment_invoice.ctp:91
+msgid "Membership Valid From"
+msgstr "عضوية صالحة من"
+
+#: Template/GymMember/add_member.ctp:469
+msgid "First Payment Date"
+msgstr "تاريخ الدفع الأول"
+
+#: Template/GymMember/add_member.ctp:477 Template/MemberRegistration/index.ctp:292
+msgid "Save Member"
+msgstr "حفظ العضو"
+
+#: Template/GymMember/member_list.ctp:58 Template/GymMember/member_list.ctp:111
+msgid "Joining Date"
+msgstr "تاريخ الانضمام"
+
+#: Template/GymMember/member_list.ctp:59 Template/GymMember/member_list.ctp:112
+msgid "Expire Date"
+msgstr "تاريخ انتهاء الصلاحية"
+
+#: Template/GymMember/member_list.ctp:96
+msgid "Activate"
+msgstr "تفعيل"
+
+#: Template/GymMember/member_list.ctp:98
+msgid "Activated"
+msgstr "مفعل"
+
+#: Template/GymMember/view_attendance.ctp:37
+msgid "Member List"
+msgstr "قائمة الأعضاء"
+
+#: Template/GymMember/view_attendance.ctp:57 Template/Reports/attendance_report.ctp:74
+msgid "Go"
+msgstr "اذهب"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "عرض العضو"
+
+#: Template/GymMember/view_member.ctp:66 Template/GymProfile/view_profile.ctp:64
+msgid "Name"
+msgstr "اسم"
+
+#: Template/GymMember/view_member.ctp:78
+msgid "Mobile No"
+msgstr "رقم الموبايل"
+
+#: Template/GymMember/view_member.ctp:82
+msgid "Date Of Birth"
+msgstr "تاريخ الولادة"
+
+#: Template/GymMember/view_member.ctp:103
+msgid "Moreinfo"
+msgstr "مزيد من المعلومات"
+
+#: Template/GymMember/view_member.ctp:107
+msgid "MemberShip"
+msgstr "عضوية"
+
+#: Template/GymMember/view_member.ctp:111
+msgid "Expiry Date"
+msgstr "تاريخ الانتهاء"
+
+#: Template/GymMember/view_member.ctp:115
+msgid "Classes"
+msgstr "الطبقات"
+
+#: Template/GymMember/view_member.ctp:119
+msgid "Interest Area"
+msgstr "مجال الاهتمام"
+
+#: Template/GymMember/view_member.ctp:133
+msgid "Groups"
+msgstr "المجموعات"
+
+#: Template/GymMember/view_member.ctp:147
+msgid "Add Weight"
+msgstr "أضف الوزن"
+
+#: Template/GymMember/view_member.ctp:171
+msgid "Add Waist"
+msgstr "أضف الخصر"
+
+#: Template/GymMember/view_member.ctp:197
+msgid "Add Thigh"
+msgstr "أضف الفخذ"
+
+#: Template/GymMember/view_member.ctp:221
+msgid "Add Arms"
+msgstr "أضف الأسلحة"
+
+#: Template/GymMember/view_member.ctp:247
+msgid "Add Height"
+msgstr "أضف الطول"
+
+#: Template/GymMember/view_member.ctp:271
+msgid "Add Chest"
+msgstr "أضف الصدر"
+
+#: Template/GymMember/view_member.ctp:297
+msgid "Add Fat"
+msgstr "أضف الدهون"
+
+#: Template/GymMember/view_member.ctp:321
+msgid "Add Photo"
+msgstr "إضافة صورة"
+
+#: Template/GymMember/view_member.ctp:387 Template/GymMember/view_member.ctp:415
+#: Template/GymSubscriptionHistory/index.ctp:42 Template/GymSubscriptionHistory/index.ctp:72
+msgid "Membership Title"
+msgstr "عنوان العضوية"
+
+#: Template/GymMember/view_member.ctp:389 Template/GymMember/view_member.ctp:417
+#: Template/GymSubscriptionHistory/index.ctp:44 Template/GymSubscriptionHistory/index.ctp:74
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "مبلغ مستحق"
+
+#: Template/GymMember/view_member.ctp:392 Template/GymMember/view_member.ctp:420
+#: Template/GymSubscriptionHistory/index.ctp:47 Template/GymSubscriptionHistory/index.ctp:77
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "حالة السداد"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "إنشاء رسالة"
+
+#: Template/GymMessage/compose_message.ctp:25 Template/GymMessage/compose_message.ctp:28
+#: Template/GymMessage/inbox.ctp:26 Template/GymMessage/inbox.ctp:30
+#: Template/GymMessage/sent.ctp:20 Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "مؤلف موسيقى"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "صندوق الوارد"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "أرسلت"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "رسالة إلى"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "لا شيء"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "موضوع"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "رسالة تعليق"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "ارسل رسالة"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "رسائل البريد الوارد"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "رسالة من"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "الرسائل المرسلة"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "ضبط"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "مزامنة البريد"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "قائمة MailChimp"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "اختر القائمة"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "قائمة الحملة"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "اختر الحملة"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "إرسال Capmaign"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "حملة"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "مفتاح MailChimp API"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "القائمة البريدية"
+
+#: Template/GymNotice/add_notice.ctp:41
+msgid "Edit Notice"
+msgstr "تحرير إشعار"
+
+#: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "إضافة إشعار"
+
+#: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "قائمة الإشعارات"
+
+#: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "عنوان الإشعار"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "All"
+msgstr "الكل"
+
+#: Template/GymNotice/add_notice.ctp:96
+msgid "Comment"
+msgstr "تعليق"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "قائمة جدول التغذية"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:98
+msgid "Select Nutrition to add on selected days"
+msgstr "حدد التغذية لإضافتها في أيام محددة"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:103
+msgid "Break Fast"
+msgstr "وجبة افطار"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:109
+msgid "Mid-Morning Snacks"
+msgstr "منتصف الصباح الوجبات الخفيفة"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:115
+msgid "Lunch"
+msgstr "غداء"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:120
+msgid "Afternoon Snacks"
+msgstr "وجبات خفيفة بعد الظهر"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:125
+msgid "Dinner"
+msgstr "وجبة عشاء"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:129
+msgid "+ Add Nutrition"
+msgstr "+ إضافة التغذية"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+msgid "Step-2 Save"
+msgstr "الخطوة الثانية احفظ"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:184
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Time"
+msgstr "زمن"
+
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:80
+msgid "No record found."
+msgstr "لا يوجد سجلات."
+
+#: Template/GymNutrition/nutrition_list.ctp:52 Template/GymNutrition/nutrition_list.ctp:76
+msgid "Member Photo"
+msgstr "صورة العضو"
+
+#: Template/GymProduct/add_product.ctp:9
+msgid "Edit Product"
+msgstr "تحرير المنتج"
+
+#: Template/GymProduct/add_product.ctp:11 Template/GymProduct/product_list.ctp:37
+#: Template/GymStore/sell_product.ctp:70
+msgid "Add Product"
+msgstr "أضف منتج"
+
+#: Template/GymProduct/add_product.ctp:15 Template/GymProduct/product_list.ctp:31
+msgid "Products"
+msgstr "منتجات"
+
+#: Template/GymProduct/add_product.ctp:18 Template/GymProduct/product_list.ctp:30
+msgid "Product List"
+msgstr "قائمة المنتجات"
+
+#: Template/GymProduct/add_product.ctp:26 Template/GymProduct/product_list.ctp:47
+#: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:62
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+#: Template/GymProduct/add_product.ctp:32 Template/GymProduct/product_list.ctp:48
+#: Template/GymProduct/product_list.ctp:77
+msgid "Product Price"
+msgstr "سعر المنتج"
+
+#: Template/GymProduct/add_product.ctp:41 Template/GymProduct/product_list.ctp:49
+#: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:64
+msgid "Product Quantity"
+msgstr "كمية المنتج"
+
+#: Template/GymProfile/view_profile.ctp:51
+msgid "Account Settings"
+msgstr "إعدادت الحساب"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "Current Password"
+msgstr "كلمة المرور الحالي"
+
+#: Template/GymProfile/view_profile.ctp:82
+msgid "New Password"
+msgstr "كلمة السر الجديدة"
+
+#: Template/GymProfile/view_profile.ctp:87 Template/Installer/index.ctp:571
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+#: Template/GymProfile/view_profile.ctp:106
+msgid "Other Information"
+msgstr "معلومات أخرى"
+
+#: Template/GymReservation/add_reservation.ctp:58
+msgid "Edit Event"
+msgstr "تحرير الحدث"
+
+#: Template/GymReservation/add_reservation.ctp:60
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Add Event"
+msgstr "اضافة حدث"
+
+#: Template/GymReservation/add_reservation.ctp:63
+msgid "Schedule"
+msgstr "جدول"
+
+#: Template/GymReservation/add_reservation.ctp:66
+#: Template/GymReservation/reservation_list.ctp:34
+msgid "Event List"
+msgstr "قائمة الأحداث"
+
+#: Template/GymReservation/add_reservation.ctp:75
+#: Template/GymReservation/reservation_list.ctp:51
+#: Template/GymReservation/reservation_list.ctp:83
+msgid "Event Name"
+msgstr "اسم الحدث"
+
+#: Template/GymReservation/add_reservation.ctp:82
+#: Template/GymReservation/reservation_list.ctp:52
+#: Template/GymReservation/reservation_list.ctp:84
+msgid "Event Date"
+msgstr "تاريخ الحدث"
+
+#: Template/GymReservation/add_reservation.ctp:89
+msgid "Event Place"
+msgstr "مكان الحدث"
+
+#: Template/GymReservation/add_reservation.ctp:91
+msgid "Select Event Places"
+msgstr "حدد أماكن الحدث"
+
+#: Template/GymReservation/add_reservation.ctp:94
+msgid "Add or Remove"
+msgstr "أضف أو أزل"
+
+#: Template/GymReservation/reservation_list.ctp:53
+#: Template/GymReservation/reservation_list.ctp:85
+msgid "Place"
+msgstr "مكان"
+
+#: Template/GymStore/sell_product.ctp:29
+msgid "Edit Sell Product"
+msgstr "تحرير بيع المنتج"
+
+#: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
+msgid "Add Sell Product"
+msgstr "إضافة بيع المنتج"
+
+#: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "بيع السجلات"
+
+#: Template/GymStore/sell_product.ctp:63
+msgid "Select Product"
+msgstr "حدد المنتج"
+
+#: Template/GymStore/sell_product.ctp:75
+msgid "Quantity"
+msgstr "كمية"
+
+#: Template/Installer/index.ctp:10 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "جيم ماستر - معالج تثبيت إدارة GYM"
+
+#: Template/Installer/index.ctp:16 Template/Installer/index.ctp:18
+msgid "Server Requirements"
+msgstr "متطلبات الخادم"
+
+#: Template/Installer/index.ctp:79 Template/Installer/index.ctp:81
+msgid "Database Setup"
+msgstr "إعداد قاعدة البيانات"
+
+#: Template/Installer/index.ctp:84
+msgid "Database Name"
+msgstr "اسم قاعدة البيانات"
+
+#: Template/Installer/index.ctp:92
+msgid "Database Username"
+msgstr "اسم مستخدم قاعدة البيانات"
+
+#: Template/Installer/index.ctp:100
+msgid "Database Password"
+msgstr "كلمة مرور قاعدة البيانات"
+
+#: Template/Installer/index.ctp:116 Template/Installer/index.ctp:546
+msgid "Fields are required."
+msgstr "الحقول مطلوبة."
+
+#: Template/Installer/index.ctp:119 Template/Installer/index.ctp:121
+msgid "System Setting"
+msgstr "اعدادات النظام"
+
+#: Template/Installer/index.ctp:124
+msgid "System Name"
+msgstr "اسم النظام"
+
+#: Template/Installer/index.ctp:549 Template/Installer/index.ctp:551
+msgid "Login Details"
+msgstr "تفاصيل تسجيل الدخول"
+
+#: Template/Installer/index.ctp:579
+msgid "Finish"
+msgstr "إنهاء"
+
+#: Template/Installer/index.ctp:581
+msgid "Please Note :"
+msgstr "يرجى الملاحظة :"
+
+#: Template/Installer/index.ctp:584
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. قد يستغرق الأمر بضع دقائق لإعداد قاعدة البيانات."
+
+#: Template/Installer/index.ctp:587
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. لا تقم بتحديث الصفحة بعد النقر فوق زر التثبيت."
+
+#: Template/Installer/index.ctp:590
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3. سوف يتم إقرار رسالة النجاح مرة واحدة بعد انتهاء التثبيت."
+
+#: Template/Installer/index.ctp:593
+msgid "4. Click on install to complete the installation."
+msgstr "4. انقر فوق تثبيت لإكمال التثبيت."
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "تهنئة"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "اكتمل التثبيت بنجاح"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "انقر"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "هنا لإعادة توجيه صفحة \\ tlogin."
+
+#: Template/MemberRegistration/index.ctp:97 Template/Users/login.ctp:32
+msgid "Member Registration"
+msgstr "تسجيل عضو"
+
+#: Template/MemberRegistration/index.ctp:178
+msgid "state"
+msgstr "حالة"
+
+#: Template/MemberRegistration/index.ctp:273
+msgid "Select Joining Date"
+msgstr "اختر تاريخ التسجيل"
+
+#: Template/MemberRegistration/index.ctp:295
+msgid "Go Back"
+msgstr "عد"
+
+#: Template/Membership/add.ctp:69 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:36 Template/Membership/view_activity.ctp:44
+msgid "Membership List"
+msgstr "قائمة العضوية"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "فئة العضوية"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:55 Template/Membership/membership_list.ctp:103
+msgid "Membership Period"
+msgstr "فترة العضوية"
+
+#: Template/Membership/add.ctp:101
+msgid "No. of Days"
+msgstr "لا أيام"
+
+#: Template/Membership/add.ctp:108 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "حد العضوية"
+
+#: Template/Membership/add.ctp:110
+msgid "Limited"
+msgstr "محدود"
+
+#: Template/Membership/add.ctp:111
+msgid "Unlimited"
+msgstr "غير محدود"
+
+#: Template/Membership/add.ctp:114
+msgid "no. of classes"
+msgstr "لا. من الطبقات"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every week"
+msgstr "صنف كل أسبوع"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every month"
+msgstr "صنف كل شهر"
+
+#: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "مبلغ العضوية"
+
+#: Template/Membership/add.ctp:150 Template/Membership/membership_list.ctp:56
+#: Template/Membership/membership_list.ctp:104
+msgid "Installment Plan"
+msgstr "خطة التقسيط"
+
+#: Template/Membership/add.ctp:156 Template/Membership/edit_membership.ctp:56
+msgid "Select Installment Plan"
+msgstr "حدد خطة التقسيط"
+
+#: Template/Membership/add.ctp:161 Template/Membership/edit_membership.ctp:62
+msgid "Add Installment Plan"
+msgstr "أضف خطة التقسيط"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "رسم الاشتراك"
+
+#: Template/Membership/add.ctp:177 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "وصف العضوية"
+
+#: Template/Membership/add.ctp:184 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "صورة عضوية"
+
+#: Template/Membership/add.ctp:198
+msgid "Save Membership"
+msgstr "حفظ العضوية"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Installment Amount"
+msgstr "تقسيط المبلغ"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Installment Period"
+msgstr "فترة القسط"
+
+#: Template/Membership/membership_list.ctp:57 Template/Membership/membership_list.ctp:105
+msgid "SignUp Fee"
+msgstr "رسوم الاشتراك"
+
+#: Template/Membership/membership_list.ctp:91
+msgid "Activities"
+msgstr "أنشطة"
+
+#: Template/Membership/view_activity.ctp:41
+msgid "View Activity"
+msgstr "عرض النشاط"
+
+#: Template/Membership/view_activity.ctp:56
+msgid "Select Activity"
+msgstr "حدد النشاط"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+msgid "Edit Expense"
+msgstr "تحرير النفقات"
+
+#: Template/MembershipPayment/add_expense.ctp:19
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "إضافة حساب"
+
+#: Template/MembershipPayment/add_expense.ctp:25
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "قائمة النفقات"
+
+#: Template/MembershipPayment/add_expense.ctp:34
+#: Template/MembershipPayment/expense_list.ctp:39
+#: Template/MembershipPayment/expense_list.ctp:67
+msgid "Supplier Name"
+msgstr "اسم المورد"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Paid"
+msgstr "دفع"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Part Paid"
+msgstr "الجزء المدفوع"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Unpaid"
+msgstr "غير مدفوع"
+
+#: Template/MembershipPayment/add_expense.ctp:61
+#: Template/MembershipPayment/add_expense.ctp:83
+msgid "Expense Entry"
+msgstr "دخول المصاريف"
+
+#: Template/MembershipPayment/add_expense.ctp:63
+#: Template/MembershipPayment/add_expense.ctp:85
+msgid "Expense Amount"
+msgstr "مبلغ المصروفات"
+
+#: Template/MembershipPayment/add_expense.ctp:66
+#: Template/MembershipPayment/add_expense.ctp:88
+msgid "Expense Entry Label"
+msgstr "بطاقة دخول المصاريف"
+
+#: Template/MembershipPayment/add_expense.ctp:103
+msgid "Add Expense Entry"
+msgstr "إضافة إدخال المصاريف"
+
+#: Template/MembershipPayment/add_expense.ctp:108
+msgid "Create Expense Entry"
+msgstr "إنشاء مدخل النفقات"
+
+#: Template/MembershipPayment/add_income.ctp:25
+msgid "Edit Income"
+msgstr "تحرير الدخل"
+
+#: Template/MembershipPayment/add_income.ctp:27
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "إضافة الدخل"
+
+#: Template/MembershipPayment/add_income.ctp:34
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "قائمة الدخل"
+
+#: Template/MembershipPayment/add_income.ctp:41
+msgid "income"
+msgstr "الإيرادات"
+
+#: Template/MembershipPayment/add_income.ctp:49
+msgid "Income label"
+msgstr "علامة الدخل"
+
+#: Template/MembershipPayment/add_income.ctp:60
+msgid "Select Status"
+msgstr "اختر الحالة"
+
+#: Template/MembershipPayment/add_income.ctp:76 Template/MembershipPayment/add_income.ctp:98
+msgid "Income Entry"
+msgstr "مدخل الدخل"
+
+#: Template/MembershipPayment/add_income.ctp:78
+#: Template/MembershipPayment/add_income.ctp:100
+msgid "Income Amount"
+msgstr "مبلغ الدخل"
+
+#: Template/MembershipPayment/add_income.ctp:81
+#: Template/MembershipPayment/add_income.ctp:103
+msgid "Income Entry Label"
+msgstr "مدخل إدخال التسمية"
+
+#: Template/MembershipPayment/add_income.ctp:118
+msgid "Add Income Entry"
+msgstr "إضافة دخل الدخول"
+
+#: Template/MembershipPayment/add_income.ctp:123
+msgid "Create Income Entry"
+msgstr "إنشاء مدخل الدخل"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "توليد فاتورة الدفع"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:53
+msgid "Membership Payment List"
+msgstr "قائمة دفع العضوية"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:82
+msgid "Total Amount"
+msgstr "المبلغ الإجمالي"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:102
+msgid "save_membership_payment"
+msgstr "حفظ دفع العضوية"
+
+#: Template/MembershipPayment/payment_list.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "عنوان"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "دفع"
+
+#: Template/Reports/attendance_report.ctp:46 Template/Reports/membership_report.ctp:17
+#: Template/Reports/membership_status_report.ctp:19
+#: Template/Reports/monthlyworkoutreport.ctp:29 Template/Reports/payment_report.ctp:17
+msgid "Attendance Report"
+msgstr "تقرير الحضور"
+
+#: Template/Reports/attendance_report.ctp:47 Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/monthlyworkoutreport.ctp:17 Template/Reports/payment_report.ctp:14
+msgid "Reports"
+msgstr "تقارير"
+
+#: Template/Reports/attendance_report.ctp:50 Template/Reports/membership_report.ctp:30
+#: Template/Reports/membership_status_report.ctp:17
+msgid "Membership Report"
+msgstr "تقرير العضوية"
+
+#: Template/Reports/attendance_report.ctp:52 Template/Reports/membership_report.ctp:19
+#: Template/Reports/membership_status_report.ctp:13
+#: Template/Reports/monthlyworkoutreport.ctp:31 Template/Reports/payment_report.ctp:19
+msgid "Membership Status Report"
+msgstr "تقرير حالة العضوية"
+
+#: Template/Reports/attendance_report.ctp:54 Template/Reports/membership_report.ctp:21
+#: Template/Reports/membership_status_report.ctp:21
+#: Template/Reports/monthlyworkoutreport.ctp:33 Template/Reports/payment_report.ctp:21
+msgid "Payment Report"
+msgstr "تقرير الدفع"
+
+#: Template/Reports/attendance_report.ctp:55 Template/Reports/membership_report.ctp:22
+#: Template/Reports/membership_status_report.ctp:22
+#: Template/Reports/monthlyworkoutreport.ctp:16 Template/Reports/monthlyworkoutreport.ctp:24
+#: Template/Reports/monthlyworkoutreport.ctp:34 Template/Reports/payment_report.ctp:22
+msgid "Members Monthly Workout Report"
+msgstr "الأعضاء الشهرية تجريب التقرير"
+
+#: Template/Reports/attendance_report.ctp:63
+msgid "Strat Date"
+msgstr "تاريخ الطبقة"
+
+#: Template/Reports/attendance_report.ctp:119 Template/Reports/membership_report.ctp:61
+#: Template/Reports/membership_status_report.ctp:41 Template/Reports/payment_report.ctp:66
+msgid "There is not enough data to generate report."
+msgstr "لا توجد بيانات كافية لإنشاء التقرير."
+
+#: Template/Reports/membership_report.ctp:13 Template/Reports/payment_report.ctp:13
+msgid "Membership report"
+msgstr "تقرير العضوية"
+
+#: Template/Reports/membership_status_report.ctp:30
+msgid "Membership by status"
+msgstr "العضوية حسب الحالة"
+
+#: Template/Reports/monthlyworkoutreport.ctp:63
+msgid "GO"
+msgstr "اذهب"
+
+#: Template/Reports/monthlyworkoutreport.ctp:77
+msgid "Workout Date"
+msgstr "تاريخ تجريب"
+
+#: Template/Reports/monthlyworkoutreport.ctp:78
+msgid "Workout Name"
+msgstr "اسم تجريب"
+
+#: Template/Reports/monthlyworkoutreport.ctp:125
+msgid "Download"
+msgstr "تحميل"
+
+#: Template/Reports/monthlyworkoutreport.ctp:132
+msgid "No Workout Found."
+msgstr "لا تجريب وجدت."
+
+#: Template/Reports/payment_report.ctp:30
+msgid "Fee Payment Report By Month"
+msgstr "تقرير دفع الرسوم حسب الشهر"
+
+#: Template/StaffMembers/add_staff.ctp:50 Template/StaffMembers/staff_list.ctp:30
+msgid "Staff Member List"
+msgstr "قائمة أعضاء الطاقم"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Assign Role"
+msgstr "تعيين دور"
+
+#: Template/StaffMembers/add_staff.ctp:101
+msgid "Select Role"
+msgstr "اختر الدور"
+
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Specialization"
+msgstr "تخصص"
+
+#: Template/StaffMembers/add_staff.ctp:182
+msgid "Save Staff"
+msgstr "حفظ الموظفين"
+
+#: Template/StaffMembers/staff_list.ctp:48 Template/StaffMembers/staff_list.ctp:81
+msgid "Staff Member Name"
+msgstr "اسم الموظف"
+
+#: Template/StaffMembers/staff_list.ctp:49 Template/StaffMembers/staff_list.ctp:82
+msgid "Role"
+msgstr "وظيفة"
+
+#: Template/StaffMembers/staff_list.ctp:50 Template/StaffMembers/staff_list.ctp:83
+msgid "Staff Member Email"
+msgstr "البريد الإلكتروني لموظف"
+
+#: Template/Users/login.ctp:23
+msgid "Logging you in"
+msgstr "تسجيل دخولك"
+
+#: Template/Users/login.ctp:31
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: custom
+msgid "(Max. height 50px.)"
+msgstr "(أقصى ارتفاع 50 بكسل.)"
+
+#: custom
+msgid "Class Booking"
+msgstr "جز الدرجة"
+
+#: custom
+msgid "Class Booking List"
+msgstr "قائمة حجز الدرجة"
+
+#: custom
+msgid "Add Class Booking"
+msgstr "إضافة حجز فئة"
+
+#: custom
+msgid "Booking Date"
+msgstr "تاريخ الحجز"
+
+#: custom
+msgid "Booking Day"
+msgstr "يوم الحجز"
+
+#: custom
+msgid "Add Booking Class"
+msgstr "إضافة فئة الحجز"
+
+#: custom
+msgid "Edit Booking Class"
+msgstr "تحرير فئة الحجز"
+
+#: custom
+msgid "Save Booking"
+msgstr "حفظ الحجز"
+
+#: custom
+msgid "Add Youtube Embaded Link"
+msgstr "أضف رابط يوتيوب المضمن"
+
+#: custom
+msgid "Add More"
+msgstr "أضف المزيد"
+
+#: custom
+msgid "No Any Video"
+msgstr "لا يوجد فيديو"
+
+#: custom
+msgid "Export"
+msgstr "تصدير"
+
+#: custom
+msgid "Import"
+msgstr "استيراد"
+
+#: custom
+msgid "Side Menu Color"
+msgstr "لون القائمة الجانبية"
+
+#: custom
+msgid "Header Color"
+msgstr "لون الرأس"
+
+#: custom
+msgid "Theme Setting"
+msgstr "إعداد السمة"
+
+#: custom
+msgid "Sample Download"
+msgstr "تحميل نموذج"
+
+#: custom
+msgid "Membership Report List"
+msgstr "قائمة تقرير العضوية"
+
+#: custom
+msgid "Payment Report List"
+msgstr "قائمة تقرير الدفع"
+
+#: custom
+msgid "Attendance Report List"
+msgstr "قائمة تقرير الحضور"
+
+#: custom
+msgid "Total Member"
+msgstr "مجموع الأعضاء"
+
+#: custom
+msgid "Attendance Date"
+msgstr "تاريخ الحضور"
+
+#: custom
+msgid "Number Of Member"
+msgstr "عدد الأعضاء"
+
+#: custom
+msgid "Stripe Setting"
+msgstr "إعداد الشريط"
+
+#: custom
+msgid "Secret Key"
+msgstr "المفتاح السري"
+
+#: custom
+msgid "Publishable Key"
+msgstr "مفتاح قابل للنشر"
+
+#: custom
+msgid "Class Booking Fees"
+msgstr "رسوم حجز الدرجة"
+
+#: custom
+msgid "Booking Type"
+msgstr "نوع الحجز"
+
+#: custom
+msgid "Booking Detail"
+msgstr "تفاصيل الحجز"
+
+#: custom
+msgid "Zipcode"
+msgstr "الرمز البريدي"
+
+#: custom
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: custom
+msgid "Class Information"
+msgstr "معلومات الصف"
+
+#: custom
+msgid "Select Booking Type"
+msgstr "حدد نوع الحجز"
+
+#: custom
+msgid "Demo"
+msgstr "تجريبي"
+
+#: custom
+msgid "Paid Booking"
+msgstr "الحجز المدفوع"
+
+#: custom
+msgid "Error! This class is already enjoy by you, now you can not book this class as demo."
+msgstr "خطأ! أنت الآن تستمتع بهذا الفصل الدراسي ، والآن لا يمكنك حجز هذا الفصل كعرض توضيحي."
+
+#: custom
+msgid "Error! Please Fill All Information."
+msgstr "خطأ! يرجى ملء جميع المعلومات."

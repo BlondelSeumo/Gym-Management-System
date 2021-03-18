@@ -1,0 +1,36 @@
+@media only screen and (max-width : 480px) {
+	.col-md-4.membership-list{
+	  width: 100% !important;
+	  float:left !important;
+	}
+	.col-md-8.col-sm-8.col-xs-6 {
+	  width: 20%;
+	}
+	.nav.navbar-right.col-md-4.col-sm-4.col-xs-6 {
+	  width: 79%;
+	}
+	.right_side .col-xs-6 {
+	  width: 100%;
+	}
+	#main-wrapper .col-xs-6 {
+	  width: 100%;
+	}
+	.info-box .panel-body {
+	  background-position: right center !important;
+	}
+	#calendar .fc-toolbar .fc-left,
+	#calendar .fc-toolbar .fc-right,
+	#calendar .fc-toolbar .fc-center
+	{float:left;width: 100%;padding-bottom:10px;}
+	.table .btn-primary{width: auto;/*margin-bottom:5px;*/}
+	.period_box {
+	  position: relative;
+	  white-space: normal;
+	}
+	
+	.team .team-member{width:100%;}
+	.achilactiveadd{width:100%;}
+	.col-md-6.sets-row {
+
+  width: 100%;
+}

@@ -1,0 +1,3605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GYM - Master\n"
+"POT-Creation-Date: 2019-02-20 12:34+0530\n"
+"PO-Revision-Date: 2020-06-09 23:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
+#: Template/Membership/view_activity.ctp:62
+msgid "Add Activity"
+msgstr "Lisa aktiivsus"
+
+#: Controller/ActivityController.php:72
+#: Controller/GymDailyWorkoutController.php:91
+#: Controller/GymDailyWorkoutController.php:194
+#: Controller/GymDailyWorkoutController.php:275
+#: Controller/GymMemberController.php:135
+#: Controller/GymProductController.php:28 Controller/GymStoreController.php:45
+#: Controller/MembershipPaymentController.php:201
+#: Controller/MembershipPaymentController.php:342
+msgid "Success! Record Saved Successfully."
+msgstr "Edu! Salvestus salvestatud edukalt."
+
+#: Controller/ActivityController.php:83 Controller/GymGroupController.php:89
+#: Controller/GymReservationController.php:79
+msgid "Success! Record Deleted Successfully"
+msgstr "Edu! Kirje kustutatud edukalt"
+
+#: Controller/ActivityController.php:91
+msgid "Edit Activity"
+msgstr "Redigeeri tegevust"
+
+#: Controller/ActivityController.php:137
+#: Controller/GymAccountantController.php:90
+#: Controller/GymDailyWorkoutController.php:223
+#: Controller/GymDailyWorkoutController.php:436
+#: Controller/GymMemberController.php:286
+#: Controller/GymProductController.php:46 Controller/GymStoreController.php:89
+#: Controller/MembershipPaymentController.php:155
+#: Controller/MembershipPaymentController.php:246
+#: Controller/MembershipPaymentController.php:368
+#: Controller/StaffMembersController.php:105
+msgid "Success! Record Updated Successfully."
+msgstr "Edu! Salvestatud on edukalt."
+
+#: Controller/AdminProfileController.php:55
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "Edu! Salvestamine on edukalt salvestatud. Palun vaadake muudatuste vaatamiseks uuesti."
+
+#: Controller/AdminProfileController.php:72
+#: Controller/GeneralSettingController.php:99
+#: Controller/GymAccountantController.php:58
+#: Controller/GymAccountantController.php:106
+#: Controller/GymDailyWorkoutController.php:279
+#: Controller/GymDailyWorkoutController.php:440
+#: Controller/GymGroupController.php:43 Controller/GymGroupController.php:76
+#: Controller/GymMemberController.php:162
+#: Controller/GymMemberController.php:315
+#: Controller/MembershipController.php:71
+#: Controller/MembershipController.php:153
+#: Controller/StaffMembersController.php:66
+#: Controller/StaffMembersController.php:121
+msgid "Invalid File Extension, Please Retry."
+msgstr "Kehtetu faililaiend, proovige uuesti."
+
+#: Controller/ClassScheduleController.php:41
+#: Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "Lisa klassi ajakava"
+
+#: Controller/ClassScheduleController.php:80
+#: Controller/GymReservationController.php:33
+#: Controller/MembershipController.php:64
+msgid "Success! Record Saved Successfully"
+msgstr "Edu! Salvestus salvestatud edukalt"
+
+#: Controller/ClassScheduleController.php:83
+#: Controller/MembershipController.php:150
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "Viga! Värskendamisel ilmnes viga, proovige hiljem uuesti."
+
+#: Controller/ClassScheduleController.php:92
+msgid "Edit Class Schedule"
+msgstr "Muuda klassi ajakava"
+
+#: Controller/ClassScheduleController.php:143
+#: Controller/GymGroupController.php:72
+#: Controller/GymReservationController.php:67
+#: Controller/MembershipController.php:147
+msgid "Success! Record Updated Successfully"
+msgstr "Edu! Salvestatud on edukalt"
+
+#: Controller/ClassScheduleController.php:153
+msgid "Success! Class Deleted Successfully."
+msgstr "Edu! Klass kustutatud edukalt."
+
+#: Controller/Component/GYMFunctionComponent.php:262
+#: Template/GymMember/view_member.ctp:146
+msgid "Weight Report"
+msgstr "Kaaluteade"
+
+#: Controller/Component/GYMFunctionComponent.php:263
+#: Controller/Component/GYMFunctionComponent.php:269
+#: Controller/Component/GYMFunctionComponent.php:275
+#: Controller/Component/GYMFunctionComponent.php:281
+#: Controller/Component/GYMFunctionComponent.php:287
+#: Controller/Component/GYMFunctionComponent.php:293
+#: Controller/Component/GYMFunctionComponent.php:299
+#: Template/GymMember/view_attendance.ctp:69
+msgid "Day"
+msgstr "Päev"
+
+#: Controller/Component/GYMFunctionComponent.php:268
+#: Template/GymMember/view_member.ctp:196
+msgid "Thigh Report"
+msgstr "Reisi aruanne"
+
+#: Controller/Component/GYMFunctionComponent.php:274
+#: Template/GymMember/view_member.ctp:246
+msgid "Height Report"
+msgstr "Kõrgusaruanne"
+
+#: Controller/Component/GYMFunctionComponent.php:280
+#: Template/GymMember/view_member.ctp:270
+msgid "Chest Report"
+msgstr "Rinna raport"
+
+#: Controller/Component/GYMFunctionComponent.php:286
+#: Template/GymMember/view_member.ctp:170
+msgid "Waist Report"
+msgstr "Vöö raport"
+
+#: Controller/Component/GYMFunctionComponent.php:292
+#: Template/GymMember/view_member.ctp:220
+msgid "Arms Report"
+msgstr "Relvaaruanne"
+
+#: Controller/Component/GYMFunctionComponent.php:298
+#: Template/GymMember/view_member.ctp:296
+msgid "Fat Report"
+msgstr "Rasvade aruanne"
+
+#: Controller/Component/GYMFunctionComponent.php:379
+#: View/Helper/GymHelper.php:321
+msgid "Fully Paid"
+msgstr "Täielikult tasutud"
+
+#: Controller/Component/GYMFunctionComponent.php:381
+#: View/Helper/GymHelper.php:323
+msgid "Not Paid"
+msgstr "Maksmata"
+
+#: Controller/Component/GYMFunctionComponent.php:383
+#: View/Helper/GymHelper.php:325
+msgid "Partially Paid"
+msgstr "Osaliselt tasutud"
+
+#: Controller/Component/GYMFunctionComponent.php:586
+msgid "Membership Reminder Alert!"
+msgstr "Liikmelisuse meeldetuletus!"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "January"
+msgstr "Jaanuar"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "February"
+msgstr "Veebruar"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "March"
+msgstr "Märts"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "April"
+msgstr "Aprill"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "May"
+msgstr "Mai"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "June"
+msgstr "Juuni"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "July"
+msgstr "Juuli"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "August"
+msgstr "august"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "September"
+msgstr "September"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "October"
+msgstr "Oktoober"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "November"
+msgstr "November"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "December"
+msgstr "Detsember"
+
+#: Controller/Component/GYMFunctionComponent.php:624
+msgid "You are not authorized to access that location."
+msgstr "Teil ei ole luba sellele asukohale juurde pääseda."
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:109
+#: Template/Dashboard/dashboard.ctp:215
+#: Template/GymAttendance/attendance.ctp:80
+#: Template/GymMember/add_member.ctp:448 Template/GymNotice/add_notice.ctp:73
+#: Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:266
+#: Template/Reports/attendance_report.ctp:87
+msgid "Class"
+msgstr "Klass"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:91
+#: Template/GymAttendance/staff_attendance.ctp:58
+msgid "Present"
+msgstr "Olema"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:109
+#: Template/GymAttendance/attendance.ctp:93
+#: Template/GymAttendance/staff_attendance.ctp:60
+msgid "Absent"
+msgstr "Puudub"
+
+#: Controller/DashboardController.php:133
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Dashboard/dashboard.ctp:70 Template/Dashboard/dashboard.ctp:269
+#: Template/Dashboard/member_dashboard.ctp:79
+#: Template/Dashboard/staff_acc_dashboard.ctp:89
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:33
+#: Template/GymMember/view_member.ctp:123 Template/GymNotice/add_notice.ctp:67
+#: Template/StaffMembers/add_staff.ctp:47
+#: Template/StaffMembers/staff_list.ctp:31
+msgid "Staff Member"
+msgstr "Töötaja"
+
+#: Controller/GeneralSettingController.php:69
+#: Controller/GeneralSettingController.php:93
+msgid "Success! Settings Saved Successfully."
+msgstr "Edu! Seaded salvestatud edukalt."
+
+#: Controller/GymAccessrightController.php:249
+msgid "Success! Settings Saved successfully."
+msgstr "Edu! Seaded Salvestatud edukalt."
+
+#: Controller/GymAccountantController.php:23
+#: Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "Lisage raamatupidaja"
+
+#: Controller/GymAccountantController.php:42
+#: Controller/GymNoticeController.php:62
+#: Controller/StaffMembersController.php:50
+msgid "Success! Record Successfully Saved."
+msgstr "Edu! Salvestamine on edukalt salvestatud."
+
+#: Controller/GymAccountantController.php:67
+msgid "Edit Accountant"
+msgstr "Muuda raamatupidajat"
+
+#: Controller/GymAccountantController.php:117
+#: Controller/MembershipPaymentController.php:380
+msgid "Success! Accountant Deleted Successfully."
+msgstr "Edu! Raamatupidaja kustutas edukalt."
+
+#: Controller/GymAjaxController.php:27 Controller/GymAjaxController1.php:25
+msgid "Add/Remove Category"
+msgstr "Kategooria lisamine / eemaldamine"
+
+#: Controller/GymAjaxController.php:32 Controller/GymAjaxController1.php:30
+msgid "enter category name"
+msgstr "sisestage kategooria nimi"
+
+#: Controller/GymAjaxController.php:35 Controller/GymAjaxController.php:123
+#: Controller/GymAjaxController1.php:33 Controller/GymAjaxController1.php:121
+#: Template/Activity/add_activity.ctp:52 Template/Membership/add.ctp:93
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "Lisa kategooria"
+
+#: Controller/GymAjaxController.php:44 Controller/GymAjaxController.php:216
+#: Controller/GymAjaxController.php:297 Controller/GymAjaxController1.php:42
+#: Controller/GymAjaxController1.php:214 Controller/GymAjaxController1.php:295
+msgid "Category"
+msgstr "Kategooria"
+
+#: Controller/GymAjaxController.php:45 Controller/GymAjaxController.php:133
+#: Controller/GymAjaxController.php:217 Controller/GymAjaxController.php:298
+#: Controller/GymAjaxController.php:378 Controller/GymAjaxController.php:456
+#: Controller/GymAjaxController.php:554 Controller/GymAjaxController.php:930
+#: Controller/GymAjaxController.php:1036 Controller/GymAjaxController1.php:43
+#: Controller/GymAjaxController1.php:131 Controller/GymAjaxController1.php:215
+#: Controller/GymAjaxController1.php:296 Controller/GymAjaxController1.php:376
+#: Controller/GymAjaxController1.php:454 Controller/GymAjaxController1.php:551
+#: Controller/GymAjaxController1.php:886 Controller/GymAjaxController1.php:992
+#: Template/Activity/activity_list.ctp:51
+#: Template/Activity/activity_list.ctp:79
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/ClassSchedule/class_list.ctp:67
+#: Template/ClassSchedule/class_list.ctp:101
+#: Template/GymAccountant/accountant_list.ctp:58
+#: Template/GymAccountant/accountant_list.ctp:92
+#: Template/GymAssignWorkout/workout_log.ctp:55
+#: Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:85
+#: Template/GymGroup/group_list.ctp:47 Template/GymGroup/group_list.ctp:78
+#: Template/GymMember/member_list.ctp:62 Template/GymMember/member_list.ctp:115
+#: Template/GymNotice/notice_list.ctp:45 Template/GymNotice/notice_list.ctp:74
+#: Template/GymNutrition/nutrition_list.ctp:55
+#: Template/GymNutrition/nutrition_list.ctp:79
+#: Template/GymProduct/product_list.ctp:51
+#: Template/GymProduct/product_list.ctp:80
+#: Template/GymReservation/reservation_list.ctp:57
+#: Template/GymReservation/reservation_list.ctp:89
+#: Template/GymStore/sell_record.ctp:38 Template/GymStore/sell_record.ctp:65
+#: Template/Membership/membership_list.ctp:59
+#: Template/Membership/membership_list.ctp:107
+#: Template/Membership/view_activity.ctp:76
+#: Template/Membership/view_activity.ctp:100
+#: Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102
+#: Template/StaffMembers/staff_list.ctp:53
+#: Template/StaffMembers/staff_list.ctp:86
+msgid "Action"
+msgstr "Meede"
+
+#: Controller/GymAjaxController.php:55 Controller/GymAjaxController.php:81
+#: Controller/GymAjaxController.php:143 Controller/GymAjaxController.php:170
+#: Controller/GymAjaxController.php:229 Controller/GymAjaxController.php:255
+#: Controller/GymAjaxController.php:310 Controller/GymAjaxController.php:338
+#: Controller/GymAjaxController.php:390 Controller/GymAjaxController.php:416
+#: Controller/GymAjaxController.php:468 Controller/GymAjaxController.php:494
+#: Controller/GymAjaxController.php:566 Controller/GymAjaxController.php:593
+#: Controller/GymAjaxController.php:1048 Controller/GymAjaxController.php:1107
+#: Controller/GymAjaxController1.php:53 Controller/GymAjaxController1.php:79
+#: Controller/GymAjaxController1.php:141 Controller/GymAjaxController1.php:168
+#: Controller/GymAjaxController1.php:227 Controller/GymAjaxController1.php:253
+#: Controller/GymAjaxController1.php:308 Controller/GymAjaxController1.php:336
+#: Controller/GymAjaxController1.php:388 Controller/GymAjaxController1.php:414
+#: Controller/GymAjaxController1.php:466 Controller/GymAjaxController1.php:492
+#: Controller/GymAjaxController1.php:563 Controller/GymAjaxController1.php:590
+#: Controller/GymAjaxController1.php:1004
+#: Controller/GymAjaxController1.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:48
+#: Template/GymMessage/view_message.ctp:47
+#: Template/GymNotice/notice_list.ctp:61
+#: Template/GymProduct/product_list.ctp:67 Template/GymStore/sell_record.ctp:54
+#: Template/Membership/view_activity.ctp:90
+#: Template/MembershipPayment/add_expense.ctp:70
+#: Template/MembershipPayment/add_expense.ctp:92
+#: Template/MembershipPayment/add_income.ctp:85
+#: Template/MembershipPayment/add_income.ctp:107
+msgid "Delete"
+msgstr "Kustuta"
+
+#: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:153
+#: Controller/GymAjaxController.php:240 Controller/GymAjaxController.php:321
+#: Controller/GymAjaxController.php:401 Controller/GymAjaxController.php:479
+#: Controller/GymAjaxController.php:577 Controller/GymAjaxController.php:961
+#: Controller/GymAjaxController.php:1059 Controller/GymAjaxController.php:1155
+#: Controller/GymAjaxController.php:1212 Controller/GymAjaxController.php:1368
+#: Controller/GymAjaxController.php:1504 Controller/GymAjaxController.php:1550
+#: Controller/GymAjaxController1.php:63 Controller/GymAjaxController1.php:151
+#: Controller/GymAjaxController1.php:238 Controller/GymAjaxController1.php:319
+#: Controller/GymAjaxController1.php:399 Controller/GymAjaxController1.php:477
+#: Controller/GymAjaxController1.php:574 Controller/GymAjaxController1.php:917
+#: Controller/GymAjaxController1.php:1015
+#: Controller/GymAjaxController1.php:1080
+#: Controller/GymAjaxController1.php:1132
+#: Controller/GymAjaxController1.php:1284
+#: Controller/GymAjaxController1.php:1420
+#: Controller/GymAjaxController1.php:1466
+msgid "Close"
+msgstr "Sulge"
+
+#: Controller/GymAjaxController.php:106 Controller/GymAjaxController1.php:104
+msgid "Add/Remove Installment Plan"
+msgstr "Lisa / eemalda järelmaksu kava"
+
+#: Controller/GymAjaxController.php:111 Controller/GymAjaxController1.php:109
+msgid "Enter Duration Number"
+msgstr "Sisestage kestuse number"
+
+#: Controller/GymAjaxController.php:115 Controller/GymAjaxController1.php:113
+msgid "Select Duration"
+msgstr "Valige Kestus"
+
+#: Controller/GymAjaxController.php:116 Controller/GymAjaxController1.php:114
+#: Template/ClassSchedule/add_class.ctp:141
+msgid "Days"
+msgstr "Päevad"
+
+#: Controller/GymAjaxController.php:117 Controller/GymAjaxController1.php:115
+msgid "Week"
+msgstr "Nädal"
+
+#: Controller/GymAjaxController.php:118 Controller/GymAjaxController1.php:116
+#: Template/Dashboard/dashboard.ctp:163
+#: Template/Reports/monthlyworkoutreport.ctp:58
+#: Template/Reports/payment_report.ctp:39
+msgid "Month"
+msgstr "Kuu"
+
+#: Controller/GymAjaxController.php:119 Controller/GymAjaxController1.php:117
+msgid "Year"
+msgstr "Aasta"
+
+#: Controller/GymAjaxController.php:132 Controller/GymAjaxController1.php:130
+msgid "Plan"
+msgstr "Plaan"
+
+#: Controller/GymAjaxController.php:199 Controller/GymAjaxController1.php:197
+msgid "Add/Remove Role"
+msgstr "Lisa / eemalda roll"
+
+#: Controller/GymAjaxController.php:204 Controller/GymAjaxController1.php:202
+msgid "Enter Role"
+msgstr "Sisesta roll"
+
+#: Controller/GymAjaxController.php:207 Controller/GymAjaxController.php:288
+#: Controller/GymAjaxController1.php:205 Controller/GymAjaxController1.php:286
+msgid "Add Role"
+msgstr "Lisa roll"
+
+#: Controller/GymAjaxController.php:232 Controller/GymAjaxController1.php:230
+#: Controller/GymAjaxController1.php:311 Controller/GymAjaxController1.php:1007
+msgid "No roles added"
+msgstr "Ühtegi rolli pole lisatud"
+
+#: Controller/GymAjaxController.php:280 Controller/GymAjaxController1.php:278
+msgid "Add/Remove Specialization"
+msgstr "Lisage / eemaldage spetsialiseerumine"
+
+#: Controller/GymAjaxController.php:285 Controller/GymAjaxController1.php:283
+msgid "Enter Specialization"
+msgstr "Sisestage spetsialiseerumine"
+
+#: Controller/GymAjaxController.php:313
+msgid "No Specialization added"
+msgstr "Spetsialiseerumist ei lisatud"
+
+#: Controller/GymAjaxController.php:360 Controller/GymAjaxController1.php:358
+msgid "Add/Remove Interest"
+msgstr "Lisa / eemalda huvi"
+
+#: Controller/GymAjaxController.php:365 Controller/GymAjaxController1.php:363
+msgid "Enter Interest"
+msgstr "Sisestage intress"
+
+#: Controller/GymAjaxController.php:368 Controller/GymAjaxController1.php:366
+msgid "Add Interest"
+msgstr "Lisa intress"
+
+#: Controller/GymAjaxController.php:377 Controller/GymAjaxController1.php:375
+msgid "Interest"
+msgstr "Huvi"
+
+#: Controller/GymAjaxController.php:393 Controller/GymAjaxController.php:471
+#: Controller/GymAjaxController.php:569 Controller/GymAjaxController1.php:391
+#: Controller/GymAjaxController1.php:469 Controller/GymAjaxController1.php:566
+msgid "No record added yet"
+msgstr "Ühtegi rekordit pole veel lisatud"
+
+#: Controller/GymAjaxController.php:438 Controller/GymAjaxController1.php:436
+msgid "Add/Remove Source"
+msgstr "Lisa / eemalda allikas"
+
+#: Controller/GymAjaxController.php:443 Controller/GymAjaxController1.php:441
+msgid "Enter Source"
+msgstr "Sisestage allikas"
+
+#: Controller/GymAjaxController.php:446 Controller/GymAjaxController1.php:444
+msgid "Add Source"
+msgstr "Lisa allikas"
+
+#: Controller/GymAjaxController.php:455 Controller/GymAjaxController1.php:453
+msgid "Source List"
+msgstr "Allikate loend"
+
+#: Controller/GymAjaxController.php:536 Controller/GymAjaxController1.php:533
+msgid "Add/Remove Levels"
+msgstr "Lisa / eemalda tasemed"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController1.php:538
+msgid "Enter Level"
+msgstr "Sisestage tase"
+
+#: Controller/GymAjaxController.php:544 Controller/GymAjaxController.php:742
+#: Controller/GymAjaxController1.php:541 Controller/GymAjaxController1.php:726
+#: Template/GymAssignWorkout/assign_workout.ctp:99
+#: Template/GymAssignWorkout/assign_workout1.ctp:78
+msgid "Add Level"
+msgstr "Lisa tase"
+
+#: Controller/GymAjaxController.php:553 Controller/GymAjaxController1.php:550
+msgid "Levels"
+msgstr "Tasemed"
+
+#: Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:768
+#: Controller/GymAjaxController1.php:673 Controller/GymAjaxController1.php:750
+#: Template/Activity/activity_list.ctp:31 Template/Activity/add_activity.ctp:32
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96
+#: Template/Element/sidebar.ctp:78 Template/GymAccessright/access_right.ctp:153
+#: Template/GymAssignWorkout/assign_workout.ctp:197
+#: Template/GymAssignWorkout/assign_workout1.ctp:175
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:63
+#: Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "Tegevus"
+
+#: Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:699
+#: Controller/GymAjaxController.php:769 Controller/GymAjaxController1.php:674
+#: Controller/GymAjaxController1.php:686 Controller/GymAjaxController1.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:198
+#: Template/GymAssignWorkout/assign_workout1.ctp:176
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:64
+#: Template/GymAssignWorkout/print_workout.ctp:61
+#: Template/Reports/monthlyworkoutreport.ctp:79
+msgid "Sets"
+msgstr "Komplektid"
+
+#: Controller/GymAjaxController.php:688 Controller/GymAjaxController.php:700
+#: Controller/GymAjaxController.php:770 Controller/GymAjaxController1.php:675
+#: Controller/GymAjaxController1.php:687 Controller/GymAjaxController1.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:199
+#: Template/GymAssignWorkout/assign_workout1.ctp:177
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:62
+#: Template/Reports/monthlyworkoutreport.ctp:80
+msgid "Reps"
+msgstr "Reps"
+
+#: Controller/GymAjaxController.php:689 Controller/GymAjaxController.php:771
+#: Controller/GymAjaxController1.php:676 Controller/GymAjaxController1.php:753
+#: Template/GymAssignWorkout/assign_workout.ctp:200
+#: Template/GymAssignWorkout/assign_workout1.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr "KG"
+
+#: Controller/GymAjaxController.php:690 Controller/GymAjaxController.php:772
+#: Controller/GymAjaxController1.php:677 Controller/GymAjaxController1.php:754
+#: Template/GymAssignWorkout/assign_workout.ctp:201
+#: Template/GymAssignWorkout/assign_workout1.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:64
+#: Template/Reports/monthlyworkoutreport.ctp:82
+msgid "Rest Time"
+msgstr "Puhkeaeg"
+
+#: Controller/GymAjaxController.php:701 Controller/GymAjaxController1.php:688
+#: Template/Reports/monthlyworkoutreport.ctp:81
+msgid "Kg"
+msgstr "Kg"
+
+#: Controller/GymAjaxController.php:702 Controller/GymAjaxController1.php:689
+msgid "Min"
+msgstr "Min"
+
+#: Controller/GymAjaxController.php:706 Controller/GymAjaxController1.php:693
+msgid "Your Workout"
+msgstr "Teie treening"
+
+#: Controller/GymAjaxController.php:713 Controller/GymAjaxController.php:791
+msgid "Note"
+msgstr "Märge"
+
+#: Controller/GymAjaxController.php:721 Controller/GymAjaxController1.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "Täna pole määratud treeningut. Saate lisada andmeid allpool."
+
+#: Controller/GymAjaxController.php:726 Controller/GymAjaxController1.php:710
+#: Template/GymAssignWorkout/assign_workout.ctp:92
+#: Template/GymAssignWorkout/assign_workout1.ctp:71
+msgid "Level"
+msgstr "Tase"
+
+#: Controller/GymAjaxController.php:729 Controller/GymAjaxController1.php:713
+#: Template/GymAssignWorkout/assign_workout.ctp:95
+#: Template/GymAssignWorkout/assign_workout1.ctp:74
+msgid "Select Level"
+msgstr "Valige tase"
+
+#: Controller/GymAjaxController.php:918 Controller/GymAjaxController1.php:874
+msgid "Edit/Delete Measurement"
+msgstr "Muuda / kustuta mõõtmist"
+
+#: Controller/GymAjaxController.php:926 Controller/GymAjaxController1.php:882
+msgid "Image"
+msgstr "Pilt"
+
+#: Controller/GymAjaxController.php:927 Controller/GymAjaxController1.php:883
+msgid "Measurement"
+msgstr "Mõõtmine"
+
+#: Controller/GymAjaxController.php:928 Controller/GymAjaxController1.php:884
+#: Template/GymDailyWorkout/add_measurment.ctp:65
+msgid "Result"
+msgstr "Tulemus"
+
+#: Controller/GymAjaxController.php:929 Controller/GymAjaxController1.php:885
+msgid "Record Date"
+msgstr "Kirje kuupäev"
+
+#: Controller/GymAjaxController.php:952 Controller/GymAjaxController1.php:908
+msgid "No Data Found."
+msgstr "Andmeid ei leitud."
+
+#: Controller/GymAjaxController.php:1018 Controller/GymAjaxController1.php:974
+msgid "Add/Remove Event Place"
+msgstr "Lisa / eemalda sündmuste koht"
+
+#: Controller/GymAjaxController.php:1023 Controller/GymAjaxController1.php:979
+msgid "Enter Place Name"
+msgstr "Sisestage koha nimi"
+
+#: Controller/GymAjaxController.php:1026 Controller/GymAjaxController1.php:982
+msgid "Add Place"
+msgstr "Lisa koht"
+
+#: Controller/GymAjaxController.php:1035 Controller/GymAjaxController1.php:991
+msgid "Place Name"
+msgstr "Koht Nimi"
+
+#: Controller/GymAjaxController.php:1051
+msgid "No Event Place added"
+msgstr "Ühtegi sündmuskoha pole lisatud"
+
+#: Controller/GymAjaxController.php:1134 Controller/GymAjaxController1.php:1059
+msgid "Group Members"
+msgstr "Grupi liikmed"
+
+#: Controller/GymAjaxController.php:1149 Controller/GymAjaxController1.php:1074
+msgid "No Members Assigned Yet."
+msgstr "Ühtegi liiget ei ole veel määratud."
+
+#: Controller/GymAjaxController.php:1173 Controller/GymAjaxController.php:1207
+#: Controller/GymAjaxController1.php:1093
+#: Controller/GymAjaxController1.php:1127
+msgid "Add Payment"
+msgstr "Lisa makse"
+
+#: Controller/GymAjaxController.php:1181 Controller/GymAjaxController1.php:1101
+#: Template/MembershipPayment/payment_list.ctp:52
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "Tasutud summa"
+
+#: Controller/GymAjaxController.php:1190 Controller/GymAjaxController1.php:1110
+msgid "Payment By"
+msgstr "Maksmine"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController1.php:1116
+msgid "Paypal"
+msgstr "Paypal"
+
+#: Controller/GymAjaxController.php:1199 Controller/GymAjaxController1.php:1119
+msgid "Cash"
+msgstr "Raha"
+
+#: Controller/GymAjaxController.php:1200 Controller/GymAjaxController1.php:1120
+msgid "Cheque"
+msgstr "Kontrollima"
+
+#: Controller/GymAjaxController.php:1201 Controller/GymAjaxController1.php:1121
+msgid "Bank Transfer"
+msgstr "Pangaülekanne"
+
+#: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1399
+#: Controller/GymAjaxController1.php:1166
+#: Controller/GymAjaxController1.php:1315
+msgid "Invoice"
+msgstr "Arve"
+
+#: Controller/GymAjaxController.php:1260 Controller/GymAjaxController.php:1412
+#: Controller/GymAjaxController1.php:1179
+#: Controller/GymAjaxController1.php:1328
+#: Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "Väljaandmise kuupäev"
+
+#: Controller/GymAjaxController.php:1261 Controller/GymAjaxController.php:1413
+#: Controller/GymAjaxController1.php:1180
+#: Controller/GymAjaxController1.php:1329
+#: Template/GymAttendance/attendance.ctp:109
+#: Template/GymAttendance/attendance.ctp:115
+#: Template/GymAttendance/attendance.ctp:118
+#: Template/GymAttendance/staff_attendance.ctp:67
+#: Template/GymAttendance/staff_attendance.ctp:70
+#: Template/GymMember/member_list.ctp:64 Template/GymMember/member_list.ctp:117
+#: Template/GymMember/view_member.ctp:128
+#: Template/MembershipPayment/add_expense.ctp:41
+#: Template/MembershipPayment/add_income.ctp:56
+#: Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "Staatus"
+
+#: Controller/GymAjaxController.php:1274 Controller/GymAjaxController.php:1426
+#: Controller/GymAjaxController1.php:1193
+#: Controller/GymAjaxController1.php:1342
+#: Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "makse"
+
+#: Controller/GymAjaxController.php:1277 Controller/GymAjaxController.php:1429
+#: Controller/GymAjaxController1.php:1196
+#: Controller/GymAjaxController1.php:1345
+#: Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "Bill To"
+
+#: Controller/GymAjaxController.php:1308 Controller/GymAjaxController1.php:1227
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:51
+#: Template/Element/sidebar.ctp:33 Template/GymAccessright/access_right.ctp:63
+#: Template/MembershipPayment/print_invoice.ctp:91
+msgid "Membership Type"
+msgstr "Liikmelisuse tüüp"
+
+#: Controller/GymAjaxController.php:1309 Controller/GymAjaxController1.php:1228
+msgid "Sign Up Fee"
+msgstr "Registreeru tasu"
+
+#: Controller/GymAjaxController.php:1310 Controller/GymAjaxController1.php:1229
+#: Template/MembershipPayment/print_invoice.ctp:92
+msgid "Membership Fee"
+msgstr "Liikmemaks"
+
+#: Controller/GymAjaxController.php:1311 Controller/GymAjaxController1.php:1230
+#: Template/MembershipPayment/print_invoice.ctp:93
+msgid "Total"
+msgstr "Kokku"
+
+#: Controller/GymAjaxController.php:1325 Controller/GymAjaxController1.php:1244
+#: Template/MembershipPayment/print_invoice.ctp:170
+msgid "Subtotal :"
+msgstr "Vahesumma:"
+
+#: Controller/GymAjaxController.php:1329 Controller/GymAjaxController1.php:1248
+#: Template/MembershipPayment/print_invoice.ctp:174
+msgid "Payment Made :"
+msgstr "Makse tehakse:"
+
+#: Controller/GymAjaxController.php:1333 Controller/GymAjaxController1.php:1252
+msgid "Due Amount  :"
+msgstr "Tähtaeg:"
+
+#: Controller/GymAjaxController.php:1341 Controller/GymAjaxController1.php:1260
+#: Template/MembershipPayment/print_invoice.ctp:204
+msgid "Payment History"
+msgstr "Maksete ajalugu"
+
+#: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1467
+#: Controller/GymAjaxController1.php:1264
+#: Controller/GymAjaxController1.php:1383
+#: Template/GymAttendance/attendance.ctp:39
+#: Template/GymAttendance/attendance.ctp:81
+#: Template/GymAttendance/staff_attendance.ctp:31
+#: Template/GymDailyWorkout/view_workout.ctp:51
+#: Template/GymMember/view_attendance.ctp:68 Template/GymMessage/inbox.ctp:55
+#: Template/GymMessage/sent.ctp:44 Template/GymStore/sell_product.ctp:54
+#: Template/MembershipPayment/add_expense.ctp:50
+#: Template/MembershipPayment/add_income.ctp:65
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:101
+#: Template/MembershipPayment/print_invoice.ctp:208
+msgid "Date"
+msgstr "Kuupäev"
+
+#: Controller/GymAjaxController.php:1346 Controller/GymAjaxController1.php:1265
+#: Template/GymMember/view_member.ctp:388
+#: Template/GymMember/view_member.ctp:416
+#: Template/GymSubscriptionHistory/index.ctp:44
+#: Template/GymSubscriptionHistory/index.ctp:74 Template/Membership/add.ctp:152
+#: Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:51
+#: Template/MembershipPayment/payment_list.ctp:96
+#: Template/MembershipPayment/print_invoice.ctp:209
+msgid "Amount"
+msgstr "Summa"
+
+#: Controller/GymAjaxController.php:1347 Controller/GymAjaxController1.php:1266
+#: Template/MembershipPayment/print_invoice.ctp:210
+msgid "Method"
+msgstr "Meetod"
+
+#: Controller/GymAjaxController.php:1366 Controller/GymAjaxController.php:1502
+#: Controller/GymAjaxController1.php:1418
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:55
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "Prindi"
+
+#: Controller/GymAjaxController.php:1462 Controller/GymAjaxController1.php:1378
+#: Template/MembershipPayment/print_invoice.ctp:83
+msgid "Invoice Entries"
+msgstr "Arve kirjed"
+
+#: Controller/GymAjaxController.php:1468 Controller/GymAjaxController1.php:1384
+#: Template/MembershipPayment/print_invoice.ctp:102
+msgid "Entry"
+msgstr "Sissepääs"
+
+#: Controller/GymAjaxController.php:1469 Controller/GymAjaxController1.php:1385
+#: Template/MembershipPayment/print_invoice.ctp:103
+msgid "Price"
+msgstr "Hind"
+
+#: Controller/GymAjaxController.php:1470 Controller/GymAjaxController1.php:1386
+#: Template/AdminProfile/edit_profile.ctp:62
+#: Template/GymAccountant/add_accountant.ctp:124
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:346
+#: Template/GymMember/view_member.ctp:90
+#: Template/GymProfile/view_profile.ctp:70 Template/Installer/index.ctp:554
+#: Template/MemberRegistration/index.ctp:219
+#: Template/MembershipPayment/print_invoice.ctp:104
+#: Template/StaffMembers/add_staff.ctp:159 Template/Users/login.ctp:21
+msgid "Username"
+msgstr "Kasutajanimi"
+
+#: Controller/GymAjaxController.php:1493 Controller/GymAjaxController1.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:195
+msgid "Grand Total :"
+msgstr "Kogusumma :"
+
+#: Controller/GymAjaxController.php:1519 Controller/GymAjaxController1.php:1435
+msgid "Notice Detail"
+msgstr "Teatise üksikasjad"
+
+#: Controller/GymAjaxController.php:1524 Controller/GymAjaxController1.php:1440
+msgid "Notice Title "
+msgstr "Teatise pealkiri "
+
+#: Controller/GymAjaxController.php:1529 Controller/GymAjaxController1.php:1445
+#: Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "Märkuse kommentaar"
+
+#: Controller/GymAjaxController.php:1534 Controller/GymAjaxController1.php:1450
+#: Template/GymNotice/add_notice.ctp:64 Template/GymNotice/notice_list.ctp:43
+#: Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "Märkus"
+
+#: Controller/GymAjaxController.php:1539 Controller/GymAjaxController1.php:1455
+#: Template/GymAssignWorkout/assign_workout.ctp:109
+#: Template/GymAssignWorkout/assign_workout1.ctp:88
+#: Template/GymDailyWorkout/add_workout.ctp:185
+#: Template/GymMember/view_attendance.ctp:48
+#: Template/GymNotice/add_notice.ctp:82
+#: Template/GymNutrition/addnutrition_schedule.ctp:70
+msgid "Start Date"
+msgstr "Algus kuupäev"
+
+#: Controller/GymAjaxController.php:1544 Controller/GymAjaxController1.php:1460
+msgid "End Date "
+msgstr "Lõppkuupäev "
+
+#: Controller/GymAjaxController1.php:736
+msgid "Category List"
+msgstr "Kategooria nimekiri"
+
+#: Controller/GymAssignWorkoutController - copy.php:40
+#: Controller/GymAssignWorkoutController.php:40
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:105
+#: Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:65
+#: Template/GymAssignWorkout/assign_workout1.ctp:46
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36
+#: Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "Loo treening"
+
+#: Controller/GymAssignWorkoutController - copy.php:101 copy.php:293
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:291
+msgid "success! Record Saved Successfully."
+msgstr "edu! Salvestus salvestatud edukalt."
+
+#: Controller/GymAssignWorkoutController - copy.php:103
+#: Controller/GymAssignWorkoutController.php:104
+#: Controller/GymAssignWorkoutController.php:294
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "Viga! Treeningupäevade andmeid ei õnnestunud salvestada. Proovige uuesti."
+
+#: Controller/GymAssignWorkoutController - copy.php:108 copy.php:299
+#: Controller/GymAssignWorkoutController.php:109
+#: Controller/GymAssignWorkoutController.php:297
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "Viga! Salvestust ei õnnestunud salvestada. Palun proovige uuesti."
+
+#: Controller/GymAssignWorkoutController - copy.php:196
+#: Controller/GymAssignWorkoutController.php:197
+#: Template/GymDailyWorkout/view_workout.ctp:33
+msgid "View Workout"
+msgstr "Kuva treening"
+
+#: Controller/GymAssignWorkoutController - copy.php:296
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "Viga! Treeningupäevad päeva ei õnnestunud salvestada. Proovige uuesti."
+
+#: Controller/GymAssignWorkoutController - copy.php:320
+#: Controller/GymAssignWorkoutController.php:318
+#: Controller/GymMemberController.php:326
+#: Controller/GymNutritionController.php:305
+#: Controller/GymProductController.php:61 Controller/GymStoreController.php:111
+#: Controller/MembershipPaymentController.php:258
+msgid "Success! Record Deleted Successfully."
+msgstr "Edu! Kirje kustutatud edukalt."
+
+#: Controller/GymAttendanceController.php:85
+#: Controller/GymAttendanceController.php:149
+msgid "Success! Attendance Saved Successfully."
+msgstr "Edu! Osavõtt salvestatud edukalt."
+
+#: Controller/GymAttendanceController.php:153
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "Viga! Palun valige liige / liige-liige."
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:29
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "Lisa treening"
+
+#: Controller/GymDailyWorkoutController.php:243
+#: Template/GymDailyWorkout/add_workout.ctp:132
+#: Template/GymDailyWorkout/view_workout.ctp:39
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "Lisa mõõtmine"
+
+#: Controller/GymDailyWorkoutController.php:410
+msgid "Edit Measurement"
+msgstr "Muuda mõõtmist"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "Testi e-post"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:233
+msgid "Add Group"
+msgstr "Lisa rühm"
+
+#: Controller/GymGroupController.php:39
+msgid "Success! Group Added Successfully."
+msgstr "Edu! Grupp lisati edukalt."
+
+#: Controller/GymGroupController.php:50
+msgid "Edit Group"
+msgstr "Muuda gruppi"
+
+#: Controller/GymMemberController.php:61
+#: Template/GymAssignWorkout/assign_workout.ctp:87
+#: Template/GymAssignWorkout/assign_workout1.ctp:67
+#: Template/GymDailyWorkout/add_workout.ctp:172
+#: Template/GymMember/member_list.ctp:45
+#: Template/GymNutrition/addnutrition_schedule.ctp:65
+msgid "Add Member"
+msgstr "Lisa liige"
+
+#: Controller/GymMemberController.php:190
+msgid "Edit Member"
+msgstr "Redigeeri liiget"
+
+#: Controller/GymMemberController.php:446
+msgid "Success! Member activated successfully."
+msgstr "Edu! Liige aktiveerus edukalt."
+
+#: Controller/GymMessageController.php:154
+msgid "Success! Message Sent Successfully."
+msgstr "Edu! Sõnum saadeti edukalt."
+
+#: Controller/GymMessageController.php:156
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "Viga! Sõnumi saatmine ei õnnestunud, proovige uuesti."
+
+#: Controller/GymMessageController.php:204
+msgid "Success! Message Deleted Successfully."
+msgstr "Edu! Sõnum kustutati edukalt."
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "Edu! Api võti Salvestatud edukalt."
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "Edu! Api võti värskendati edukalt."
+
+#: Controller/GymNewsletterController.php:94
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "Edu! Kirja sünkroonimine edukalt tehtud."
+
+#: Controller/GymNewsletterController.php:131
+msgid "Campaign Tests Not Sent!"
+msgstr "Kampaania testid ei ole saadetud!"
+
+#: Controller/GymNewsletterController.php:133
+msgid "Campaign Tests Sent!"
+msgstr "Kampaania testid saadeti!"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:31
+#: Controller/GymStoreController.php:49
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "Viga! Record Not Saved.Palun proovige uuesti."
+
+#: Controller/GymNoticeController.php:91
+msgid "Success! Record Successfully Updated."
+msgstr "Edu! Record edukalt uuendatud."
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:49
+#: Controller/GymStoreController.php:93
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "Viga! Salvestamine pole uuendatud.Palun proovige uuesti."
+
+#: Controller/GymNoticeController.php:105
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "Edu! Salvestus kustutatud edukalt."
+
+#: Controller/GymNutritionController.php:40
+#: Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "Lisage toitumisgraafik"
+
+#: Controller/GymNutritionController.php:77
+#: Controller/GymNutritionController.php:217
+msgid "Success! Nutrition Added Sucessfully."
+msgstr "Edu! Toitumine lisati edukalt."
+
+#: Controller/GymNutritionController.php:81
+#: Controller/GymNutritionController.php:221
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "Viga! Toitumisandmed ei salvestatud. Proovige uuesti."
+
+#: Controller/GymNutritionController.php:85
+#: Controller/GymNutritionController.php:225
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "Viga! Toitumise ajakava ei salvestatud. Proovige uuesti."
+
+#: Controller/GymNutritionController.php:172
+msgid "View Nutrition Schedule"
+msgstr "Kuva toitumise ajakava"
+
+#: Controller/GymProfileController.php:30
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr "Viga! Uus parool ja parooli kinnitamine ei sobi. Proovige uuesti."
+
+#: Controller/GymProfileController.php:37
+msgid "Success! Password Updated Successfully"
+msgstr "Edu! Parool uuendati edukalt"
+
+#: Controller/GymProfileController.php:41
+msgid "Error! Current password is wrong.Please try again."
+msgstr "Viga! Praegune parool on vale. Proovige uuesti."
+
+#: Controller/GymProfileController.php:65
+msgid "Success! Information Updated Successfully"
+msgstr "Edu! Teave uuendati edukalt"
+
+#: Controller/GymProfileController.php:69
+msgid "Error! Not Update.Please try again."
+msgstr "Viga! Ei värskenda. Proovige uuesti."
+
+#: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
+msgid "Only "
+msgstr "Ainult "
+
+#: Controller/MemberRegistrationController.php:108
+msgid "Registration completed successfully. You will get email after activation"
+msgstr "Registreerimine lõpetati edukalt. Pärast aktiveerimist saate meili"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:86
+#: Template/GymMember/add_member.ctp:443
+#: Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "Lisa liikmelisus"
+
+#: Controller/MembershipController.php:67
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "Viga! Salvestamisel ilmnes viga. Proovige hiljem uuesti."
+
+#: Controller/MembershipController.php:99
+msgid "Edit Membership"
+msgstr "Muuda liikmelisust"
+
+#: Controller/MembershipController.php:198
+msgid "Success! Activity Successfully Assigned."
+msgstr "Edu! Tegevus on edukalt määratud."
+
+#: Controller/MembershipController.php:208
+msgid "Success! Activity Unassigned Successfully."
+msgstr "Edu! Tegevus tühistati edukalt."
+
+#: Controller/MembershipPaymentController.php:63
+#: Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "Edu! Makse lisatakse edukalt."
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "Edu! Maksete kirje kustutati edukalt."
+
+#: Controller/MembershipPaymentController.php:406
+#: Controller/MembershipPaymentController.php:427
+msgid "Success! Payment Successfully Completed."
+msgstr "Edu! Makse edukalt lõpule viidud."
+
+#: Controller/MembershipPaymentController.php:430
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "Paypal maksmine IPN-i salvestamine ei õnnestunud."
+
+#: Controller/StaffMembersController.php:22
+#: Template/Activity/add_activity.ctp:74
+#: Template/StaffMembers/staff_list.ctp:37
+msgid "Add Staff Member"
+msgstr "Lisage personali liige"
+
+#: Controller/StaffMembersController.php:75
+msgid "Edit Staff Member"
+msgstr "Muuda töötajaid"
+
+#: Controller/StaffMembersController.php:132
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "Edu! Personali liige kustutati edukalt."
+
+#: Controller/UsersController.php:56
+msgid "Sorry, Your account is expired."
+msgstr "Vabandame, teie konto on aegunud."
+
+#: Controller/UsersController.php:66
+msgid "Error! Your account not activated yet!"
+msgstr "Viga! Teie kontot pole veel aktiveeritud!"
+
+#: Controller/UsersController.php:108
+msgid "Invalid username or password, try again"
+msgstr "Kehtetu kasutajanimi või parool, proovige uuesti"
+
+#: View/Helper/GymHelper.php:272
+msgid "Not Taken"
+msgstr "Ei võeta"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:80
+#: Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "Liikmed"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Staff Members"
+msgstr "Meeskonna liikmed"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Accountants"
+msgstr "Raamatupidajad"
+
+#: View/Helper/GymHelper.php:309
+msgid "Administrator"
+msgstr "Administraator"
+
+#: View/Helper/GymHelper.php:524
+msgid "No data available in table"
+msgstr "Tabelis puuduvad andmed"
+
+#: View/Helper/GymHelper.php:525
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "kõikide kirjete alguse näitamine"
+
+#: View/Helper/GymHelper.php:526
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Kuvatakse 0 kuni 0 0 kirjest"
+
+#: View/Helper/GymHelper.php:527
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtreeritud maksimaalsetest kirjetest)"
+
+#: View/Helper/GymHelper.php:530
+msgid "Show _MENU_ entries"
+msgstr "näita menüükirju"
+
+#: View/Helper/GymHelper.php:531
+msgid "Loading..."
+msgstr "Laadimine ..."
+
+#: View/Helper/GymHelper.php:532
+msgid "Processing..."
+msgstr "Töötlemine ..."
+
+#: View/Helper/GymHelper.php:533
+msgid "Search"
+msgstr "Otsing"
+
+#: View/Helper/GymHelper.php:534
+msgid "No matching records found"
+msgstr "Sobivaid kirjeid ei leitud"
+
+#: View/Helper/GymHelper.php:536
+msgid "First"
+msgstr "Esiteks"
+
+#: View/Helper/GymHelper.php:537
+msgid "Last"
+msgstr "Viimane"
+
+#: View/Helper/GymHelper.php:538
+msgid "Next"
+msgstr "Järgmine"
+
+#: View/Helper/GymHelper.php:539
+msgid "Previous"
+msgstr "Eelmine"
+
+#: View/Helper/GymHelper.php:542
+msgid "activate to sort column ascending"
+msgstr "aktiveerige veeru kasvavalt sortimiseks"
+
+#: View/Helper/GymHelper.php:543
+msgid "activate to sort column descending"
+msgstr "aktiveerige veergu kahanev sortimine"
+
+#: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:35
+msgid "Activity List"
+msgstr "Tegevuste loend"
+
+#: Template/Activity/activity_list.ctp:47
+#: Template/Activity/activity_list.ctp:75
+#: Template/Membership/view_activity.ctp:73
+#: Template/Membership/view_activity.ctp:97
+msgid "Activity Name"
+msgstr "Tegevuse nimi"
+
+#: Template/Activity/activity_list.ctp:48
+#: Template/Activity/activity_list.ctp:76
+#: Template/Membership/view_activity.ctp:74
+#: Template/Membership/view_activity.ctp:98
+msgid "Activity Category"
+msgstr "Tegevuskategooria"
+
+#: Template/Activity/activity_list.ctp:49
+#: Template/Activity/activity_list.ctp:77
+#: Template/Membership/view_activity.ctp:75
+#: Template/Membership/view_activity.ctp:99
+msgid "Activity Trainer"
+msgstr "Aktiivsuse treener"
+
+#: Template/Activity/add_activity.ctp:45 Template/Activity/add_activity.ctp:48
+#: Template/Membership/add.ctp:90 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "Vali kategooria"
+
+#: Template/Activity/add_activity.ctp:56
+msgid "Activity Title"
+msgstr "Tegevuste pealkiri"
+
+#: Template/Activity/add_activity.ctp:64
+msgid "Assign to Staff Member"
+msgstr "Määra töötajatele"
+
+#: Template/Activity/add_activity.ctp:68
+#: Template/ClassSchedule/add_class.ctp:51
+#: Template/ClassSchedule/add_class.ctp:53
+#: Template/ClassSchedule/add_class.ctp:68
+#: Template/GymMember/add_member.ctp:371 Template/GymMember/add_member.ctp:373
+#: Template/GymMember/add_member.ctp:403
+msgid "Select Staff Member"
+msgstr "Valige personali liige"
+
+#: Template/Activity/add_activity.ctp:79 Template/GymMember/add_member.ctp:440
+#: Template/MemberRegistration/index.ctp:261
+#: Template/MembershipPayment/generate_payment_invoice.ctp:78
+msgid "Select Membership"
+msgstr "Valige Liikmelisus"
+
+#: Template/Activity/add_activity.ctp:90
+msgid "Save Activity"
+msgstr "Salvesta aktiivsus"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "Profiili seadistamine"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "Admin"
+
+#: Template/AdminProfile/edit_profile.ctp:34
+#: Template/GymAccountant/add_accountant.ctp:42
+#: Template/GymMember/add_member.ctp:178
+#: Template/MemberRegistration/index.ctp:104
+#: Template/StaffMembers/add_staff.ctp:58
+msgid "Personal Information"
+msgstr "Isiklik informatsioon"
+
+#: Template/AdminProfile/edit_profile.ctp:39
+#: Template/GymAccountant/add_accountant.ctp:44
+#: Template/GymMember/add_member.ctp:189
+#: Template/MemberRegistration/index.ctp:115
+#: Template/StaffMembers/add_staff.ctp:60
+msgid "First Name"
+msgstr "Eesnimi"
+
+#: Template/AdminProfile/edit_profile.ctp:46
+#: Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:203
+#: Template/MemberRegistration/index.ctp:129
+#: Template/StaffMembers/add_staff.ctp:74
+msgid "Last Name"
+msgstr "Perekonnanimi"
+
+#: Template/AdminProfile/edit_profile.ctp:53
+#: Template/GeneralSetting/save_setting.ctp:189
+#: Template/GymAccountant/add_accountant.ctp:115
+#: Template/GymDailyWorkout/workout_list.ctp:58
+#: Template/GymDailyWorkout/workout_list.ctp:84
+#: Template/GymMember/add_member.ctp:285 Template/GymMember/view_member.ctp:74
+#: Template/GymProfile/view_profile.ctp:148 Template/Installer/index.ctp:464
+#: Template/MemberRegistration/index.ctp:209
+#: Template/StaffMembers/add_staff.ctp:150
+msgid "Email"
+msgstr "E-post"
+
+#: Template/AdminProfile/edit_profile.ctp:60
+#: Template/GymAccountant/add_accountant.ctp:122
+#: Template/GymMember/add_member.ctp:344
+#: Template/MemberRegistration/index.ctp:216
+#: Template/StaffMembers/add_staff.ctp:157
+msgid "Login Information"
+msgstr "Logi sisse"
+
+#: Template/AdminProfile/edit_profile.ctp:69
+#: Template/GymAccountant/add_accountant.ctp:131
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:353
+#: Template/Installer/index.ctp:562 Template/MemberRegistration/index.ctp:226
+#: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:22
+msgid "Password"
+msgstr "Parool"
+
+#: Template/AdminProfile/edit_profile.ctp:76
+#: Template/GymAccountant/add_accountant.ctp:138
+#: Template/GymDailyWorkout/add_measurment.ctp:77
+#: Template/GymMember/add_member.ctp:360
+#: Template/MemberRegistration/index.ctp:233
+#: Template/StaffMembers/add_staff.ctp:173
+msgid "Display Image"
+msgstr "Kuva pilt"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "Salvesta andmed"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:8
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:46
+#: Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:25
+#: Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "Armatuurlaud"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56
+#: Template/Dashboard/dashboard.ctp:83
+#: Template/Dashboard/member_dashboard.ctp:97
+#: Template/Dashboard/staff_acc_dashboard.ctp:112
+#: Template/Element/sidebar.ctp:38 Template/GymAccessright/access_right.ctp:93
+#: Template/GymGroup/add_group.ctp:18 Template/GymGroup/group_list.ctp:28
+#: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:228
+#: Template/MemberRegistration/index.ctp:154
+msgid "Group"
+msgstr "Grupp"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61
+#: Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "Klassi ja toitumise ajakava"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66
+#: Template/ClassSchedule/add_class.ctp:32
+#: Template/ClassSchedule/class_list.ctp:40
+#: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:48
+#: Template/GymAccessright/access_right.ctp:183
+msgid "Class Schedule"
+msgstr "Tunniplaan"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70
+#: Template/Element/sidebar.ctp:52 Template/GymAccessright/access_right.ctp:603
+#: Template/GymNutrition/addnutrition_schedule.ctp:43
+#: Template/GymNutrition/member_nutrition.ctp:19
+#: Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "Toitumisgraafik"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76
+#: Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "Liikmete haldamine"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89
+#: Template/Element/sidebar.ctp:71 Template/GymAccessright/access_right.ctp:25
+#: Template/GymAccessright/access_right.ctp:303
+#: Template/GymAccountant/accountant_list.ctp:37
+#: Template/GymAccountant/add_accountant.ctp:31
+#: Template/GymNotice/add_notice.ctp:67
+msgid "Accountant"
+msgstr "Raamatupidaja"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101
+#: Template/Element/sidebar.ctp:83 Template/GymDailyWorkout/add_workout.ctp:194
+msgid "Workout"
+msgstr "Treening"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109
+#: Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "Igapäevane treening"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116
+#: Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "Store & Tooted"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120
+#: Template/Element/sidebar.ctp:102
+#: Template/GymAccessright/access_right.ctp:422
+#: Template/GymStore/sell_product.ctp:60
+msgid "Product"
+msgstr "Toode"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124
+#: Template/Element/sidebar.ctp:106
+#: Template/GymAccessright/access_right.ctp:452
+#: Template/GymStore/sell_product.ctp:35 Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "Hoida"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131
+#: Template/Element/sidebar.ctp:113
+#: Template/GymAccessright/access_right.ctp:633
+#: Template/GymReservation/reservation_list.ctp:35
+msgid "Event"
+msgstr "Sündmus"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136
+#: Template/Element/sidebar.ctp:118 Template/GymAttendance/attendance.ctp:23
+#: Template/GymAttendance/staff_attendance.ctp:19
+#: Template/GymMember/member_list.ctp:88
+#: Template/GymMember/view_attendance.ctp:70
+msgid "Attendance"
+msgstr "Osalemine"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141
+#: Template/Dashboard/dashboard.ctp:171 Template/Dashboard/dashboard.ctp:186
+#: Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "Makse"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146
+#: Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "Liikmemaks"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151
+#: Template/Element/sidebar.ctp:133
+#: Template/GymAccessright/access_right.ctp:363
+#: Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "Tulu"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156
+#: Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "Kulud"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164
+#: Template/Dashboard/dashboard.ctp:96
+#: Template/Dashboard/member_dashboard.ctp:116
+#: Template/Dashboard/staff_acc_dashboard.ctp:136
+#: Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:512
+#: Template/GymMessage/compose_message.ctp:14 Template/GymMessage/inbox.ctp:10
+#: Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "Sõnum"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169
+#: Template/Element/sidebar.ctp:151
+#: Template/GymAccessright/access_right.ctp:482
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "Uudiskiri"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174
+#: Template/Element/sidebar.ctp:156
+#: Template/GymAccessright/access_right.ctp:542
+#: Template/GymNotice/add_notice.ctp:47 Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "Teade"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179
+#: Template/Cell/GymRenderMenu/member_menu.ctp:45
+#: Template/Element/sidebar.ctp:170
+#: Template/GymAccessright/access_right.ctp:572
+msgid "Report"
+msgstr "Aruanne"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "E-posti seaded"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:190
+msgid "SubscriptionHistory"
+msgstr "Tellimuse ajalugu"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:195
+#: Template/Element/sidebar.ctp:175 Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "üldised seaded"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:200
+#: Template/Element/sidebar.ctp:180 Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "Juurdepääs paremale"
+
+#: Template/ClassSchedule/add_class.ctp:35
+#: Template/ClassSchedule/class_list.ctp:39
+#: Template/ClassSchedule/view_schedule.ctp:13
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "Klasside nimekiri"
+
+#: Template/ClassSchedule/add_class.ctp:44
+#: Template/ClassSchedule/class_list.ctp:61
+#: Template/ClassSchedule/class_list.ctp:95
+msgid "Class Name"
+msgstr "Klassi nimi"
+
+#: Template/ClassSchedule/add_class.ctp:59
+#: Template/ClassSchedule/add_class.ctp:74
+msgid "Add"
+msgstr "Lisama"
+
+#: Template/ClassSchedule/add_class.ctp:66
+msgid "Select Assistant Staff Member"
+msgstr "Valige assistendi assistent"
+
+#: Template/ClassSchedule/add_class.ctp:80
+#: Template/ClassSchedule/class_list.ctp:65
+#: Template/ClassSchedule/class_list.ctp:99
+msgid "Location"
+msgstr "Asukoht"
+
+#: Template/ClassSchedule/add_class.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:129
+#: Template/GymAssignWorkout/assign_workout1.ctp:108
+#: Template/GymNutrition/addnutrition_schedule.ctp:90
+msgid "Select Days"
+msgstr "Valige päevad"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Sunday"
+msgstr "Pühapäev"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Monday"
+msgstr "Esmaspäev"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Tuesday"
+msgstr "Teisipäev"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Wednesday"
+msgstr "Kolmapäev"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Thursday"
+msgstr "Neljapäev"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Friday"
+msgstr "Reede"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Saturday"
+msgstr "Laupäev"
+
+#: Template/ClassSchedule/add_class.ctp:125
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:103
+#: Template/GymReservation/reservation_list.ctp:54
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Start Time"
+msgstr "Algusaeg"
+
+#: Template/ClassSchedule/add_class.ctp:132
+#: Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:110
+msgid "End Time"
+msgstr "Lõpuaeg"
+
+#: Template/ClassSchedule/add_class.ctp:137
+msgid "Add Time"
+msgstr "Lisa aeg"
+
+#: Template/ClassSchedule/add_class.ctp:173
+#: Template/GymReservation/add_reservation.ctp:142
+msgid "Save Class"
+msgstr "Salvesta klass"
+
+#: Template/ClassSchedule/class_list.ctp:46
+#: Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "Klasside loendid"
+
+#: Template/ClassSchedule/class_list.ctp:62
+#: Template/ClassSchedule/class_list.ctp:96
+msgid "Staff Name"
+msgstr "Töötaja nimi"
+
+#: Template/ClassSchedule/class_list.ctp:63
+#: Template/ClassSchedule/class_list.ctp:97
+msgid "Starting Time"
+msgstr "Algusaeg"
+
+#: Template/ClassSchedule/class_list.ctp:64
+#: Template/ClassSchedule/class_list.ctp:98
+#: Template/GymReservation/reservation_list.ctp:55
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Ending Time"
+msgstr "Lõppaeg"
+
+#: Template/ClassSchedule/view_schedule.ctp:43
+#: Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
+msgid "Edit"
+msgstr "Muuda"
+
+#: Template/Dashboard/dashboard.ctp:58
+#: Template/Dashboard/member_dashboard.ctp:61
+#: Template/Dashboard/staff_acc_dashboard.ctp:66
+#: Template/GymAccessright/access_right.ctp:23
+#: Template/GymAccessright/access_right.ctp:123
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:147
+#: Template/GymMember/add_member.ctp:167 Template/GymMember/add_member.ctp:430
+#: Template/GymMember/member_list.ctp:39
+#: Template/GymMember/view_attendance.ctp:34
+#: Template/GymMember/view_member.ctp:33 Template/GymNotice/add_notice.ctp:67
+#: Template/GymStore/sell_product.ctp:46
+#: Template/MembershipPayment/add_income.ctp:43
+#: Template/MembershipPayment/generate_payment_invoice.ctp:64
+msgid "Member"
+msgstr "Liige"
+
+#: Template/Dashboard/dashboard.ctp:106
+#: Template/Dashboard/member_dashboard.ctp:134
+#: Template/Dashboard/staff_acc_dashboard.ctp:158
+#: Template/GymMember/add_member.ctp:438
+#: Template/MemberRegistration/index.ctp:259 Template/Membership/add.ctp:66
+#: Template/Membership/edit_membership.ctp:8
+#: Template/Membership/membership_list.ctp:37
+#: Template/Membership/membership_list.ctp:43
+#: Template/Membership/view_activity.ctp:40
+#: Template/MembershipPayment/generate_payment_invoice.ctp:76
+msgid "Membership"
+msgstr "Liikmelisus"
+
+#: Template/Dashboard/dashboard.ctp:124
+#: Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/staff_acc_dashboard.ctp:187
+#: Template/GymGroup/add_group.ctp:21 Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "Grupiloend"
+
+#: Template/Dashboard/dashboard.ctp:154
+msgid "Payment by month"
+msgstr "Maksmine kuuga"
+
+#: Template/Dashboard/dashboard.ctp:192 Template/Dashboard/dashboard.ctp:247
+#: Template/Dashboard/dashboard.ctp:298
+#: Template/Dashboard/member_dashboard.ctp:200
+#: Template/Dashboard/member_dashboard.ctp:224
+#: Template/Dashboard/member_dashboard.ctp:248
+#: Template/Dashboard/member_dashboard.ctp:272
+#: Template/Dashboard/member_dashboard.ctp:296
+#: Template/Dashboard/member_dashboard.ctp:320
+#: Template/Dashboard/member_dashboard.ctp:344
+#: Template/GymMember/view_member.ctp:155
+#: Template/GymMember/view_member.ctp:179
+#: Template/GymMember/view_member.ctp:205
+#: Template/GymMember/view_member.ctp:229
+#: Template/GymMember/view_member.ctp:255
+#: Template/GymMember/view_member.ctp:279
+#: Template/GymMember/view_member.ctp:305
+msgid "There is not enough data to generate report"
+msgstr "Aruande loomiseks pole piisavalt andmeid"
+
+#: Template/Dashboard/dashboard.ctp:209 Template/Dashboard/dashboard.ctp:240
+#: Template/Reports/attendance_report.ctp:81
+msgid "Member Attendance Report"
+msgstr "Liikmete osalemise aruanne"
+
+#: Template/Dashboard/dashboard.ctp:223
+#: Template/Reports/attendance_report.ctp:93
+#: Template/Reports/membership_report.ctp:41
+msgid "No of Member"
+msgstr "Liikmete arv"
+
+#: Template/Dashboard/dashboard.ctp:263
+msgid "Staff Attendance Report"
+msgstr "Personali osalemise aruanne"
+
+#: Template/Dashboard/dashboard.ctp:277
+msgid "Number of Staff Members"
+msgstr "Töötajate arv"
+
+#: Template/Dashboard/dashboard.ctp:292
+#: Template/GymAttendance/attendance.ctp:29
+#: Template/GymAttendance/staff_attendance.ctp:18
+msgid "Staff Attendance"
+msgstr "Töötajate osavõtt"
+
+#: Template/Dashboard/member_dashboard.ctp:191
+msgid "Weight Progress Report"
+msgstr "Kehakaalu aruanne"
+
+#: Template/Dashboard/member_dashboard.ctp:215
+msgid "Waist  Progress Report"
+msgstr "Vöö edenemise aruanne"
+
+#: Template/Dashboard/member_dashboard.ctp:239
+msgid "Thigh Progress Report"
+msgstr "Reisi edusammude aruanne"
+
+#: Template/Dashboard/member_dashboard.ctp:263
+msgid "Arms Progress Report"
+msgstr "Relvade arenguaruanne"
+
+#: Template/Dashboard/member_dashboard.ctp:287
+msgid "Height Progress Report"
+msgstr "Kõrge arenguaruanne"
+
+#: Template/Dashboard/member_dashboard.ctp:311
+msgid "Chest Progress Report"
+msgstr "Rinna eduaruanne"
+
+#: Template/Dashboard/member_dashboard.ctp:335
+msgid "Fat Progress Report"
+msgstr "Rasva arengu aruanne"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "Versioon"
+
+#: Template/Element/topbar.ctp:40
+msgid "Member since"
+msgstr "Liige alates"
+
+#: Template/Element/topbar.ctp:47 Template/Element/topbar.ctp:53
+msgid "Profile"
+msgstr "Profiil"
+
+#: Template/Element/topbar.ctp:57
+msgid "Sign out"
+msgstr "Logi välja"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "Seaded"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "Süsteemisätted"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "Spordisaali nimi"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "Algusaasta"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "Spordisaali aadress"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "Office'i telefoninumber"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:132
+msgid "Country"
+msgstr "Riik"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "Süsteemi keel"
+
+#: Template/GeneralSetting/save_setting.ctp:126
+msgid "Set Language to RTL"
+msgstr "Määrake keel RTL-ile"
+
+#: Template/GeneralSetting/save_setting.ctp:128
+#: Template/GeneralSetting/save_setting.ctp:405
+#: Template/GeneralSetting/save_setting.ctp:412
+#: Template/GeneralSetting/save_setting.ctp:422
+#: Template/GeneralSetting/save_setting.ctp:452
+#: Template/GeneralSetting/save_setting.ctp:489
+msgid "Enable"
+msgstr "Luba"
+
+#: Template/GeneralSetting/save_setting.ctp:196
+msgid "Date Format"
+msgstr "Kuupäevavorming"
+
+#: Template/GeneralSetting/save_setting.ctp:289
+msgid "Time Zone"
+msgstr "Ajavöönd"
+
+#: Template/GeneralSetting/save_setting.ctp:319
+msgid "Gym Logo"
+msgstr "Spordisaali logo"
+
+#: Template/GeneralSetting/save_setting.ctp:324
+msgid "(Max. height 50px.)"
+msgstr "(Maks. Kõrgus 50px.)"
+
+#: Template/GeneralSetting/save_setting.ctp:336
+msgid "Cover Image"
+msgstr "Kaanepilt"
+
+#: Template/GeneralSetting/save_setting.ctp:348
+msgid "Measurement Units"
+msgstr "Mõõtühikud"
+
+#: Template/GeneralSetting/save_setting.ctp:350
+#: Template/GymMember/add_member.ctp:295
+msgid "Weight"
+msgstr "Kaal"
+
+#: Template/GeneralSetting/save_setting.ctp:357
+#: Template/GymMember/add_member.ctp:302
+msgid "Height"
+msgstr "Kõrgus"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+#: Template/GymMember/add_member.ctp:309
+msgid "Chest"
+msgstr "Rind"
+
+#: Template/GeneralSetting/save_setting.ctp:371
+#: Template/GymMember/add_member.ctp:316
+msgid "Waist"
+msgstr "Vöökoht"
+
+#: Template/GeneralSetting/save_setting.ctp:378
+msgid "Thing"
+msgstr "Asi"
+
+#: Template/GeneralSetting/save_setting.ctp:385
+#: Template/GymMember/add_member.ctp:330
+msgid "Arms"
+msgstr "Relvad"
+
+#: Template/GeneralSetting/save_setting.ctp:392
+#: Template/GymMember/add_member.ctp:337
+msgid "Fat"
+msgstr "Rasv"
+
+#: Template/GeneralSetting/save_setting.ctp:400
+msgid "Member Privacy Setting"
+msgstr "Liikmete privaatsuse seadistus"
+
+#: Template/GeneralSetting/save_setting.ctp:402
+msgid "Member can view other member's details"
+msgstr "Liige saab vaadata teiste liikmete andmeid"
+
+#: Template/GeneralSetting/save_setting.ctp:409
+msgid "Staff Member can view own trainee member's details"
+msgstr "Töötajal on võimalik tutvuda oma praktikandi liikme andmetega"
+
+#: Template/GeneralSetting/save_setting.ctp:418
+msgid "Paypal Setting"
+msgstr "Paypal seadistus"
+
+#: Template/GeneralSetting/save_setting.ctp:420
+msgid "Enable Sandbox"
+msgstr "Luba liivakast"
+
+#: Template/GeneralSetting/save_setting.ctp:427
+msgid "Paypal Email Id"
+msgstr "Paypal e-posti ID"
+
+#: Template/GeneralSetting/save_setting.ctp:434
+msgid "Select Currency"
+msgstr "Valige Valuuta"
+
+#: Template/GeneralSetting/save_setting.ctp:448
+msgid "Membership Alert Message Setting"
+msgstr "Liikmelisuse teate seadistamine"
+
+#: Template/GeneralSetting/save_setting.ctp:450
+msgid "Enable Alert Mail"
+msgstr "Enable Alert Mail"
+
+#: Template/GeneralSetting/save_setting.ctp:457
+msgid "Reminder Before Days"
+msgstr "Meeldetuletus enne päeva"
+
+#: Template/GeneralSetting/save_setting.ctp:465
+msgid "Reminder Message"
+msgstr "Meeldetuletuse teade"
+
+#: Template/GeneralSetting/save_setting.ctp:472
+msgid "ShortCodes For Notification Mail Message"
+msgstr "Lühikoodid teatesõnumite jaoks"
+
+#: Template/GeneralSetting/save_setting.ctp:475
+#: Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77
+#: Template/GymAttendance/attendance.ctp:108
+#: Template/GymAttendance/attendance.ctp:117
+#: Template/GymAttendance/staff_attendance.ctp:69
+#: Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82
+#: Template/GymMember/member_list.ctp:56 Template/GymMember/member_list.ctp:109
+#: Template/GymNutrition/nutrition_list.ctp:53
+#: Template/GymNutrition/nutrition_list.ctp:77
+#: Template/GymStore/sell_record.ctp:36 Template/GymStore/sell_record.ctp:63
+#: Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:72
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "Liikme nimi"
+
+#: Template/GeneralSetting/save_setting.ctp:476 Template/Membership/add.ctp:81
+#: Template/Membership/edit_membership.ctp:21
+#: Template/Membership/membership_list.ctp:54
+#: Template/Membership/membership_list.ctp:102
+#: Template/Reports/membership_report.ctp:35
+msgid "Membership Name"
+msgstr "Liikmelisuse nimi"
+
+#: Template/GeneralSetting/save_setting.ctp:477
+#: Template/GymMember/view_member.ctp:390
+#: Template/GymMember/view_member.ctp:418
+#: Template/GymSubscriptionHistory/index.ctp:46
+#: Template/GymSubscriptionHistory/index.ctp:76
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "Liikmestaatuse alguskuupäev"
+
+#: Template/GeneralSetting/save_setting.ctp:478
+#: Template/GymMember/view_member.ctp:391
+#: Template/GymMember/view_member.ctp:419
+#: Template/GymSubscriptionHistory/index.ctp:47
+#: Template/GymSubscriptionHistory/index.ctp:77
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "Liikmelisuse lõppkuupäev"
+
+#: Template/GeneralSetting/save_setting.ctp:485
+msgid "Message Setting"
+msgstr "Sõnumi seadistamine"
+
+#: Template/GeneralSetting/save_setting.ctp:487
+msgid "Member can Message To other's"
+msgstr "Liige saab sõnumi teistele"
+
+#: Template/GeneralSetting/save_setting.ctp:494
+msgid "Header & Footer Text"
+msgstr "Päise ja jaluse tekst"
+
+#: Template/GeneralSetting/save_setting.ctp:496
+msgid "Left Header Text"
+msgstr "Vasaku päise tekst"
+
+#: Template/GeneralSetting/save_setting.ctp:503
+msgid "Footer Text"
+msgstr "Footer Text"
+
+#: Template/GeneralSetting/save_setting.ctp:511
+msgid "Save Settings"
+msgstr "Salvesta sätted"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "Juurdepääs paremale seadistusele"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "Menüü"
+
+#: Template/GymAccessright/access_right.ctp:213
+msgid "Attendence"
+msgstr "Osalemine"
+
+#: Template/GymAccessright/access_right.ctp:243
+msgid "Assigned Workouts"
+msgstr "Määratud treeningud"
+
+#: Template/GymAccessright/access_right.ctp:273
+msgid "Workouts"
+msgstr "Treeningud"
+
+#: Template/GymAccessright/access_right.ctp:333
+#: Template/Reports/payment_report.ctp:47
+msgid "Fee Payment"
+msgstr "Tasu maksmine"
+
+#: Template/GymAccessright/access_right.ctp:392
+#: Template/MembershipPayment/add_expense.ctp:22
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "Kulud"
+
+#: Template/GymAccessright/access_right.ctp:663
+msgid "Account"
+msgstr "Konto"
+
+#: Template/GymAccessright/access_right.ctp:694
+#: Template/GymMember/view_member.ctp:382
+#: Template/GymSubscriptionHistory/index.ctp:32
+#: Template/GymSubscriptionHistory/index.ctp:33
+msgid "Subscription History"
+msgstr "Tellimiste ajalugu"
+
+#: Template/GymAccessright/access_right.ctp:724
+#: Template/GymDailyWorkout/add_workout.ctp:210
+#: Template/GymEmailSetting/index.ctp:46 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNotice/add_notice.ctp:102
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+#: Template/GymProduct/add_product.ctp:47
+#: Template/GymProfile/view_profile.ctp:95
+#: Template/GymProfile/view_profile.ctp:155
+#: Template/GymStore/sell_product.ctp:84
+msgid "Save"
+msgstr "Salvesta"
+
+#: Template/GymAccountant/accountant_list.ctp:36
+#: Template/GymAccountant/add_accountant.ctp:34
+msgid "Accountant List"
+msgstr "Raamatupidajate nimekiri"
+
+#: Template/GymAccountant/accountant_list.ctp:53
+#: Template/GymAccountant/accountant_list.ctp:87
+#: Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76
+#: Template/GymAttendance/attendance.ctp:107
+#: Template/GymAttendance/attendance.ctp:116
+#: Template/GymAttendance/staff_attendance.ctp:68
+#: Template/GymDailyWorkout/workout_list.ctp:55
+#: Template/GymDailyWorkout/workout_list.ctp:81
+#: Template/GymGroup/group_list.ctp:44 Template/GymGroup/group_list.ctp:75
+#: Template/GymMember/member_list.ctp:55 Template/GymMember/member_list.ctp:108
+#: Template/GymMember/view_member.ctp:320
+#: Template/Membership/membership_list.ctp:53
+#: Template/Membership/membership_list.ctp:101
+#: Template/StaffMembers/staff_list.ctp:47
+#: Template/StaffMembers/staff_list.ctp:80
+msgid "Photo"
+msgstr "Foto"
+
+#: Template/GymAccountant/accountant_list.ctp:54
+#: Template/GymAccountant/accountant_list.ctp:88
+msgid "Accountant Name"
+msgstr "Raamatupidaja nimi"
+
+#: Template/GymAccountant/accountant_list.ctp:55
+#: Template/GymAccountant/accountant_list.ctp:89
+msgid "Accountant Email"
+msgstr "Raamatupidaja e-post"
+
+#: Template/GymAccountant/accountant_list.ctp:56
+#: Template/GymAccountant/accountant_list.ctp:90
+#: Template/GymProfile/view_profile.ctp:136
+#: Template/StaffMembers/staff_list.ctp:51
+#: Template/StaffMembers/staff_list.ctp:84
+msgid "Mobile No."
+msgstr "Mobiili number."
+
+#: Template/GymAccountant/add_accountant.ctp:51
+#: Template/GymMember/add_member.ctp:196
+#: Template/MemberRegistration/index.ctp:122
+#: Template/StaffMembers/add_staff.ctp:67
+msgid "Middle Name"
+msgstr "Keskmine nimi"
+
+#: Template/GymAccountant/add_accountant.ctp:65
+#: Template/GymMember/add_member.ctp:210 Template/GymMember/view_member.ctp:86
+#: Template/MemberRegistration/index.ctp:136
+#: Template/StaffMembers/add_staff.ctp:81
+msgid "Gender"
+msgstr "Sugu"
+
+#: Template/GymAccountant/add_accountant.ctp:68
+#: Template/GymMember/add_member.ctp:213 Template/StaffMembers/add_staff.ctp:84
+msgid "Male"
+msgstr "Mees"
+
+#: Template/GymAccountant/add_accountant.ctp:69
+#: Template/GymMember/add_member.ctp:214 Template/StaffMembers/add_staff.ctp:85
+msgid "Female"
+msgstr "Naine"
+
+#: Template/GymAccountant/add_accountant.ctp:76
+#: Template/GymMember/add_member.ctp:221
+#: Template/GymProfile/view_profile.ctp:113
+#: Template/MemberRegistration/index.ctp:147
+#: Template/StaffMembers/add_staff.ctp:92
+msgid "Date of birth"
+msgstr "Sünnikuupäev"
+
+#: Template/GymAccountant/add_accountant.ctp:82
+#: Template/GymMember/add_member.ctp:238
+#: Template/MemberRegistration/index.ctp:161
+#: Template/StaffMembers/add_staff.ctp:117
+msgid "Contact Information"
+msgstr "Kontaktinfo"
+
+#: Template/GymAccountant/add_accountant.ctp:84
+#: Template/GymProfile/view_profile.ctp:122
+#: Template/StaffMembers/add_staff.ctp:119
+msgid "Home Town Address"
+msgstr "Kodulinna aadress"
+
+#: Template/GymAccountant/add_accountant.ctp:91
+#: Template/GymMember/add_member.ctp:247
+#: Template/GymProfile/view_profile.ctp:130
+#: Template/MemberRegistration/index.ctp:171
+#: Template/StaffMembers/add_staff.ctp:126
+msgid "City"
+msgstr "Linn"
+
+#: Template/GymAccountant/add_accountant.ctp:98
+#: Template/GymMember/add_member.ctp:268
+#: Template/MemberRegistration/index.ctp:192
+#: Template/StaffMembers/add_staff.ctp:133
+msgid "Mobile Number"
+msgstr "Mobiili number"
+
+#: Template/GymAccountant/add_accountant.ctp:108
+#: Template/GymMember/add_member.ctp:278
+#: Template/GymProfile/view_profile.ctp:142
+#: Template/MemberRegistration/index.ctp:202
+#: Template/StaffMembers/add_staff.ctp:143
+msgid "Phone"
+msgstr "Telefon"
+
+#: Template/GymAccountant/add_accountant.ctp:147
+msgid "Save Accountant"
+msgstr "Salvesta raamatupidaja"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:68
+#: Template/GymAssignWorkout/assign_workout1.ctp:49
+msgid "Workout Logs"
+msgstr "Treeningute logid"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:78
+#: Template/GymAssignWorkout/assign_workout1.ctp:59
+#: Template/GymDailyWorkout/add_workout.ctp:149
+#: Template/GymDailyWorkout/add_workout.ctp:163
+#: Template/GymNutrition/addnutrition_schedule.ctp:56
+#: Template/MembershipPayment/generate_payment_invoice.ctp:71
+#: Template/Reports/monthlyworkoutreport.ctp:52
+msgid "Select Member"
+msgstr "Valige liige"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:103
+#: Template/GymAssignWorkout/assign_workout1.ctp:82
+#: Template/GymMessage/inbox.ctp:54 Template/GymMessage/sent.ctp:43
+#: Template/GymNutrition/addnutrition_schedule.ctp:185
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:54
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:117
+#: Template/GymAssignWorkout/assign_workout1.ctp:96
+#: Template/GymMember/view_attendance.ctp:52
+#: Template/GymNotice/add_notice.ctp:89
+#: Template/GymNutrition/addnutrition_schedule.ctp:78
+#: Template/Reports/attendance_report.ctp:68
+msgid "End Date"
+msgstr "Lõppkuupäev"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:138
+#: Template/GymAssignWorkout/assign_workout1.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "Valige valitud päevadel lisatav treening"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:144
+#: Template/GymAssignWorkout/assign_workout1.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "1. samm Lisa treening"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "2. samm Salvesta treening"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Save Workout"
+msgstr "Salvesta treening"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "Start From"
+msgstr "Alusta"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "TO"
+msgstr "TO"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:194
+#: Template/GymAssignWorkout/assign_workout1.ctp:172
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:60
+#: Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:181
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:50
+msgid "Day name"
+msgstr "Päeva nimi"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "Treeningute logi"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97
+#: Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "Salvestust ei leitud"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54
+#: Template/GymAssignWorkout/workout_log.ctp:78
+#: Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:78
+msgid "Member Goal"
+msgstr "Liikme eesmärk"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67
+#: Template/GymDailyWorkout/view_workout.ctp:58
+msgid "View Workouts"
+msgstr "Vaata treeninguid"
+
+#: Template/GymAttendance/attendance.ctp:22
+#: Template/GymAttendance/staff_attendance.ctp:22
+msgid "Member Attendance"
+msgstr "Liikmete osalemine"
+
+#: Template/GymAttendance/attendance.ctp:43
+#: Template/GymAttendance/attendance.ctp:47
+#: Template/GymMessage/compose_message.ctp:62
+#: Template/GymNotice/add_notice.ctp:76 Template/Membership/add.ctp:142
+msgid "Select Class"
+msgstr "Valige klass"
+
+#: Template/GymAttendance/attendance.ctp:55
+#: Template/GymMember/view_attendance.ctp:33
+msgid "View Attendance"
+msgstr "Vaata osalemist"
+
+#: Template/GymAttendance/attendance.ctp:59
+#: Template/GymAttendance/staff_attendance.ctp:36
+msgid "Take/View Attendance"
+msgstr "Take / View osalemine"
+
+#: Template/GymAttendance/attendance.ctp:168
+#: Template/GymAttendance/staff_attendance.ctp:88
+msgid "Save Attendance"
+msgstr "Salvesta kohalolek"
+
+#: Template/GymAttendance/attendance.ctp:179
+msgid "No attendance found."
+msgstr "Külastusi ei leitud."
+
+#: Template/GymAttendance/staff_attendance.ctp:52
+msgid "Staff Attendance, Date"
+msgstr "Töötajate osavõtt, kuupäev"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:127
+#: Template/GymDailyWorkout/view_workout.ctp:34
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "Treening Daily"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:27
+#: Template/GymDailyWorkout/add_workout.ctp:130
+#: Template/GymDailyWorkout/view_workout.ctp:37
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "Treeningute nimekiri"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:56
+msgid "Result Measurement"
+msgstr "Tulemuse mõõtmine"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:60
+msgid "Select Result Measurement"
+msgstr "Valige Tulemuse mõõtmine"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:71
+msgid "Result Date"
+msgstr "Tulemuse kuupäev"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:87
+msgid "Save Measurement"
+msgstr "Salvesta mõõtmine"
+
+#: Template/GymDailyWorkout/add_workout.ctp:179
+msgid "Select Date"
+msgstr "Valige kuupäev"
+
+#: Template/GymDailyWorkout/add_workout.ctp:197
+msgid "Select Record Date For Today Workout"
+msgstr "Valige registreerimise kuupäev täna treeninguks"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57
+#: Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "Mobiil"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72
+#: Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "Vaade"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "Kuva mõõtmine"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "E-posti seadistamine"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:108
+msgid "Host"
+msgstr "Host"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "Sadam"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:95
+msgid "To"
+msgstr "Et"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "Saada testpost"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "Grupi nimi"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "Grupi pilt"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "Salvesta rühm"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "Grupi liikmed kokku"
+
+#: Template/GymMember/add_member.ctp:170 Template/GymMember/member_list.ctp:38
+#: Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "Liikmete nimekiri"
+
+#: Template/GymMember/add_member.ctp:181 Template/GymMember/member_list.ctp:57
+#: Template/GymMember/member_list.ctp:110 Template/GymMember/view_member.ctp:62
+#: Template/MemberRegistration/index.ctp:107
+msgid "Member ID"
+msgstr "Liikme ID"
+
+#: Template/GymMember/add_member.ctp:240 Template/GymMember/view_member.ctp:70
+#: Template/MemberRegistration/index.ctp:164
+msgid "Address"
+msgstr "Aadress"
+
+#: Template/GymMember/add_member.ctp:254
+msgid "State"
+msgstr "Riik"
+
+#: Template/GymMember/add_member.ctp:261
+#: Template/MemberRegistration/index.ctp:185
+msgid "Zip code"
+msgstr "Postiindeks"
+
+#: Template/GymMember/add_member.ctp:293
+msgid "Physical Information"
+msgstr "Füüsiline teave"
+
+#: Template/GymMember/add_member.ctp:323
+msgid "Thigh"
+msgstr "Reied"
+
+#: Template/GymMember/add_member.ctp:369
+#: Template/MemberRegistration/index.ctp:242
+msgid "More Information"
+msgstr "Rohkem informatsiooni"
+
+#: Template/GymMember/add_member.ctp:376 Template/GymMember/add_member.ctp:406
+msgid "Add Staff"
+msgstr "Lisa personal"
+
+#: Template/GymMember/add_member.ctp:381
+#: Template/MemberRegistration/index.ctp:245
+msgid "Interested Area"
+msgstr "Huvitatud piirkond"
+
+#: Template/GymMember/add_member.ctp:383
+#: Template/MemberRegistration/index.ctp:247
+msgid "Select Interest"
+msgstr "Valige Huvi"
+
+#: Template/GymMember/add_member.ctp:386 Template/GymMember/add_member.ctp:396
+#: Template/StaffMembers/add_staff.ctp:104
+#: Template/StaffMembers/add_staff.ctp:112
+msgid "Add/Remove"
+msgstr "Lisa / eemalda"
+
+#: Template/GymMember/add_member.ctp:391
+#: Template/MemberRegistration/index.ctp:252
+msgid "Source"
+msgstr "Allikas"
+
+#: Template/GymMember/add_member.ctp:393
+#: Template/MemberRegistration/index.ctp:254
+msgid "Select Source"
+msgstr "Valige Allikas"
+
+#: Template/GymMember/add_member.ctp:401
+msgid "Referred By"
+msgstr "Viidatud"
+
+#: Template/GymMember/add_member.ctp:411
+msgid "Inquiry Date"
+msgstr "Päringu kuupäev"
+
+#: Template/GymMember/add_member.ctp:418
+msgid "Trial End Date"
+msgstr "Katse lõppkuupäev"
+
+#: Template/GymMember/add_member.ctp:427 Template/GymMember/member_list.ctp:60
+#: Template/GymMember/member_list.ctp:113
+msgid "Member Type"
+msgstr "Liikme tüüp"
+
+#: Template/GymMember/add_member.ctp:431 Template/GymMember/add_member.ctp:465
+msgid "Prospect"
+msgstr "Prospekt"
+
+#: Template/GymMember/add_member.ctp:432
+msgid "Alumni"
+msgstr "Vilistlased"
+
+#: Template/GymMember/add_member.ctp:453
+msgid "Add Class"
+msgstr "Lisa klass"
+
+#: Template/GymMember/add_member.ctp:462 Template/GymMember/member_list.ctp:61
+#: Template/GymMember/member_list.ctp:114
+msgid "Membership Status"
+msgstr "Liikmelisuse staatus"
+
+#: Template/GymMember/add_member.ctp:466
+msgid "Continue"
+msgstr "Jätka"
+
+#: Template/GymMember/add_member.ctp:467
+msgid "Expired"
+msgstr "Aegunud"
+
+#: Template/GymMember/add_member.ctp:468
+msgid "Dropped"
+msgstr "Langenud"
+
+#: Template/GymMember/add_member.ctp:474
+#: Template/MembershipPayment/generate_payment_invoice.ctp:91
+msgid "Membership Valid From"
+msgstr "Liikmelisus kehtib alates"
+
+#: Template/GymMember/add_member.ctp:487
+msgid "First Payment Date"
+msgstr "Esimene makse kuupäev"
+
+#: Template/GymMember/add_member.ctp:495
+#: Template/MemberRegistration/index.ctp:292
+msgid "Save Member"
+msgstr "Salvesta liige"
+
+#: Template/GymMember/member_list.ctp:58 Template/GymMember/member_list.ctp:111
+msgid "Joining Date"
+msgstr "Liitumise kuupäev"
+
+#: Template/GymMember/member_list.ctp:59 Template/GymMember/member_list.ctp:112
+msgid "Expire Date"
+msgstr "Aegumiskuupäev"
+
+#: Template/GymMember/member_list.ctp:96
+msgid "Activate"
+msgstr "Aktiveeri"
+
+#: Template/GymMember/member_list.ctp:98
+msgid "Activated"
+msgstr "Aktiveeritud"
+
+#: Template/GymMember/view_attendance.ctp:37
+msgid "Member List"
+msgstr "Liikmete nimekiri"
+
+#: Template/GymMember/view_attendance.ctp:57
+#: Template/Reports/attendance_report.ctp:74
+msgid "Go"
+msgstr "Mine"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "Kuva liige"
+
+#: Template/GymMember/view_member.ctp:66
+#: Template/GymProfile/view_profile.ctp:64
+msgid "Name"
+msgstr "Nimi"
+
+#: Template/GymMember/view_member.ctp:78
+msgid "Mobile No"
+msgstr "Mobiili number"
+
+#: Template/GymMember/view_member.ctp:82
+msgid "Date Of Birth"
+msgstr "Sünnikuupäev"
+
+#: Template/GymMember/view_member.ctp:103
+msgid "Moreinfo"
+msgstr "Rohkem infot"
+
+#: Template/GymMember/view_member.ctp:107
+msgid "MemberShip"
+msgstr "Liikmelisus"
+
+#: Template/GymMember/view_member.ctp:111
+msgid "Expiry Date"
+msgstr "Aegumise kuupäev"
+
+#: Template/GymMember/view_member.ctp:115
+msgid "Classes"
+msgstr "Klassid"
+
+#: Template/GymMember/view_member.ctp:119
+msgid "Interest Area"
+msgstr "Huvipiirkond"
+
+#: Template/GymMember/view_member.ctp:133
+msgid "Groups"
+msgstr "Grupid"
+
+#: Template/GymMember/view_member.ctp:147
+msgid "Add Weight"
+msgstr "Lisa kaal"
+
+#: Template/GymMember/view_member.ctp:171
+msgid "Add Waist"
+msgstr "Lisage talje"
+
+#: Template/GymMember/view_member.ctp:197
+msgid "Add Thigh"
+msgstr "Lisa reie"
+
+#: Template/GymMember/view_member.ctp:221
+msgid "Add Arms"
+msgstr "Lisa relvad"
+
+#: Template/GymMember/view_member.ctp:247
+msgid "Add Height"
+msgstr "Lisa kõrgus"
+
+#: Template/GymMember/view_member.ctp:271
+msgid "Add Chest"
+msgstr "Lisage rindkere"
+
+#: Template/GymMember/view_member.ctp:297
+msgid "Add Fat"
+msgstr "Lisage rasv"
+
+#: Template/GymMember/view_member.ctp:321
+msgid "Add Photo"
+msgstr "Lisa foto"
+
+#: Template/GymMember/view_member.ctp:387
+#: Template/GymMember/view_member.ctp:415
+#: Template/GymSubscriptionHistory/index.ctp:43
+#: Template/GymSubscriptionHistory/index.ctp:73
+msgid "Membership Title"
+msgstr "Liikmelisuse pealkiri"
+
+#: Template/GymMember/view_member.ctp:389
+#: Template/GymMember/view_member.ctp:417
+#: Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:75
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "Tasumisele kuuluv summa"
+
+#: Template/GymMember/view_member.ctp:392
+#: Template/GymMember/view_member.ctp:420
+#: Template/GymSubscriptionHistory/index.ctp:48
+#: Template/GymSubscriptionHistory/index.ctp:78
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "Makse staatus"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "Sõnumi koostamine"
+
+#: Template/GymMessage/compose_message.ctp:25
+#: Template/GymMessage/compose_message.ctp:28 Template/GymMessage/inbox.ctp:26
+#: Template/GymMessage/inbox.ctp:30 Template/GymMessage/sent.ctp:20
+#: Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "Koosta"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "Saabunud"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "Saadetud"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "Sõnum"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "Puudub"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "Teema"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "Sõnumi kommentaar"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "Saada sõnum"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "Saabunud sõnumid"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "Sõnum alates"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "Saadetud sõnumid"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "Seadistamine"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "Sünkroonige kiri"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "MailChimp nimekiri"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "Valige loend"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "Kampaania loend"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "Valige kampaania"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "Saada Capmaign"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "Kampaania"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "MailChimp API võti"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "Postiloend"
+
+#: Template/GymNotice/add_notice.ctp:41
+msgid "Edit Notice"
+msgstr "Muuda teatist"
+
+#: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "Lisa teade"
+
+#: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "Teadete nimekiri"
+
+#: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "Teatise pealkiri"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "All"
+msgstr "Kõik"
+
+#: Template/GymNotice/add_notice.ctp:96
+msgid "Comment"
+msgstr "Kommentaar"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "Toitumise ajakava loend"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:98
+msgid "Select Nutrition to add on selected days"
+msgstr "Valige valitud päevadel lisamiseks Nutrition"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:103
+msgid "Break Fast"
+msgstr "Katkesta kiire"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:109
+msgid "Mid-Morning Snacks"
+msgstr "Hommikune suupiste"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:115
+msgid "Lunch"
+msgstr "Lõunasöök"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:120
+msgid "Afternoon Snacks"
+msgstr "Pärastlõunal suupisted"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:125
+msgid "Dinner"
+msgstr "Õhtusöök"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:129
+msgid "+ Add Nutrition"
+msgstr "+ Lisa toitumine"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+msgid "Step-2 Save"
+msgstr "2. samm Salvesta"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:184
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Time"
+msgstr "Aeg"
+
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:80
+msgid "No record found."
+msgstr "Salvestust ei leitud."
+
+#: Template/GymNutrition/nutrition_list.ctp:52
+#: Template/GymNutrition/nutrition_list.ctp:76
+msgid "Member Photo"
+msgstr "Liikme foto"
+
+#: Template/GymProduct/add_product.ctp:9
+msgid "Edit Product"
+msgstr "Muuda toodet"
+
+#: Template/GymProduct/add_product.ctp:11
+#: Template/GymProduct/product_list.ctp:37
+#: Template/GymStore/sell_product.ctp:70
+msgid "Add Product"
+msgstr "Lisa toode"
+
+#: Template/GymProduct/add_product.ctp:15
+#: Template/GymProduct/product_list.ctp:31
+msgid "Products"
+msgstr "Tooted"
+
+#: Template/GymProduct/add_product.ctp:18
+#: Template/GymProduct/product_list.ctp:30
+msgid "Product List"
+msgstr "Toote nimekiri"
+
+#: Template/GymProduct/add_product.ctp:26
+#: Template/GymProduct/product_list.ctp:47
+#: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:62
+msgid "Product Name"
+msgstr "tootenimi"
+
+#: Template/GymProduct/add_product.ctp:32
+#: Template/GymProduct/product_list.ctp:48
+#: Template/GymProduct/product_list.ctp:77
+msgid "Product Price"
+msgstr "Toote hind"
+
+#: Template/GymProduct/add_product.ctp:41
+#: Template/GymProduct/product_list.ctp:49
+#: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:64
+msgid "Product Quantity"
+msgstr "Toote kogus"
+
+#: Template/GymProfile/view_profile.ctp:51
+msgid "Account Settings"
+msgstr "Konto seaded"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "Current Password"
+msgstr "Praegune salasõna"
+
+#: Template/GymProfile/view_profile.ctp:82
+msgid "New Password"
+msgstr "uus salasõna"
+
+#: Template/GymProfile/view_profile.ctp:87 Template/Installer/index.ctp:571
+msgid "Confirm Password"
+msgstr "Kinnita salasõna"
+
+#: Template/GymProfile/view_profile.ctp:106
+msgid "Other Information"
+msgstr "Muu info"
+
+#: Template/GymReservation/add_reservation.ctp:58
+msgid "Edit Event"
+msgstr "Muuda sündmust"
+
+#: Template/GymReservation/add_reservation.ctp:60
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Add Event"
+msgstr "Lisa sündmus"
+
+#: Template/GymReservation/add_reservation.ctp:63
+msgid "Schedule"
+msgstr "Ajakava"
+
+#: Template/GymReservation/add_reservation.ctp:66
+#: Template/GymReservation/reservation_list.ctp:34
+msgid "Event List"
+msgstr "Sündmuste loend"
+
+#: Template/GymReservation/add_reservation.ctp:75
+#: Template/GymReservation/reservation_list.ctp:51
+#: Template/GymReservation/reservation_list.ctp:83
+msgid "Event Name"
+msgstr "Sündmuse nimi"
+
+#: Template/GymReservation/add_reservation.ctp:82
+#: Template/GymReservation/reservation_list.ctp:52
+#: Template/GymReservation/reservation_list.ctp:84
+msgid "Event Date"
+msgstr "Sündmuse kuupäev"
+
+#: Template/GymReservation/add_reservation.ctp:89
+msgid "Event Place"
+msgstr "Sündmuste koht"
+
+#: Template/GymReservation/add_reservation.ctp:91
+msgid "Select Event Places"
+msgstr "Valige sündmuste kohad"
+
+#: Template/GymReservation/add_reservation.ctp:94
+msgid "Add or Remove"
+msgstr "Lisa või eemalda"
+
+#: Template/GymReservation/reservation_list.ctp:53
+#: Template/GymReservation/reservation_list.ctp:85
+msgid "Place"
+msgstr "Koht"
+
+#: Template/GymStore/sell_product.ctp:29
+msgid "Edit Sell Product"
+msgstr "Muuda müüa toodet"
+
+#: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
+msgid "Add Sell Product"
+msgstr "Lisa müüa toode"
+
+#: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "Müü rekordid"
+
+#: Template/GymStore/sell_product.ctp:63
+msgid "Select Product"
+msgstr "Valige toode"
+
+#: Template/GymStore/sell_product.ctp:75
+msgid "Quantity"
+msgstr "Kogus"
+
+#: Template/Installer/index.ctp:10 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "Spordisaali Master - GYM haldamise installiviisard"
+
+#: Template/Installer/index.ctp:16 Template/Installer/index.ctp:18
+msgid "Server Requirements"
+msgstr "Serveri nõuded"
+
+#: Template/Installer/index.ctp:79 Template/Installer/index.ctp:81
+msgid "Database Setup"
+msgstr "Andmebaasi seadistamine"
+
+#: Template/Installer/index.ctp:84
+msgid "Database Name"
+msgstr "Andmebaasi nimi"
+
+#: Template/Installer/index.ctp:92
+msgid "Database Username"
+msgstr "Andmebaasi kasutajanimi"
+
+#: Template/Installer/index.ctp:100
+msgid "Database Password"
+msgstr "Andmebaasi parool"
+
+#: Template/Installer/index.ctp:116 Template/Installer/index.ctp:546
+msgid "Fields are required."
+msgstr "Väljad on vajalikud."
+
+#: Template/Installer/index.ctp:119 Template/Installer/index.ctp:121
+msgid "System Setting"
+msgstr "Süsteemi seadistamine"
+
+#: Template/Installer/index.ctp:124
+msgid "System Name"
+msgstr "Süsteemi nimi"
+
+#: Template/Installer/index.ctp:472
+msgid "Date Formate"
+msgstr "Kuupäev Formate"
+
+#: Template/Installer/index.ctp:483
+msgid "Calendar Language"
+msgstr "Kalendri keel"
+
+#: Template/Installer/index.ctp:549 Template/Installer/index.ctp:551
+msgid "Login Details"
+msgstr "Sisselogimise üksikasjad"
+
+#: Template/Installer/index.ctp:579
+msgid "Finish"
+msgstr "Lõpetama"
+
+#: Template/Installer/index.ctp:581
+msgid "Please Note :"
+msgstr "Pane tähele :"
+
+#: Template/Installer/index.ctp:584
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. Andmebaasi seadistamine võib võtta paar minutit."
+
+#: Template/Installer/index.ctp:587
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. Ärge värskendage lehekülge pärast klõpsamist installimisnupule."
+
+#: Template/Installer/index.ctp:590
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3. Teid kinnitatakse edukalt pärast paigaldamist."
+
+#: Template/Installer/index.ctp:593
+msgid "4. Click on install to complete the installation."
+msgstr "4. Installi lõpuleviimiseks klõpsake installil."
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "Õnnitleme"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "Paigaldus lõpetati edukalt"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "Klõpsake nuppu"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "sisselogimise lehel."
+
+#: Template/MemberRegistration/index.ctp:97 Template/Users/login.ctp:24
+msgid "Member Registration"
+msgstr "Liikmete registreerimine"
+
+#: Template/MemberRegistration/index.ctp:178
+msgid "state"
+msgstr "olekus"
+
+#: Template/MemberRegistration/index.ctp:273
+msgid "Select Joining Date"
+msgstr "Valige Liitumise kuupäev"
+
+#: Template/MemberRegistration/index.ctp:295
+msgid "Go Back"
+msgstr "Mine tagasi"
+
+#: Template/Membership/add.ctp:69 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:36
+#: Template/Membership/view_activity.ctp:44
+msgid "Membership List"
+msgstr "Liikmete nimekiri"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "Liikmelisuse kategooria"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:55
+#: Template/Membership/membership_list.ctp:103
+msgid "Membership Period"
+msgstr "Liikmelisuse periood"
+
+#: Template/Membership/add.ctp:101
+msgid "No. of Days"
+msgstr "Päevade arv"
+
+#: Template/Membership/add.ctp:108 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "Liikmelisuse piir"
+
+#: Template/Membership/add.ctp:110
+msgid "Limited"
+msgstr "Piiratud"
+
+#: Template/Membership/add.ctp:111
+msgid "Unlimited"
+msgstr "Piiramatu"
+
+#: Template/Membership/add.ctp:114
+msgid "no. of classes"
+msgstr "ei. klassi"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every week"
+msgstr "Klass igal nädalal"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every month"
+msgstr "Klass iga kuu"
+
+#: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "Liikmelisus"
+
+#: Template/Membership/add.ctp:150 Template/Membership/membership_list.ctp:56
+#: Template/Membership/membership_list.ctp:104
+msgid "Installment Plan"
+msgstr "Osamaksete kava"
+
+#: Template/Membership/add.ctp:156 Template/Membership/edit_membership.ctp:56
+msgid "Select Installment Plan"
+msgstr "Valige järelmaksu kava"
+
+#: Template/Membership/add.ctp:161 Template/Membership/edit_membership.ctp:62
+msgid "Add Installment Plan"
+msgstr "Lisa järelmaksu kava"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "Registreerimistasu"
+
+#: Template/Membership/add.ctp:177 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "Liikmesuse kirjeldus"
+
+#: Template/Membership/add.ctp:184 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "Liikmelisuse pilt"
+
+#: Template/Membership/add.ctp:198
+msgid "Save Membership"
+msgstr "Salvesta liikmelisus"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Installment Amount"
+msgstr "Osamakse summa"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Installment Period"
+msgstr "Osamakse periood"
+
+#: Template/Membership/membership_list.ctp:57
+#: Template/Membership/membership_list.ctp:105
+msgid "SignUp Fee"
+msgstr "SignUp'i tasu"
+
+#: Template/Membership/membership_list.ctp:91
+msgid "Activities"
+msgstr "Tegevused"
+
+#: Template/Membership/view_activity.ctp:41
+msgid "View Activity"
+msgstr "Kuva aktiivsus"
+
+#: Template/Membership/view_activity.ctp:56
+msgid "Select Activity"
+msgstr "Valige aktiivsus"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+msgid "Edit Expense"
+msgstr "Muuda kulu"
+
+#: Template/MembershipPayment/add_expense.ctp:19
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "Lisage kulu"
+
+#: Template/MembershipPayment/add_expense.ctp:25
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "Kulude nimekiri"
+
+#: Template/MembershipPayment/add_expense.ctp:34
+#: Template/MembershipPayment/expense_list.ctp:39
+#: Template/MembershipPayment/expense_list.ctp:67
+msgid "Supplier Name"
+msgstr "Tarnija nimi"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Paid"
+msgstr "Tasutud"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Part Paid"
+msgstr "Makstud osa"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Unpaid"
+msgstr "Tasustamata"
+
+#: Template/MembershipPayment/add_expense.ctp:61
+#: Template/MembershipPayment/add_expense.ctp:83
+msgid "Expense Entry"
+msgstr "Kulude sisestamine"
+
+#: Template/MembershipPayment/add_expense.ctp:63
+#: Template/MembershipPayment/add_expense.ctp:85
+msgid "Expense Amount"
+msgstr "Kulude summa"
+
+#: Template/MembershipPayment/add_expense.ctp:66
+#: Template/MembershipPayment/add_expense.ctp:88
+msgid "Expense Entry Label"
+msgstr "Kulude sisenemise märgis"
+
+#: Template/MembershipPayment/add_expense.ctp:103
+msgid "Add Expense Entry"
+msgstr "Lisa kulu kirjet"
+
+#: Template/MembershipPayment/add_expense.ctp:108
+msgid "Create Expense Entry"
+msgstr "Loo kulu kirje"
+
+#: Template/MembershipPayment/add_income.ctp:25
+msgid "Edit Income"
+msgstr "Muuda tulu"
+
+#: Template/MembershipPayment/add_income.ctp:27
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "Lisage tulu"
+
+#: Template/MembershipPayment/add_income.ctp:34
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "Tulude nimekiri"
+
+#: Template/MembershipPayment/add_income.ctp:41
+msgid "income"
+msgstr "tulu"
+
+#: Template/MembershipPayment/add_income.ctp:49
+msgid "Income label"
+msgstr "Tulude märgistus"
+
+#: Template/MembershipPayment/add_income.ctp:60
+msgid "Select Status"
+msgstr "Valige Olek"
+
+#: Template/MembershipPayment/add_income.ctp:76
+#: Template/MembershipPayment/add_income.ctp:98
+msgid "Income Entry"
+msgstr "Tulude kandmine"
+
+#: Template/MembershipPayment/add_income.ctp:78
+#: Template/MembershipPayment/add_income.ctp:100
+msgid "Income Amount"
+msgstr "Tulu summa"
+
+#: Template/MembershipPayment/add_income.ctp:81
+#: Template/MembershipPayment/add_income.ctp:103
+msgid "Income Entry Label"
+msgstr "Tulude sisenemise märgis"
+
+#: Template/MembershipPayment/add_income.ctp:118
+msgid "Add Income Entry"
+msgstr "Lisage sissetulekute sissekanne"
+
+#: Template/MembershipPayment/add_income.ctp:123
+msgid "Create Income Entry"
+msgstr "Looge sissetuleku sissekanne"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "Loo maksekonto"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:53
+msgid "Membership Payment List"
+msgstr "Liikmemaksete nimekiri"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:82
+msgid "Total Amount"
+msgstr "Kogu summa"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:102
+msgid "save_membership_payment"
+msgstr "save_membership_payment"
+
+#: Template/MembershipPayment/payment_list.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "Pealkiri"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "Maksma"
+
+#: Template/Reports/attendance_report.ctp:46
+#: Template/Reports/membership_report.ctp:17
+#: Template/Reports/membership_status_report.ctp:19
+#: Template/Reports/monthlyworkoutreport.ctp:29
+#: Template/Reports/payment_report.ctp:17
+msgid "Attendance Report"
+msgstr "Osalemise aruanne"
+
+#: Template/Reports/attendance_report.ctp:47
+#: Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/monthlyworkoutreport.ctp:17
+#: Template/Reports/payment_report.ctp:14
+msgid "Reports"
+msgstr "Aruanded"
+
+#: Template/Reports/attendance_report.ctp:50
+#: Template/Reports/membership_report.ctp:30
+#: Template/Reports/membership_status_report.ctp:17
+msgid "Membership Report"
+msgstr "Liikmesuse aruanne"
+
+#: Template/Reports/attendance_report.ctp:52
+#: Template/Reports/membership_report.ctp:19
+#: Template/Reports/membership_status_report.ctp:13
+#: Template/Reports/monthlyworkoutreport.ctp:31
+#: Template/Reports/payment_report.ctp:19
+msgid "Membership Status Report"
+msgstr "Liikmestaatuse aruanne"
+
+#: Template/Reports/attendance_report.ctp:54
+#: Template/Reports/membership_report.ctp:21
+#: Template/Reports/membership_status_report.ctp:21
+#: Template/Reports/monthlyworkoutreport.ctp:33
+#: Template/Reports/payment_report.ctp:21
+msgid "Payment Report"
+msgstr "Maksearuanne"
+
+#: Template/Reports/attendance_report.ctp:55
+#: Template/Reports/membership_report.ctp:22
+#: Template/Reports/membership_status_report.ctp:22
+#: Template/Reports/monthlyworkoutreport.ctp:16
+#: Template/Reports/monthlyworkoutreport.ctp:24
+#: Template/Reports/monthlyworkoutreport.ctp:34
+#: Template/Reports/payment_report.ctp:22
+msgid "Members Monthly Workout Report"
+msgstr "Liikmete igakuine treeningaruanne"
+
+#: Template/Reports/attendance_report.ctp:63
+msgid "Strat Date"
+msgstr "Strat Kuupäev"
+
+#: Template/Reports/attendance_report.ctp:119
+#: Template/Reports/membership_report.ctp:61
+#: Template/Reports/membership_status_report.ctp:41
+#: Template/Reports/payment_report.ctp:66
+msgid "There is not enough data to generate report."
+msgstr "Aruande loomiseks pole piisavalt andmeid."
+
+#: Template/Reports/membership_report.ctp:13
+#: Template/Reports/payment_report.ctp:13
+msgid "Membership report"
+msgstr "Liikmesuse aruanne"
+
+#: Template/Reports/membership_status_report.ctp:30
+msgid "Membership by status"
+msgstr "Liikmelisus staatuse järgi"
+
+#: Template/Reports/monthlyworkoutreport.ctp:63
+msgid "GO"
+msgstr "Mine"
+
+#: Template/Reports/monthlyworkoutreport.ctp:77
+msgid "Workout Date"
+msgstr "Treeningu kuupäev"
+
+#: Template/Reports/monthlyworkoutreport.ctp:78
+msgid "Workout Name"
+msgstr "Treeningu nimi"
+
+#: Template/Reports/monthlyworkoutreport.ctp:125
+msgid "Download"
+msgstr "Lae alla"
+
+#: Template/Reports/monthlyworkoutreport.ctp:132
+msgid "No Workout Found."
+msgstr "Treeningut ei leitud."
+
+#: Template/Reports/payment_report.ctp:30
+msgid "Fee Payment Report By Month"
+msgstr "Tasu maksmise aruanne kuu järgi"
+
+#: Template/StaffMembers/add_staff.ctp:50
+#: Template/StaffMembers/staff_list.ctp:30
+msgid "Staff Member List"
+msgstr "Töötajate nimekiri"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Assign Role"
+msgstr "Määrake roll"
+
+#: Template/StaffMembers/add_staff.ctp:101
+msgid "Select Role"
+msgstr "Valige roll"
+
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Specialization"
+msgstr "Spetsialiseerumine"
+
+#: Template/StaffMembers/add_staff.ctp:182
+msgid "Save Staff"
+msgstr "Salvesta personal"
+
+#: Template/StaffMembers/staff_list.ctp:48
+#: Template/StaffMembers/staff_list.ctp:81
+msgid "Staff Member Name"
+msgstr "Töötaja nimi"
+
+#: Template/StaffMembers/staff_list.ctp:49
+#: Template/StaffMembers/staff_list.ctp:82
+msgid "Role"
+msgstr "Roll"
+
+#: Template/StaffMembers/staff_list.ctp:50
+#: Template/StaffMembers/staff_list.ctp:83
+msgid "Staff Member Email"
+msgstr "Töötajate e-post"
+
+#: Template/Users/login.ctp:16
+msgid "Logging you in"
+msgstr "Sisselogimine"
+
+#: Template/Users/login.ctp:23
+msgid "Login"
+msgstr "Logi sisse"
+
+#: custom
+msgid "Class Booking"
+msgstr "Klasside broneerimine"
+
+#: custom
+msgid "Class Booking List"
+msgstr "Klasside broneerimise nimekiri"
+
+#: custom
+msgid "Add Class Booking"
+msgstr "Lisage klassi broneerimine"
+
+#: custom
+msgid "Booking Date"
+msgstr "Broneerimise kuupäev"
+
+#: custom
+msgid "Booking Day"
+msgstr "Broneerimise päev"
+
+#: custom
+msgid "Add Booking Class"
+msgstr "Lisage broneeringuklass"
+
+#: custom
+msgid "Edit Booking Class"
+msgstr "Redigeerige broneeringuklassi"
+
+#: custom
+msgid "Save Booking"
+msgstr "Salvesta broneering"
+
+#: custom
+msgid "Add Youtube Embaded Link"
+msgstr "Lisage Youtube'i emaileeritud link"
+
+#: custom
+msgid "Add More"
+msgstr "Lisage veel"
+
+#: custom
+msgid "No Any Video"
+msgstr "Pole ühtegi videot"
+
+#: custom
+msgid "Export"
+msgstr "Ekspordi"
+
+#: custom
+msgid "Import"
+msgstr "Import"
+
+#: custom
+msgid "Side Menu Color"
+msgstr "Külgmenüü värv"
+
+#: custom
+msgid "Header Color"
+msgstr "Päise värv"
+
+#: custom
+msgid "Theme Setting"
+msgstr "Teema seadistamine"
+
+#: custom
+msgid "Sample Download"
+msgstr "Proovi allalaadimine"
+
+#: custom
+msgid "Membership Report List"
+msgstr "Liikmelisuse aruande nimekiri"
+
+#: custom
+msgid "Payment Report List"
+msgstr "Maksearuannete loend"
+
+#: custom
+msgid "Attendance Report List"
+msgstr "Osalemisaruannete loetelu"
+
+#: custom
+msgid "Total Member"
+msgstr "Kogu liige"
+
+#: custom
+msgid "Attendance Date"
+msgstr "Osalemise kuupäev"
+
+#: custom
+msgid "Number Of Member"
+msgstr "Liikmete arv"
+
+#: custom
+msgid "Stripe Setting"
+msgstr "Triibuseade"
+
+#: custom
+msgid "Secret Key"
+msgstr "Salajane võti"
+
+#: custom
+msgid "Publishable Key"
+msgstr "Avaldatav võti"
+
+#: custom
+msgid "Class Booking Fees"
+msgstr "Klasside broneerimistasud"
+
+#: custom
+msgid "Booking Type"
+msgstr "Broneerimise tüüp"
+
+#: custom
+msgid "Booking Detail"
+msgstr "Broneerimise üksikasjad"
+
+#: custom
+msgid "Zipcode"
+msgstr "Postiindeks"
+
+#: custom
+msgid "Full Name"
+msgstr "Täisnimi"
+
+#: custom
+msgid "Class Information"
+msgstr "Klasside teave"
+
+#: custom
+msgid "Select Booking Type"
+msgstr "Valige Broneerimise tüüp"
+
+#: custom
+msgid "Demo"
+msgstr "Demo"
+
+#: custom
+msgid "Paid Booking"
+msgstr "Tasuline broneerimine"
+
+#: custom
+msgid "Error! This class is already enjoy by you, now you can not book this class as demo."
+msgstr "Viga! See klass on juba teile meeldiv, nüüd ei saa te seda klassi demoks broneerida."
+
+#: custom
+msgid "Error! Please Fill All Information."
+msgstr "Viga! Palun täitke kogu teave."

@@ -1,0 +1,118 @@
+body {
+	    font-family: "Roboto", sans-serif !important;
+}
+
+body,html{
+		/* font-family:"Roboto", sans-serif; */
+		//background-color:#c5c5c5;
+		 background: rgba(0, 0, 0, 0) url("../../webroot/img/login/login-bg2.png") repeat scroll 0 0 / cover ;
+		//background-position: top center;
+		//background-repeat: repeat;	 
+	}
+	.step-content{		
+		margin-top: 1%;
+		margin-left: auto;
+		margin-right: auto;
+		width:70%;
+		background: url('../../webroot/img/footer_stripes_bg.png');
+		background-position: top center;
+		background-repeat: repeat;
+	}
+	
+	.pg-header{
+		position : relative;
+		height: 50px;
+		background :#1DB198;
+	}
+	
+	.install_title{
+		position: absolute;
+		left: 32%;
+		height: 41px;
+		top: 0;
+		line-height: 2em;
+		padding-right: 35px;
+		padding-left: 35px;
+		/* background: #F6FEFF; */
+		color: #fff;
+		border-radius: 5px;
+	}
+	.wizard{
+		margin-top: -13px;
+	}
+	.wizard > .content {		
+		/* background: #f6feff; */
+		background : url("../../webroot/img/body_bg.png");
+		background-repeat : repeat;
+		min-height: 31em;
+		margin-left : 0;
+		margin-right : 0 ;
+		margin-top : 0 ;
+	}
+	.wizard > .steps {
+		margin-top: 0.5em;
+	}
+	.wizard > .steps .disabled a{
+		border:1px solid #a2a2a2;
+	}
+	.wizard > .actions .disabled a, .wizard > .actions .disabled a:hover, .wizard > .actions .disabled a:active{
+		/* background:#f6feff; */
+		background : url("../../webroot/img/body_bg.png");
+		background-repeat : repeat;
+	}
+	.wizard > .steps .current a, .wizard > .steps .current a:hover, .wizard > .steps .current a:active{
+		/* background:#1DB198; */
+		background :#1AA089;
+	}
+	.wizard > .steps .done a, .wizard > .steps .done a:hover, .wizard > .steps .done a:active {
+		/* background: #88dacc; */
+		background :#1AA089;
+		color: #fff;
+	}
+	.wizard > .actions a, .wizard > .actions a:hover, .wizard > .actions a:active {
+		/* background: #1DB198; */
+		background :#1AA089;
+		color: #fff;
+		display: block;
+		padding: 0.5em 1em;
+		text-decoration: none;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+	p {
+		color: #464F5C;/*#005244;*/
+	}
+	
+hr {
+   border: 0;
+   border-top: 1px solid #dedede;
+}
+/* .sussessmsg{
+	width:100%;
+	float:left;
+	height:500px;
+}
+.sussessmsg .msg{
+	margin:auto 0;
+} */
+
+/* .actions.clearfix a {
+    background: #ff0000 none repeat scroll 0 0;
+} */
+.msg{
+	font-size : 0px;
+	width : 60px;
+	height : 0px;
+}
+.suc , .des{
+	width: 60px;
+	position : absolute;
+	
+}
+table tr{
+	height : 50px;
+}
+#mbstring-error,#version-error,#intl-error{
+	font-size : 0px;
+}

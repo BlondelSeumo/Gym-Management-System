@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ## SOURCE: xe.com
+-->
+<currency-symbol count="115">
+  <entry code="ALL" unicode-decimal="76, 101, 107" unicode-hex="4c, 65, 6b">Albania Lek</entry>
+  <entry code="AFN" unicode-decimal="1547" unicode-hex="60b">Afghanistan Afghani</entry>
+  <entry code="ARS" unicode-decimal="36" unicode-hex="24">Argentina Peso</entry>
+  <entry code="AWG" unicode-decimal="402" unicode-hex="192">Aruba Guilder</entry>
+  <entry code="AUD" unicode-decimal="36" unicode-hex="24">Australia Dollar</entry>
+  <entry code="AZN" unicode-decimal="1084, 1072, 1085" unicode-hex="43c, 430, 43d">Azerbaijan New Manat</entry>
+  <entry code="BSD" unicode-decimal="36" unicode-hex="24">Bahamas Dollar</entry>
+  <entry code="BBD" unicode-decimal="36" unicode-hex="24">Barbados Dollar</entry>
+  <entry code="BYR" unicode-decimal="112, 46" unicode-hex="70, 2e">Belarus Ruble</entry>
+  <entry code="BZD" unicode-decimal="66, 90, 36" unicode-hex="42, 5a, 24">Belize Dollar</entry>
+  <entry code="BMD" unicode-decimal="36" unicode-hex="24">Bermuda Dollar</entry>
+  <entry code="BOB" unicode-decimal="36, 98" unicode-hex="24, 62">Bolivia Boliviano</entry>
+  <entry code="BAM" unicode-decimal="75, 77" unicode-hex="4b, 4d">Bosnia and Herzegovina Convertible Marka</entry>
+  <entry code="BWP" unicode-decimal="80" unicode-hex="50">Botswana Pula</entry>
+  <entry code="BGN" unicode-decimal="1083, 1074" unicode-hex="43b, 432">Bulgaria Lev</entry>
+  <entry code="BRL" unicode-decimal="82, 36" unicode-hex="52, 24">Brazil Real</entry>
+  <entry code="BND" unicode-decimal="36" unicode-hex="24">Brunei Darussalam Dollar</entry>
+  <entry code="KHR" unicode-decimal="6107" unicode-hex="17db">Cambodia Riel</entry>
+  <entry code="CAD" unicode-decimal="36" unicode-hex="24">Canada Dollar</entry>
+  <entry code="KYD" unicode-decimal="36" unicode-hex="24">Cayman Islands Dollar</entry>
+  <entry code="CLP" unicode-decimal="36" unicode-hex="24">Chile Peso</entry>
+  <entry code="CNY" unicode-decimal="165" unicode-hex="a5">China Yuan Renminbi</entry>
+  <entry code="COP" unicode-decimal="36" unicode-hex="24">Colombia Peso</entry>
+  <entry code="CRC" unicode-decimal="8353" unicode-hex="20a1">Costa Rica Colon</entry>
+  <entry code="HRK" unicode-decimal="107, 110" unicode-hex="6b, 6e">Croatia Kuna</entry>
+  <entry code="CUP" unicode-decimal="8369" unicode-hex="20b1">Cuba Peso</entry>
+  <entry code="CZK" unicode-decimal="75, 269" unicode-hex="4b, 10d">Czech Republic Koruna</entry>
+  <entry code="DKK" unicode-decimal="107, 114" unicode-hex="6b, 72">Denmark Krone</entry>
+  <entry code="DOP" unicode-decimal="82, 68, 36" unicode-hex="52, 44, 24">Dominican Republic Peso</entry>
+  <entry code="XCD" unicode-decimal="36" unicode-hex="24">East Caribbean Dollar</entry>
+  <entry code="EGP" unicode-decimal="163" unicode-hex="a3">Egypt Pound</entry>
+  <entry code="SVC" unicode-decimal="36" unicode-hex="24">El Salvador Colon</entry>
+  <entry code="EEK" unicode-decimal="107, 114" unicode-hex="6b, 72">Estonia Kroon</entry>
+  <entry code="EUR" unicode-decimal="8364" unicode-hex="20ac">Euro Member Countries</entry>
+  <entry code="FKP" unicode-decimal="163" unicode-hex="a3">Falkland Islands (Malvinas) Pound</entry>
+  <entry code="FJD" unicode-decimal="36" unicode-hex="24">Fiji Dollar</entry>
+  <entry code="GHC" unicode-decimal="162" unicode-hex="a2">Ghana Cedis</entry>
+  <entry code="GIP" unicode-decimal="163" unicode-hex="a3">Gibraltar Pound</entry>
+  <entry code="GTQ" unicode-decimal="81" unicode-hex="51">Guatemala Quetzal</entry>
+  <entry code="GGP" unicode-decimal="163" unicode-hex="a3">Guernsey Pound</entry>
+  <entry code="GYD" unicode-decimal="36" unicode-hex="24">Guyana Dollar</entry>
+  <entry code="HNL" unicode-decimal="76" unicode-hex="4c">Honduras Lempira</entry>
+  <entry code="HKD" unicode-decimal="36" unicode-hex="24">Hong Kong Dollar</entry>
+  <entry code="HUF" unicode-decimal="70, 116" unicode-hex="46, 74">Hungary Forint</entry>
+  <entry code="ISK" unicode-decimal="107, 114" unicode-hex="6b, 72">Iceland Krona</entry>
+  <entry code="INR" unicode-decimal="" unicode-hex="">India Rupee</entry>
+  <entry code="IDR" unicode-decimal="82, 112" unicode-hex="52, 70">Indonesia Rupiah</entry>
+  <entry code="IRR" unicode-decimal="65020" unicode-hex="fdfc">Iran Rial</entry>
+  <entry code="IMP" unicode-decimal="163" unicode-hex="a3">Isle of Man Pound</entry>
+  <entry code="ILS" unicode-decimal="8362" unicode-hex="20aa">Israel Shekel</entry>
+  <entry code="JMD" unicode-decimal="74, 36" unicode-hex="4a, 24">Jamaica Dollar</entry>
+  <entry code="JPY" unicode-decimal="165" unicode-hex="a5">Japan Yen</entry>
+  <entry code="JEP" unicode-decimal="163" unicode-hex="a3">Jersey Pound</entry>
+  <entry code="KZT" unicode-decimal="1083, 1074" unicode-hex="43b, 432">Kazakhstan Tenge</entry>
+  <entry code="KPW" unicode-decimal="8361" unicode-hex="20a9">Korea (North) Won</entry>
+  <entry code="KRW" unicode-decimal="8361" unicode-hex="20a9">Korea (South) Won</entry>
+  <entry code="KGS" unicode-decimal="1083, 1074" unicode-hex="43b, 432">Kyrgyzstan Som</entry>
+  <entry code="LAK" unicode-decimal="8365" unicode-hex="20ad">Laos Kip</entry>
+  <entry code="LVL" unicode-decimal="76, 115" unicode-hex="4c, 73">Latvia Lat</entry>
+  <entry code="LBP" unicode-decimal="163" unicode-hex="a3">Lebanon Pound</entry>
+  <entry code="LRD" unicode-decimal="36" unicode-hex="24">Liberia Dollar</entry>
+  <entry code="LTL" unicode-decimal="76, 116" unicode-hex="4c, 74">Lithuania Litas</entry>
+  <entry code="MKD" unicode-decimal="1076, 1077, 1085" unicode-hex="434, 435, 43d">Macedonia Denar</entry>
+  <entry code="MYR" unicode-decimal="82, 77" unicode-hex="52, 4d">Malaysia Ringgit</entry>
+  <entry code="MUR" unicode-decimal="8360" unicode-hex="20a8">Mauritius Rupee</entry>
+  <entry code="MXN" unicode-decimal="36" unicode-hex="24">Mexico Peso</entry>
+  <entry code="MNT" unicode-decimal="8366" unicode-hex="20ae">Mongolia Tughrik</entry>
+  <entry code="MZN" unicode-decimal="77, 84" unicode-hex="4d, 54">Mozambique Metical</entry>
+  <entry code="NAD" unicode-decimal="36" unicode-hex="24">Namibia Dollar</entry>
+  <entry code="NPR" unicode-decimal="8360" unicode-hex="20a8">Nepal Rupee</entry>
+  <entry code="ANG" unicode-decimal="402" unicode-hex="192">Netherlands Antilles Guilder</entry>
+  <entry code="NZD" unicode-decimal="36" unicode-hex="24">New Zealand Dollar</entry>
+  <entry code="NIO" unicode-decimal="67, 36" unicode-hex="43, 24">Nicaragua Cordoba</entry>
+  <entry code="NGN" unicode-decimal="8358" unicode-hex="20a6">Nigeria Naira</entry>
+  <entry code="KPW" unicode-decimal="8361" unicode-hex="20a9">Korea (North) Won</entry>
+  <entry code="NOK" unicode-decimal="107, 114" unicode-hex="6b, 72">Norway Krone</entry>
+  <entry code="OMR" unicode-decimal="65020" unicode-hex="fdfc">Oman Rial</entry>
+  <entry code="PKR" unicode-decimal="8360" unicode-hex="20a8">Pakistan Rupee</entry>
+  <entry code="PAB" unicode-decimal="66, 47, 46" unicode-hex="42, 2f, 2e">Panama Balboa</entry>
+  <entry code="PYG" unicode-decimal="71, 115" unicode-hex="47, 73">Paraguay Guarani</entry>
+  <entry code="PEN" unicode-decimal="83, 47, 46" unicode-hex="53, 2f, 2e">Peru Nuevo Sol</entry>
+  <entry code="PHP" unicode-decimal="8369" unicode-hex="20b1">Philippines Peso</entry>
+  <entry code="PLN" unicode-decimal="122, 322" unicode-hex="7a, 142">Poland Zloty</entry>
+  <entry code="QAR" unicode-decimal="65020" unicode-hex="fdfc">Qatar Riyal</entry>
+  <entry code="RON" unicode-decimal="108, 101, 105" unicode-hex="6c, 65, 69">Romania New Leu</entry>
+  <entry code="RUB" unicode-decimal="1088, 1091, 1073" unicode-hex="440, 443, 431">Russia Ruble</entry>
+  <entry code="SHP" unicode-decimal="163" unicode-hex="a3">Saint Helena Pound</entry>
+  <entry code="SAR" unicode-decimal="65020" unicode-hex="fdfc">Saudi Arabia Riyal</entry>
+  <entry code="RSD" unicode-decimal="1044, 1080, 1085, 46" unicode-hex="414, 438, 43d, 2e">Serbia Dinar</entry>
+  <entry code="SCR" unicode-decimal="8360" unicode-hex="20a8">Seychelles Rupee</entry>
+  <entry code="SGD" unicode-decimal="36" unicode-hex="24">Singapore Dollar</entry>
+  <entry code="SBD" unicode-decimal="36" unicode-hex="24">Solomon Islands Dollar</entry>
+  <entry code="SOS" unicode-decimal="83" unicode-hex="53">Somalia Shilling</entry>
+  <entry code="ZAR" unicode-decimal="82" unicode-hex="52">South Africa Rand</entry>
+  <entry code="KRW" unicode-decimal="8361" unicode-hex="20a9">Korea (South) Won</entry>
+  <entry code="LKR" unicode-decimal="8360" unicode-hex="20a8">Sri Lanka Rupee</entry>
+  <entry code="SEK" unicode-decimal="107, 114" unicode-hex="6b, 72">Sweden Krona</entry>
+  <entry code="CHF" unicode-decimal="67, 72, 70" unicode-hex="43, 48, 46">Switzerland Franc</entry>
+  <entry code="SRD" unicode-decimal="36" unicode-hex="24">Suriname Dollar</entry>
+  <entry code="SYP" unicode-decimal="163" unicode-hex="a3">Syria Pound</entry>
+  <entry code="TWD" unicode-decimal="78, 84, 36" unicode-hex="4e, 54, 24">Taiwan New Dollar</entry>
+  <entry code="THB" unicode-decimal="3647" unicode-hex="e3f">Thailand Baht</entry>
+  <entry code="TTD" unicode-decimal="84, 84, 36" unicode-hex="54, 54, 24">Trinidad and Tobago Dollar</entry>
+  <entry code="TRY" unicode-decimal="" unicode-hex="">Turkey Lira</entry>
+  <entry code="TRL" unicode-decimal="8356" unicode-hex="20a4">Turkey Lira</entry>
+  <entry code="TVD" unicode-decimal="36" unicode-hex="24">Tuvalu Dollar</entry>
+  <entry code="UAH" unicode-decimal="8372" unicode-hex="20b4">Ukraine Hryvna</entry>
+  <entry code="GBP" unicode-decimal="163" unicode-hex="a3">United Kingdom Pound</entry>
+  <entry code="USD" unicode-decimal="36" unicode-hex="24">United States Dollar</entry>
+  <entry code="UYU" unicode-decimal="36, 85" unicode-hex="24, 55">Uruguay Peso</entry>
+  <entry code="UZS" unicode-decimal="1083, 1074" unicode-hex="43b, 432">Uzbekistan Som</entry>
+  <entry code="VEF" unicode-decimal="66, 115" unicode-hex="42, 73">Venezuela Bolivar</entry>
+  <entry code="VND" unicode-decimal="8363" unicode-hex="20ab">Viet Nam Dong</entry>
+  <entry code="YER" unicode-decimal="65020" unicode-hex="fdfc">Yemen Rial</entry>
+  <entry code="ZWD" unicode-decimal="90, 36" unicode-hex="5a, 24">Zimbabwe Dollar</entry>
+</currency-symbol>

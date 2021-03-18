@@ -1,0 +1,3349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GYM - Master\n"
+"POT-Creation-Date: 2019-02-18 17:47+0530\n"
+"PO-Revision-Date: 2020-06-10 00:21+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:37
+#: Template/Membership/view_activity.ctp:62
+msgid "Add Activity"
+msgstr "アクティビティを追加"
+
+#: Controller/ActivityController.php:72 Controller/GymDailyWorkoutController.php:91
+#: Controller/GymDailyWorkoutController.php:194
+#: Controller/GymDailyWorkoutController.php:275 Controller/GymMemberController.php:135
+#: Controller/GymProductController.php:28 Controller/GymStoreController.php:45
+#: Controller/MembershipPaymentController.php:201
+#: Controller/MembershipPaymentController.php:342
+msgid "Success! Record Saved Successfully."
+msgstr "成功！レコードは正常に保存されました。"
+
+#: Controller/ActivityController.php:83 Controller/GymGroupController.php:89
+#: Controller/GymReservationController.php:79
+msgid "Success! Record Deleted Successfully"
+msgstr "成功！正常に削除されたレコード"
+
+#: Controller/ActivityController.php:91
+msgid "Edit Activity"
+msgstr "アクティビティを編集"
+
+#: Controller/ActivityController.php:137 Controller/GymAccountantController.php:90
+#: Controller/GymDailyWorkoutController.php:223
+#: Controller/GymDailyWorkoutController.php:436 Controller/GymMemberController.php:286
+#: Controller/GymProductController.php:46 Controller/GymStoreController.php:89
+#: Controller/MembershipPaymentController.php:155
+#: Controller/MembershipPaymentController.php:246
+#: Controller/MembershipPaymentController.php:368 Controller/StaffMembersController.php:105
+msgid "Success! Record Updated Successfully."
+msgstr "成功！レコードは正常に更新されました。"
+
+#: Controller/AdminProfileController.php:55
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "成功！保存に成功しました。変更を確認するには、もう一度ログインしてください。"
+
+#: Controller/AdminProfileController.php:72 Controller/GeneralSettingController.php:95
+#: Controller/GymAccountantController.php:58 Controller/GymAccountantController.php:106
+#: Controller/GymDailyWorkoutController.php:279
+#: Controller/GymDailyWorkoutController.php:440 Controller/GymGroupController.php:43
+#: Controller/GymGroupController.php:76 Controller/GymMemberController.php:162
+#: Controller/GymMemberController.php:315 Controller/MembershipController.php:71
+#: Controller/MembershipController.php:153 Controller/StaffMembersController.php:66
+#: Controller/StaffMembersController.php:121
+msgid "Invalid File Extension, Please Retry."
+msgstr "ファイル拡張子が無効です。再試行してください。"
+
+#: Controller/ClassScheduleController.php:41 Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "クラススケジュールを追加"
+
+#: Controller/ClassScheduleController.php:80 Controller/GymReservationController.php:33
+#: Controller/MembershipController.php:64
+msgid "Success! Record Saved Successfully"
+msgstr "成功！正常に保存されたレコード"
+
+#: Controller/ClassScheduleController.php:83 Controller/MembershipController.php:150
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "エラー！更新中にエラーが発生しました。しばらくしてからもう一度お試しください。"
+
+#: Controller/ClassScheduleController.php:92
+msgid "Edit Class Schedule"
+msgstr "授業スケジュールの編集"
+
+#: Controller/ClassScheduleController.php:143 Controller/GymGroupController.php:72
+#: Controller/GymReservationController.php:67 Controller/MembershipController.php:147
+msgid "Success! Record Updated Successfully"
+msgstr "成功！レコード更新成功"
+
+#: Controller/ClassScheduleController.php:153
+msgid "Success! Class Deleted Successfully."
+msgstr "成功！クラスは正常に削除されました。"
+
+#: Controller/Component/GYMFunctionComponent.php:262 Template/GymMember/view_member.ctp:146
+msgid "Weight Report"
+msgstr "体重レポート"
+
+#: Controller/Component/GYMFunctionComponent.php:263
+#: Controller/Component/GYMFunctionComponent.php:269
+#: Controller/Component/GYMFunctionComponent.php:275
+#: Controller/Component/GYMFunctionComponent.php:281
+#: Controller/Component/GYMFunctionComponent.php:287
+#: Controller/Component/GYMFunctionComponent.php:293
+#: Controller/Component/GYMFunctionComponent.php:299
+#: Template/GymMember/view_attendance.ctp:69
+msgid "Day"
+msgstr "日"
+
+#: Controller/Component/GYMFunctionComponent.php:268 Template/GymMember/view_member.ctp:196
+msgid "Thigh Report"
+msgstr "太ももレポート"
+
+#: Controller/Component/GYMFunctionComponent.php:274 Template/GymMember/view_member.ctp:246
+msgid "Height Report"
+msgstr "身長レポート"
+
+#: Controller/Component/GYMFunctionComponent.php:280 Template/GymMember/view_member.ctp:270
+msgid "Chest Report"
+msgstr "胸部レポート"
+
+#: Controller/Component/GYMFunctionComponent.php:286 Template/GymMember/view_member.ctp:170
+msgid "Waist Report"
+msgstr "ウエストレポート"
+
+#: Controller/Component/GYMFunctionComponent.php:292 Template/GymMember/view_member.ctp:220
+msgid "Arms Report"
+msgstr "腕レポート"
+
+#: Controller/Component/GYMFunctionComponent.php:298 Template/GymMember/view_member.ctp:296
+msgid "Fat Report"
+msgstr "脂肪レポート"
+
+#: Controller/Component/GYMFunctionComponent.php:379
+msgid "Fully Paid"
+msgstr "完全支給"
+
+#: Controller/Component/GYMFunctionComponent.php:381
+msgid "Not Paid"
+msgstr "未払い"
+
+#: Controller/Component/GYMFunctionComponent.php:383
+msgid "Partially Paid"
+msgstr "部分払い"
+
+#: Controller/Component/GYMFunctionComponent.php:586
+msgid "Membership Reminder Alert!"
+msgstr "会員リマインダーアラート！"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "January"
+msgstr "1月"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "February"
+msgstr "2月"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "March"
+msgstr "行進"
+
+#: Controller/Component/GYMFunctionComponent.php:622
+msgid "April"
+msgstr "4月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "May"
+msgstr "5月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "June"
+msgstr "六月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "July"
+msgstr "7月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "August"
+msgstr "8月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "September"
+msgstr "9月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "October"
+msgstr "10月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "November"
+msgstr "11月"
+
+#: Controller/Component/GYMFunctionComponent.php:623
+msgid "December"
+msgstr "12月"
+
+#: Controller/Component/GYMFunctionComponent.php:624
+msgid "You are not authorized to access that location."
+msgstr "あなたはその場所にアクセスする権限がありません。"
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:109
+#: Template/Dashboard/dashboard.ctp:215 Template/GymAttendance/attendance.ctp:80
+#: Template/GymMember/add_member.ctp:430 Template/GymNotice/add_notice.ctp:73
+#: Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:266 Template/Reports/attendance_report.ctp:87
+msgid "Class"
+msgstr "クラス"
+
+#: Controller/DashboardController.php:106 Controller/DashboardController.php:133
+#: Controller/ReportsController.php:109 Template/GymAttendance/attendance.ctp:91
+#: Template/GymAttendance/staff_attendance.ctp:58
+msgid "Present"
+msgstr "プレゼント"
+
+#: Controller/DashboardController.php:106 Controller/DashboardController.php:133
+#: Controller/ReportsController.php:109 Template/GymAttendance/attendance.ctp:93
+#: Template/GymAttendance/staff_attendance.ctp:60
+msgid "Absent"
+msgstr "不在"
+
+#: Controller/DashboardController.php:133 Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Dashboard/dashboard.ctp:70 Template/Dashboard/dashboard.ctp:269
+#: Template/Dashboard/member_dashboard.ctp:79 Template/Dashboard/staff_acc_dashboard.ctp:89
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:33 Template/GymMember/view_member.ctp:123
+#: Template/GymNotice/add_notice.ctp:67 Template/StaffMembers/add_staff.ctp:47
+#: Template/StaffMembers/staff_list.ctp:31
+msgid "Staff Member"
+msgstr "スタッフメンバー"
+
+#: Controller/GeneralSettingController.php:65 Controller/GeneralSettingController.php:89
+msgid "Success! Settings Saved Successfully."
+msgstr "成功！設定は正常に保存されました。"
+
+#: Controller/GymAccessrightController.php:249
+msgid "Success! Settings Saved successfully."
+msgstr "成功！設定を保存しました。"
+
+#: Controller/GymAccountantController.php:23 Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "会計士を追加"
+
+#: Controller/GymAccountantController.php:42 Controller/GymNoticeController.php:62
+#: Controller/StaffMembersController.php:50
+msgid "Success! Record Successfully Saved."
+msgstr "成功！記録は正常に保存されました。"
+
+#: Controller/GymAccountantController.php:67
+msgid "Edit Accountant"
+msgstr "会計士を編集"
+
+#: Controller/GymAccountantController.php:117
+#: Controller/MembershipPaymentController.php:380
+msgid "Success! Accountant Deleted Successfully."
+msgstr "成功！会計士は正常に削除されました。"
+
+#: Controller/GymAjaxController.php:27 Controller/GymAjaxController1.php:25
+msgid "Add/Remove Category"
+msgstr "カテゴリの追加/削除"
+
+#: Controller/GymAjaxController.php:32 Controller/GymAjaxController1.php:30
+msgid "enter category name"
+msgstr "カテゴリ名を入力"
+
+#: Controller/GymAjaxController.php:35 Controller/GymAjaxController.php:123
+#: Controller/GymAjaxController1.php:33 Controller/GymAjaxController1.php:121
+#: Template/Activity/add_activity.ctp:52 Template/Membership/add.ctp:93
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "カテゴリを追加"
+
+#: Controller/GymAjaxController.php:44 Controller/GymAjaxController.php:216
+#: Controller/GymAjaxController.php:297 Controller/GymAjaxController1.php:42
+#: Controller/GymAjaxController1.php:214 Controller/GymAjaxController1.php:295
+msgid "Category"
+msgstr "カテゴリー"
+
+#: Controller/GymAjaxController.php:45 Controller/GymAjaxController.php:133
+#: Controller/GymAjaxController.php:217 Controller/GymAjaxController.php:298
+#: Controller/GymAjaxController.php:378 Controller/GymAjaxController.php:456
+#: Controller/GymAjaxController.php:554 Controller/GymAjaxController.php:930
+#: Controller/GymAjaxController.php:1036 Controller/GymAjaxController1.php:43
+#: Controller/GymAjaxController1.php:131 Controller/GymAjaxController1.php:215
+#: Controller/GymAjaxController1.php:296 Controller/GymAjaxController1.php:376
+#: Controller/GymAjaxController1.php:454 Controller/GymAjaxController1.php:551
+#: Controller/GymAjaxController1.php:886 Controller/GymAjaxController1.php:992
+#: Template/Activity/activity_list.ctp:51 Template/Activity/activity_list.ctp:79
+#: Template/ClassSchedule/add_class.ctp:141 Template/ClassSchedule/class_list.ctp:67
+#: Template/ClassSchedule/class_list.ctp:101 Template/GymAccountant/accountant_list.ctp:58
+#: Template/GymAccountant/accountant_list.ctp:92
+#: Template/GymAssignWorkout/workout_log.ctp:55
+#: Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:85 Template/GymGroup/group_list.ctp:47
+#: Template/GymGroup/group_list.ctp:78 Template/GymMember/member_list.ctp:62
+#: Template/GymMember/member_list.ctp:115 Template/GymNotice/notice_list.ctp:45
+#: Template/GymNotice/notice_list.ctp:74 Template/GymNutrition/nutrition_list.ctp:55
+#: Template/GymNutrition/nutrition_list.ctp:79 Template/GymProduct/product_list.ctp:51
+#: Template/GymProduct/product_list.ctp:80 Template/GymReservation/reservation_list.ctp:57
+#: Template/GymReservation/reservation_list.ctp:89 Template/GymStore/sell_record.ctp:38
+#: Template/GymStore/sell_record.ctp:65 Template/Membership/membership_list.ctp:59
+#: Template/Membership/membership_list.ctp:107 Template/Membership/view_activity.ctp:76
+#: Template/Membership/view_activity.ctp:100 Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102 Template/StaffMembers/staff_list.ctp:53
+#: Template/StaffMembers/staff_list.ctp:86
+msgid "Action"
+msgstr "アクション"
+
+#: Controller/GymAjaxController.php:55 Controller/GymAjaxController.php:81
+#: Controller/GymAjaxController.php:143 Controller/GymAjaxController.php:170
+#: Controller/GymAjaxController.php:229 Controller/GymAjaxController.php:255
+#: Controller/GymAjaxController.php:310 Controller/GymAjaxController.php:338
+#: Controller/GymAjaxController.php:390 Controller/GymAjaxController.php:416
+#: Controller/GymAjaxController.php:468 Controller/GymAjaxController.php:494
+#: Controller/GymAjaxController.php:566 Controller/GymAjaxController.php:593
+#: Controller/GymAjaxController.php:1048 Controller/GymAjaxController.php:1107
+#: Controller/GymAjaxController1.php:53 Controller/GymAjaxController1.php:79
+#: Controller/GymAjaxController1.php:141 Controller/GymAjaxController1.php:168
+#: Controller/GymAjaxController1.php:227 Controller/GymAjaxController1.php:253
+#: Controller/GymAjaxController1.php:308 Controller/GymAjaxController1.php:336
+#: Controller/GymAjaxController1.php:388 Controller/GymAjaxController1.php:414
+#: Controller/GymAjaxController1.php:466 Controller/GymAjaxController1.php:492
+#: Controller/GymAjaxController1.php:563 Controller/GymAjaxController1.php:590
+#: Controller/GymAjaxController1.php:1004 Controller/GymAjaxController1.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:48 Template/GymMessage/view_message.ctp:47
+#: Template/GymNotice/notice_list.ctp:61 Template/GymProduct/product_list.ctp:67
+#: Template/GymStore/sell_record.ctp:54 Template/MembershipPayment/add_expense.ctp:70
+#: Template/MembershipPayment/add_expense.ctp:92
+#: Template/MembershipPayment/add_income.ctp:85
+#: Template/MembershipPayment/add_income.ctp:107
+msgid "Delete"
+msgstr "削除する"
+
+#: Controller/GymAjaxController.php:65 Controller/GymAjaxController.php:153
+#: Controller/GymAjaxController.php:240 Controller/GymAjaxController.php:321
+#: Controller/GymAjaxController.php:401 Controller/GymAjaxController.php:479
+#: Controller/GymAjaxController.php:577 Controller/GymAjaxController.php:961
+#: Controller/GymAjaxController.php:1059 Controller/GymAjaxController.php:1155
+#: Controller/GymAjaxController.php:1212 Controller/GymAjaxController.php:1368
+#: Controller/GymAjaxController.php:1504 Controller/GymAjaxController.php:1550
+#: Controller/GymAjaxController1.php:63 Controller/GymAjaxController1.php:151
+#: Controller/GymAjaxController1.php:238 Controller/GymAjaxController1.php:319
+#: Controller/GymAjaxController1.php:399 Controller/GymAjaxController1.php:477
+#: Controller/GymAjaxController1.php:574 Controller/GymAjaxController1.php:917
+#: Controller/GymAjaxController1.php:1015 Controller/GymAjaxController1.php:1080
+#: Controller/GymAjaxController1.php:1132 Controller/GymAjaxController1.php:1284
+#: Controller/GymAjaxController1.php:1420 Controller/GymAjaxController1.php:1466
+msgid "Close"
+msgstr "閉じる"
+
+#: Controller/GymAjaxController.php:106 Controller/GymAjaxController1.php:104
+msgid "Add/Remove Installment Plan"
+msgstr "分割払いプランの追加/削除"
+
+#: Controller/GymAjaxController.php:111 Controller/GymAjaxController1.php:109
+msgid "Enter Duration Number"
+msgstr "期間番号を入力"
+
+#: Controller/GymAjaxController.php:115 Controller/GymAjaxController1.php:113
+msgid "Select Duration"
+msgstr "期間を選択"
+
+#: Controller/GymAjaxController.php:116 Controller/GymAjaxController1.php:114
+#: Template/ClassSchedule/add_class.ctp:141
+msgid "Days"
+msgstr "日々"
+
+#: Controller/GymAjaxController.php:117 Controller/GymAjaxController1.php:115
+msgid "Week"
+msgstr "週間"
+
+#: Controller/GymAjaxController.php:118 Controller/GymAjaxController1.php:116
+#: Template/Dashboard/dashboard.ctp:163 Template/Reports/monthlyworkoutreport.ctp:58
+#: Template/Reports/payment_report.ctp:39
+msgid "Month"
+msgstr "月"
+
+#: Controller/GymAjaxController.php:119 Controller/GymAjaxController1.php:117
+msgid "Year"
+msgstr "年"
+
+#: Controller/GymAjaxController.php:132 Controller/GymAjaxController1.php:130
+msgid "Plan"
+msgstr "計画"
+
+#: Controller/GymAjaxController.php:199 Controller/GymAjaxController1.php:197
+msgid "Add/Remove Role"
+msgstr "役割の追加/削除"
+
+#: Controller/GymAjaxController.php:204 Controller/GymAjaxController1.php:202
+msgid "Enter Role"
+msgstr "役割を入力"
+
+#: Controller/GymAjaxController.php:207 Controller/GymAjaxController.php:288
+#: Controller/GymAjaxController1.php:205 Controller/GymAjaxController1.php:286
+msgid "Add Role"
+msgstr "役割を追加"
+
+#: Controller/GymAjaxController.php:232 Controller/GymAjaxController1.php:230
+#: Controller/GymAjaxController1.php:311 Controller/GymAjaxController1.php:1007
+msgid "No roles added"
+msgstr "役割は追加されていません"
+
+#: Controller/GymAjaxController.php:280 Controller/GymAjaxController1.php:278
+msgid "Add/Remove Specialization"
+msgstr "スペシャライゼーションの追加/削除"
+
+#: Controller/GymAjaxController.php:285 Controller/GymAjaxController1.php:283
+msgid "Enter Specialization"
+msgstr "専門分野を入力してください"
+
+#: Controller/GymAjaxController.php:313
+msgid "No Specialization added"
+msgstr "特殊化は追加されていません"
+
+#: Controller/GymAjaxController.php:360 Controller/GymAjaxController1.php:358
+msgid "Add/Remove Interest"
+msgstr "興味の追加/削除"
+
+#: Controller/GymAjaxController.php:365 Controller/GymAjaxController1.php:363
+msgid "Enter Interest"
+msgstr "興味を入力"
+
+#: Controller/GymAjaxController.php:368 Controller/GymAjaxController1.php:366
+msgid "Add Interest"
+msgstr "興味を追加"
+
+#: Controller/GymAjaxController.php:377 Controller/GymAjaxController1.php:375
+msgid "Interest"
+msgstr "興味"
+
+#: Controller/GymAjaxController.php:393 Controller/GymAjaxController.php:471
+#: Controller/GymAjaxController.php:569 Controller/GymAjaxController1.php:391
+#: Controller/GymAjaxController1.php:469 Controller/GymAjaxController1.php:566
+msgid "No record added yet"
+msgstr "レコードはまだ追加されていません"
+
+#: Controller/GymAjaxController.php:438 Controller/GymAjaxController1.php:436
+msgid "Add/Remove Source"
+msgstr "ソースの追加/削除"
+
+#: Controller/GymAjaxController.php:443 Controller/GymAjaxController1.php:441
+msgid "Enter Source"
+msgstr "ソースを入力"
+
+#: Controller/GymAjaxController.php:446 Controller/GymAjaxController1.php:444
+msgid "Add Source"
+msgstr "ソースを追加"
+
+#: Controller/GymAjaxController.php:455 Controller/GymAjaxController1.php:453
+msgid "Source List"
+msgstr "ソースリスト"
+
+#: Controller/GymAjaxController.php:536 Controller/GymAjaxController1.php:533
+msgid "Add/Remove Levels"
+msgstr "レベルの追加/削除"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController1.php:538
+msgid "Enter Level"
+msgstr "レベルを入力"
+
+#: Controller/GymAjaxController.php:544 Controller/GymAjaxController.php:742
+#: Controller/GymAjaxController1.php:541 Controller/GymAjaxController1.php:726
+#: Template/GymAssignWorkout/assign_workout.ctp:99
+#: Template/GymAssignWorkout/assign_workout1.ctp:78
+msgid "Add Level"
+msgstr "レベルを追加"
+
+#: Controller/GymAjaxController.php:553 Controller/GymAjaxController1.php:550
+msgid "Levels"
+msgstr "レベル"
+
+#: Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:768
+#: Controller/GymAjaxController1.php:673 Controller/GymAjaxController1.php:750
+#: Template/Activity/activity_list.ctp:31 Template/Activity/add_activity.ctp:32
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96 Template/Element/sidebar.ctp:78
+#: Template/GymAccessright/access_right.ctp:153
+#: Template/GymAssignWorkout/assign_workout.ctp:197
+#: Template/GymAssignWorkout/assign_workout1.ctp:175
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:63
+#: Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "アクティビティ"
+
+#: Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:699
+#: Controller/GymAjaxController.php:769 Controller/GymAjaxController1.php:674
+#: Controller/GymAjaxController1.php:686 Controller/GymAjaxController1.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:198
+#: Template/GymAssignWorkout/assign_workout1.ctp:176
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:64
+#: Template/GymAssignWorkout/print_workout.ctp:61
+#: Template/Reports/monthlyworkoutreport.ctp:79
+msgid "Sets"
+msgstr "セット"
+
+#: Controller/GymAjaxController.php:688 Controller/GymAjaxController.php:700
+#: Controller/GymAjaxController.php:770 Controller/GymAjaxController1.php:675
+#: Controller/GymAjaxController1.php:687 Controller/GymAjaxController1.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:199
+#: Template/GymAssignWorkout/assign_workout1.ctp:177
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:62
+#: Template/Reports/monthlyworkoutreport.ctp:80
+msgid "Reps"
+msgstr "担当者"
+
+#: Controller/GymAjaxController.php:689 Controller/GymAjaxController.php:771
+#: Controller/GymAjaxController1.php:676 Controller/GymAjaxController1.php:753
+#: Template/GymAssignWorkout/assign_workout.ctp:200
+#: Template/GymAssignWorkout/assign_workout1.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr "KG"
+
+#: Controller/GymAjaxController.php:690 Controller/GymAjaxController.php:772
+#: Controller/GymAjaxController1.php:677 Controller/GymAjaxController1.php:754
+#: Template/GymAssignWorkout/assign_workout.ctp:201
+#: Template/GymAssignWorkout/assign_workout1.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:64
+#: Template/Reports/monthlyworkoutreport.ctp:82
+msgid "Rest Time"
+msgstr "休憩時間"
+
+#: Controller/GymAjaxController.php:701 Controller/GymAjaxController1.php:688
+#: Template/Reports/monthlyworkoutreport.ctp:81
+msgid "Kg"
+msgstr "Kg"
+
+#: Controller/GymAjaxController.php:702 Controller/GymAjaxController1.php:689
+msgid "Min"
+msgstr "分"
+
+#: Controller/GymAjaxController.php:706 Controller/GymAjaxController1.php:693
+msgid "Your Workout"
+msgstr "あなたのトレーニング"
+
+#: Controller/GymAjaxController.php:713 Controller/GymAjaxController.php:791
+msgid "Note"
+msgstr "注意"
+
+#: Controller/GymAjaxController.php:721 Controller/GymAjaxController1.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "今日のトレーニングは割り当てられていません。下からデータを追加できます。"
+
+#: Controller/GymAjaxController.php:726 Controller/GymAjaxController1.php:710
+#: Template/GymAssignWorkout/assign_workout.ctp:92
+#: Template/GymAssignWorkout/assign_workout1.ctp:71
+msgid "Level"
+msgstr "レベル"
+
+#: Controller/GymAjaxController.php:729 Controller/GymAjaxController1.php:713
+#: Template/GymAssignWorkout/assign_workout.ctp:95
+#: Template/GymAssignWorkout/assign_workout1.ctp:74
+msgid "Select Level"
+msgstr "レベルを選択"
+
+#: Controller/GymAjaxController.php:918 Controller/GymAjaxController1.php:874
+msgid "Edit/Delete Measurement"
+msgstr "測定値の編集/削除"
+
+#: Controller/GymAjaxController.php:926 Controller/GymAjaxController1.php:882
+msgid "Image"
+msgstr "画像"
+
+#: Controller/GymAjaxController.php:927 Controller/GymAjaxController1.php:883
+msgid "Measurement"
+msgstr "測定"
+
+#: Controller/GymAjaxController.php:928 Controller/GymAjaxController1.php:884
+#: Template/GymDailyWorkout/add_measurment.ctp:65
+msgid "Result"
+msgstr "結果"
+
+#: Controller/GymAjaxController.php:929 Controller/GymAjaxController1.php:885
+msgid "Record Date"
+msgstr "記録日"
+
+#: Controller/GymAjaxController.php:952 Controller/GymAjaxController1.php:908
+msgid "No Data Found."
+msgstr "何もデータが見つかりませんでした。"
+
+#: Controller/GymAjaxController.php:1018 Controller/GymAjaxController1.php:974
+msgid "Add/Remove Event Place"
+msgstr "イベント会場の追加/削除"
+
+#: Controller/GymAjaxController.php:1023 Controller/GymAjaxController1.php:979
+msgid "Enter Place Name"
+msgstr "地名を入力"
+
+#: Controller/GymAjaxController.php:1026 Controller/GymAjaxController1.php:982
+msgid "Add Place"
+msgstr "場所を追加"
+
+#: Controller/GymAjaxController.php:1035 Controller/GymAjaxController1.php:991
+msgid "Place Name"
+msgstr "地名"
+
+#: Controller/GymAjaxController.php:1051
+msgid "No Event Place added"
+msgstr "イベント会場は追加されていません"
+
+#: Controller/GymAjaxController.php:1134 Controller/GymAjaxController1.php:1059
+msgid "Group Members"
+msgstr "グループの人（仲間）たち"
+
+#: Controller/GymAjaxController.php:1149 Controller/GymAjaxController1.php:1074
+msgid "No Members Assigned Yet."
+msgstr "まだメンバーは割り当てられていません。"
+
+#: Controller/GymAjaxController.php:1173 Controller/GymAjaxController.php:1207
+#: Controller/GymAjaxController1.php:1093 Controller/GymAjaxController1.php:1127
+msgid "Add Payment"
+msgstr "支払いを追加"
+
+#: Controller/GymAjaxController.php:1181 Controller/GymAjaxController1.php:1101
+#: Template/MembershipPayment/payment_list.ctp:52
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "支払金額"
+
+#: Controller/GymAjaxController.php:1190 Controller/GymAjaxController1.php:1110
+msgid "Payment By"
+msgstr "支払方法"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController1.php:1116
+msgid "Paypal"
+msgstr "ペイパル"
+
+#: Controller/GymAjaxController.php:1199 Controller/GymAjaxController1.php:1119
+msgid "Cash"
+msgstr "現金"
+
+#: Controller/GymAjaxController.php:1200 Controller/GymAjaxController1.php:1120
+msgid "Cheque"
+msgstr "チェック"
+
+#: Controller/GymAjaxController.php:1201 Controller/GymAjaxController1.php:1121
+msgid "Bank Transfer"
+msgstr "銀行振込"
+
+#: Controller/GymAjaxController.php:1247 Controller/GymAjaxController.php:1399
+#: Controller/GymAjaxController1.php:1166 Controller/GymAjaxController1.php:1315
+msgid "Invoice"
+msgstr "請求書"
+
+#: Controller/GymAjaxController.php:1260 Controller/GymAjaxController.php:1412
+#: Controller/GymAjaxController1.php:1179 Controller/GymAjaxController1.php:1328
+#: Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "発行日"
+
+#: Controller/GymAjaxController.php:1261 Controller/GymAjaxController.php:1413
+#: Controller/GymAjaxController1.php:1180 Controller/GymAjaxController1.php:1329
+#: Template/GymAttendance/attendance.ctp:109 Template/GymAttendance/attendance.ctp:115
+#: Template/GymAttendance/attendance.ctp:118 Template/GymAttendance/staff_attendance.ctp:67
+#: Template/GymAttendance/staff_attendance.ctp:70 Template/GymMember/member_list.ctp:64
+#: Template/GymMember/member_list.ctp:117 Template/GymMember/view_member.ctp:128
+#: Template/MembershipPayment/add_expense.ctp:41
+#: Template/MembershipPayment/add_income.ctp:56
+#: Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "状態"
+
+#: Controller/GymAjaxController.php:1274 Controller/GymAjaxController.php:1426
+#: Controller/GymAjaxController1.php:1193 Controller/GymAjaxController1.php:1342
+#: Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "への支払い"
+
+#: Controller/GymAjaxController.php:1277 Controller/GymAjaxController.php:1429
+#: Controller/GymAjaxController1.php:1196 Controller/GymAjaxController1.php:1345
+#: Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "請求書送付先"
+
+#: Controller/GymAjaxController.php:1308 Controller/GymAjaxController1.php:1227
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:51 Template/Element/sidebar.ctp:33
+#: Template/GymAccessright/access_right.ctp:63
+#: Template/MembershipPayment/print_invoice.ctp:91
+msgid "Membership Type"
+msgstr "会員タイプ"
+
+#: Controller/GymAjaxController.php:1309 Controller/GymAjaxController1.php:1228
+msgid "Sign Up Fee"
+msgstr "サインアップ料金"
+
+#: Controller/GymAjaxController.php:1310 Controller/GymAjaxController1.php:1229
+#: Template/MembershipPayment/print_invoice.ctp:92
+msgid "Membership Fee"
+msgstr "会費"
+
+#: Controller/GymAjaxController.php:1311 Controller/GymAjaxController1.php:1230
+#: Template/MembershipPayment/print_invoice.ctp:93
+msgid "Total"
+msgstr "合計"
+
+#: Controller/GymAjaxController.php:1325 Controller/GymAjaxController1.php:1244
+#: Template/MembershipPayment/print_invoice.ctp:170
+msgid "Subtotal :"
+msgstr "小計："
+
+#: Controller/GymAjaxController.php:1329 Controller/GymAjaxController1.php:1248
+#: Template/MembershipPayment/print_invoice.ctp:174
+msgid "Payment Made :"
+msgstr "支払済："
+
+#: Controller/GymAjaxController.php:1333 Controller/GymAjaxController1.php:1252
+msgid "Due Amount  :"
+msgstr "支払い期限："
+
+#: Controller/GymAjaxController.php:1341 Controller/GymAjaxController1.php:1260
+#: Template/MembershipPayment/print_invoice.ctp:204
+msgid "Payment History"
+msgstr "支払歴"
+
+#: Controller/GymAjaxController.php:1345 Controller/GymAjaxController.php:1467
+#: Controller/GymAjaxController1.php:1264 Controller/GymAjaxController1.php:1383
+#: Template/GymAttendance/attendance.ctp:39 Template/GymAttendance/attendance.ctp:81
+#: Template/GymAttendance/staff_attendance.ctp:31
+#: Template/GymDailyWorkout/view_workout.ctp:51 Template/GymMember/view_attendance.ctp:68
+#: Template/GymMessage/inbox.ctp:55 Template/GymMessage/sent.ctp:44
+#: Template/GymStore/sell_product.ctp:54 Template/MembershipPayment/add_expense.ctp:50
+#: Template/MembershipPayment/add_income.ctp:65
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:101
+#: Template/MembershipPayment/print_invoice.ctp:208
+msgid "Date"
+msgstr "日付"
+
+#: Controller/GymAjaxController.php:1346 Controller/GymAjaxController1.php:1265
+#: Template/GymMember/view_member.ctp:388 Template/GymMember/view_member.ctp:416
+#: Template/GymSubscriptionHistory/index.ctp:43
+#: Template/GymSubscriptionHistory/index.ctp:73 Template/Membership/add.ctp:152
+#: Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:51
+#: Template/MembershipPayment/payment_list.ctp:96
+#: Template/MembershipPayment/print_invoice.ctp:209
+msgid "Amount"
+msgstr "量"
+
+#: Controller/GymAjaxController.php:1347 Controller/GymAjaxController1.php:1266
+#: Template/MembershipPayment/print_invoice.ctp:210
+msgid "Method"
+msgstr "方法"
+
+#: Controller/GymAjaxController.php:1366 Controller/GymAjaxController.php:1502
+#: Controller/GymAjaxController1.php:1418
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:55
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "印刷する"
+
+#: Controller/GymAjaxController.php:1462 Controller/GymAjaxController1.php:1378
+#: Template/MembershipPayment/print_invoice.ctp:83
+msgid "Invoice Entries"
+msgstr "請求書エントリ"
+
+#: Controller/GymAjaxController.php:1468 Controller/GymAjaxController1.php:1384
+#: Template/MembershipPayment/print_invoice.ctp:102
+msgid "Entry"
+msgstr "エントリ"
+
+#: Controller/GymAjaxController.php:1469 Controller/GymAjaxController1.php:1385
+#: Template/MembershipPayment/print_invoice.ctp:103
+msgid "Price"
+msgstr "価格"
+
+#: Controller/GymAjaxController.php:1470 Controller/GymAjaxController1.php:1386
+#: Template/AdminProfile/edit_profile.ctp:62 Template/GymAccountant/add_accountant.ctp:124
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:328
+#: Template/GymMember/view_member.ctp:90 Template/GymProfile/view_profile.ctp:70
+#: Template/Installer/index.ctp:554 Template/MemberRegistration/index.ctp:219
+#: Template/MembershipPayment/print_invoice.ctp:104 Template/StaffMembers/add_staff.ctp:159
+#: Template/Users/login.ctp:29
+msgid "Username"
+msgstr "ユーザー名"
+
+#: Controller/GymAjaxController.php:1493 Controller/GymAjaxController1.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:195
+msgid "Grand Total :"
+msgstr "総計 ："
+
+#: Controller/GymAjaxController.php:1519 Controller/GymAjaxController1.php:1435
+msgid "Notice Detail"
+msgstr "お知らせ詳細"
+
+#: Controller/GymAjaxController.php:1524 Controller/GymAjaxController1.php:1440
+msgid "Notice Title "
+msgstr "お知らせタイトル"
+
+#: Controller/GymAjaxController.php:1529 Controller/GymAjaxController1.php:1445
+#: Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "お知らせコメント"
+
+#: Controller/GymAjaxController.php:1534 Controller/GymAjaxController1.php:1450
+#: Template/GymNotice/add_notice.ctp:64 Template/GymNotice/notice_list.ctp:43
+#: Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "の通知"
+
+#: Controller/GymAjaxController.php:1539 Controller/GymAjaxController1.php:1455
+#: Template/GymAssignWorkout/assign_workout.ctp:109
+#: Template/GymAssignWorkout/assign_workout1.ctp:88
+#: Template/GymDailyWorkout/add_workout.ctp:185 Template/GymMember/view_attendance.ctp:48
+#: Template/GymNotice/add_notice.ctp:82 Template/GymNutrition/addnutrition_schedule.ctp:70
+msgid "Start Date"
+msgstr "開始日"
+
+#: Controller/GymAjaxController.php:1544 Controller/GymAjaxController1.php:1460
+msgid "End Date "
+msgstr "終了日"
+
+#: Controller/GymAjaxController1.php:736
+msgid "Category List"
+msgstr "カテゴリー一覧"
+
+#: Controller/GymAssignWorkoutController - copy.php:40
+#: Controller/GymAssignWorkoutController.php:40
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:105 Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:65
+#: Template/GymAssignWorkout/assign_workout1.ctp:46
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36
+#: Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "ワークアウトを割り当てる"
+
+#: Controller/GymAssignWorkoutController - copy.php:101 copy.php:293
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:291
+msgid "success! Record Saved Successfully."
+msgstr "成功！レコードは正常に保存されました。"
+
+#: Controller/GymAssignWorkoutController - copy.php:103
+#: Controller/GymAssignWorkoutController.php:104
+#: Controller/GymAssignWorkoutController.php:294
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "エラー！トレーニング日数データを保存できませんでした。もう一度やり直してください。"
+
+#: Controller/GymAssignWorkoutController - copy.php:108 copy.php:299
+#: Controller/GymAssignWorkoutController.php:109
+#: Controller/GymAssignWorkoutController.php:297
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "エラー！記録を保存できませんでした。もう一度やり直してください。"
+
+#: Controller/GymAssignWorkoutController - copy.php:196
+#: Controller/GymAssignWorkoutController.php:197
+#: Template/GymDailyWorkout/view_workout.ctp:33
+msgid "View Workout"
+msgstr "ワークアウトを見る"
+
+#: Controller/GymAssignWorkoutController - copy.php:296
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "エラー！ワークアウト日のdayaは保存できませんでした。もう一度やり直してください。"
+
+#: Controller/GymAssignWorkoutController - copy.php:320
+#: Controller/GymAssignWorkoutController.php:318 Controller/GymMemberController.php:326
+#: Controller/GymNutritionController.php:305 Controller/GymProductController.php:61
+#: Controller/GymStoreController.php:111 Controller/MembershipPaymentController.php:258
+msgid "Success! Record Deleted Successfully."
+msgstr "成功！レコードは正常に削除されました。"
+
+#: Controller/GymAttendanceController.php:85 Controller/GymAttendanceController.php:149
+msgid "Success! Attendance Saved Successfully."
+msgstr "成功！出席は正常に保存されました。"
+
+#: Controller/GymAttendanceController.php:153
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "エラー！メンバー/スタッフメンバーを選択してください。"
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:29
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "ワークアウトを追加"
+
+#: Controller/GymDailyWorkoutController.php:243
+#: Template/GymDailyWorkout/add_workout.ctp:132
+#: Template/GymDailyWorkout/view_workout.ctp:39
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "測定値を追加"
+
+#: Controller/GymDailyWorkoutController.php:410
+msgid "Edit Measurement"
+msgstr "測定値を編集"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "テストメール"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:215
+msgid "Add Group"
+msgstr "グループを追加"
+
+#: Controller/GymGroupController.php:39
+msgid "Success! Group Added Successfully."
+msgstr "成功！グループを追加しました。"
+
+#: Controller/GymGroupController.php:50
+msgid "Edit Group"
+msgstr "グループを編集"
+
+#: Controller/GymMemberController.php:61 Template/GymAssignWorkout/assign_workout.ctp:87
+#: Template/GymAssignWorkout/assign_workout1.ctp:67
+#: Template/GymDailyWorkout/add_workout.ctp:172 Template/GymMember/member_list.ctp:45
+#: Template/GymNutrition/addnutrition_schedule.ctp:65
+msgid "Add Member"
+msgstr "メンバーを追加"
+
+#: Controller/GymMemberController.php:190
+msgid "Edit Member"
+msgstr "メンバーを編集"
+
+#: Controller/GymMemberController.php:446
+msgid "Success! Member activated successfully."
+msgstr "成功！メンバーは正常に活動化されました。"
+
+#: Controller/GymMessageController.php:154
+msgid "Success! Message Sent Successfully."
+msgstr "成功！送信に成功しました。"
+
+#: Controller/GymMessageController.php:156
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "エラー！メッセージを送信できませんでした。もう一度やり直してください。"
+
+#: Controller/GymMessageController.php:204
+msgid "Success! Message Deleted Successfully."
+msgstr "成功！メッセージは正常に削除されました。"
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "成功！ Api Key正常に保存されました。"
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "成功！ Api Keyアップデートに成功しました。"
+
+#: Controller/GymNewsletterController.php:94
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "成功！メール同期が正常に完了しました。"
+
+#: Controller/GymNewsletterController.php:131
+msgid "Campaign Tests Not Sent!"
+msgstr "キャンペーンテストは送信されませんでした。"
+
+#: Controller/GymNewsletterController.php:133
+msgid "Campaign Tests Sent!"
+msgstr "キャンペーンテストが送信されました。"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:31
+#: Controller/GymStoreController.php:49
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "エラー！記録されていません。もう一度やり直してください。"
+
+#: Controller/GymNoticeController.php:91
+msgid "Success! Record Successfully Updated."
+msgstr "成功！記録が更新されました。"
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:49
+#: Controller/GymStoreController.php:93
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "エラー！レコードが更新されていません。もう一度やり直してください。"
+
+#: Controller/GymNoticeController.php:105
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "成功！削除されたレコードは正常に更新されました。"
+
+#: Controller/GymNutritionController.php:40 Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "栄養スケジュールを追加"
+
+#: Controller/GymNutritionController.php:77 Controller/GymNutritionController.php:217
+msgid "Success! Nutrition Added Sucessfully."
+msgstr "成功！栄養がうまく追加されました。"
+
+#: Controller/GymNutritionController.php:81 Controller/GymNutritionController.php:221
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "エラー！栄養データを保存できませんでした。もう一度やり直してください。"
+
+#: Controller/GymNutritionController.php:85 Controller/GymNutritionController.php:225
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "エラー！栄養スケジュールを保存できませんでした。もう一度やり直してください。"
+
+#: Controller/GymNutritionController.php:172
+msgid "View Nutrition Schedule"
+msgstr "栄養表を見る"
+
+#: Controller/GymProfileController.php:30
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr ""
+"エラー！新しいパスワードと確認パスワードが一致しません。もう一度やり直してください。"
+
+#: Controller/GymProfileController.php:37
+msgid "Success! Password Updated Successfully"
+msgstr "成功！パスワード更新成功"
+
+#: Controller/GymProfileController.php:41
+msgid "Error! Current password is wrong.Please try again."
+msgstr "エラー！現在のパスワードが間違っています。もう一度やり直してください。"
+
+#: Controller/GymProfileController.php:65
+msgid "Success! Information Updated Successfully"
+msgstr "成功！情報が正常に更新された"
+
+#: Controller/GymProfileController.php:69
+msgid "Error! Not Update.Please try again."
+msgstr "エラー！更新しないでください。もう一度やり直してください。"
+
+#: Controller/GymStoreController.php:52 Controller/GymStoreController.php:96
+msgid "Only "
+msgstr "のみ"
+
+#: Controller/MemberRegistrationController.php:108
+msgid "Registration completed successfully. You will get email after activation"
+msgstr "登録は正常に完了しました。アクティベーション後にメールが届きます"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:86
+#: Template/GymMember/add_member.ctp:425 Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "会員を追加"
+
+#: Controller/MembershipController.php:67
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "エラー！保存中にエラーが発生しました。しばらくしてからもう一度お試しください。"
+
+#: Controller/MembershipController.php:99
+msgid "Edit Membership"
+msgstr "会員を編集"
+
+#: Controller/MembershipController.php:198
+msgid "Success! Activity Successfully Assigned."
+msgstr "成功！割り当てられたアクティビティ。"
+
+#: Controller/MembershipController.php:208
+msgid "Success! Activity Unassigned Successfully."
+msgstr "成功！割り当てられていないアクティビティは成功しました。"
+
+#: Controller/MembershipPaymentController.php:63
+#: Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "成功！支払いが正常に追加されました。"
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "成功！支払い記録が正常に削除されました。"
+
+#: Controller/MembershipPaymentController.php:406
+#: Controller/MembershipPaymentController.php:427
+msgid "Success! Payment Successfully Completed."
+msgstr "成功！支払いは正常に完了しました。"
+
+#: Controller/MembershipPaymentController.php:430
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "Paypal Payment IPN保存がDBに失敗しました。"
+
+#: Controller/StaffMembersController.php:22 Template/Activity/add_activity.ctp:74
+#: Template/StaffMembers/staff_list.ctp:37
+msgid "Add Staff Member"
+msgstr "スタッフメンバーを追加"
+
+#: Controller/StaffMembersController.php:75
+msgid "Edit Staff Member"
+msgstr "スタッフメンバーを編集"
+
+#: Controller/StaffMembersController.php:132
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "成功！スタッフが削除されました。"
+
+#: Controller/UsersController.php:47
+msgid "Sorry, Your account is expired."
+msgstr "申し訳ありませんが、あなたのアカウントは期限切れです。"
+
+#: Controller/UsersController.php:57
+msgid "Error! Your account not activated yet!"
+msgstr "エラー！あなたのアカウントはまだ有効になっていません！"
+
+#: Controller/UsersController.php:97
+msgid "Invalid username or password, try again"
+msgstr "ユーザー名またはパスワードが無効です。もう一度やり直してください"
+
+#: View/Helper/GymHelper.php:272
+msgid "Not Taken"
+msgstr "撮影されていません"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:80 Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "メンバー"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Staff Members"
+msgstr "スタッフ"
+
+#: View/Helper/GymHelper.php:307 View/Helper/GymHelper.php:309
+msgid "Accountants"
+msgstr "会計士"
+
+#: View/Helper/GymHelper.php:309
+msgid "Administrator"
+msgstr "管理者"
+
+#: View/Helper/GymHelper.php:524
+msgid "No data available in table"
+msgstr "テーブルにデータがありません"
+
+#: View/Helper/GymHelper.php:525
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "合計エントリの始めから終わりまでを示す"
+
+#: View/Helper/GymHelper.php:526
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0件中0から0まで表示"
+
+#: View/Helper/GymHelper.php:527
+msgid "(filtered from _MAX_ total entries)"
+msgstr "（最大合計エントリ数からフィルタリング）"
+
+#: View/Helper/GymHelper.php:530
+msgid "Show _MENU_ entries"
+msgstr "メニュー項目を表示する"
+
+#: View/Helper/GymHelper.php:531
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#: View/Helper/GymHelper.php:532
+msgid "Processing..."
+msgstr "処理..."
+
+#: View/Helper/GymHelper.php:533
+msgid "Search"
+msgstr "サーチ"
+
+#: View/Helper/GymHelper.php:534
+msgid "No matching records found"
+msgstr "該当する記録は見つかりません"
+
+#: View/Helper/GymHelper.php:536
+msgid "First"
+msgstr "最初"
+
+#: View/Helper/GymHelper.php:537
+msgid "Last"
+msgstr "最終"
+
+#: View/Helper/GymHelper.php:538
+msgid "Next"
+msgstr "次"
+
+#: View/Helper/GymHelper.php:539
+msgid "Previous"
+msgstr "前"
+
+#: View/Helper/GymHelper.php:542
+msgid "activate to sort column ascending"
+msgstr "列を昇順に並べ替える"
+
+#: View/Helper/GymHelper.php:543
+msgid "activate to sort column descending"
+msgstr "列を降順に並べ替える"
+
+#: Template/Activity/activity_list.ctp:30 Template/Activity/add_activity.ctp:35
+msgid "Activity List"
+msgstr "活動リスト"
+
+#: Template/Activity/activity_list.ctp:47 Template/Activity/activity_list.ctp:75
+#: Template/Membership/view_activity.ctp:73 Template/Membership/view_activity.ctp:97
+msgid "Activity Name"
+msgstr "活動名"
+
+#: Template/Activity/activity_list.ctp:48 Template/Activity/activity_list.ctp:76
+#: Template/Membership/view_activity.ctp:74 Template/Membership/view_activity.ctp:98
+msgid "Activity Category"
+msgstr "活動カテゴリ"
+
+#: Template/Activity/activity_list.ctp:49 Template/Activity/activity_list.ctp:77
+#: Template/Membership/view_activity.ctp:75 Template/Membership/view_activity.ctp:99
+msgid "Activity Trainer"
+msgstr "活動トレーナー"
+
+#: Template/Activity/add_activity.ctp:45 Template/Activity/add_activity.ctp:48
+#: Template/Membership/add.ctp:90 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "カテゴリを選んでください"
+
+#: Template/Activity/add_activity.ctp:56
+msgid "Activity Title"
+msgstr "活動タイトル"
+
+#: Template/Activity/add_activity.ctp:64
+msgid "Assign to Staff Member"
+msgstr "スタッフに割り当てる"
+
+#: Template/Activity/add_activity.ctp:68 Template/ClassSchedule/add_class.ctp:51
+#: Template/ClassSchedule/add_class.ctp:53 Template/ClassSchedule/add_class.ctp:68
+#: Template/GymMember/add_member.ctp:353 Template/GymMember/add_member.ctp:355
+#: Template/GymMember/add_member.ctp:385
+msgid "Select Staff Member"
+msgstr "スタッフメンバーを選択"
+
+#: Template/Activity/add_activity.ctp:79 Template/GymMember/add_member.ctp:422
+#: Template/MemberRegistration/index.ctp:261
+#: Template/MembershipPayment/generate_payment_invoice.ctp:78
+msgid "Select Membership"
+msgstr "会員を選択"
+
+#: Template/Activity/add_activity.ctp:90
+msgid "Save Activity"
+msgstr "アクティビティを保存"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "プロファイル設定"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "管理者"
+
+#: Template/AdminProfile/edit_profile.ctp:34 Template/GymAccountant/add_accountant.ctp:42
+#: Template/GymMember/add_member.ctp:160 Template/MemberRegistration/index.ctp:104
+#: Template/StaffMembers/add_staff.ctp:58
+msgid "Personal Information"
+msgstr "個人情報"
+
+#: Template/AdminProfile/edit_profile.ctp:39 Template/GymAccountant/add_accountant.ctp:44
+#: Template/GymMember/add_member.ctp:171 Template/MemberRegistration/index.ctp:115
+#: Template/StaffMembers/add_staff.ctp:60
+msgid "First Name"
+msgstr "ファーストネーム"
+
+#: Template/AdminProfile/edit_profile.ctp:46 Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:185 Template/MemberRegistration/index.ctp:129
+#: Template/StaffMembers/add_staff.ctp:74
+msgid "Last Name"
+msgstr "苗字"
+
+#: Template/AdminProfile/edit_profile.ctp:53 Template/GeneralSetting/save_setting.ctp:159
+#: Template/GymAccountant/add_accountant.ctp:115
+#: Template/GymDailyWorkout/workout_list.ctp:58
+#: Template/GymDailyWorkout/workout_list.ctp:84 Template/GymMember/add_member.ctp:267
+#: Template/GymMember/view_member.ctp:74 Template/GymProfile/view_profile.ctp:148
+#: Template/Installer/index.ctp:464 Template/MemberRegistration/index.ctp:209
+#: Template/StaffMembers/add_staff.ctp:150
+msgid "Email"
+msgstr "Eメール"
+
+#: Template/AdminProfile/edit_profile.ctp:60 Template/GymAccountant/add_accountant.ctp:122
+#: Template/GymMember/add_member.ctp:326 Template/MemberRegistration/index.ctp:216
+#: Template/StaffMembers/add_staff.ctp:157
+msgid "Login Information"
+msgstr "ログイン情報"
+
+#: Template/AdminProfile/edit_profile.ctp:69 Template/GymAccountant/add_accountant.ctp:131
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:335
+#: Template/Installer/index.ctp:562 Template/MemberRegistration/index.ctp:226
+#: Template/StaffMembers/add_staff.ctp:166 Template/Users/login.ctp:30
+msgid "Password"
+msgstr "パスワード"
+
+#: Template/AdminProfile/edit_profile.ctp:76 Template/GymAccountant/add_accountant.ctp:138
+#: Template/GymDailyWorkout/add_measurment.ctp:77 Template/GymMember/add_member.ctp:342
+#: Template/MemberRegistration/index.ctp:233 Template/StaffMembers/add_staff.ctp:173
+msgid "Display Image"
+msgstr "表示イメージ"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "詳細を保存"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:8 Template/Cell/GymRenderMenu/admin_menu.ctp:46
+#: Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:17 Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56 Template/Dashboard/dashboard.ctp:83
+#: Template/Dashboard/member_dashboard.ctp:97
+#: Template/Dashboard/staff_acc_dashboard.ctp:112 Template/Element/sidebar.ctp:38
+#: Template/GymAccessright/access_right.ctp:93 Template/GymGroup/add_group.ctp:18
+#: Template/GymGroup/group_list.ctp:28 Template/GymGroup/group_list.ctp:34
+#: Template/GymMember/add_member.ctp:210 Template/MemberRegistration/index.ctp:154
+msgid "Group"
+msgstr "グループ"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61 Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "クラス＆栄養表"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66 Template/ClassSchedule/add_class.ctp:32
+#: Template/ClassSchedule/class_list.ctp:40 Template/ClassSchedule/view_schedule.ctp:10
+#: Template/Element/sidebar.ctp:48 Template/GymAccessright/access_right.ctp:183
+msgid "Class Schedule"
+msgstr "時間割"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70 Template/Element/sidebar.ctp:52
+#: Template/GymAccessright/access_right.ctp:603
+#: Template/GymNutrition/addnutrition_schedule.ctp:43
+#: Template/GymNutrition/member_nutrition.ctp:19
+#: Template/GymNutrition/nutrition_list.ctp:35 Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "栄養スケジュール"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76 Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "会員管理"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89 Template/Element/sidebar.ctp:71
+#: Template/GymAccessright/access_right.ctp:25 Template/GymAccessright/access_right.ctp:303
+#: Template/GymAccountant/accountant_list.ctp:37
+#: Template/GymAccountant/add_accountant.ctp:31 Template/GymNotice/add_notice.ctp:67
+msgid "Accountant"
+msgstr "会計士"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101 Template/Element/sidebar.ctp:83
+#: Template/GymDailyWorkout/add_workout.ctp:194
+msgid "Workout"
+msgstr "いい結果になる"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109 Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "デイリーワークアウト"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116 Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "店舗＆商品"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120 Template/Element/sidebar.ctp:102
+#: Template/GymAccessright/access_right.ctp:422 Template/GymStore/sell_product.ctp:60
+msgid "Product"
+msgstr "製品"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124 Template/Element/sidebar.ctp:106
+#: Template/GymAccessright/access_right.ctp:452 Template/GymStore/sell_product.ctp:35
+#: Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "格納"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131 Template/Element/sidebar.ctp:113
+#: Template/GymAccessright/access_right.ctp:633
+#: Template/GymReservation/reservation_list.ctp:35
+msgid "Event"
+msgstr "イベント"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136 Template/Element/sidebar.ctp:118
+#: Template/GymAttendance/attendance.ctp:23 Template/GymAttendance/staff_attendance.ctp:19
+#: Template/GymMember/member_list.ctp:88 Template/GymMember/view_attendance.ctp:70
+msgid "Attendance"
+msgstr "出席"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141 Template/Dashboard/dashboard.ctp:171
+#: Template/Dashboard/dashboard.ctp:186 Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "支払い"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146 Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "会員支払い"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151 Template/Element/sidebar.ctp:133
+#: Template/GymAccessright/access_right.ctp:363
+#: Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "所得"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156 Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "経費"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164 Template/Dashboard/dashboard.ctp:96
+#: Template/Dashboard/member_dashboard.ctp:116
+#: Template/Dashboard/staff_acc_dashboard.ctp:136 Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:512 Template/GymMessage/compose_message.ctp:14
+#: Template/GymMessage/inbox.ctp:10 Template/GymMessage/sent.ctp:9
+#: Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "メッセージ"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169 Template/Element/sidebar.ctp:151
+#: Template/GymAccessright/access_right.ctp:482 Template/GymNewsletter/campaign.ctp:1
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "ニュースレター"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174 Template/Element/sidebar.ctp:156
+#: Template/GymAccessright/access_right.ctp:542 Template/GymNotice/add_notice.ctp:47
+#: Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "通知"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179
+#: Template/Cell/GymRenderMenu/member_menu.ctp:45 Template/Element/sidebar.ctp:170
+#: Template/GymAccessright/access_right.ctp:572
+msgid "Report"
+msgstr "報告書"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "メール設定"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:190
+msgid "SubscriptionHistory"
+msgstr "購読履歴"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:195 Template/Element/sidebar.ctp:175
+#: Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "一般設定"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:200 Template/Element/sidebar.ctp:180
+#: Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "アクセス権"
+
+#: Template/ClassSchedule/add_class.ctp:35 Template/ClassSchedule/class_list.ctp:39
+#: Template/ClassSchedule/view_schedule.ctp:13 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "クラス一覧"
+
+#: Template/ClassSchedule/add_class.ctp:44 Template/ClassSchedule/class_list.ctp:61
+#: Template/ClassSchedule/class_list.ctp:95
+msgid "Class Name"
+msgstr "クラス名"
+
+#: Template/ClassSchedule/add_class.ctp:59 Template/ClassSchedule/add_class.ctp:74
+msgid "Add"
+msgstr "追加する"
+
+#: Template/ClassSchedule/add_class.ctp:66
+msgid "Select Assistant Staff Member"
+msgstr "アシスタントスタッフメンバーを選択"
+
+#: Template/ClassSchedule/add_class.ctp:80 Template/ClassSchedule/class_list.ctp:65
+#: Template/ClassSchedule/class_list.ctp:99
+msgid "Location"
+msgstr "ロケーション"
+
+#: Template/ClassSchedule/add_class.ctp:87 Template/GymAssignWorkout/assign_workout.ctp:129
+#: Template/GymAssignWorkout/assign_workout1.ctp:108
+#: Template/GymNutrition/addnutrition_schedule.ctp:90
+msgid "Select Days"
+msgstr "日数を選択"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Sunday"
+msgstr "日曜日"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Monday"
+msgstr "月曜"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Thursday"
+msgstr "木曜日"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Friday"
+msgstr "金曜日"
+
+#: Template/ClassSchedule/add_class.ctp:89
+msgid "Saturday"
+msgstr "土曜日"
+
+#: Template/ClassSchedule/add_class.ctp:125 Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:103
+#: Template/GymReservation/reservation_list.ctp:54
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Start Time"
+msgstr "始まる時間"
+
+#: Template/ClassSchedule/add_class.ctp:132 Template/ClassSchedule/add_class.ctp:141
+#: Template/GymReservation/add_reservation.ctp:110
+msgid "End Time"
+msgstr "終了時間"
+
+#: Template/ClassSchedule/add_class.ctp:137
+msgid "Add Time"
+msgstr "時間を追加"
+
+#: Template/ClassSchedule/add_class.ctp:173 Template/GymReservation/add_reservation.ctp:142
+msgid "Save Class"
+msgstr "クラスを保存"
+
+#: Template/ClassSchedule/class_list.ctp:46 Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "クラススケジュール"
+
+#: Template/ClassSchedule/class_list.ctp:62 Template/ClassSchedule/class_list.ctp:96
+msgid "Staff Name"
+msgstr "スタッフ名"
+
+#: Template/ClassSchedule/class_list.ctp:63 Template/ClassSchedule/class_list.ctp:97
+msgid "Starting Time"
+msgstr "開始時間"
+
+#: Template/ClassSchedule/class_list.ctp:64 Template/ClassSchedule/class_list.ctp:98
+#: Template/GymReservation/reservation_list.ctp:55
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Ending Time"
+msgstr "終了時間"
+
+#: Template/ClassSchedule/view_schedule.ctp:43 Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:65 Template/GymStore/sell_record.ctp:51
+msgid "Edit"
+msgstr "編集する"
+
+#: Template/Dashboard/dashboard.ctp:58 Template/Dashboard/member_dashboard.ctp:61
+#: Template/Dashboard/staff_acc_dashboard.ctp:66
+#: Template/GymAccessright/access_right.ctp:23 Template/GymAccessright/access_right.ctp:123
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:147 Template/GymMember/add_member.ctp:149
+#: Template/GymMember/add_member.ctp:412 Template/GymMember/member_list.ctp:39
+#: Template/GymMember/view_attendance.ctp:34 Template/GymMember/view_member.ctp:33
+#: Template/GymNotice/add_notice.ctp:67 Template/GymStore/sell_product.ctp:46
+#: Template/MembershipPayment/add_income.ctp:43
+#: Template/MembershipPayment/generate_payment_invoice.ctp:64
+msgid "Member"
+msgstr "メンバー"
+
+#: Template/Dashboard/dashboard.ctp:106 Template/Dashboard/member_dashboard.ctp:134
+#: Template/Dashboard/staff_acc_dashboard.ctp:158 Template/GymMember/add_member.ctp:420
+#: Template/MemberRegistration/index.ctp:259 Template/Membership/add.ctp:66
+#: Template/Membership/edit_membership.ctp:8 Template/Membership/membership_list.ctp:37
+#: Template/Membership/membership_list.ctp:43 Template/Membership/view_activity.ctp:40
+#: Template/MembershipPayment/generate_payment_invoice.ctp:76
+msgid "Membership"
+msgstr "メンバーシップ"
+
+#: Template/Dashboard/dashboard.ctp:124 Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/staff_acc_dashboard.ctp:187 Template/GymGroup/add_group.ctp:21
+#: Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "グループリスト"
+
+#: Template/Dashboard/dashboard.ctp:154
+msgid "Payment by month"
+msgstr "月ごとの支払い"
+
+#: Template/Dashboard/dashboard.ctp:192 Template/Dashboard/dashboard.ctp:247
+#: Template/Dashboard/dashboard.ctp:298 Template/Dashboard/member_dashboard.ctp:200
+#: Template/Dashboard/member_dashboard.ctp:224 Template/Dashboard/member_dashboard.ctp:248
+#: Template/Dashboard/member_dashboard.ctp:272 Template/Dashboard/member_dashboard.ctp:296
+#: Template/Dashboard/member_dashboard.ctp:320 Template/Dashboard/member_dashboard.ctp:344
+#: Template/GymMember/view_member.ctp:155 Template/GymMember/view_member.ctp:179
+#: Template/GymMember/view_member.ctp:205 Template/GymMember/view_member.ctp:229
+#: Template/GymMember/view_member.ctp:255 Template/GymMember/view_member.ctp:279
+#: Template/GymMember/view_member.ctp:305
+msgid "There is not enough data to generate report"
+msgstr "レポートを生成するのに十分なデータがありません"
+
+#: Template/Dashboard/dashboard.ctp:209 Template/Dashboard/dashboard.ctp:240
+#: Template/Reports/attendance_report.ctp:81
+msgid "Member Attendance Report"
+msgstr "会員出席レポート"
+
+#: Template/Dashboard/dashboard.ctp:223 Template/Reports/attendance_report.ctp:93
+#: Template/Reports/membership_report.ctp:41
+msgid "No of Member"
+msgstr "メンバーの数"
+
+#: Template/Dashboard/dashboard.ctp:263
+msgid "Staff Attendance Report"
+msgstr "スタッフ出席報告"
+
+#: Template/Dashboard/dashboard.ctp:277
+msgid "Number of Staff Members"
+msgstr "スタッフ数"
+
+#: Template/Dashboard/dashboard.ctp:292 Template/GymAttendance/attendance.ctp:29
+#: Template/GymAttendance/staff_attendance.ctp:18
+msgid "Staff Attendance"
+msgstr "スタッフの出席"
+
+#: Template/Dashboard/member_dashboard.ctp:191
+msgid "Weight Progress Report"
+msgstr "体重進捗レポート"
+
+#: Template/Dashboard/member_dashboard.ctp:215
+msgid "Waist  Progress Report"
+msgstr "ウエスト進捗レポート"
+
+#: Template/Dashboard/member_dashboard.ctp:239
+msgid "Thigh Progress Report"
+msgstr "太もも進捗レポート"
+
+#: Template/Dashboard/member_dashboard.ctp:263
+msgid "Arms Progress Report"
+msgstr "武器進捗レポート"
+
+#: Template/Dashboard/member_dashboard.ctp:287
+msgid "Height Progress Report"
+msgstr "身長進捗レポート"
+
+#: Template/Dashboard/member_dashboard.ctp:311
+msgid "Chest Progress Report"
+msgstr "チェストプログレスレポート"
+
+#: Template/Dashboard/member_dashboard.ctp:335
+msgid "Fat Progress Report"
+msgstr "脂肪経過レポート"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "バージョン"
+
+#: Template/Element/topbar.ctp:40
+msgid "Member since"
+msgstr "以来のメンバー"
+
+#: Template/Element/topbar.ctp:47 Template/Element/topbar.ctp:53
+msgid "Profile"
+msgstr "プロフィール"
+
+#: Template/Element/topbar.ctp:57
+msgid "Sign out"
+msgstr "サインアウト"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "設定"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "システム設定"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "ジム名"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "開始年"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "ジムの住所"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "会社の電話番号"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:132
+msgid "Country"
+msgstr "国"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "システム言語"
+
+#: Template/GeneralSetting/save_setting.ctp:108
+msgid "Set Language to RTL"
+msgstr "言語をRTLに設定"
+
+#: Template/GeneralSetting/save_setting.ctp:110
+#: Template/GeneralSetting/save_setting.ctp:369
+#: Template/GeneralSetting/save_setting.ctp:376
+#: Template/GeneralSetting/save_setting.ctp:386
+#: Template/GeneralSetting/save_setting.ctp:416
+#: Template/GeneralSetting/save_setting.ctp:453
+msgid "Enable"
+msgstr "有効にする"
+
+#: Template/GeneralSetting/save_setting.ctp:115
+msgid "Date Picker Language"
+msgstr "日付ピッカーの言語"
+
+#: Template/GeneralSetting/save_setting.ctp:166 Template/Installer/index.ctp:472
+msgid "Date Format"
+msgstr "日付フォーマット"
+
+#: Template/GeneralSetting/save_setting.ctp:179 Template/Installer/index.ctp:483
+msgid "Calendar Language"
+msgstr "カレンダーの言語"
+
+#: Template/GeneralSetting/save_setting.ctp:253
+msgid "Time Zone"
+msgstr "タイムゾーン"
+
+#: Template/GeneralSetting/save_setting.ctp:283
+msgid "Gym Logo"
+msgstr "ジムのロゴ"
+
+#: Template/GeneralSetting/save_setting.ctp:300
+msgid "Cover Image"
+msgstr "表紙画像"
+
+#: Template/GeneralSetting/save_setting.ctp:312
+msgid "Measurement Units"
+msgstr "測定単位"
+
+#: Template/GeneralSetting/save_setting.ctp:314 Template/GymMember/add_member.ctp:277
+msgid "Weight"
+msgstr "重量"
+
+#: Template/GeneralSetting/save_setting.ctp:321 Template/GymMember/add_member.ctp:284
+msgid "Height"
+msgstr "高さ"
+
+#: Template/GeneralSetting/save_setting.ctp:328 Template/GymMember/add_member.ctp:291
+msgid "Chest"
+msgstr "胸"
+
+#: Template/GeneralSetting/save_setting.ctp:335 Template/GymMember/add_member.ctp:298
+msgid "Waist"
+msgstr "ウエスト"
+
+#: Template/GeneralSetting/save_setting.ctp:342
+msgid "Thing"
+msgstr "こと"
+
+#: Template/GeneralSetting/save_setting.ctp:349 Template/GymMember/add_member.ctp:312
+msgid "Arms"
+msgstr "腕"
+
+#: Template/GeneralSetting/save_setting.ctp:356 Template/GymMember/add_member.ctp:319
+msgid "Fat"
+msgstr "脂肪"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+msgid "Member Privacy Setting"
+msgstr "メンバーのプライバシー設定"
+
+#: Template/GeneralSetting/save_setting.ctp:366
+msgid "Member can view other member's details"
+msgstr "メンバーは他のメンバーの詳細を見ることができます"
+
+#: Template/GeneralSetting/save_setting.ctp:373
+msgid "Staff Member can view own trainee member's details"
+msgstr "スタッフメンバーは自分のトレーニングメンバーの詳細を見ることができます"
+
+#: Template/GeneralSetting/save_setting.ctp:382
+msgid "Paypal Setting"
+msgstr "ペイパル設定"
+
+#: Template/GeneralSetting/save_setting.ctp:384
+msgid "Enable Sandbox"
+msgstr "サンドボックスを有効にする"
+
+#: Template/GeneralSetting/save_setting.ctp:391
+msgid "Paypal Email Id"
+msgstr "ペイパルメールID"
+
+#: Template/GeneralSetting/save_setting.ctp:398
+msgid "Select Currency"
+msgstr "通貨を選択してください"
+
+#: Template/GeneralSetting/save_setting.ctp:412
+msgid "Membership Alert Message Setting"
+msgstr "会員警告メッセージの設定"
+
+#: Template/GeneralSetting/save_setting.ctp:414
+msgid "Enable Alert Mail"
+msgstr "アラートメールを有効にする"
+
+#: Template/GeneralSetting/save_setting.ctp:421
+msgid "Reminder Before Days"
+msgstr "日前のリマインダー"
+
+#: Template/GeneralSetting/save_setting.ctp:429
+msgid "Reminder Message"
+msgstr "通知メッセージ"
+
+#: Template/GeneralSetting/save_setting.ctp:436
+msgid "ShortCodes For Notification Mail Message"
+msgstr "通知メールメッセージのショートコード"
+
+#: Template/GeneralSetting/save_setting.ctp:439
+#: Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77 Template/GymAttendance/attendance.ctp:108
+#: Template/GymAttendance/attendance.ctp:117 Template/GymAttendance/staff_attendance.ctp:69
+#: Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82 Template/GymMember/member_list.ctp:56
+#: Template/GymMember/member_list.ctp:109 Template/GymNutrition/nutrition_list.ctp:53
+#: Template/GymNutrition/nutrition_list.ctp:77 Template/GymStore/sell_record.ctp:36
+#: Template/GymStore/sell_record.ctp:63 Template/GymSubscriptionHistory/index.ctp:41
+#: Template/GymSubscriptionHistory/index.ctp:71
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "メンバー名"
+
+#: Template/GeneralSetting/save_setting.ctp:440 Template/Membership/add.ctp:81
+#: Template/Membership/edit_membership.ctp:21 Template/Membership/membership_list.ctp:54
+#: Template/Membership/membership_list.ctp:102 Template/Reports/membership_report.ctp:35
+msgid "Membership Name"
+msgstr "会員名"
+
+#: Template/GeneralSetting/save_setting.ctp:441 Template/GymMember/view_member.ctp:390
+#: Template/GymMember/view_member.ctp:418 Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:75
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "会員開始日"
+
+#: Template/GeneralSetting/save_setting.ctp:442 Template/GymMember/view_member.ctp:391
+#: Template/GymMember/view_member.ctp:419 Template/GymSubscriptionHistory/index.ctp:46
+#: Template/GymSubscriptionHistory/index.ctp:76
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "会員終了日"
+
+#: Template/GeneralSetting/save_setting.ctp:449
+msgid "Message Setting"
+msgstr "メッセージ設定"
+
+#: Template/GeneralSetting/save_setting.ctp:451
+msgid "Member can Message To other's"
+msgstr "メンバーは他の人にメッセージを送ることができます"
+
+#: Template/GeneralSetting/save_setting.ctp:458
+msgid "Header & Footer Text"
+msgstr "ヘッダーとフッターのテキスト"
+
+#: Template/GeneralSetting/save_setting.ctp:460
+msgid "Left Header Text"
+msgstr "左ヘッダーテキスト"
+
+#: Template/GeneralSetting/save_setting.ctp:467
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+#: Template/GeneralSetting/save_setting.ctp:475
+msgid "Save Settings"
+msgstr "設定を保存する"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "アクセス権設定"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "メニュー"
+
+#: Template/GymAccessright/access_right.ctp:213
+msgid "Attendence"
+msgstr "注意"
+
+#: Template/GymAccessright/access_right.ctp:243
+msgid "Assigned Workouts"
+msgstr "割り当てられたトレーニング"
+
+#: Template/GymAccessright/access_right.ctp:273
+msgid "Workouts"
+msgstr "トレーニング"
+
+#: Template/GymAccessright/access_right.ctp:333 Template/Reports/payment_report.ctp:47
+msgid "Fee Payment"
+msgstr "料金の支払い"
+
+#: Template/GymAccessright/access_right.ctp:392
+#: Template/MembershipPayment/add_expense.ctp:22
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "費用"
+
+#: Template/GymAccessright/access_right.ctp:663
+msgid "Account"
+msgstr "アカウント"
+
+#: Template/GymAccessright/access_right.ctp:694 Template/GymMember/view_member.ctp:382
+#: Template/GymSubscriptionHistory/index.ctp:31
+#: Template/GymSubscriptionHistory/index.ctp:32
+msgid "Subscription History"
+msgstr "購読履歴"
+
+#: Template/GymAccessright/access_right.ctp:724
+#: Template/GymDailyWorkout/add_workout.ctp:210 Template/GymEmailSetting/index.ctp:46
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNotice/add_notice.ctp:102
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+#: Template/GymProduct/add_product.ctp:47 Template/GymProfile/view_profile.ctp:95
+#: Template/GymProfile/view_profile.ctp:155 Template/GymStore/sell_product.ctp:84
+msgid "Save"
+msgstr "保存する"
+
+#: Template/GymAccountant/accountant_list.ctp:36
+#: Template/GymAccountant/add_accountant.ctp:34
+msgid "Accountant List"
+msgstr "会計士リスト"
+
+#: Template/GymAccountant/accountant_list.ctp:53
+#: Template/GymAccountant/accountant_list.ctp:87
+#: Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76 Template/GymAttendance/attendance.ctp:107
+#: Template/GymAttendance/attendance.ctp:116 Template/GymAttendance/staff_attendance.ctp:68
+#: Template/GymDailyWorkout/workout_list.ctp:55
+#: Template/GymDailyWorkout/workout_list.ctp:81 Template/GymGroup/group_list.ctp:44
+#: Template/GymGroup/group_list.ctp:75 Template/GymMember/member_list.ctp:55
+#: Template/GymMember/member_list.ctp:108 Template/GymMember/view_member.ctp:320
+#: Template/Membership/membership_list.ctp:53 Template/Membership/membership_list.ctp:101
+#: Template/StaffMembers/staff_list.ctp:47 Template/StaffMembers/staff_list.ctp:80
+msgid "Photo"
+msgstr "写真"
+
+#: Template/GymAccountant/accountant_list.ctp:54
+#: Template/GymAccountant/accountant_list.ctp:88
+msgid "Accountant Name"
+msgstr "会計士の名前"
+
+#: Template/GymAccountant/accountant_list.ctp:55
+#: Template/GymAccountant/accountant_list.ctp:89
+msgid "Accountant Email"
+msgstr "会計士Eメール"
+
+#: Template/GymAccountant/accountant_list.ctp:56
+#: Template/GymAccountant/accountant_list.ctp:90 Template/GymProfile/view_profile.ctp:136
+#: Template/StaffMembers/staff_list.ctp:51 Template/StaffMembers/staff_list.ctp:84
+msgid "Mobile No."
+msgstr "携帯電話番号"
+
+#: Template/GymAccountant/add_accountant.ctp:51 Template/GymMember/add_member.ctp:178
+#: Template/MemberRegistration/index.ctp:122 Template/StaffMembers/add_staff.ctp:67
+msgid "Middle Name"
+msgstr "ミドルネーム"
+
+#: Template/GymAccountant/add_accountant.ctp:65 Template/GymMember/add_member.ctp:192
+#: Template/GymMember/view_member.ctp:86 Template/MemberRegistration/index.ctp:136
+#: Template/StaffMembers/add_staff.ctp:81
+msgid "Gender"
+msgstr "性別"
+
+#: Template/GymAccountant/add_accountant.ctp:68 Template/GymMember/add_member.ctp:195
+#: Template/StaffMembers/add_staff.ctp:84
+msgid "Male"
+msgstr "男性"
+
+#: Template/GymAccountant/add_accountant.ctp:69 Template/GymMember/add_member.ctp:196
+#: Template/StaffMembers/add_staff.ctp:85
+msgid "Female"
+msgstr "女性"
+
+#: Template/GymAccountant/add_accountant.ctp:76 Template/GymMember/add_member.ctp:203
+#: Template/GymProfile/view_profile.ctp:113 Template/MemberRegistration/index.ctp:147
+#: Template/StaffMembers/add_staff.ctp:92
+msgid "Date of birth"
+msgstr "生年月日"
+
+#: Template/GymAccountant/add_accountant.ctp:82 Template/GymMember/add_member.ctp:220
+#: Template/MemberRegistration/index.ctp:161 Template/StaffMembers/add_staff.ctp:117
+msgid "Contact Information"
+msgstr "連絡先"
+
+#: Template/GymAccountant/add_accountant.ctp:84 Template/GymProfile/view_profile.ctp:122
+#: Template/StaffMembers/add_staff.ctp:119
+msgid "Home Town Address"
+msgstr "ホームタウン住所"
+
+#: Template/GymAccountant/add_accountant.ctp:91 Template/GymMember/add_member.ctp:229
+#: Template/GymProfile/view_profile.ctp:130 Template/MemberRegistration/index.ctp:171
+#: Template/StaffMembers/add_staff.ctp:126
+msgid "City"
+msgstr "シティ"
+
+#: Template/GymAccountant/add_accountant.ctp:98 Template/GymMember/add_member.ctp:250
+#: Template/MemberRegistration/index.ctp:192 Template/StaffMembers/add_staff.ctp:133
+msgid "Mobile Number"
+msgstr "携帯電話番号"
+
+#: Template/GymAccountant/add_accountant.ctp:108 Template/GymMember/add_member.ctp:260
+#: Template/GymProfile/view_profile.ctp:142 Template/MemberRegistration/index.ctp:202
+#: Template/StaffMembers/add_staff.ctp:143
+msgid "Phone"
+msgstr "電話"
+
+#: Template/GymAccountant/add_accountant.ctp:147
+msgid "Save Accountant"
+msgstr "会計士を保存"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:68
+#: Template/GymAssignWorkout/assign_workout1.ctp:49
+msgid "Workout Logs"
+msgstr "ワークアウトログ"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:78
+#: Template/GymAssignWorkout/assign_workout1.ctp:59
+#: Template/GymDailyWorkout/add_workout.ctp:149
+#: Template/GymDailyWorkout/add_workout.ctp:163
+#: Template/GymNutrition/addnutrition_schedule.ctp:56
+#: Template/MembershipPayment/generate_payment_invoice.ctp:71
+#: Template/Reports/monthlyworkoutreport.ctp:52
+msgid "Select Member"
+msgstr "メンバーを選択"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:103
+#: Template/GymAssignWorkout/assign_workout1.ctp:82 Template/GymMessage/inbox.ctp:54
+#: Template/GymMessage/sent.ctp:43 Template/GymNutrition/addnutrition_schedule.ctp:185
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:54
+msgid "Description"
+msgstr "説明"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:117
+#: Template/GymAssignWorkout/assign_workout1.ctp:96
+#: Template/GymMember/view_attendance.ctp:52 Template/GymNotice/add_notice.ctp:89
+#: Template/GymNutrition/addnutrition_schedule.ctp:78
+#: Template/Reports/attendance_report.ctp:68
+msgid "End Date"
+msgstr "終了日"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:138
+#: Template/GymAssignWorkout/assign_workout1.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "選択した日に追加するトレーニング活動を選択してください"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:144
+#: Template/GymAssignWorkout/assign_workout1.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "ステップ-1ワークアウトを追加する"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "ステップ-2ワークアウトを保存"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:159
+#: Template/GymAssignWorkout/assign_workout1.ctp:137
+msgid "Save Workout"
+msgstr "ワークアウトを保存"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "Start From"
+msgstr "から始まる"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:188
+#: Template/GymAssignWorkout/assign_workout1.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:175
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:45
+msgid "TO"
+msgstr "に"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:194
+#: Template/GymAssignWorkout/assign_workout1.ctp:172
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:60
+#: Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:181
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:50
+msgid "Day name"
+msgstr "日の名前"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "ワークアウトログ"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97
+#: Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "レコードが見つかりません"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54
+#: Template/GymAssignWorkout/workout_log.ctp:78 Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:78
+msgid "Member Goal"
+msgstr "メンバーの目標"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67
+#: Template/GymDailyWorkout/view_workout.ctp:58
+msgid "View Workouts"
+msgstr "ワークアウトを見る"
+
+#: Template/GymAttendance/attendance.ctp:22 Template/GymAttendance/staff_attendance.ctp:22
+msgid "Member Attendance"
+msgstr "会員の出席"
+
+#: Template/GymAttendance/attendance.ctp:43 Template/GymAttendance/attendance.ctp:47
+#: Template/GymMessage/compose_message.ctp:62 Template/GymNotice/add_notice.ctp:76
+#: Template/Membership/add.ctp:142
+msgid "Select Class"
+msgstr "クラスを選択"
+
+#: Template/GymAttendance/attendance.ctp:55 Template/GymMember/view_attendance.ctp:33
+msgid "View Attendance"
+msgstr "出席を見る"
+
+#: Template/GymAttendance/attendance.ctp:59 Template/GymAttendance/staff_attendance.ctp:36
+msgid "Take/View Attendance"
+msgstr "出席を取る/見る"
+
+#: Template/GymAttendance/attendance.ctp:168 Template/GymAttendance/staff_attendance.ctp:88
+msgid "Save Attendance"
+msgstr "出席を保存"
+
+#: Template/GymAttendance/attendance.ctp:179
+msgid "No attendance found."
+msgstr "出席は見つかりませんでした。"
+
+#: Template/GymAttendance/staff_attendance.ctp:52
+msgid "Staff Attendance, Date"
+msgstr "スタッフの出席、日付"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:127
+#: Template/GymDailyWorkout/view_workout.ctp:34
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "毎日のワークアウト"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:27
+#: Template/GymDailyWorkout/add_workout.ctp:130
+#: Template/GymDailyWorkout/view_workout.ctp:37
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "ワークアウトリスト"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:56
+msgid "Result Measurement"
+msgstr "結果の測定"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:60
+msgid "Select Result Measurement"
+msgstr "結果測定を選択"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:71
+msgid "Result Date"
+msgstr "結果日"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:87
+msgid "Save Measurement"
+msgstr "測定値を保存"
+
+#: Template/GymDailyWorkout/add_workout.ctp:179
+msgid "Select Date"
+msgstr "日付を選択"
+
+#: Template/GymDailyWorkout/add_workout.ctp:197
+msgid "Select Record Date For Today Workout"
+msgstr "今日のワークアウトの記録日を選択"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57
+#: Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "モバイル"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72 Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "見る"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "測定値を見る"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "メール設定"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:108
+msgid "Host"
+msgstr "ホスト"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "港"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:95
+msgid "To"
+msgstr "に"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "テストメールを送信する"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "グループ名"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "グループイメージ"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "グループを保存"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "グループメンバー総数"
+
+#: Template/GymMember/add_member.ctp:152 Template/GymMember/member_list.ctp:38
+#: Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "メンバーリスト"
+
+#: Template/GymMember/add_member.ctp:163 Template/GymMember/member_list.ctp:57
+#: Template/GymMember/member_list.ctp:110 Template/GymMember/view_member.ctp:62
+#: Template/MemberRegistration/index.ctp:107
+msgid "Member ID"
+msgstr "会員の身元"
+
+#: Template/GymMember/add_member.ctp:222 Template/GymMember/view_member.ctp:70
+#: Template/MemberRegistration/index.ctp:164
+msgid "Address"
+msgstr "住所"
+
+#: Template/GymMember/add_member.ctp:236
+msgid "State"
+msgstr "状態"
+
+#: Template/GymMember/add_member.ctp:243 Template/MemberRegistration/index.ctp:185
+msgid "Zip code"
+msgstr "郵便番号"
+
+#: Template/GymMember/add_member.ctp:275
+msgid "Physical Information"
+msgstr "身体情報"
+
+#: Template/GymMember/add_member.ctp:305
+msgid "Thigh"
+msgstr "大腿"
+
+#: Template/GymMember/add_member.ctp:351 Template/MemberRegistration/index.ctp:242
+msgid "More Information"
+msgstr "詳しくは"
+
+#: Template/GymMember/add_member.ctp:358 Template/GymMember/add_member.ctp:388
+msgid "Add Staff"
+msgstr "スタッフを追加"
+
+#: Template/GymMember/add_member.ctp:363 Template/MemberRegistration/index.ctp:245
+msgid "Interested Area"
+msgstr "興味のある分野"
+
+#: Template/GymMember/add_member.ctp:365 Template/MemberRegistration/index.ctp:247
+msgid "Select Interest"
+msgstr "関心を選択"
+
+#: Template/GymMember/add_member.ctp:368 Template/GymMember/add_member.ctp:378
+#: Template/StaffMembers/add_staff.ctp:104 Template/StaffMembers/add_staff.ctp:112
+msgid "Add/Remove"
+msgstr "削除を追加"
+
+#: Template/GymMember/add_member.ctp:373 Template/MemberRegistration/index.ctp:252
+msgid "Source"
+msgstr "ソース"
+
+#: Template/GymMember/add_member.ctp:375 Template/MemberRegistration/index.ctp:254
+msgid "Select Source"
+msgstr "ソースを選択"
+
+#: Template/GymMember/add_member.ctp:383
+msgid "Referred By"
+msgstr "参照元"
+
+#: Template/GymMember/add_member.ctp:393
+msgid "Inquiry Date"
+msgstr "お問い合わせ日"
+
+#: Template/GymMember/add_member.ctp:400
+msgid "Trial End Date"
+msgstr "試用終了日"
+
+#: Template/GymMember/add_member.ctp:409 Template/GymMember/member_list.ctp:60
+#: Template/GymMember/member_list.ctp:113
+msgid "Member Type"
+msgstr "会員タイプ"
+
+#: Template/GymMember/add_member.ctp:413 Template/GymMember/add_member.ctp:447
+msgid "Prospect"
+msgstr "見通し"
+
+#: Template/GymMember/add_member.ctp:414
+msgid "Alumni"
+msgstr "卒業生"
+
+#: Template/GymMember/add_member.ctp:435
+msgid "Add Class"
+msgstr "クラスを追加"
+
+#: Template/GymMember/add_member.ctp:444 Template/GymMember/member_list.ctp:61
+#: Template/GymMember/member_list.ctp:114
+msgid "Membership Status"
+msgstr "会員ステータス"
+
+#: Template/GymMember/add_member.ctp:448
+msgid "Continue"
+msgstr "持続する"
+
+#: Template/GymMember/add_member.ctp:449
+msgid "Expired"
+msgstr "期限切れ"
+
+#: Template/GymMember/add_member.ctp:450
+msgid "Dropped"
+msgstr "落とした"
+
+#: Template/GymMember/add_member.ctp:456
+#: Template/MembershipPayment/generate_payment_invoice.ctp:91
+msgid "Membership Valid From"
+msgstr "メンバーシップ有効期間"
+
+#: Template/GymMember/add_member.ctp:469
+msgid "First Payment Date"
+msgstr "初回支払日"
+
+#: Template/GymMember/add_member.ctp:477 Template/MemberRegistration/index.ctp:292
+msgid "Save Member"
+msgstr "メンバーを保存"
+
+#: Template/GymMember/member_list.ctp:58 Template/GymMember/member_list.ctp:111
+msgid "Joining Date"
+msgstr "入会日"
+
+#: Template/GymMember/member_list.ctp:59 Template/GymMember/member_list.ctp:112
+msgid "Expire Date"
+msgstr "有効期限"
+
+#: Template/GymMember/member_list.ctp:96
+msgid "Activate"
+msgstr "有効にする"
+
+#: Template/GymMember/member_list.ctp:98
+msgid "Activated"
+msgstr "有効化"
+
+#: Template/GymMember/view_attendance.ctp:37
+msgid "Member List"
+msgstr "メンバーリスト"
+
+#: Template/GymMember/view_attendance.ctp:57 Template/Reports/attendance_report.ctp:74
+msgid "Go"
+msgstr "行く"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "メンバーを見る"
+
+#: Template/GymMember/view_member.ctp:66 Template/GymProfile/view_profile.ctp:64
+msgid "Name"
+msgstr "名"
+
+#: Template/GymMember/view_member.ctp:78
+msgid "Mobile No"
+msgstr "携帯電話番号"
+
+#: Template/GymMember/view_member.ctp:82
+msgid "Date Of Birth"
+msgstr "生年月日"
+
+#: Template/GymMember/view_member.ctp:103
+msgid "Moreinfo"
+msgstr "もっと知る"
+
+#: Template/GymMember/view_member.ctp:107
+msgid "MemberShip"
+msgstr "メンバーシップ"
+
+#: Template/GymMember/view_member.ctp:111
+msgid "Expiry Date"
+msgstr "有効期限"
+
+#: Template/GymMember/view_member.ctp:115
+msgid "Classes"
+msgstr "クラス"
+
+#: Template/GymMember/view_member.ctp:119
+msgid "Interest Area"
+msgstr "関心分野"
+
+#: Template/GymMember/view_member.ctp:133
+msgid "Groups"
+msgstr "グループ"
+
+#: Template/GymMember/view_member.ctp:147
+msgid "Add Weight"
+msgstr "重量を追加"
+
+#: Template/GymMember/view_member.ctp:171
+msgid "Add Waist"
+msgstr "ウエストを追加"
+
+#: Template/GymMember/view_member.ctp:197
+msgid "Add Thigh"
+msgstr "太ももを追加"
+
+#: Template/GymMember/view_member.ctp:221
+msgid "Add Arms"
+msgstr "腕を追加"
+
+#: Template/GymMember/view_member.ctp:247
+msgid "Add Height"
+msgstr "高さを追加"
+
+#: Template/GymMember/view_member.ctp:271
+msgid "Add Chest"
+msgstr "胸を追加"
+
+#: Template/GymMember/view_member.ctp:297
+msgid "Add Fat"
+msgstr "脂肪を追加"
+
+#: Template/GymMember/view_member.ctp:321
+msgid "Add Photo"
+msgstr "写真を追加する"
+
+#: Template/GymMember/view_member.ctp:387 Template/GymMember/view_member.ctp:415
+#: Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:72
+msgid "Membership Title"
+msgstr "会員の称号"
+
+#: Template/GymMember/view_member.ctp:389 Template/GymMember/view_member.ctp:417
+#: Template/GymSubscriptionHistory/index.ctp:44
+#: Template/GymSubscriptionHistory/index.ctp:74
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "支払額"
+
+#: Template/GymMember/view_member.ctp:392 Template/GymMember/view_member.ctp:420
+#: Template/GymSubscriptionHistory/index.ctp:47
+#: Template/GymSubscriptionHistory/index.ctp:77
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "支払い状況"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "メッセージを作成します"
+
+#: Template/GymMessage/compose_message.ctp:25 Template/GymMessage/compose_message.ctp:28
+#: Template/GymMessage/inbox.ctp:26 Template/GymMessage/inbox.ctp:30
+#: Template/GymMessage/sent.ctp:20 Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "構成する"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "受信トレイ"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "送信済み"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "へのメッセージ"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "無し"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "件名"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "メッセージコメント"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "メッセージを送る"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "受信トレイメッセージ"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "からのメッセージ"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "メッセージを送った"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "設定"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "メールを同期"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "メールチンプリスト"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "リストを選択"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "キャンペーンリスト"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "キャンペーンを選択"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "キャンペーンを送信"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "キャンペーン"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "メールチンパンジーキー"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "メーリングリスト"
+
+#: Template/GymNotice/add_notice.ctp:41
+msgid "Edit Notice"
+msgstr "通知を編集"
+
+#: Template/GymNotice/add_notice.ctp:43 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "お知らせを追加"
+
+#: Template/GymNotice/add_notice.ctp:50 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "お知らせ一覧"
+
+#: Template/GymNotice/add_notice.ctp:58 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "お知らせタイトル"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "All"
+msgstr "すべて"
+
+#: Template/GymNotice/add_notice.ctp:96
+msgid "Comment"
+msgstr "コメント"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "栄養スケジュールリスト"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:98
+msgid "Select Nutrition to add on selected days"
+msgstr "選択した日に追加する栄養を選択してください"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:103
+msgid "Break Fast"
+msgstr "朝ごはん"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:109
+msgid "Mid-Morning Snacks"
+msgstr "午前中の軽食"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:115
+msgid "Lunch"
+msgstr "ランチ"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:120
+msgid "Afternoon Snacks"
+msgstr "午後の軽食"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:125
+msgid "Dinner"
+msgstr "ディナー"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:129
+msgid "+ Add Nutrition"
+msgstr "+栄養を加える"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:146
+msgid "Step-2 Save"
+msgstr "ステップ2保存"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:184
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Time"
+msgstr "時間"
+
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:80
+msgid "No record found."
+msgstr "レコードが見つかりませんでした。"
+
+#: Template/GymNutrition/nutrition_list.ctp:52 Template/GymNutrition/nutrition_list.ctp:76
+msgid "Member Photo"
+msgstr "メンバー写真"
+
+#: Template/GymProduct/add_product.ctp:9
+msgid "Edit Product"
+msgstr "商品を編集する"
+
+#: Template/GymProduct/add_product.ctp:11 Template/GymProduct/product_list.ctp:37
+#: Template/GymStore/sell_product.ctp:70
+msgid "Add Product"
+msgstr "商品を追加する"
+
+#: Template/GymProduct/add_product.ctp:15 Template/GymProduct/product_list.ctp:31
+msgid "Products"
+msgstr "製品情報"
+
+#: Template/GymProduct/add_product.ctp:18 Template/GymProduct/product_list.ctp:30
+msgid "Product List"
+msgstr "製品リスト"
+
+#: Template/GymProduct/add_product.ctp:26 Template/GymProduct/product_list.ctp:47
+#: Template/GymProduct/product_list.ctp:76 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:62
+msgid "Product Name"
+msgstr "商品名"
+
+#: Template/GymProduct/add_product.ctp:32 Template/GymProduct/product_list.ctp:48
+#: Template/GymProduct/product_list.ctp:77
+msgid "Product Price"
+msgstr "商品の価格"
+
+#: Template/GymProduct/add_product.ctp:41 Template/GymProduct/product_list.ctp:49
+#: Template/GymProduct/product_list.ctp:78 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:64
+msgid "Product Quantity"
+msgstr "製品数量"
+
+#: Template/GymProfile/view_profile.ctp:51
+msgid "Account Settings"
+msgstr "アカウント設定"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "Current Password"
+msgstr "現在のパスワード"
+
+#: Template/GymProfile/view_profile.ctp:82
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: Template/GymProfile/view_profile.ctp:87 Template/Installer/index.ctp:571
+msgid "Confirm Password"
+msgstr "パスワードを認証する"
+
+#: Template/GymProfile/view_profile.ctp:106
+msgid "Other Information"
+msgstr "その他の情報"
+
+#: Template/GymReservation/add_reservation.ctp:58
+msgid "Edit Event"
+msgstr "イベントを編集"
+
+#: Template/GymReservation/add_reservation.ctp:60
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Add Event"
+msgstr "イベントを追加"
+
+#: Template/GymReservation/add_reservation.ctp:63
+msgid "Schedule"
+msgstr "スケジュール"
+
+#: Template/GymReservation/add_reservation.ctp:66
+#: Template/GymReservation/reservation_list.ctp:34
+msgid "Event List"
+msgstr "イベント一覧"
+
+#: Template/GymReservation/add_reservation.ctp:75
+#: Template/GymReservation/reservation_list.ctp:51
+#: Template/GymReservation/reservation_list.ctp:83
+msgid "Event Name"
+msgstr "イベント名"
+
+#: Template/GymReservation/add_reservation.ctp:82
+#: Template/GymReservation/reservation_list.ctp:52
+#: Template/GymReservation/reservation_list.ctp:84
+msgid "Event Date"
+msgstr "開催日"
+
+#: Template/GymReservation/add_reservation.ctp:89
+msgid "Event Place"
+msgstr "イベント会場"
+
+#: Template/GymReservation/add_reservation.ctp:91
+msgid "Select Event Places"
+msgstr "イベント会場を選択"
+
+#: Template/GymReservation/add_reservation.ctp:94
+msgid "Add or Remove"
+msgstr "追加または削除"
+
+#: Template/GymReservation/reservation_list.ctp:53
+#: Template/GymReservation/reservation_list.ctp:85
+msgid "Place"
+msgstr "場所"
+
+#: Template/GymStore/sell_product.ctp:29
+msgid "Edit Sell Product"
+msgstr "商品を編集する"
+
+#: Template/GymStore/sell_product.ctp:31 Template/GymStore/sell_record.ctp:26
+msgid "Add Sell Product"
+msgstr "商品を追加する"
+
+#: Template/GymStore/sell_product.ctp:38 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "レコードを売る"
+
+#: Template/GymStore/sell_product.ctp:63
+msgid "Select Product"
+msgstr "製品を選択してください"
+
+#: Template/GymStore/sell_product.ctp:75
+msgid "Quantity"
+msgstr "量"
+
+#: Template/Installer/index.ctp:10 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "ジムマスター -  GYM管理インストールウィザード"
+
+#: Template/Installer/index.ctp:16 Template/Installer/index.ctp:18
+msgid "Server Requirements"
+msgstr "サーバー要件"
+
+#: Template/Installer/index.ctp:79 Template/Installer/index.ctp:81
+msgid "Database Setup"
+msgstr "データベース設定"
+
+#: Template/Installer/index.ctp:84
+msgid "Database Name"
+msgstr "データベース名"
+
+#: Template/Installer/index.ctp:92
+msgid "Database Username"
+msgstr "データベースユーザー名"
+
+#: Template/Installer/index.ctp:100
+msgid "Database Password"
+msgstr "データベースパスワード"
+
+#: Template/Installer/index.ctp:116 Template/Installer/index.ctp:546
+msgid "Fields are required."
+msgstr "フィールドは必須です。"
+
+#: Template/Installer/index.ctp:119 Template/Installer/index.ctp:121
+msgid "System Setting"
+msgstr "システム設定"
+
+#: Template/Installer/index.ctp:124
+msgid "System Name"
+msgstr "システム名"
+
+#: Template/Installer/index.ctp:549 Template/Installer/index.ctp:551
+msgid "Login Details"
+msgstr "ログインの詳細"
+
+#: Template/Installer/index.ctp:579
+msgid "Finish"
+msgstr "終了"
+
+#: Template/Installer/index.ctp:581
+msgid "Please Note :"
+msgstr "ご注意ください ："
+
+#: Template/Installer/index.ctp:584
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1.データベースの設定に数分かかることがあります。"
+
+#: Template/Installer/index.ctp:587
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "あなたがインストールボタンをクリックした後2.ページを更新しないでください。"
+
+#: Template/Installer/index.ctp:590
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3.インストールが完了したら、成功メッセージで1回確認します。"
+
+#: Template/Installer/index.ctp:593
+msgid "4. Click on install to complete the installation."
+msgstr "4.インストールをクリックしてインストールを完了します。"
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "おめでとう"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "インストールは正常に完了しました"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "クリック"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "ここで\\ tloginページにリダイレクトします。"
+
+#: Template/MemberRegistration/index.ctp:97 Template/Users/login.ctp:32
+msgid "Member Registration"
+msgstr "会員登録"
+
+#: Template/MemberRegistration/index.ctp:178
+msgid "state"
+msgstr "状態"
+
+#: Template/MemberRegistration/index.ctp:273
+msgid "Select Joining Date"
+msgstr "参加日を選択"
+
+#: Template/MemberRegistration/index.ctp:295
+msgid "Go Back"
+msgstr "戻る"
+
+#: Template/Membership/add.ctp:69 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:36 Template/Membership/view_activity.ctp:44
+msgid "Membership List"
+msgstr "会員リスト"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "会員区分"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:55 Template/Membership/membership_list.ctp:103
+msgid "Membership Period"
+msgstr "会員期間"
+
+#: Template/Membership/add.ctp:101
+msgid "No. of Days"
+msgstr "日数"
+
+#: Template/Membership/add.ctp:108 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "会員制限"
+
+#: Template/Membership/add.ctp:110
+msgid "Limited"
+msgstr "限られた"
+
+#: Template/Membership/add.ctp:111
+msgid "Unlimited"
+msgstr "無制限"
+
+#: Template/Membership/add.ctp:114
+msgid "no. of classes"
+msgstr "いいえ。クラスの"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every week"
+msgstr "毎週クラス"
+
+#: Template/Membership/add.ctp:117
+msgid "Class every month"
+msgstr "毎月の授業"
+
+#: Template/Membership/add.ctp:132 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "会員数"
+
+#: Template/Membership/add.ctp:150 Template/Membership/membership_list.ctp:56
+#: Template/Membership/membership_list.ctp:104
+msgid "Installment Plan"
+msgstr "分割払い"
+
+#: Template/Membership/add.ctp:156 Template/Membership/edit_membership.ctp:56
+msgid "Select Installment Plan"
+msgstr "分割支払計画の選択"
+
+#: Template/Membership/add.ctp:161 Template/Membership/edit_membership.ctp:62
+msgid "Add Installment Plan"
+msgstr "分割支払計画の追加"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "登録料"
+
+#: Template/Membership/add.ctp:177 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "会員の説明"
+
+#: Template/Membership/add.ctp:184 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "会員イメージ"
+
+#: Template/Membership/add.ctp:198
+msgid "Save Membership"
+msgstr "メンバーシップを保存"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Installment Amount"
+msgstr "割賦金額"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Installment Period"
+msgstr "割賦期間"
+
+#: Template/Membership/membership_list.ctp:57 Template/Membership/membership_list.ctp:105
+msgid "SignUp Fee"
+msgstr "サインアップ料金"
+
+#: Template/Membership/membership_list.ctp:91
+msgid "Activities"
+msgstr "アクティビティ"
+
+#: Template/Membership/view_activity.ctp:41
+msgid "View Activity"
+msgstr "アクティビティを見る"
+
+#: Template/Membership/view_activity.ctp:56
+msgid "Select Activity"
+msgstr "アクティビティを選択"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+msgid "Edit Expense"
+msgstr "費用を編集"
+
+#: Template/MembershipPayment/add_expense.ctp:19
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "経費を追加"
+
+#: Template/MembershipPayment/add_expense.ctp:25
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "経費リスト"
+
+#: Template/MembershipPayment/add_expense.ctp:34
+#: Template/MembershipPayment/expense_list.ctp:39
+#: Template/MembershipPayment/expense_list.ctp:67
+msgid "Supplier Name"
+msgstr "サプライヤ名"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Paid"
+msgstr "有料"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Part Paid"
+msgstr "支払済"
+
+#: Template/MembershipPayment/add_expense.ctp:44
+#: Template/MembershipPayment/add_income.ctp:59
+msgid "Unpaid"
+msgstr "未払い"
+
+#: Template/MembershipPayment/add_expense.ctp:61
+#: Template/MembershipPayment/add_expense.ctp:83
+msgid "Expense Entry"
+msgstr "経費入力"
+
+#: Template/MembershipPayment/add_expense.ctp:63
+#: Template/MembershipPayment/add_expense.ctp:85
+msgid "Expense Amount"
+msgstr "費用額"
+
+#: Template/MembershipPayment/add_expense.ctp:66
+#: Template/MembershipPayment/add_expense.ctp:88
+msgid "Expense Entry Label"
+msgstr "経費記入ラベル"
+
+#: Template/MembershipPayment/add_expense.ctp:103
+msgid "Add Expense Entry"
+msgstr "経費エントリを追加する"
+
+#: Template/MembershipPayment/add_expense.ctp:108
+msgid "Create Expense Entry"
+msgstr "経費入力を作成する"
+
+#: Template/MembershipPayment/add_income.ctp:25
+msgid "Edit Income"
+msgstr "収入を編集"
+
+#: Template/MembershipPayment/add_income.ctp:27
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "収入を追加"
+
+#: Template/MembershipPayment/add_income.ctp:34
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "収入リスト"
+
+#: Template/MembershipPayment/add_income.ctp:41
+msgid "income"
+msgstr "所得"
+
+#: Template/MembershipPayment/add_income.ctp:49
+msgid "Income label"
+msgstr "所得ラベル"
+
+#: Template/MembershipPayment/add_income.ctp:60
+msgid "Select Status"
+msgstr "ステータスを選択"
+
+#: Template/MembershipPayment/add_income.ctp:76
+#: Template/MembershipPayment/add_income.ctp:98
+msgid "Income Entry"
+msgstr "所得エントリー"
+
+#: Template/MembershipPayment/add_income.ctp:78
+#: Template/MembershipPayment/add_income.ctp:100
+msgid "Income Amount"
+msgstr "所得金額"
+
+#: Template/MembershipPayment/add_income.ctp:81
+#: Template/MembershipPayment/add_income.ctp:103
+msgid "Income Entry Label"
+msgstr "所得記入ラベル"
+
+#: Template/MembershipPayment/add_income.ctp:118
+msgid "Add Income Entry"
+msgstr "収入エントリを追加する"
+
+#: Template/MembershipPayment/add_income.ctp:123
+msgid "Create Income Entry"
+msgstr "収入エントリを作成する"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "支払い請求書を生成する"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:53
+msgid "Membership Payment List"
+msgstr "会員支払いリスト"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:82
+msgid "Total Amount"
+msgstr "合計金額"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:102
+msgid "save_membership_payment"
+msgstr "save_membership_payment"
+
+#: Template/MembershipPayment/payment_list.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "タイトル"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "支払う"
+
+#: Template/Reports/attendance_report.ctp:46 Template/Reports/membership_report.ctp:17
+#: Template/Reports/membership_status_report.ctp:19
+#: Template/Reports/monthlyworkoutreport.ctp:29 Template/Reports/payment_report.ctp:17
+msgid "Attendance Report"
+msgstr "出席レポート"
+
+#: Template/Reports/attendance_report.ctp:47 Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/monthlyworkoutreport.ctp:17 Template/Reports/payment_report.ctp:14
+msgid "Reports"
+msgstr "レポート"
+
+#: Template/Reports/attendance_report.ctp:50 Template/Reports/membership_report.ctp:30
+#: Template/Reports/membership_status_report.ctp:17
+msgid "Membership Report"
+msgstr "会員レポート"
+
+#: Template/Reports/attendance_report.ctp:52 Template/Reports/membership_report.ctp:19
+#: Template/Reports/membership_status_report.ctp:13
+#: Template/Reports/monthlyworkoutreport.ctp:31 Template/Reports/payment_report.ctp:19
+msgid "Membership Status Report"
+msgstr "会員ステータスレポート"
+
+#: Template/Reports/attendance_report.ctp:54 Template/Reports/membership_report.ctp:21
+#: Template/Reports/membership_status_report.ctp:21
+#: Template/Reports/monthlyworkoutreport.ctp:33 Template/Reports/payment_report.ctp:21
+msgid "Payment Report"
+msgstr "支払いレポート"
+
+#: Template/Reports/attendance_report.ctp:55 Template/Reports/membership_report.ctp:22
+#: Template/Reports/membership_status_report.ctp:22
+#: Template/Reports/monthlyworkoutreport.ctp:16
+#: Template/Reports/monthlyworkoutreport.ctp:24
+#: Template/Reports/monthlyworkoutreport.ctp:34 Template/Reports/payment_report.ctp:22
+msgid "Members Monthly Workout Report"
+msgstr "会員月間ワークアウトレポート"
+
+#: Template/Reports/attendance_report.ctp:63
+msgid "Strat Date"
+msgstr "開始日"
+
+#: Template/Reports/attendance_report.ctp:119 Template/Reports/membership_report.ctp:61
+#: Template/Reports/membership_status_report.ctp:41 Template/Reports/payment_report.ctp:66
+msgid "There is not enough data to generate report."
+msgstr "レポートを生成するのに十分なデータがありません。"
+
+#: Template/Reports/membership_report.ctp:13 Template/Reports/payment_report.ctp:13
+msgid "Membership report"
+msgstr "会員報告"
+
+#: Template/Reports/membership_status_report.ctp:30
+msgid "Membership by status"
+msgstr "ステータス別会員"
+
+#: Template/Reports/monthlyworkoutreport.ctp:63
+msgid "GO"
+msgstr "行く"
+
+#: Template/Reports/monthlyworkoutreport.ctp:77
+msgid "Workout Date"
+msgstr "トレーニング日"
+
+#: Template/Reports/monthlyworkoutreport.ctp:78
+msgid "Workout Name"
+msgstr "ワークアウト名"
+
+#: Template/Reports/monthlyworkoutreport.ctp:125
+msgid "Download"
+msgstr "ダウンロード"
+
+#: Template/Reports/monthlyworkoutreport.ctp:132
+msgid "No Workout Found."
+msgstr "トレーニングが見つかりません。"
+
+#: Template/Reports/payment_report.ctp:30
+msgid "Fee Payment Report By Month"
+msgstr "月別料金支払いレポート"
+
+#: Template/StaffMembers/add_staff.ctp:50 Template/StaffMembers/staff_list.ctp:30
+msgid "Staff Member List"
+msgstr "スタッフメンバーリスト"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Assign Role"
+msgstr "役割を割り当てる"
+
+#: Template/StaffMembers/add_staff.ctp:101
+msgid "Select Role"
+msgstr "役割を選択"
+
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Specialization"
+msgstr "特化"
+
+#: Template/StaffMembers/add_staff.ctp:182
+msgid "Save Staff"
+msgstr "スタッフを保存"
+
+#: Template/StaffMembers/staff_list.ctp:48 Template/StaffMembers/staff_list.ctp:81
+msgid "Staff Member Name"
+msgstr "スタッフメンバー名"
+
+#: Template/StaffMembers/staff_list.ctp:49 Template/StaffMembers/staff_list.ctp:82
+msgid "Role"
+msgstr "役割"
+
+#: Template/StaffMembers/staff_list.ctp:50 Template/StaffMembers/staff_list.ctp:83
+msgid "Staff Member Email"
+msgstr "スタッフメンバーのEメール"
+
+#: Template/Users/login.ctp:23
+msgid "Logging you in"
+msgstr "あなたをログインさせる"
+
+#: Template/Users/login.ctp:31
+msgid "Login"
+msgstr "ログイン"
+
+#: custom
+msgid "(Max. height 50px.)"
+msgstr "（最大高さ50ピクセル）"
+
+#: custom
+msgid "Class Booking"
+msgstr "クラス予約"
+
+#: custom
+msgid "Class Booking List"
+msgstr "クラス予約リスト"
+
+#: custom
+msgid "Add Class Booking"
+msgstr "クラス予約を追加"
+
+#: custom
+msgid "Booking Date"
+msgstr "予約日"
+
+#: custom
+msgid "Booking Day"
+msgstr "予約日"
+
+#: custom
+msgid "Add Booking Class"
+msgstr "予約クラスを追加"
+
+#: custom
+msgid "Edit Booking Class"
+msgstr "予約クラスの編集"
+
+#: custom
+msgid "Save Booking"
+msgstr "予約を保存"
+
+#: custom
+msgid "Add Youtube Embaded Link"
+msgstr "YouTube埋め込みリンクを追加"
+
+#: custom
+msgid "Add More"
+msgstr "さらに追加"
+
+#: custom
+msgid "No Any Video"
+msgstr "ビデオなし"
+
+#: custom
+msgid "Export"
+msgstr "書き出す"
+
+#: custom
+msgid "Import"
+msgstr "インポート"
+
+#: custom
+msgid "Side Menu Color"
+msgstr "サイドメニューの色"
+
+#: custom
+msgid "Header Color"
+msgstr "ヘッダーの色"
+
+#: custom
+msgid "Theme Setting"
+msgstr "テーマ設定"
+
+#: custom
+msgid "Sample Download"
+msgstr "サンプルのダウンロード"
+
+#: custom
+msgid "Membership Report List"
+msgstr "会員レポート一覧"
+
+#: custom
+msgid "Payment Report List"
+msgstr "支払レポート一覧"
+
+#: custom
+msgid "Attendance Report List"
+msgstr "出席レポート一覧"
+
+#: custom
+msgid "Total Member"
+msgstr "総会員"
+
+#: custom
+msgid "Attendance Date"
+msgstr "出席日"
+
+#: custom
+msgid "Number Of Member"
+msgstr "会員数"
+
+#: custom
+msgid "Stripe Setting"
+msgstr "ストライプ設定"
+
+#: custom
+msgid "Secret Key"
+msgstr "秘密鍵"
+
+#: custom
+msgid "Publishable Key"
+msgstr "公開可能なキー"
+
+#: custom
+msgid "Class Booking Fees"
+msgstr "クラス予約料"
+
+#: custom
+msgid "Booking Type"
+msgstr "予約タイプ"
+
+#: custom
+msgid "Booking Detail"
+msgstr "予約の詳細"
+
+#: custom
+msgid "Zipcode"
+msgstr "郵便番号"
+
+#: custom
+msgid "Full Name"
+msgstr "フルネーム"
+
+#: custom
+msgid "Class Information"
+msgstr "クラス情報"
+
+#: custom
+msgid "Select Booking Type"
+msgstr "予約タイプを選択"
+
+#: custom
+msgid "Demo"
+msgstr "デモ"
+
+#: custom
+msgid "Paid Booking"
+msgstr "有料予約"
+
+#: custom
+msgid "Error! This class is already enjoy by you, now you can not book this class as demo."
+msgstr ""
+"エラー！このクラスはすでに楽しんでいるため、このクラスをデモとして予約することはできませ"
+"ん。"
+
+#: custom
+msgid "Error! Please Fill All Information."
+msgstr "エラー！すべての情報を入力してください。"

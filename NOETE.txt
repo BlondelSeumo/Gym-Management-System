@@ -1,0 +1,1 @@
+this package is new package with stripe payment and class booking module

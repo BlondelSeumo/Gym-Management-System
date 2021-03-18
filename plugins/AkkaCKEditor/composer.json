@@ -1,0 +1,22 @@
+{
+    "name": "your-name-here/AkkaCKEditor",
+    "description": "AkkaCKEditor plugin for CakePHP",
+    "type": "cakephp-plugin",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AkkaCKEditor\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AkkaCKEditor\\Test\\": "tests",
+            "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
+        }
+    }
+}
